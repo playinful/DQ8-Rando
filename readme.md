@@ -1,7 +1,7 @@
 <h1>Notes</h1>
 This is a randomizer for the English version of Dragon Quest VIII: Journey of the Cursed King for the Nintendo 3DS. This program will create a patch for the game that randomizes the locations of monsters, treasures, etc.
 <h1>Using the application</h1>
-After opening the application, input your specifications and click "Randomize!". This will create several files in the "output" folder. Make sure to move or rename the folder before randomizing again, or it will be overwritten.
+Run "DQ8Rando.exe". After opening the application, input your specifications and click "Randomize!". This will create several files in the "output" folder. Make sure to move or rename the folder before randomizing again, or it will be overwritten.
 <h1>Applying the generated patches</h1>
 Once the "output" folder has been created, within it you should see two folders: "romfs" and "spoiler". The "romfs" file contains all the patch data for your game.
 <h2>If using a 3DS with Luma:</h2>
