@@ -1,0 +1,2167 @@
+[
+  {
+    "ID": "0000",
+    "Name": "nothing",
+    "Spawn": 0
+  },
+  {
+    "ID": "0001",
+    "Name": "cypress stick",
+    "Spawn": 1
+  },
+  {
+    "ID": "0002",
+    "Name": "soldier's sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0003",
+    "Name": "copper sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0004",
+    "Name": "steel broadsword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0005",
+    "Name": "platinum sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0006",
+    "Name": "dream blade",
+    "Spawn": 1
+  },
+  {
+    "ID": "0007",
+    "Name": "falcon blade",
+    "Spawn": 1
+  },
+  {
+    "ID": "0008",
+    "Name": "über falcon blade",
+    "Spawn": 1
+  },
+  {
+    "ID": "0009",
+    "Name": "zombiesbane",
+    "Spawn": 1
+  },
+  {
+    "ID": "000a",
+    "Name": "zombie slayer",
+    "Spawn": 1
+  },
+  {
+    "ID": "000b",
+    "Name": "dragonsbane",
+    "Spawn": 1
+  },
+  {
+    "ID": "000c",
+    "Name": "dragon slayer",
+    "Spawn": 1
+  },
+  {
+    "ID": "000d",
+    "Name": "blizzard blade",
+    "Spawn": 1
+  },
+  {
+    "ID": "000e",
+    "Name": "miracle sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "000f",
+    "Name": "über miracle sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0010",
+    "Name": "bastard sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0011",
+    "Name": "liquid metal sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0012",
+    "Name": "double-edged sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0013",
+    "Name": "über double-edge",
+    "Spawn": 1
+  },
+  {
+    "ID": "0014",
+    "Name": "rusty old sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0015",
+    "Name": "Dragovian sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0016",
+    "Name": "Dragovian King sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0017",
+    "Name": "rapier",
+    "Spawn": 1
+  },
+  {
+    "ID": "0018",
+    "Name": "templar's sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0019",
+    "Name": "hell sabre",
+    "Spawn": 1
+  },
+  {
+    "ID": "001a",
+    "Name": "holy silver rapier",
+    "Spawn": 1
+  },
+  {
+    "ID": "001b",
+    "Name": "fallen angel rapier",
+    "Spawn": 1
+  },
+  {
+    "ID": "001c",
+    "Name": "shamshir of light",
+    "Spawn": 1
+  },
+  {
+    "ID": "001d",
+    "Name": "Mercury's rapier",
+    "Spawn": 1
+  },
+  {
+    "ID": "001e",
+    "Name": "bronze knife",
+    "Spawn": 1
+  },
+  {
+    "ID": "001f",
+    "Name": "dagger",
+    "Spawn": 1
+  },
+  {
+    "ID": "0020",
+    "Name": "poison moth knife",
+    "Spawn": 1
+  },
+  {
+    "ID": "0021",
+    "Name": "assassin's dagger",
+    "Spawn": 1
+  },
+  {
+    "ID": "0022",
+    "Name": "icicle dirk",
+    "Spawn": 1
+  },
+  {
+    "ID": "0023",
+    "Name": "poison needle",
+    "Spawn": 1
+  },
+  {
+    "ID": "0024",
+    "Name": "falcon knife",
+    "Spawn": 1
+  },
+  {
+    "ID": "0025",
+    "Name": "imp knife",
+    "Spawn": 1
+  },
+  {
+    "ID": "0026",
+    "Name": "sword breaker",
+    "Spawn": 1
+  },
+  {
+    "ID": "0027",
+    "Name": "eagle dagger",
+    "Spawn": 1
+  },
+  {
+    "ID": "0028",
+    "Name": "iron lance",
+    "Spawn": 1
+  },
+  {
+    "ID": "0029",
+    "Name": "holy lance",
+    "Spawn": 1
+  },
+  {
+    "ID": "002a",
+    "Name": "long spear",
+    "Spawn": 1
+  },
+  {
+    "ID": "002b",
+    "Name": "partisan",
+    "Spawn": 1
+  },
+  {
+    "ID": "002c",
+    "Name": "battle fork",
+    "Spawn": 1
+  },
+  {
+    "ID": "002d",
+    "Name": "sandstorm spear",
+    "Spawn": 1
+  },
+  {
+    "ID": "002e",
+    "Name": "demon spear",
+    "Spawn": 1
+  },
+  {
+    "ID": "002f",
+    "Name": "hero spear",
+    "Spawn": 1
+  },
+  {
+    "ID": "0030",
+    "Name": "metal king spear",
+    "Spawn": 1
+  },
+  {
+    "ID": "0031",
+    "Name": "boomerang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0032",
+    "Name": "reinforced boomerang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0033",
+    "Name": "edged boomerang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0034",
+    "Name": "metal wing boomerang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0035",
+    "Name": "razor wing boomerang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0036",
+    "Name": "swallowtail",
+    "Spawn": 1
+  },
+  {
+    "ID": "0037",
+    "Name": "flametang boomerang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0038",
+    "Name": "stone axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0039",
+    "Name": "iron axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "003a",
+    "Name": "king axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "003b",
+    "Name": "moon axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "003c",
+    "Name": "bandit axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "003d",
+    "Name": "golden axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "003e",
+    "Name": "battle-axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "003f",
+    "Name": "conqueror's axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0040",
+    "Name": "oaken club",
+    "Spawn": 1
+  },
+  {
+    "ID": "0041",
+    "Name": "giant mallet",
+    "Spawn": 1
+  },
+  {
+    "ID": "0042",
+    "Name": "sledgehammer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0043",
+    "Name": "war hammer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0044",
+    "Name": "über war hammer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0045",
+    "Name": "megaton hammer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0046",
+    "Name": "flail of fury",
+    "Spawn": 1
+  },
+  {
+    "ID": "0047",
+    "Name": "flail of destruction",
+    "Spawn": 1
+  },
+  {
+    "ID": "0048",
+    "Name": "thorn whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "0049",
+    "Name": "leather whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "004a",
+    "Name": "snakeskin whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "004b",
+    "Name": "chain whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "004c",
+    "Name": "dragontail whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "004d",
+    "Name": "spiked steel whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "004e",
+    "Name": "demon whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "004f",
+    "Name": "scourge whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "0050",
+    "Name": "Gringham whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "0051",
+    "Name": "farmer's scythe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0052",
+    "Name": "heavy hatchet",
+    "Spawn": 1
+  },
+  {
+    "ID": "0053",
+    "Name": "bardiche of binding",
+    "Spawn": 1
+  },
+  {
+    "ID": "0054",
+    "Name": "hell scythe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0055",
+    "Name": "steel scythe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0056",
+    "Name": "wizard's staff",
+    "Spawn": 1
+  },
+  {
+    "ID": "0057",
+    "Name": "lightning staff",
+    "Spawn": 1
+  },
+  {
+    "ID": "0058",
+    "Name": "staff of divine wrath",
+    "Spawn": 1
+  },
+  {
+    "ID": "0059",
+    "Name": "magma staff",
+    "Spawn": 1
+  },
+  {
+    "ID": "005a",
+    "Name": "staff of antimagic",
+    "Spawn": 1
+  },
+  {
+    "ID": "005b",
+    "Name": "rune staff",
+    "Spawn": 1
+  },
+  {
+    "ID": "005c",
+    "Name": "staff of resurrection",
+    "Spawn": 1
+  },
+  {
+    "ID": "005d",
+    "Name": "magical mace",
+    "Spawn": 1
+  },
+  {
+    "ID": "005e",
+    "Name": "hunter's bow",
+    "Spawn": 1
+  },
+  {
+    "ID": "005f",
+    "Name": "great bow",
+    "Spawn": 1
+  },
+  {
+    "ID": "0060",
+    "Name": "short bow",
+    "Spawn": 1
+  },
+  {
+    "ID": "0061",
+    "Name": "Odin's bow",
+    "Spawn": 1
+  },
+  {
+    "ID": "0062",
+    "Name": "Cheiron's bow",
+    "Spawn": 1
+  },
+  {
+    "ID": "0063",
+    "Name": "Eros' bow",
+    "Spawn": 1
+  },
+  {
+    "ID": "0064",
+    "Name": "plain clothes",
+    "Spawn": 1
+  },
+  {
+    "ID": "0065",
+    "Name": "bandit's grass skirt",
+    "Spawn": 1
+  },
+  {
+    "ID": "0066",
+    "Name": "wayfarer's clothes",
+    "Spawn": 1
+  },
+  {
+    "ID": "0067",
+    "Name": "boxer shorts",
+    "Spawn": 1
+  },
+  {
+    "ID": "0068",
+    "Name": "dancer's costume",
+    "Spawn": 1
+  },
+  {
+    "ID": "0069",
+    "Name": "leather kilt",
+    "Spawn": 1
+  },
+  {
+    "ID": "006a",
+    "Name": "leather dress",
+    "Spawn": 1
+  },
+  {
+    "ID": "006b",
+    "Name": "templar's uniform",
+    "Spawn": 1
+  },
+  {
+    "ID": "006c",
+    "Name": "fur poncho",
+    "Spawn": 1
+  },
+  {
+    "ID": "006d",
+    "Name": "cloak of evasion",
+    "Spawn": 1
+  },
+  {
+    "ID": "006e",
+    "Name": "bunny suit",
+    "Spawn": 1
+  },
+  {
+    "ID": "006f",
+    "Name": "silk bustier",
+    "Spawn": 1
+  },
+  {
+    "ID": "0070",
+    "Name": "magic bikini",
+    "Spawn": 1
+  },
+  {
+    "ID": "0071",
+    "Name": "spangled dress",
+    "Spawn": 1
+  },
+  {
+    "ID": "0072",
+    "Name": "posh waistcoat",
+    "Spawn": 1
+  },
+  {
+    "ID": "0073",
+    "Name": "magical skirt",
+    "Spawn": 1
+  },
+  {
+    "ID": "0074",
+    "Name": "shimmering dress",
+    "Spawn": 1
+  },
+  {
+    "ID": "0075",
+    "Name": "dark robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0076",
+    "Name": "dangerous bustier",
+    "Spawn": 1
+  },
+  {
+    "ID": "0077",
+    "Name": "divine bustier",
+    "Spawn": 1
+  },
+  {
+    "ID": "0078",
+    "Name": "Jessica's outfit",
+    "Spawn": 1
+  },
+  {
+    "ID": "0079",
+    "Name": "leather armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "007a",
+    "Name": "scale armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "007b",
+    "Name": "chain mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "007c",
+    "Name": "bronze armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "007d",
+    "Name": "iron cuirass",
+    "Spawn": 1
+  },
+  {
+    "ID": "007e",
+    "Name": "iron armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "007f",
+    "Name": "tortoise shell",
+    "Spawn": 1
+  },
+  {
+    "ID": "0080",
+    "Name": "full plate armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0081",
+    "Name": "silver cuirass",
+    "Spawn": 1
+  },
+  {
+    "ID": "0082",
+    "Name": "dancer's mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "0083",
+    "Name": "silver mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "0084",
+    "Name": "dragon mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "0085",
+    "Name": "magic armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0086",
+    "Name": "zombie mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "0087",
+    "Name": "heavy armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0088",
+    "Name": "spiked armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0089",
+    "Name": "platinum mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "008a",
+    "Name": "bandit mail",
+    "Spawn": 1
+  },
+  {
+    "ID": "008b",
+    "Name": "sacred armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "008c",
+    "Name": "gigant armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "008d",
+    "Name": "mirror armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "008e",
+    "Name": "liquid metal armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "008f",
+    "Name": "Dragovian armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0090",
+    "Name": "metal king armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0091",
+    "Name": "silk robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0092",
+    "Name": "leather cape",
+    "Spawn": 1
+  },
+  {
+    "ID": "0093",
+    "Name": "robe of serenity",
+    "Spawn": 1
+  },
+  {
+    "ID": "0094",
+    "Name": "magic vestment",
+    "Spawn": 1
+  },
+  {
+    "ID": "0095",
+    "Name": "flowing dress",
+    "Spawn": 1
+  },
+  {
+    "ID": "0096",
+    "Name": "sage's robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0097",
+    "Name": "angel's robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0098",
+    "Name": "velvet cape",
+    "Spawn": 1
+  },
+  {
+    "ID": "0099",
+    "Name": "crimson robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "009a",
+    "Name": "princess's robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "009b",
+    "Name": "dragon robe",
+    "Spawn": 1
+  },
+  {
+    "ID": "009c",
+    "Name": "pot lid",
+    "Spawn": 1
+  },
+  {
+    "ID": "009d",
+    "Name": "leather shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "009e",
+    "Name": "scale shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "009f",
+    "Name": "silver platter",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a0",
+    "Name": "kitty shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a1",
+    "Name": "bronze shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a2",
+    "Name": "templar's shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a3",
+    "Name": "iron shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a4",
+    "Name": "light shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a5",
+    "Name": "white shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a6",
+    "Name": "steel shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a7",
+    "Name": "magic shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a8",
+    "Name": "dragon shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00a9",
+    "Name": "power shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00aa",
+    "Name": "saintess shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ab",
+    "Name": "bone shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ac",
+    "Name": "mirror shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ad",
+    "Name": "ogre shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ae",
+    "Name": "silver shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00af",
+    "Name": "big boss shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b0",
+    "Name": "ruinous shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b1",
+    "Name": "Thanatos' shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b2",
+    "Name": "goddess shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b3",
+    "Name": "Dragovian shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b4",
+    "Name": "metal king shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b5",
+    "Name": "bandana",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b6",
+    "Name": "leather hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b7",
+    "Name": "hairband",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b8",
+    "Name": "pointy hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00b9",
+    "Name": "feathered cap",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ba",
+    "Name": "turban",
+    "Spawn": 1
+  },
+  {
+    "ID": "00bb",
+    "Name": "silver tiara",
+    "Spawn": 1
+  },
+  {
+    "ID": "00bc",
+    "Name": "bunny ears",
+    "Spawn": 1
+  },
+  {
+    "ID": "00bd",
+    "Name": "stone hardhat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00be",
+    "Name": "iron helmet",
+    "Spawn": 1
+  },
+  {
+    "ID": "00bf",
+    "Name": "fur hood",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c0",
+    "Name": "bronze helmet",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c1",
+    "Name": "coral hairpin",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c2",
+    "Name": "pirate's hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c3",
+    "Name": "iron mask",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c4",
+    "Name": "Hermes' hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c5",
+    "Name": "platinum headgear",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c6",
+    "Name": "magical hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c7",
+    "Name": "happy hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c8",
+    "Name": "Hades' helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00c9",
+    "Name": "slime crown",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ca",
+    "Name": "mythril helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00cb",
+    "Name": "Mercury's bandana",
+    "Spawn": 1
+  },
+  {
+    "ID": "00cc",
+    "Name": "scholar's cap",
+    "Spawn": 1
+  },
+  {
+    "ID": "00cd",
+    "Name": "thinking cap",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ce",
+    "Name": "iron headgear",
+    "Spawn": 1
+  },
+  {
+    "ID": "00cf",
+    "Name": "raging bull helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d0",
+    "Name": "golden tiara",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d1",
+    "Name": "great helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d2",
+    "Name": "phantom mask",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d3",
+    "Name": "skull helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d4",
+    "Name": "Dragovian helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d5",
+    "Name": "sun crown",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d6",
+    "Name": "metal king helm",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d7",
+    "Name": "agility ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d8",
+    "Name": "meteorite bracer",
+    "Spawn": 1
+  },
+  {
+    "ID": "00d9",
+    "Name": "strength ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00da",
+    "Name": "gold ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00db",
+    "Name": "prayer ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00dc",
+    "Name": "recovery ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00dd",
+    "Name": "goddess ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00de",
+    "Name": "gospel ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00df",
+    "Name": "life bracer",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e0",
+    "Name": "mighty armlet",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e1",
+    "Name": "gold bracer",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e2",
+    "Name": "ruby of protection",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e3",
+    "Name": "titan belt",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e4",
+    "Name": "scholar's specs",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e5",
+    "Name": "tough guy tattoo",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e6",
+    "Name": "slime earrings",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e7",
+    "Name": "devil's tail",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e8",
+    "Name": "fishnet stockings",
+    "Spawn": 1
+  },
+  {
+    "ID": "00e9",
+    "Name": "garter",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ea",
+    "Name": "lady's ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00eb",
+    "Name": "gold rosary",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ec",
+    "Name": "sorcerer's ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ed",
+    "Name": "skull ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ee",
+    "Name": "holy talisman",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ef",
+    "Name": "ring of awakening",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f0",
+    "Name": "full moon ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f1",
+    "Name": "ring of clarity",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f2",
+    "Name": "ring of truth",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f3",
+    "Name": "ring of immunity",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f4",
+    "Name": "catholicon ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f5",
+    "Name": "dragon scale",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f6",
+    "Name": "elevating shoes",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f7",
+    "Name": "medicinal herb",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f8",
+    "Name": "antidotal herb",
+    "Spawn": 1
+  },
+  {
+    "ID": "00f9",
+    "Name": "moonwort bulb",
+    "Spawn": 1
+  },
+  {
+    "ID": "00fa",
+    "Name": "strong medicine",
+    "Spawn": 1
+  },
+  {
+    "ID": "00fb",
+    "Name": "special medicine",
+    "Spawn": 1
+  },
+  {
+    "ID": "00fc",
+    "Name": "lesser panacea",
+    "Spawn": 1
+  },
+  {
+    "ID": "00fd",
+    "Name": "greater panacea",
+    "Spawn": 1
+  },
+  {
+    "ID": "00fe",
+    "Name": "rose-root",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ff",
+    "Name": "rose-wort",
+    "Spawn": 1
+  },
+  {
+    "ID": "0100",
+    "Name": "strong antidote",
+    "Spawn": 1
+  },
+  {
+    "ID": "0101",
+    "Name": "special antidote",
+    "Spawn": 1
+  },
+  {
+    "ID": "0102",
+    "Name": "moon's mercy",
+    "Spawn": 1
+  },
+  {
+    "ID": "0103",
+    "Name": "mystifying mixture",
+    "Spawn": 1
+  },
+  {
+    "ID": "0104",
+    "Name": "Yggdrasil leaf",
+    "Spawn": 1
+  },
+  {
+    "ID": "0105",
+    "Name": "Yggdrasil dew",
+    "Spawn": 1
+  },
+  {
+    "ID": "0106",
+    "Name": "Amor seco essence",
+    "Spawn": 1
+  },
+  {
+    "ID": "0107",
+    "Name": "chimaera wing",
+    "Spawn": 1
+  },
+  {
+    "ID": "0108",
+    "Name": "holy water",
+    "Spawn": 1
+  },
+  {
+    "ID": "0109",
+    "Name": "magic water",
+    "Spawn": 1
+  },
+  {
+    "ID": "010a",
+    "Name": "elfin elixir",
+    "Spawn": 1
+  },
+  {
+    "ID": "010b",
+    "Name": "rockbomb shard",
+    "Spawn": 1
+  },
+  {
+    "ID": "010c",
+    "Name": "sage's stone",
+    "Spawn": 1
+  },
+  {
+    "ID": "010d",
+    "Name": "seed of strength",
+    "Spawn": 1
+  },
+  {
+    "ID": "010e",
+    "Name": "seed of agility",
+    "Spawn": 1
+  },
+  {
+    "ID": "010f",
+    "Name": "seed of defence",
+    "Spawn": 1
+  },
+  {
+    "ID": "0110",
+    "Name": "seed of wisdom",
+    "Spawn": 1
+  },
+  {
+    "ID": "0111",
+    "Name": "seed of skill",
+    "Spawn": 1
+  },
+  {
+    "ID": "0112",
+    "Name": "seed of life",
+    "Spawn": 1
+  },
+  {
+    "ID": "0113",
+    "Name": "seed of magic",
+    "Spawn": 1
+  },
+  {
+    "ID": "0114",
+    "Name": "mini medal",
+    "Spawn": 1
+  },
+  {
+    "ID": "0115",
+    "Name": "thief's key",
+    "Spawn": 1
+  },
+  {
+    "ID": "0116",
+    "Name": "magic key",
+    "Spawn": 1
+  },
+  {
+    "ID": "0117",
+    "Name": "ultimate key",
+    "Spawn": 2
+  },
+  {
+    "ID": "0118",
+    "Name": "orichalcum",
+    "Spawn": 1
+  },
+  {
+    "ID": "0119",
+    "Name": "bunny tail",
+    "Spawn": 1
+  },
+  {
+    "ID": "011a",
+    "Name": "timbrel of tension",
+    "Spawn": 1
+  },
+  {
+    "ID": "011b",
+    "Name": "Baumren's bell",
+    "Spawn": 1
+  },
+  {
+    "ID": "011c",
+    "Name": "gold nugget",
+    "Spawn": 1
+  },
+  {
+    "ID": "011d",
+    "Name": "iron nail",
+    "Spawn": 1
+  },
+  {
+    "ID": "011e",
+    "Name": "cowpat",
+    "Spawn": 1
+  },
+  {
+    "ID": "011f",
+    "Name": "dragon dung",
+    "Spawn": 1
+  },
+  {
+    "ID": "0120",
+    "Name": "rock salt",
+    "Spawn": 1
+  },
+  {
+    "ID": "0121",
+    "Name": "saint's ashes",
+    "Spawn": 1
+  },
+  {
+    "ID": "0122",
+    "Name": "wing of bat",
+    "Spawn": 1
+  },
+  {
+    "ID": "0123",
+    "Name": "magic beast hide",
+    "Spawn": 1
+  },
+  {
+    "ID": "0124",
+    "Name": "fresh milk",
+    "Spawn": 1
+  },
+  {
+    "ID": "0125",
+    "Name": "rennet powder",
+    "Spawn": 1
+  },
+  {
+    "ID": "0126",
+    "Name": "red mould",
+    "Spawn": 1
+  },
+  {
+    "ID": "0127",
+    "Name": "waterweed mould",
+    "Spawn": 1
+  },
+  {
+    "ID": "0128",
+    "Name": "premium mould",
+    "Spawn": 1
+  },
+  {
+    "ID": "0129",
+    "Name": "plain cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "012a",
+    "Name": "spicy cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "012b",
+    "Name": "super spicy cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "012c",
+    "Name": "scorching cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "012d",
+    "Name": "cool cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "012e",
+    "Name": "chilly cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "012f",
+    "Name": "cold cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0130",
+    "Name": "c-c-cold cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0131",
+    "Name": "double bubble",
+    "Spawn": 1
+  },
+  {
+    "ID": "0132",
+    "Name": "eau de monster",
+    "Spawn": 1
+  },
+  {
+    "ID": "0133",
+    "Name": "super seed of skill",
+    "Spawn": 1
+  },
+  {
+    "ID": "0134",
+    "Name": "mild cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0135",
+    "Name": "cured cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0136",
+    "Name": "angel cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0137",
+    "Name": "hard cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0138",
+    "Name": "soft cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "0139",
+    "Name": "chunky cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "013a",
+    "Name": "highly-strung cheese",
+    "Spawn": 1
+  },
+  {
+    "ID": "013b",
+    "Name": "crystal ball",
+    "Spawn": 2
+  },
+  {
+    "ID": "013c",
+    "Name": "tool bag",
+    "Spawn": 2
+  },
+  {
+    "ID": "013d",
+    "Name": "Jessica's letter",
+    "Spawn": 2
+  },
+  {
+    "ID": "013e",
+    "Name": "templar's ring",
+    "Spawn": 2
+  },
+  {
+    "ID": "013f",
+    "Name": "world map",
+    "Spawn": 2
+  },
+  {
+    "ID": "0140",
+    "Name": "Venus' tear",
+    "Spawn": 2
+  },
+  {
+    "ID": "0141",
+    "Name": "Moonshadow harp",
+    "Spawn": 2
+  },
+  {
+    "ID": "0142",
+    "Name": "sand of serenity",
+    "Spawn": 2
+  },
+  {
+    "ID": "0143",
+    "Name": "lizard humour",
+    "Spawn": 2
+  },
+  {
+    "ID": "0144",
+    "Name": "Argon heart",
+    "Spawn": 2
+  },
+  {
+    "ID": "0145",
+    "Name": "great big Argon heart",
+    "Spawn": 2
+  },
+  {
+    "ID": "0146",
+    "Name": "magic mirror",
+    "Spawn": 2
+  },
+  {
+    "ID": "0147",
+    "Name": "sun mirror",
+    "Spawn": 2
+  },
+  {
+    "ID": "0148",
+    "Name": "stone sword",
+    "Spawn": 2
+  },
+  {
+    "ID": "0149",
+    "Name": "Kran Spinels",
+    "Spawn": 2
+  },
+  {
+    "ID": "014a",
+    "Name": "the Big Book of Barriers'",
+    "Spawn": 2
+  },
+  {
+    "ID": "014b",
+    "Name": "Marta's bag",
+    "Spawn": 2
+  },
+  {
+    "ID": "014c",
+    "Name": "illuminated sea chart",
+    "Spawn": 2
+  },
+  {
+    "ID": "014d",
+    "Name": "nook grass",
+    "Spawn": 2
+  },
+  {
+    "ID": "014e",
+    "Name": "Godbird's soulstone",
+    "Spawn": 2
+  },
+  {
+    "ID": "014f",
+    "Name": "darktree leaf",
+    "Spawn": 2
+  },
+  {
+    "ID": "0150",
+    "Name": "templar captain's ring",
+    "Spawn": 2
+  },
+  {
+    "ID": "0151",
+    "Name": "Argon ring",
+    "Spawn": 2
+  },
+  {
+    "ID": "0152",
+    "Name": "echo flute",
+    "Spawn": 2
+  },
+  {
+    "ID": "0153",
+    "Name": "Eros' bow recipe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0154",
+    "Name": "imp knife recipe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0155",
+    "Name": "dragon slayer recipe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0156",
+    "Name": "thief's key recipe",
+    "Spawn": 1
+  },
+  {
+    "ID": "0157",
+    "Name": "Morrie's memo #1",
+    "Spawn": 2
+  },
+  {
+    "ID": "0158",
+    "Name": "Morrie's memo #2",
+    "Spawn": 2
+  },
+  {
+    "ID": "0159",
+    "Name": "Morrie's memo #3",
+    "Spawn": 2
+  },
+  {
+    "ID": "015a",
+    "Name": "monster arena key",
+    "Spawn": 2
+  },
+  {
+    "ID": "015b",
+    "Name": "Godbird sceptre",
+    "Spawn": 2
+  },
+  {
+    "ID": "015c",
+    "Name": "gold orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "015d",
+    "Name": "silver orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "015e",
+    "Name": "red orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "015f",
+    "Name": "blue orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "0160",
+    "Name": "green orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "0161",
+    "Name": "yellow orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "0162",
+    "Name": "purple orb",
+    "Spawn": 2
+  },
+  {
+    "ID": "0163",
+    "Name": "copper monster coin",
+    "Spawn": 1
+  },
+  {
+    "ID": "0164",
+    "Name": "silver monster coin",
+    "Spawn": 1
+  },
+  {
+    "ID": "0165",
+    "Name": "gold monster coin",
+    "Spawn": 1
+  },
+  {
+    "ID": "0166",
+    "Name": "flame shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "0167",
+    "Name": "ice shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "0168",
+    "Name": "Erdrick's sword",
+    "Spawn": 1
+  },
+  {
+    "ID": "0169",
+    "Name": "demonsbane",
+    "Spawn": 1
+  },
+  {
+    "ID": "016a",
+    "Name": "dread dagger",
+    "Spawn": 1
+  },
+  {
+    "ID": "016b",
+    "Name": "golden gar",
+    "Spawn": 1
+  },
+  {
+    "ID": "016c",
+    "Name": "black buzzard",
+    "Spawn": 1
+  },
+  {
+    "ID": "016d",
+    "Name": "bad axe",
+    "Spawn": 1
+  },
+  {
+    "ID": "016e",
+    "Name": "candy cane",
+    "Spawn": 1
+  },
+  {
+    "ID": "016f",
+    "Name": "honking hammer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0170",
+    "Name": "wizardly whip",
+    "Spawn": 1
+  },
+  {
+    "ID": "0171",
+    "Name": "slime stick",
+    "Spawn": 1
+  },
+  {
+    "ID": "0172",
+    "Name": "night sniper",
+    "Spawn": 1
+  },
+  {
+    "ID": "0173",
+    "Name": "iron claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "0174",
+    "Name": "fire claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "0175",
+    "Name": "cobra claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "0176",
+    "Name": "king cobra claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "0177",
+    "Name": "beast claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "0178",
+    "Name": "beast talon",
+    "Spawn": 1
+  },
+  {
+    "ID": "0179",
+    "Name": "dragon claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "017a",
+    "Name": "Dragonlord claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "017b",
+    "Name": "orichalcum claw",
+    "Spawn": 1
+  },
+  {
+    "ID": "017c",
+    "Name": "gryphon talon",
+    "Spawn": 1
+  },
+  {
+    "ID": "017d",
+    "Name": "iron fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "017e",
+    "Name": "peacock fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "017f",
+    "Name": "rainbow fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "0180",
+    "Name": "stellar fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "0181",
+    "Name": "lunar fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "0182",
+    "Name": "solar fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "0183",
+    "Name": "dryspell fan",
+    "Spawn": 1
+  },
+  {
+    "ID": "0184",
+    "Name": "kaleidoscope",
+    "Spawn": 1
+  },
+  {
+    "ID": "0185",
+    "Name": "fan of peace",
+    "Spawn": 1
+  },
+  {
+    "ID": "0186",
+    "Name": "big bad boss shield",
+    "Spawn": 1
+  },
+  {
+    "ID": "0187",
+    "Name": "gothic mitre",
+    "Spawn": 1
+  },
+  {
+    "ID": "0188",
+    "Name": "dogsbody's hood",
+    "Spawn": 1
+  },
+  {
+    "ID": "0189",
+    "Name": "hexlet's hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "018a",
+    "Name": "kunoichi headband",
+    "Spawn": 1
+  },
+  {
+    "ID": "018b",
+    "Name": "mad cap",
+    "Spawn": 1
+  },
+  {
+    "ID": "018c",
+    "Name": "gothic vestment",
+    "Spawn": 1
+  },
+  {
+    "ID": "018d",
+    "Name": "dogsbody's vest",
+    "Spawn": 1
+  },
+  {
+    "ID": "018e",
+    "Name": "nitid tutu",
+    "Spawn": 1
+  },
+  {
+    "ID": "018f",
+    "Name": "hexlet's skirt",
+    "Spawn": 1
+  },
+  {
+    "ID": "0190",
+    "Name": "abiding blazer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0191",
+    "Name": "oriental warrior wear",
+    "Spawn": 1
+  },
+  {
+    "ID": "0192",
+    "Name": "butler's best",
+    "Spawn": 1
+  },
+  {
+    "ID": "0193",
+    "Name": "jester's outfit",
+    "Spawn": 1
+  },
+  {
+    "ID": "0194",
+    "Name": "cap'n's clothes",
+    "Spawn": 1
+  },
+  {
+    "ID": "0195",
+    "Name": "Mandarin dress",
+    "Spawn": 1
+  },
+  {
+    "ID": "0196",
+    "Name": "kunoichi costume",
+    "Spawn": 1
+  },
+  {
+    "ID": "0197",
+    "Name": "über sacred armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0198",
+    "Name": "white gold bell",
+    "Spawn": 1
+  },
+  {
+    "ID": "0199",
+    "Name": "darksteel bell",
+    "Spawn": 1
+  },
+  {
+    "ID": "019a",
+    "Name": "ethereal stone",
+    "Spawn": 1
+  },
+  {
+    "ID": "019b",
+    "Name": "Alistair's armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "019c",
+    "Name": "metal slime earrings",
+    "Spawn": 1
+  },
+  {
+    "ID": "019d",
+    "Name": "fire dragon charm",
+    "Spawn": 1
+  },
+  {
+    "ID": "019e",
+    "Name": "light dragon charm",
+    "Spawn": 1
+  },
+  {
+    "ID": "019f",
+    "Name": "lord's bracer",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a0",
+    "Name": "super double bubble",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a1",
+    "Name": "super seed of agility",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a2",
+    "Name": "super seed of defence",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a3",
+    "Name": "super seed of strength",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a4",
+    "Name": "super seed of wisdom",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a5",
+    "Name": "super seed of magic",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a6",
+    "Name": "super seed of life",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a7",
+    "Name": "metal slime platter",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a8",
+    "Name": "Healie hat",
+    "Spawn": 1
+  },
+  {
+    "ID": "01a9",
+    "Name": "Healie t-shirt",
+    "Spawn": 1
+  },
+  {
+    "ID": "01aa",
+    "Name": "hearty ring",
+    "Spawn": 1
+  },
+  {
+    "ID": "01ab",
+    "Name": "lucky pendant",
+    "Spawn": 1
+  },
+  {
+    "ID": "01ac",
+    "Name": "golden slippers",
+    "Spawn": 1
+  },
+  {
+    "ID": "01ad",
+    "Name": "Ye Olde Sword of Erdrick",
+    "Spawn": 1
+  },
+  {
+    "ID": "01ae",
+    "Name": "DUMMY 7",
+    "Spawn": 3
+  },
+  {
+    "ID": "01af",
+    "Name": "DUMMY 8",
+    "Spawn": 3
+  },
+  {
+    "ID": "01b0",
+    "Name": "DUMMY 9",
+    "Spawn": 3
+  }
+]

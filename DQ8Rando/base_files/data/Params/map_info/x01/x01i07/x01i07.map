@@ -1,0 +1,20 @@
+
+
+FUNC_POINT 2;
+	FUNC_DATA "event",1;
+		FUNC_MDS 1;
+		FUNC_NAME "gate01";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,1,0,1,"x01",1,0,1;
+		FUNC_POS 96.2,0,0, 0,-1.5708,0, 20,20,20;
+	FUNC_DATA_END;
+	FUNC_DATA "event",1;
+		FUNC_MDS 1;
+		FUNC_NAME "gate02";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,0,0,3,"x01i09",0,0,1;
+		FUNC_POS -30,340,75, 0,-1.5708,0, 20,20,20;
+	FUNC_DATA_END;
+FUNC_POINT_END;

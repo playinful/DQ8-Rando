@@ -1,0 +1,18 @@
+
+
+FUNC_POINT 2;
+	FUNC_DATA "event",1;	//d14i07→d14i03へのジャンプ機能点	door_no = 11
+		FUNC_NAME "event-1";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,11,0,1,"d14i03",1,0,1;
+		FUNC_POS 0.0, 0.0, -445.0, 0,0,0, 20,20,20;
+	FUNC_DATA_END;
+	FUNC_DATA "event",1;	//d14i07→d14i04へのジャンプ機能点	door_no = 0 (未使用)
+		FUNC_NAME "event-2";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,0,0,1,"d14i04",1,0,1;
+		FUNC_POS 0.0, 0.0, 445.0, 0,3.14,0, 20,20,20;
+	FUNC_DATA_END;
+FUNC_POINT_END;

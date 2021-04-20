@@ -1,0 +1,5 @@
+id:1,val1min:2,val1max:7,val2min:1,val2max:7
+id:2,val1min:1,val1max:5,val2min:2,val2max:5
+id:3,val1min:2,val1max:4,val2min:1,val2max:6
+id:4,val1min:3,val1max:7,val2min:2,val2max:6
+id:5,val1min:2,val1max:7,val2min:1,val2max:5

@@ -1,0 +1,2917 @@
+[
+  {
+    "ID": "0000",
+    "Name": "none",
+    "Spawn": 0
+  },
+  {
+    "ID": "0001",
+    "Name": "slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0002",
+    "Name": "candy cat",
+    "Spawn": 1
+  },
+  {
+    "ID": "0003",
+    "Name": "lips",
+    "Spawn": 1
+  },
+  {
+    "ID": "0004",
+    "Name": "dracky",
+    "Spawn": 1
+  },
+  {
+    "ID": "0005",
+    "Name": "satyr",
+    "Spawn": 1
+  },
+  {
+    "ID": "0006",
+    "Name": "capsichum",
+    "Spawn": 1
+  },
+  {
+    "ID": "0007",
+    "Name": "bunicorn",
+    "Spawn": 1
+  },
+  {
+    "ID": "0008",
+    "Name": "she-slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0009",
+    "Name": "mischievous mole",
+    "Spawn": 1
+  },
+  {
+    "ID": "000A",
+    "Name": "mecha-mynah",
+    "Spawn": 1
+  },
+  {
+    "ID": "000B",
+    "Name": "bubble slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "000C",
+    "Name": "dancing devil",
+    "Spawn": 1
+  },
+  {
+    "ID": "000D",
+    "Name": "bodkin archer",
+    "Spawn": 1
+  },
+  {
+    "ID": "000E",
+    "Name": "skipper",
+    "Spawn": 1
+  },
+  {
+    "ID": "000F",
+    "Name": "drackmage",
+    "Spawn": 1
+  },
+  {
+    "ID": "0010",
+    "Name": "beetleboy",
+    "Spawn": 1
+  },
+  {
+    "ID": "0011",
+    "Name": "imp",
+    "Spawn": 1
+  },
+  {
+    "ID": "0012",
+    "Name": "funghoul",
+    "Spawn": 1
+  },
+  {
+    "ID": "0013",
+    "Name": "fencing fox",
+    "Spawn": 1
+  },
+  {
+    "ID": "0014",
+    "Name": "healslime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0015",
+    "Name": "hammerhood",
+    "Spawn": 1
+  },
+  {
+    "ID": "0016",
+    "Name": "jailcat",
+    "Spawn": 1
+  },
+  {
+    "ID": "0017",
+    "Name": "frogface",
+    "Spawn": 1
+  },
+  {
+    "ID": "0018",
+    "Name": "lump mage",
+    "Spawn": 1
+  },
+  {
+    "ID": "0019",
+    "Name": "winky",
+    "Spawn": 1
+  },
+  {
+    "ID": "001A",
+    "Name": "spiked hare",
+    "Spawn": 1
+  },
+  {
+    "ID": "001B",
+    "Name": "chainine",
+    "Spawn": 1
+  },
+  {
+    "ID": "001C",
+    "Name": "giant moth",
+    "Spawn": 1
+  },
+  {
+    "ID": "001D",
+    "Name": "dingaling",
+    "Spawn": 1
+  },
+  {
+    "ID": "001E",
+    "Name": "jargon",
+    "Spawn": 1
+  },
+  {
+    "ID": "001F",
+    "Name": "drackyma",
+    "Spawn": 1
+  },
+  {
+    "ID": "0020",
+    "Name": "bullfinch",
+    "Spawn": 1
+  },
+  {
+    "ID": "0021",
+    "Name": "bag o' laughs",
+    "Spawn": 1
+  },
+  {
+    "ID": "0022",
+    "Name": "skeleton",
+    "Spawn": 1
+  },
+  {
+    "ID": "0023",
+    "Name": "metal slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0024",
+    "Name": "scorpion",
+    "Spawn": 1
+  },
+  {
+    "ID": "0025",
+    "Name": "morphean mushroom",
+    "Spawn": 1
+  },
+  {
+    "ID": "0026",
+    "Name": "brownie",
+    "Spawn": 1
+  },
+  {
+    "ID": "0027",
+    "Name": "flyguy",
+    "Spawn": 1
+  },
+  {
+    "ID": "0028",
+    "Name": "puppeteer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0029",
+    "Name": "bodkin bowyer",
+    "Spawn": 1
+  },
+  {
+    "ID": "002A",
+    "Name": "night sneaker",
+    "Spawn": 1
+  },
+  {
+    "ID": "002B",
+    "Name": "mummy boy",
+    "Spawn": 1
+  },
+  {
+    "ID": "002C",
+    "Name": "hell hornet",
+    "Spawn": 1
+  },
+  {
+    "ID": "002D",
+    "Name": "pan piper",
+    "Spawn": 1
+  },
+  {
+    "ID": "002E",
+    "Name": "slime knight",
+    "Spawn": 1
+  },
+  {
+    "ID": "002F",
+    "Name": "clockwork cuckoo",
+    "Spawn": 1
+  },
+  {
+    "ID": "0030",
+    "Name": "treeface",
+    "Spawn": 1
+  },
+  {
+    "ID": "0031",
+    "Name": "kisser",
+    "Spawn": 1
+  },
+  {
+    "ID": "0032",
+    "Name": "diemon",
+    "Spawn": 1
+  },
+  {
+    "ID": "0033",
+    "Name": "walking corpse",
+    "Spawn": 1
+  },
+  {
+    "ID": "0034",
+    "Name": "fat bat",
+    "Spawn": 1
+  },
+  {
+    "ID": "0035",
+    "Name": "night fox",
+    "Spawn": 1
+  },
+  {
+    "ID": "0036",
+    "Name": "paprikan",
+    "Spawn": 1
+  },
+  {
+    "ID": "0037",
+    "Name": "chimaera",
+    "Spawn": 1
+  },
+  {
+    "ID": "0038",
+    "Name": "hood",
+    "Spawn": 1
+  },
+  {
+    "ID": "0039",
+    "Name": "headhunter",
+    "Spawn": 1
+  },
+  {
+    "ID": "003A",
+    "Name": "minidemon",
+    "Spawn": 1
+  },
+  {
+    "ID": "003B",
+    "Name": "gorerilla",
+    "Spawn": 1
+  },
+  {
+    "ID": "003C",
+    "Name": "mud mannequin",
+    "Spawn": 1
+  },
+  {
+    "ID": "003D",
+    "Name": "cannibox",
+    "Spawn": 1
+  },
+  {
+    "ID": "003E",
+    "Name": "goodybag",
+    "Spawn": 1
+  },
+  {
+    "ID": "003F",
+    "Name": "witch",
+    "Spawn": 1
+  },
+  {
+    "ID": "0040",
+    "Name": "mummy",
+    "Spawn": 1
+  },
+  {
+    "ID": "0041",
+    "Name": "cureslime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0042",
+    "Name": "restless armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0043",
+    "Name": "phantom fencer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0044",
+    "Name": "hipster",
+    "Spawn": 1
+  },
+  {
+    "ID": "0045",
+    "Name": "rockbomb",
+    "Spawn": 1
+  },
+  {
+    "ID": "0046",
+    "Name": "dieablo",
+    "Spawn": 1
+  },
+  {
+    "ID": "0047",
+    "Name": "muddy hand",
+    "Spawn": 1
+  },
+  {
+    "ID": "0048",
+    "Name": "terror tabby",
+    "Spawn": 1
+  },
+  {
+    "ID": "0049",
+    "Name": "devilmoth",
+    "Spawn": 1
+  },
+  {
+    "ID": "004A",
+    "Name": "buffalo wing",
+    "Spawn": 1
+  },
+  {
+    "ID": "004B",
+    "Name": "mumboh-jumboe",
+    "Spawn": 1
+  },
+  {
+    "ID": "004C",
+    "Name": "hunter mech",
+    "Spawn": 1
+  },
+  {
+    "ID": "004D",
+    "Name": "pink pongo",
+    "Spawn": 1
+  },
+  {
+    "ID": "004E",
+    "Name": "liquid metal slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "004F",
+    "Name": "mad mole",
+    "Spawn": 1
+  },
+  {
+    "ID": "0050",
+    "Name": "wailin' weed",
+    "Spawn": 1
+  },
+  {
+    "ID": "0051",
+    "Name": "garuda",
+    "Spawn": 1
+  },
+  {
+    "ID": "0052",
+    "Name": "infernal armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "0053",
+    "Name": "dragonthorn",
+    "Spawn": 1
+  },
+  {
+    "ID": "0054",
+    "Name": "mars rover",
+    "Spawn": 1
+  },
+  {
+    "ID": "0055",
+    "Name": "peeper",
+    "Spawn": 1
+  },
+  {
+    "ID": "0056",
+    "Name": "cockateer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0057",
+    "Name": "great sabrecat",
+    "Spawn": 1
+  },
+  {
+    "ID": "0058",
+    "Name": "metal slime knight",
+    "Spawn": 1
+  },
+  {
+    "ID": "0059",
+    "Name": "puppet player",
+    "Spawn": 1
+  },
+  {
+    "ID": "005A",
+    "Name": "spitnik",
+    "Spawn": 1
+  },
+  {
+    "ID": "005B",
+    "Name": "bodkin fletcher",
+    "Spawn": 1
+  },
+  {
+    "ID": "005C",
+    "Name": "venom wasp",
+    "Spawn": 1
+  },
+  {
+    "ID": "005D",
+    "Name": "orc",
+    "Spawn": 1
+  },
+  {
+    "ID": "005E",
+    "Name": "night emperor",
+    "Spawn": 1
+  },
+  {
+    "ID": "005F",
+    "Name": "treevil",
+    "Spawn": 1
+  },
+  {
+    "ID": "0060",
+    "Name": "battle beetle",
+    "Spawn": 1
+  },
+  {
+    "ID": "0061",
+    "Name": "lump shaman",
+    "Spawn": 1
+  },
+  {
+    "ID": "0062",
+    "Name": "skeleton soldier",
+    "Spawn": 1
+  },
+  {
+    "ID": "0063",
+    "Name": "hawk man",
+    "Spawn": 1
+  },
+  {
+    "ID": "0064",
+    "Name": "tap devil",
+    "Spawn": 1
+  },
+  {
+    "ID": "0065",
+    "Name": "mushroom mage",
+    "Spawn": 1
+  },
+  {
+    "ID": "0066",
+    "Name": "redtail hipster",
+    "Spawn": 1
+  },
+  {
+    "ID": "0067",
+    "Name": "jumping jackal",
+    "Spawn": 1
+  },
+  {
+    "ID": "0068",
+    "Name": "gold golem",
+    "Spawn": 1
+  },
+  {
+    "ID": "0069",
+    "Name": "king slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "006A",
+    "Name": "iron scorpion",
+    "Spawn": 1
+  },
+  {
+    "ID": "006B",
+    "Name": "toxic zombie",
+    "Spawn": 1
+  },
+  {
+    "ID": "006C",
+    "Name": "lesser demon",
+    "Spawn": 1
+  },
+  {
+    "ID": "006D",
+    "Name": "Volpone",
+    "Spawn": 1
+  },
+  {
+    "ID": "006E",
+    "Name": "bomboulder",
+    "Spawn": 1
+  },
+  {
+    "ID": "006F",
+    "Name": "skullrider",
+    "Spawn": 1
+  },
+  {
+    "ID": "0070",
+    "Name": "hades condor",
+    "Spawn": 1
+  },
+  {
+    "ID": "0071",
+    "Name": "frogman",
+    "Spawn": 1
+  },
+  {
+    "ID": "0072",
+    "Name": "mimic",
+    "Spawn": 1
+  },
+  {
+    "ID": "0073",
+    "Name": "magic dumbbell",
+    "Spawn": 1
+  },
+  {
+    "ID": "0074",
+    "Name": "gargoyle",
+    "Spawn": 1
+  },
+  {
+    "ID": "0075",
+    "Name": "magic marionette",
+    "Spawn": 1
+  },
+  {
+    "ID": "0076",
+    "Name": "notso macho",
+    "Spawn": 1
+  },
+  {
+    "ID": "0077",
+    "Name": "lump wizard",
+    "Spawn": 1
+  },
+  {
+    "ID": "0078",
+    "Name": "berserker",
+    "Spawn": 1
+  },
+  {
+    "ID": "0079",
+    "Name": "bulldozer",
+    "Spawn": 1
+  },
+  {
+    "ID": "007A",
+    "Name": "ghoul",
+    "Spawn": 1
+  },
+  {
+    "ID": "007B",
+    "Name": "shade",
+    "Spawn": 1
+  },
+  {
+    "ID": "007C",
+    "Name": "lethal armour",
+    "Spawn": 1
+  },
+  {
+    "ID": "007D",
+    "Name": "king cureslime",
+    "Spawn": 1
+  },
+  {
+    "ID": "007E",
+    "Name": "hoodlum",
+    "Spawn": 1
+  },
+  {
+    "ID": "007F",
+    "Name": "hocus chimaera",
+    "Spawn": 1
+  },
+  {
+    "ID": "0080",
+    "Name": "demonrider",
+    "Spawn": 1
+  },
+  {
+    "ID": "0081",
+    "Name": "killer moth",
+    "Spawn": 1
+  },
+  {
+    "ID": "0082",
+    "Name": "jabberwockee",
+    "Spawn": 1
+  },
+  {
+    "ID": "0083",
+    "Name": "silenus",
+    "Spawn": 1
+  },
+  {
+    "ID": "0084",
+    "Name": "robo-robin",
+    "Spawn": 1
+  },
+  {
+    "ID": "0085",
+    "Name": "puppet master",
+    "Spawn": 1
+  },
+  {
+    "ID": "0086",
+    "Name": "death scorpion",
+    "Spawn": 1
+  },
+  {
+    "ID": "0087",
+    "Name": "jackal ripper",
+    "Spawn": 1
+  },
+  {
+    "ID": "0088",
+    "Name": "iron rhino",
+    "Spawn": 1
+  },
+  {
+    "ID": "0089",
+    "Name": "dancing flame",
+    "Spawn": 1
+  },
+  {
+    "ID": "008A",
+    "Name": "blood mummy",
+    "Spawn": 1
+  },
+  {
+    "ID": "008B",
+    "Name": "phantom swordsman",
+    "Spawn": 1
+  },
+  {
+    "ID": "008C",
+    "Name": "hacksaurus",
+    "Spawn": 1
+  },
+  {
+    "ID": "008D",
+    "Name": "bone baron",
+    "Spawn": 1
+  },
+  {
+    "ID": "008E",
+    "Name": "swingin' hipster",
+    "Spawn": 1
+  },
+  {
+    "ID": "008F",
+    "Name": "orc king",
+    "Spawn": 1
+  },
+  {
+    "ID": "0090",
+    "Name": "soulspawn",
+    "Spawn": 1
+  },
+  {
+    "ID": "0091",
+    "Name": "gryphon",
+    "Spawn": 1
+  },
+  {
+    "ID": "0092",
+    "Name": "golem",
+    "Spawn": 1
+  },
+  {
+    "ID": "0093",
+    "Name": "fallen priest",
+    "Spawn": 1
+  },
+  {
+    "ID": "0094",
+    "Name": "dead ringer",
+    "Spawn": 1
+  },
+  {
+    "ID": "0095",
+    "Name": "living statue",
+    "Spawn": 1
+  },
+  {
+    "ID": "0096",
+    "Name": "freeze fly",
+    "Spawn": 1
+  },
+  {
+    "ID": "0097",
+    "Name": "dark slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0098",
+    "Name": "frostburn",
+    "Spawn": 1
+  },
+  {
+    "ID": "0099",
+    "Name": "hellhound",
+    "Spawn": 1
+  },
+  {
+    "ID": "009A",
+    "Name": "troll",
+    "Spawn": 1
+  },
+  {
+    "ID": "009B",
+    "Name": "ice queen",
+    "Spawn": 1
+  },
+  {
+    "ID": "009C",
+    "Name": "abominape",
+    "Spawn": 1
+  },
+  {
+    "ID": "009D",
+    "Name": "beelzebuzz",
+    "Spawn": 1
+  },
+  {
+    "ID": "009E",
+    "Name": "killing machine",
+    "Spawn": 1
+  },
+  {
+    "ID": "009F",
+    "Name": "icikiller",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A0",
+    "Name": "shadow",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A1",
+    "Name": "metal king slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A2",
+    "Name": "frost wyvine",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A3",
+    "Name": "elysium bird",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A4",
+    "Name": "dragurn",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A5",
+    "Name": "smacker",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A6",
+    "Name": "zombie gladiator",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A7",
+    "Name": "stone golem",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A8",
+    "Name": "dark condor",
+    "Spawn": 1
+  },
+  {
+    "ID": "00A9",
+    "Name": "mucho macho",
+    "Spawn": 1
+  },
+  {
+    "ID": "00AA",
+    "Name": "dark skeleton",
+    "Spawn": 1
+  },
+  {
+    "ID": "00AB",
+    "Name": "dark macarbour",
+    "Spawn": 1
+  },
+  {
+    "ID": "00AC",
+    "Name": "tyrantosaurus",
+    "Spawn": 1
+  },
+  {
+    "ID": "00AD",
+    "Name": "demon thunderer",
+    "Spawn": 1
+  },
+  {
+    "ID": "00AE",
+    "Name": "dark star",
+    "Spawn": 1
+  },
+  {
+    "ID": "00AF",
+    "Name": "dark minister",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B0",
+    "Name": "grim rider",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B1",
+    "Name": "dark sea-diva",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B2",
+    "Name": "war gryphon",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B3",
+    "Name": "dark turkey",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B4",
+    "Name": "heligator",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B5",
+    "Name": "dark dullahan",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B6",
+    "Name": "killer croaker",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B7",
+    "Name": "high roller",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B8",
+    "Name": "darkodile",
+    "Spawn": 1
+  },
+  {
+    "ID": "00B9",
+    "Name": "cyclops",
+    "Spawn": 1
+  },
+  {
+    "ID": "00BA",
+    "Name": "bloody hand",
+    "Spawn": 1
+  },
+  {
+    "ID": "00BB",
+    "Name": "snapdragon",
+    "Spawn": 1
+  },
+  {
+    "ID": "00BC",
+    "Name": "buffalogre",
+    "Spawn": 1
+  },
+  {
+    "ID": "00BD",
+    "Name": "mohawker",
+    "Spawn": 1
+  },
+  {
+    "ID": "00BE",
+    "Name": "archdemon",
+    "Spawn": 1
+  },
+  {
+    "ID": "00BF",
+    "Name": "bobonga",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C0",
+    "Name": "caped caperer",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C1",
+    "Name": "claws",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C2",
+    "Name": "boss troll",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C3",
+    "Name": "mimic king",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C4",
+    "Name": "fowlfighter",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C5",
+    "Name": "dullahan",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C6",
+    "Name": "gigantes",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C7",
+    "Name": "frou-frou",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C8",
+    "Name": "stone guardian",
+    "Spawn": 1
+  },
+  {
+    "ID": "00C9",
+    "Name": "wight priest",
+    "Spawn": 1
+  },
+  {
+    "ID": "00CA",
+    "Name": "hell gladiator",
+    "Spawn": 1
+  },
+  {
+    "ID": "00CB",
+    "Name": "dark slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "00CC",
+    "Name": "shadow",
+    "Spawn": 1
+  },
+  {
+    "ID": "00CD",
+    "Name": "dark skeleton",
+    "Spawn": 1
+  },
+  {
+    "ID": "00CE",
+    "Name": "dark condor",
+    "Spawn": 1
+  },
+  {
+    "ID": "00CF",
+    "Name": "dark macarbour",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D0",
+    "Name": "dark turkey",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D1",
+    "Name": "dark minister",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D2",
+    "Name": "dark dullahan",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D3",
+    "Name": "dark moth",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D4",
+    "Name": "dark star",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D5",
+    "Name": "dark gryphon",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D6",
+    "Name": "darkodile",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D7",
+    "Name": "dark sabrecat",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D8",
+    "Name": "hell hopper",
+    "Spawn": 1
+  },
+  {
+    "ID": "00D9",
+    "Name": "dark devildog",
+    "Spawn": 1
+  },
+  {
+    "ID": "00DA",
+    "Name": "heavy hood",
+    "Spawn": 1
+  },
+  {
+    "ID": "00DB",
+    "Name": "hellstalker",
+    "Spawn": 1
+  },
+  {
+    "ID": "00DC",
+    "Name": "silhouette",
+    "Spawn": 1
+  },
+  {
+    "ID": "00DD",
+    "Name": "democrobot",
+    "Spawn": 1
+  },
+  {
+    "ID": "00DE",
+    "Name": "pandora's box",
+    "Spawn": 1
+  },
+  {
+    "ID": "00DF",
+    "Name": "wight king",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E0",
+    "Name": "invisible swordsman",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E1",
+    "Name": "hellspawn",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E2",
+    "Name": "belial",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E3",
+    "Name": "solaris",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E4",
+    "Name": "great troll",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E5",
+    "Name": "unholy bishop",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E6",
+    "Name": "hell's gatekeeper",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E7",
+    "Name": "crocodog",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E8",
+    "Name": "khalamari kid",
+    "Spawn": 1
+  },
+  {
+    "ID": "00E9",
+    "Name": "see urchin",
+    "Spawn": 1
+  },
+  {
+    "ID": "00EA",
+    "Name": "man o' war",
+    "Spawn": 1
+  },
+  {
+    "ID": "00EB",
+    "Name": "yabby",
+    "Spawn": 1
+  },
+  {
+    "ID": "00EC",
+    "Name": "king kelp",
+    "Spawn": 1
+  },
+  {
+    "ID": "00ED",
+    "Name": "wild boarfish",
+    "Spawn": 1
+  },
+  {
+    "ID": "00EE",
+    "Name": "khalamari kid",
+    "Spawn": 1
+  },
+  {
+    "ID": "00EF",
+    "Name": "see urchin",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F0",
+    "Name": "man o' war",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F1",
+    "Name": "anchorman",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F2",
+    "Name": "see angel",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F3",
+    "Name": "squid kid",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F4",
+    "Name": "king kelp",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F5",
+    "Name": "crayzee",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F6",
+    "Name": "eveel",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F7",
+    "Name": "merman",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F8",
+    "Name": "king squid",
+    "Spawn": 1
+  },
+  {
+    "ID": "00F9",
+    "Name": "octavian sentry",
+    "Spawn": 1
+  },
+  {
+    "ID": "00FA",
+    "Name": "pigmalion",
+    "Spawn": 1
+  },
+  {
+    "ID": "00FB",
+    "Name": "sea dragon",
+    "Spawn": 1
+  },
+  {
+    "ID": "00FC",
+    "Name": "foul anchor",
+    "Spawn": 1
+  },
+  {
+    "ID": "00FD",
+    "Name": "poison eveel",
+    "Spawn": 1
+  },
+  {
+    "ID": "00FE",
+    "Name": "siren",
+    "Spawn": 1
+  },
+  {
+    "ID": "00FF",
+    "Name": "merking",
+    "Spawn": 1
+  },
+  {
+    "ID": "0100",
+    "Name": "seasaur",
+    "Spawn": 1
+  },
+  {
+    "ID": "0101",
+    "Name": "octavian pirate",
+    "Spawn": 1
+  },
+  {
+    "ID": "0102",
+    "Name": "riptide",
+    "Spawn": 1
+  },
+  {
+    "ID": "0103",
+    "Name": "tentacular",
+    "Spawn": 1
+  },
+  {
+    "ID": "0104",
+    "Name": "abyss diver",
+    "Spawn": 1
+  },
+  {
+    "ID": "0105",
+    "Name": "slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0106",
+    "Name": "firespirit",
+    "Spawn": 1
+  },
+  {
+    "ID": "0107",
+    "Name": "lost soul",
+    "Spawn": 1
+  },
+  {
+    "ID": "0108",
+    "Name": "servant of darkness",
+    "Spawn": 1
+  },
+  {
+    "ID": "010C",
+    "Name": "frogface",
+    "Spawn": 2
+  },
+  {
+    "ID": "010D",
+    "Name": "frogman",
+    "Spawn": 2
+  },
+  {
+    "ID": "010E",
+    "Name": "killer croaker",
+    "Spawn": 2
+  },
+  {
+    "ID": "010F",
+    "Name": "winky (red)",
+    "Spawn": 2
+  },
+  {
+    "ID": "0111",
+    "Name": "pan piper (red)",
+    "Spawn": 2
+  },
+  {
+    "ID": "0112",
+    "Name": "magic dumbbell Lv. 5",
+    "Spawn": 2
+  },
+  {
+    "ID": "0113",
+    "Name": "dead ringer Lv. 5",
+    "Spawn": 2
+  },
+  {
+    "ID": "0114",
+    "Name": "high roller",
+    "Spawn": 1
+  },
+  {
+    "ID": "0115",
+    "Name": "skeleton soldier",
+    "Spawn": 1
+  },
+  {
+    "ID": "0116",
+    "Name": "ghoul",
+    "Spawn": 1
+  },
+  {
+    "ID": "0117",
+    "Name": "anchorman (red)",
+    "Spawn": 2
+  },
+  {
+    "ID": "0119",
+    "Name": "mum",
+    "Spawn": 1
+  },
+  {
+    "ID": "011A",
+    "Name": "boh",
+    "Spawn": 1
+  },
+  {
+    "ID": "011B",
+    "Name": "jum",
+    "Spawn": 1
+  },
+  {
+    "ID": "011C",
+    "Name": "boe",
+    "Spawn": 1
+  },
+  {
+    "ID": "011D",
+    "Name": "jab",
+    "Spawn": 1
+  },
+  {
+    "ID": "011E",
+    "Name": "ber",
+    "Spawn": 1
+  },
+  {
+    "ID": "011F",
+    "Name": "kee",
+    "Spawn": 1
+  },
+  {
+    "ID": "0120",
+    "Name": "woc",
+    "Spawn": 1
+  },
+  {
+    "ID": "0121",
+    "Name": "head of state",
+    "Spawn": 1
+  },
+  {
+    "ID": "0122",
+    "Name": "body politic",
+    "Spawn": 1
+  },
+  {
+    "ID": "0123",
+    "Name": "right wing",
+    "Spawn": 1
+  },
+  {
+    "ID": "0124",
+    "Name": "left wing",
+    "Spawn": 1
+  },
+  {
+    "ID": "0125",
+    "Name": "jab",
+    "Spawn": 1
+  },
+  {
+    "ID": "012D",
+    "Name": "slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "012E",
+    "Name": "hammerhood",
+    "Spawn": 1
+  },
+  {
+    "ID": "012F",
+    "Name": "geyzer",
+    "Spawn": 3
+  },
+  {
+    "ID": "0130",
+    "Name": "mash",
+    "Spawn": 3
+  },
+  {
+    "ID": "0131",
+    "Name": "bangerz",
+    "Spawn": 3
+  },
+  {
+    "ID": "0132",
+    "Name": "khalamari",
+    "Spawn": 3
+  },
+  {
+    "ID": "0133",
+    "Name": "tortured soul",
+    "Spawn": 3
+  },
+  {
+    "ID": "0134",
+    "Name": "trap box",
+    "Spawn": 3
+  },
+  {
+    "ID": "0135",
+    "Name": "don mole",
+    "Spawn": 3
+  },
+  {
+    "ID": "0136",
+    "Name": "sea dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0137",
+    "Name": "argon lizard",
+    "Spawn": 3
+  },
+  {
+    "ID": "0138",
+    "Name": "great argon lizard",
+    "Spawn": 3
+  },
+  {
+    "ID": "0139",
+    "Name": "dhoulmagus (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "013A",
+    "Name": "dhoulmagus (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "013B",
+    "Name": "dhoulmagus (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "013C",
+    "Name": "dhoulmagus (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "013D",
+    "Name": "evil jessica",
+    "Spawn": 3
+  },
+  {
+    "ID": "013E",
+    "Name": "hellhound",
+    "Spawn": 1
+  },
+  {
+    "ID": "013F",
+    "Name": "captain crow",
+    "Spawn": 3
+  },
+  {
+    "ID": "0140",
+    "Name": "red horn",
+    "Spawn": 1
+  },
+  {
+    "ID": "0141",
+    "Name": "blue fang",
+    "Spawn": 1
+  },
+  {
+    "ID": "0142",
+    "Name": "empyrea",
+    "Spawn": 3
+  },
+  {
+    "ID": "0143",
+    "Name": "gemon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0144",
+    "Name": "evil sir leopold",
+    "Spawn": 3
+  },
+  {
+    "ID": "0145",
+    "Name": "marcello",
+    "Spawn": 3
+  },
+  {
+    "ID": "0146",
+    "Name": "king squid",
+    "Spawn": 1
+  },
+  {
+    "ID": "0147",
+    "Name": "boss troll",
+    "Spawn": 1
+  },
+  {
+    "ID": "0148",
+    "Name": "rhapthorne (1st form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "0149",
+    "Name": "rhapthorne (1st form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "014A",
+    "Name": "rhapthorne (2nd form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "014B",
+    "Name": "rhapthorne (2nd form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "014C",
+    "Name": "lord of the dragovians (dragon)",
+    "Spawn": 3
+  },
+  {
+    "ID": "014D",
+    "Name": "lord of the dragovians (dragon)",
+    "Spawn": 3
+  },
+  {
+    "ID": "014E",
+    "Name": "lord of the dragovians (humanoid)",
+    "Spawn": 3
+  },
+  {
+    "ID": "014F",
+    "Name": "lord of the dragovians (humanoid)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0150",
+    "Name": "vermillion dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0151",
+    "Name": "vermillion dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0152",
+    "Name": "servant of darkness",
+    "Spawn": 1
+  },
+  {
+    "ID": "0153",
+    "Name": "statue of hero",
+    "Spawn": 3
+  },
+  {
+    "ID": "0154",
+    "Name": "statue of yangus",
+    "Spawn": 3
+  },
+  {
+    "ID": "0155",
+    "Name": "statue of jessica",
+    "Spawn": 3
+  },
+  {
+    "ID": "0156",
+    "Name": "statue of angelo",
+    "Spawn": 3
+  },
+  {
+    "ID": "0157",
+    "Name": "megalodon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0158",
+    "Name": "ruin",
+    "Spawn": 3
+  },
+  {
+    "ID": "0159",
+    "Name": "soul mole",
+    "Spawn": 3
+  },
+  {
+    "ID": "015A",
+    "Name": "marcello",
+    "Spawn": 3
+  },
+  {
+    "ID": "015B",
+    "Name": "dhoulmagus (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "015C",
+    "Name": "dhoulmagus (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "015D",
+    "Name": "evil jessica",
+    "Spawn": 3
+  },
+  {
+    "ID": "015E",
+    "Name": "evil sir leopold",
+    "Spawn": 3
+  },
+  {
+    "ID": "015F",
+    "Name": "rhapthorne (1st form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "0160",
+    "Name": "dhoulmagus (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0161",
+    "Name": "rhapthorne (2nd form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "0162",
+    "Name": "rhapthorne (2nd form)",
+    "Spawn": 1
+  },
+  {
+    "ID": "0163",
+    "Name": "lord of the dragovians (humanoid)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0164",
+    "Name": "dancing flame",
+    "Spawn": 1
+  },
+  {
+    "ID": "0165",
+    "Name": "rhapthorne (barrier)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0166",
+    "Name": "rhapthorne (barrier)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0167",
+    "Name": "slime",
+    "Spawn": 1
+  },
+  {
+    "ID": "0168",
+    "Name": "emerald dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "016B",
+    "Name": "silver dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "016E",
+    "Name": "golden dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0171",
+    "Name": "darksteel dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0174",
+    "Name": "divine dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0177",
+    "Name": "emerald dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "017A",
+    "Name": "silver dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "017D",
+    "Name": "golden dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0180",
+    "Name": "darksteel dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0183",
+    "Name": "divine dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0186",
+    "Name": "ultimate dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0189",
+    "Name": "vermillion dragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "018B",
+    "Name": "red horn",
+    "Spawn": 1
+  },
+  {
+    "ID": "0191",
+    "Name": "Prince Charmles",
+    "Spawn": 3
+  },
+  {
+    "ID": "01F5",
+    "Name": "Axoraptor",
+    "Spawn": 4
+  },
+  {
+    "ID": "01F6",
+    "Name": "Shortshooter",
+    "Spawn": 4
+  },
+  {
+    "ID": "02F7",
+    "Name": "One Knight Stand",
+    "Spawn": 4
+  },
+  {
+    "ID": "01F8",
+    "Name": "Automaton Aviator",
+    "Spawn": 4
+  },
+  {
+    "ID": "01F9",
+    "Name": "Pain in the Neck",
+    "Spawn": 4
+  },
+  {
+    "ID": "01FA",
+    "Name": "Buffalo Bill",
+    "Spawn": 4
+  },
+  {
+    "ID": "01FB",
+    "Name": "Family Doctor",
+    "Spawn": 4
+  },
+  {
+    "ID": "01FC",
+    "Name": "Hollow Knight",
+    "Spawn": 4
+  },
+  {
+    "ID": "01FD",
+    "Name": "Mullet Mallet",
+    "Spawn": 4
+  },
+  {
+    "ID": "01FE",
+    "Name": "Little Nipper",
+    "Spawn": 4
+  },
+  {
+    "ID": "01FF",
+    "Name": "Sharpshooter",
+    "Spawn": 4
+  },
+  {
+    "ID": "0200",
+    "Name": "Root of Evil",
+    "Spawn": 4
+  },
+  {
+    "ID": "0201",
+    "Name": "Squiggly Squiggler",
+    "Spawn": 4
+  },
+  {
+    "ID": "0202",
+    "Name": "Old-School Drooler",
+    "Spawn": 4
+  },
+  {
+    "ID": "0203",
+    "Name": "Punchin' Judy",
+    "Spawn": 4
+  },
+  {
+    "ID": "0204",
+    "Name": "Slimy Smiley",
+    "Spawn": 4
+  },
+  {
+    "ID": "0205",
+    "Name": "Bushwhacker",
+    "Spawn": 4
+  },
+  {
+    "ID": "0206",
+    "Name": "Nightstalker",
+    "Spawn": 4
+  },
+  {
+    "ID": "0207",
+    "Name": "Goldbricker",
+    "Spawn": 4
+  },
+  {
+    "ID": "0208",
+    "Name": "Death Tabby",
+    "Spawn": 4
+  },
+  {
+    "ID": "0209",
+    "Name": "Wild Spearman",
+    "Spawn": 4
+  },
+  {
+    "ID": "020A",
+    "Name": "Fertiliser",
+    "Spawn": 4
+  },
+  {
+    "ID": "020B",
+    "Name": "Hooded Hacker",
+    "Spawn": 4
+  },
+  {
+    "ID": "020C",
+    "Name": "Jewel Juggler",
+    "Spawn": 4
+  },
+  {
+    "ID": "020D",
+    "Name": "King of Dumbira",
+    "Spawn": 4
+  },
+  {
+    "ID": "020E",
+    "Name": "All Day Sucker",
+    "Spawn": 4
+  },
+  {
+    "ID": "020F",
+    "Name": "Slime Creator",
+    "Spawn": 4
+  },
+  {
+    "ID": "0210",
+    "Name": "Al Gee",
+    "Spawn": 4
+  },
+  {
+    "ID": "0211",
+    "Name": "Old Soldier",
+    "Spawn": 4
+  },
+  {
+    "ID": "0212",
+    "Name": "Living Flame",
+    "Spawn": 4
+  },
+  {
+    "ID": "0213",
+    "Name": "Poisonous Sniper",
+    "Spawn": 4
+  },
+  {
+    "ID": "0214",
+    "Name": "Potty Dragon",
+    "Spawn": 4
+  },
+  {
+    "ID": "0215",
+    "Name": "Gloopy Groupie",
+    "Spawn": 4
+  },
+  {
+    "ID": "0216",
+    "Name": "Angel of Curing",
+    "Spawn": 4
+  },
+  {
+    "ID": "0217",
+    "Name": "Abominable Ape",
+    "Spawn": 4
+  },
+  {
+    "ID": "0218",
+    "Name": "Fantom of Chopera",
+    "Spawn": 4
+  },
+  {
+    "ID": "0219",
+    "Name": "Femme Fatale",
+    "Spawn": 4
+  },
+  {
+    "ID": "021A",
+    "Name": "Roboster Mk I",
+    "Spawn": 4
+  },
+  {
+    "ID": "021B",
+    "Name": "Bricklayer",
+    "Spawn": 4
+  },
+  {
+    "ID": "021C",
+    "Name": "Cold Fire",
+    "Spawn": 4
+  },
+  {
+    "ID": "021D",
+    "Name": "Terror Talons",
+    "Spawn": 4
+  },
+  {
+    "ID": "021E",
+    "Name": "Pelvic Thruster",
+    "Spawn": 4
+  },
+  {
+    "ID": "021F",
+    "Name": "Slime Designer",
+    "Spawn": 4
+  },
+  {
+    "ID": "0220",
+    "Name": "Ochre Ogre",
+    "Spawn": 4
+  },
+  {
+    "ID": "0221",
+    "Name": "Muscly Mohawker",
+    "Spawn": 4
+  },
+  {
+    "ID": "0222",
+    "Name": "Puppet Pugilist",
+    "Spawn": 4
+  },
+  {
+    "ID": "0223",
+    "Name": "Gigantes Guardian",
+    "Spawn": 4
+  },
+  {
+    "ID": "0224",
+    "Name": "Big Blue Bully",
+    "Spawn": 4
+  },
+  {
+    "ID": "0225",
+    "Name": "Occult Rider",
+    "Spawn": 4
+  },
+  {
+    "ID": "0226",
+    "Name": "Bone Racer",
+    "Spawn": 4
+  },
+  {
+    "ID": "0227",
+    "Name": "Attack Bot Mk II",
+    "Spawn": 4
+  },
+  {
+    "ID": "0228",
+    "Name": "Big Blizzard",
+    "Spawn": 4
+  },
+  {
+    "ID": "0229",
+    "Name": "Living Torch",
+    "Spawn": 4
+  },
+  {
+    "ID": "022A",
+    "Name": "Raging Rooster",
+    "Spawn": 4
+  },
+  {
+    "ID": "022B",
+    "Name": "Loopy Lupus",
+    "Spawn": 4
+  },
+  {
+    "ID": "022C",
+    "Name": "Octavius Maximus",
+    "Spawn": 4
+  },
+  {
+    "ID": "022D",
+    "Name": "Quick Silver",
+    "Spawn": 4
+  },
+  {
+    "ID": "022E",
+    "Name": "Metal Babble",
+    "Spawn": 4
+  },
+  {
+    "ID": "022F",
+    "Name": "Shadow Conductor",
+    "Spawn": 4
+  },
+  {
+    "ID": "0230",
+    "Name": "Arch-archdemon",
+    "Spawn": 4
+  },
+  {
+    "ID": "0231",
+    "Name": "Gigantes Gangster",
+    "Spawn": 4
+  },
+  {
+    "ID": "0232",
+    "Name": "Troll Patroller",
+    "Spawn": 4
+  },
+  {
+    "ID": "0233",
+    "Name": "Man-at-Arms",
+    "Spawn": 4
+  },
+  {
+    "ID": "0234",
+    "Name": "Crazed Colossus",
+    "Spawn": 4
+  },
+  {
+    "ID": "0235",
+    "Name": "Killer Director",
+    "Spawn": 4
+  },
+  {
+    "ID": "0236",
+    "Name": "Stonemason",
+    "Spawn": 4
+  },
+  {
+    "ID": "0237",
+    "Name": "Heavy Metal",
+    "Spawn": 4
+  },
+  {
+    "ID": "0238",
+    "Name": "Headless Flailsman",
+    "Spawn": 4
+  },
+  {
+    "ID": "0239",
+    "Name": "Wight Highpriest",
+    "Spawn": 4
+  },
+  {
+    "ID": "023A",
+    "Name": "Jumbo Dilophosaur",
+    "Spawn": 4
+  },
+  {
+    "ID": "023B",
+    "Name": "Gryphon General",
+    "Spawn": 4
+  },
+  {
+    "ID": "023C",
+    "Name": "Greater Sabrecat",
+    "Spawn": 4
+  },
+  {
+    "ID": "023D",
+    "Name": "Man-eater Chest",
+    "Spawn": 4
+  },
+  {
+    "ID": "023E",
+    "Name": "Sand Slayer",
+    "Spawn": 4
+  },
+  {
+    "ID": "023F",
+    "Name": "Bundle of Joy",
+    "Spawn": 4
+  },
+  {
+    "ID": "0240",
+    "Name": "Mole Major",
+    "Spawn": 4
+  },
+  {
+    "ID": "0241",
+    "Name": "Colossal Clione",
+    "Spawn": 4
+  },
+  {
+    "ID": "0244",
+    "Name": "Ms. Impetuous",
+    "Spawn": 4
+  },
+  {
+    "ID": "0245",
+    "Name": "Mr. Bo Dangles",
+    "Spawn": 4
+  },
+  {
+    "ID": "0246",
+    "Name": "Caped Inspectre",
+    "Spawn": 4
+  },
+  {
+    "ID": "0247",
+    "Name": "Pre-curser of Death",
+    "Spawn": 4
+  },
+  {
+    "ID": "0248",
+    "Name": "Mr. Stalkative",
+    "Spawn": 4
+  },
+  {
+    "ID": "0249",
+    "Name": "King of RIP",
+    "Spawn": 4
+  },
+  {
+    "ID": "024A",
+    "Name": "Whizzkid",
+    "Spawn": 4
+  },
+  {
+    "ID": "024B",
+    "Name": "Heavenly Hunter",
+    "Spawn": 4
+  },
+  {
+    "ID": "024C",
+    "Name": "Sinister Minister",
+    "Spawn": 4
+  },
+  {
+    "ID": "024D",
+    "Name": "Cosmic Doom",
+    "Spawn": 4
+  },
+  {
+    "ID": "024E",
+    "Name": "Lucky Old Sun",
+    "Spawn": 4
+  },
+  {
+    "ID": "024F",
+    "Name": "Star Duster",
+    "Spawn": 4
+  },
+  {
+    "ID": "0250",
+    "Name": "Major Flavour",
+    "Spawn": 4
+  },
+  {
+    "ID": "0251",
+    "Name": "Snore Spore",
+    "Spawn": 4
+  },
+  {
+    "ID": "0252",
+    "Name": "Psychedelia",
+    "Spawn": 4
+  },
+  {
+    "ID": "0253",
+    "Name": "Teen Fox",
+    "Spawn": 4
+  },
+  {
+    "ID": "0254",
+    "Name": "Flappacinno",
+    "Spawn": 4
+  },
+  {
+    "ID": "0255",
+    "Name": "Famous Five",
+    "Spawn": 4
+  },
+  {
+    "ID": "0256",
+    "Name": "L'il Digger",
+    "Spawn": 4
+  },
+  {
+    "ID": "0257",
+    "Name": "Condor from Yonder",
+    "Spawn": 4
+  },
+  {
+    "ID": "0258",
+    "Name": "Ace of Spades",
+    "Spawn": 4
+  },
+  {
+    "ID": "0259",
+    "Name": "Drive-Thru",
+    "Spawn": 4
+  },
+  {
+    "ID": "025A",
+    "Name": "Apocalips",
+    "Spawn": 4
+  },
+  {
+    "ID": "032A",
+    "Name": "phoenix",
+    "Spawn": 1
+  },
+  {
+    "ID": "032B",
+    "Name": "night rider",
+    "Spawn": 1
+  },
+  {
+    "ID": "032C",
+    "Name": "corpse corporal",
+    "Spawn": 1
+  },
+  {
+    "ID": "032D",
+    "Name": "great keeper",
+    "Spawn": 1
+  },
+  {
+    "ID": "032E",
+    "Name": "coffer of death",
+    "Spawn": 1
+  },
+  {
+    "ID": "0330",
+    "Name": "juggerwroth (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0331",
+    "Name": "juggerwroth (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0334",
+    "Name": "great keeper",
+    "Spawn": 2
+  },
+  {
+    "ID": "0335",
+    "Name": "coffer of death",
+    "Spawn": 1
+  },
+  {
+    "ID": "0339",
+    "Name": "solaris",
+    "Spawn": 1
+  },
+  {
+    "ID": "033A",
+    "Name": "great troll",
+    "Spawn": 1
+  },
+  {
+    "ID": "033B",
+    "Name": "crocodog",
+    "Spawn": 1
+  },
+  {
+    "ID": "033C",
+    "Name": "great keeper",
+    "Spawn": 2
+  },
+  {
+    "ID": "0343",
+    "Name": "geyzer in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0344",
+    "Name": "tortured soul in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0345",
+    "Name": "skeleton in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0346",
+    "Name": "walking corpse in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0347",
+    "Name": "trap box in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0348",
+    "Name": "don mole in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0349",
+    "Name": "soul mole in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "034A",
+    "Name": "argon lizard in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "034B",
+    "Name": "dhoulmagus in memoriam (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "034C",
+    "Name": "dhoulmagus in memoriam (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "034D",
+    "Name": "dhoulmagus in memoriam (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "034E",
+    "Name": "dhoulmagus in memoriam (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "034F",
+    "Name": "dhoulmagus in memoriam (1st form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0350",
+    "Name": "dhoulmagus in memoriam (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0351",
+    "Name": "dhoulmagus in memoriam (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0352",
+    "Name": "dhoulmagus in memoriam (2nd form)",
+    "Spawn": 3
+  },
+  {
+    "ID": "0353",
+    "Name": "evil jessica in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0354",
+    "Name": "evil jessica in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0355",
+    "Name": "shadow in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0356",
+    "Name": "captain crow in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0357",
+    "Name": "gemon in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0358",
+    "Name": "darkbird in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0359",
+    "Name": "dark turkey in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "035A",
+    "Name": "sir leopold in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "035B",
+    "Name": "sir leopold in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "035C",
+    "Name": "marcello in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "035D",
+    "Name": "marcello in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "035E",
+    "Name": "dark servant in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "035F",
+    "Name": "dancing flame in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0360",
+    "Name": "ruin in memoriam",
+    "Spawn": 3
+  },
+  {
+    "ID": "0361",
+    "Name": "estark",
+    "Spawn": 3
+  },
+  {
+    "ID": "0362",
+    "Name": "estark",
+    "Spawn": 3
+  },
+  {
+    "ID": "0363",
+    "Name": "estark",
+    "Spawn": 3
+  },
+  {
+    "ID": "0364",
+    "Name": "estark",
+    "Spawn": 3
+  },
+  {
+    "ID": "0389",
+    "Name": "she-slime",
+    "Spawn": 3
+  },
+  {
+    "ID": "038A",
+    "Name": "slime knight",
+    "Spawn": 3
+  },
+  {
+    "ID": "038B",
+    "Name": "frogface",
+    "Spawn": 3
+  },
+  {
+    "ID": "038C",
+    "Name": "treeface",
+    "Spawn": 3
+  },
+  {
+    "ID": "038D",
+    "Name": "hammerhood",
+    "Spawn": 3
+  },
+  {
+    "ID": "038E",
+    "Name": "gorerilla",
+    "Spawn": 3
+  },
+  {
+    "ID": "038F",
+    "Name": "bullfinch",
+    "Spawn": 3
+  },
+  {
+    "ID": "0390",
+    "Name": "khalamari kid",
+    "Spawn": 3
+  },
+  {
+    "ID": "0391",
+    "Name": "king kelp",
+    "Spawn": 3
+  },
+  {
+    "ID": "0392",
+    "Name": "dingaling",
+    "Spawn": 3
+  },
+  {
+    "ID": "0393",
+    "Name": "jargon",
+    "Spawn": 3
+  },
+  {
+    "ID": "0394",
+    "Name": "dancing devil",
+    "Spawn": 3
+  },
+  {
+    "ID": "0395",
+    "Name": "wailin' weed",
+    "Spawn": 3
+  },
+  {
+    "ID": "0396",
+    "Name": "redtail hipster",
+    "Spawn": 3
+  },
+  {
+    "ID": "0397",
+    "Name": "jailcat",
+    "Spawn": 3
+  },
+  {
+    "ID": "0398",
+    "Name": "terror tabby",
+    "Spawn": 3
+  },
+  {
+    "ID": "0399",
+    "Name": "hipster",
+    "Spawn": 3
+  },
+  {
+    "ID": "039A",
+    "Name": "minidemon",
+    "Spawn": 3
+  },
+  {
+    "ID": "039B",
+    "Name": "witch",
+    "Spawn": 3
+  },
+  {
+    "ID": "039C",
+    "Name": "magic marionette",
+    "Spawn": 3
+  },
+  {
+    "ID": "039D",
+    "Name": "tap devil",
+    "Spawn": 3
+  },
+  {
+    "ID": "039E",
+    "Name": "volpone",
+    "Spawn": 3
+  },
+  {
+    "ID": "039F",
+    "Name": "night fox",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A0",
+    "Name": "night emperor",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A1",
+    "Name": "night sneaker",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A2",
+    "Name": "skeleton",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A3",
+    "Name": "walking corpse",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A4",
+    "Name": "mummy",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A5",
+    "Name": "brownie",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A6",
+    "Name": "hood",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A7",
+    "Name": "see urchin",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A8",
+    "Name": "siren",
+    "Spawn": 3
+  },
+  {
+    "ID": "03A9",
+    "Name": "mecha-mynah",
+    "Spawn": 3
+  },
+  {
+    "ID": "03AA",
+    "Name": "hunter mech",
+    "Spawn": 3
+  },
+  {
+    "ID": "03AB",
+    "Name": "clockwork cuckoo",
+    "Spawn": 3
+  },
+  {
+    "ID": "03AC",
+    "Name": "fencing fox",
+    "Spawn": 3
+  },
+  {
+    "ID": "03AD",
+    "Name": "bone baron",
+    "Spawn": 3
+  },
+  {
+    "ID": "03AE",
+    "Name": "phantom fencer",
+    "Spawn": 3
+  },
+  {
+    "ID": "03AF",
+    "Name": "dragurn",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B0",
+    "Name": "tyrantosaurus",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B1",
+    "Name": "snapdragon",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B2",
+    "Name": "stone guardian",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B3",
+    "Name": "golem",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B4",
+    "Name": "boss troll",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B5",
+    "Name": "rockbomb",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B6",
+    "Name": "stone golem",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B7",
+    "Name": "living statue",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B8",
+    "Name": "frou-frou",
+    "Spawn": 3
+  },
+  {
+    "ID": "03B9",
+    "Name": "cyclops",
+    "Spawn": 3
+  },
+  {
+    "ID": "03BA",
+    "Name": "troll",
+    "Spawn": 3
+  },
+  {
+    "ID": "03BB",
+    "Name": "jumping jackal",
+    "Spawn": 3
+  },
+  {
+    "ID": "03BC",
+    "Name": "great sabrecat",
+    "Spawn": 3
+  },
+  {
+    "ID": "03BD",
+    "Name": "treevil",
+    "Spawn": 3
+  },
+  {
+    "ID": "03BE",
+    "Name": "zombie gladiator",
+    "Spawn": 3
+  },
+  {
+    "ID": "03BF",
+    "Name": "bomboulder",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C0",
+    "Name": "goodybag",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C1",
+    "Name": "mimic king",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C2",
+    "Name": "mimic",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C3",
+    "Name": "dullahan",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C4",
+    "Name": "healslime",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C5",
+    "Name": "gigantes",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C6",
+    "Name": "liquid metal slime",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C7",
+    "Name": "hell gladiator",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C8",
+    "Name": "cureslime",
+    "Spawn": 3
+  },
+  {
+    "ID": "03C9",
+    "Name": "frogface",
+    "Spawn": 3
+  },
+  {
+    "ID": "03CA",
+    "Name": "slime knight",
+    "Spawn": 3
+  },
+  {
+    "ID": "03CB",
+    "Name": "fencing fox",
+    "Spawn": 3
+  },
+  {
+    "ID": "03CC",
+    "Name": "restless armour",
+    "Spawn": 3
+  },
+  {
+    "ID": "03CD",
+    "Name": "goodybag",
+    "Spawn": 3
+  },
+  {
+    "ID": "03CE",
+    "Name": "bone baron",
+    "Spawn": 3
+  },
+  {
+    "ID": "03CF",
+    "Name": "gold golem",
+    "Spawn": 3
+  },
+  {
+    "ID": "03D0",
+    "Name": "treeface",
+    "Spawn": 3
+  },
+  {
+    "ID": "03D1",
+    "Name": "morrimp",
+    "Spawn": 3
+  },
+  {
+    "ID": "03D2",
+    "Name": "treevil",
+    "Spawn": 3
+  }
+]

@@ -1,0 +1,12 @@
+
+
+FUNC_POINT 1;
+	FUNC_DATA "event",1;
+		FUNC_MDS 1;
+		FUNC_NAME "door01";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,4,0,0,"exit",1,0,1;
+		FUNC_POS -8.85888,3,-127.65, 0,0,0, 20,15,20;
+	FUNC_DATA_END;
+FUNC_POINT_END;

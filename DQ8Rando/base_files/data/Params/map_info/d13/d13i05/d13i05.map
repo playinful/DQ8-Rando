@@ -1,0 +1,11 @@
+
+
+FUNC_POINT 1;
+	FUNC_DATA "event",1;	//B4→長階段へのジャンプ機能点(door_no = 5)
+		FUNC_NAME "event-1";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,5,2,0,"d13i04",0,0,0;
+		FUNC_POS 0.0, 359.99, -1220.0, 0,0,0, 50,30,30;
+	FUNC_DATA_END;
+FUNC_POINT_END;

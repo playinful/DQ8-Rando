@@ -1,0 +1,732 @@
+[
+  {
+    "ID": "00",
+    "Contents": [ "none"],
+    "Spawn": 0
+  },
+  {
+    "ID": "01",
+    "Contents": [ "slime knight", "healslime"],
+    "Spawn": 1
+  },
+  {
+    "ID": "02",
+    "Contents": [ "hipster", "witch"],
+    "Spawn": 1
+  },
+  {
+    "ID": "03",
+    "Contents": [ "mummy boy", "mummy"],
+    "Spawn": 1
+  },
+  {
+    "ID": "04",
+    "Contents": [ "infernal armour", "cureslime"],
+    "Spawn": 1
+  },
+  {
+    "ID": "05",
+    "Contents": [ "khalamari kid", "king squid"],
+    "Spawn": 1
+  },
+  {
+    "ID": "06",
+    "Contents": [ "tentacular", "khalamari kid", "king squid"],
+    "Spawn": 1
+  },
+  {
+    "ID": "07",
+    "Contents": [ "treeface", "treevil"],
+    "Spawn": 1
+  },
+  {
+    "ID": "08",
+    "Contents": [ "cureslime", "notso macho"],
+    "Spawn": 1
+  },
+  {
+    "ID": "09",
+    "Contents": [ "mummy boy", "blood mummy", "mummy"],
+    "Spawn": 1
+  },
+  {
+    "ID": "0A",
+    "Contents": [ "buffalogre", "mohawker"],
+    "Spawn": 1
+  },
+  {
+    "ID": "0B",
+    "Contents": [ "liquid metal slime", "metal king slime"],
+    "Spawn": 1
+  },
+  {
+    "ID": "0C",
+    "Contents": [ "gigantes", "stone guardian"],
+    "Spawn": 1
+  },
+  {
+    "ID": "0D",
+    "Contents": [ "dark macarbour", "treevil", "treeface"],
+    "Spawn": 1
+  },
+  {
+    "ID": "0E",
+    "Contents": [ "lethal armour", "cureslime"],
+    "Spawn": 1
+  },
+  {
+    "ID": "0F",
+    "Contents": [ "goodybag", "night emperor"],
+    "Spawn": 1
+  },
+  {
+    "ID": "10",
+    "Contents": [ "bag o' laughs", "puppeteer"],
+    "Spawn": 1
+  },
+  {
+    "ID": "11",
+    "Contents": [ "winky", "puppeteer"],
+    "Spawn": 1
+  },
+  {
+    "ID": "12",
+    "Contents": [ "jum", "mum", "boh", "boe"],
+    "Spawn": 1
+  },
+  {
+    "ID": "13",
+    "Contents": [ "kee", "jab", "ber", "woc"],
+    "Spawn": 1
+  },
+  {
+    "ID": "14",
+    "Contents": [ "right wing", "head of state", "body politic", "left wing"],
+    "Spawn": 1
+  },
+  {
+    "ID": "15",
+    "Contents": [ "jum", "boe"],
+    "Spawn": 1
+  },
+  {
+    "ID": "16",
+    "Contents": [ "red horn", "blue fang"],
+    "Spawn": 1
+  },
+  {
+    "ID": "1F",
+    "Contents": [ "slime"],
+    "Spawn": 1
+  },
+  {
+    "ID": "20",
+    "Contents": [ "hammerhood"],
+    "Spawn": 1
+  },
+  {
+    "ID": "21",
+    "Contents": [ "Geyzer"],
+    "Spawn": 3
+  },
+  {
+    "ID": "22",
+    "Contents": [ "Bangerz", "Mash"],
+    "Spawn": 3
+  },
+  {
+    "ID": "23",
+    "Contents": [ "Khalamari"],
+    "Spawn": 3
+  },
+  {
+    "ID": "24",
+    "Contents": [ "tortured soul"],
+    "Spawn": 3
+  },
+  {
+    "ID": "25",
+    "Contents": [ "trap box"],
+    "Spawn": 3
+  },
+  {
+    "ID": "26",
+    "Contents": [ "soul mole", "Don Mole"],
+    "Spawn": 3
+  },
+  {
+    "ID": "27",
+    "Contents": [ "Argon lizard"],
+    "Spawn": 3
+  },
+  {
+    "ID": "28",
+    "Contents": [ "Argon lizard"],
+    "Spawn": 3
+  },
+  {
+    "ID": "29",
+    "Contents": [ "Argon lizard"],
+    "Spawn": 3
+  },
+  {
+    "ID": "2A",
+    "Contents": [ "great Argon lizard"],
+    "Spawn": 3
+  },
+  {
+    "ID": "2B",
+    "Contents": [ "sea dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "2C",
+    "Contents": [ "Dhoulmagus (1st form)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "2D",
+    "Contents": [ "Dhoulmagus (2nd form)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "2E",
+    "Contents": [ "Evil Jessica"],
+    "Spawn": 3
+  },
+  {
+    "ID": "2F",
+    "Contents": [ "hellhound"],
+    "Spawn": 1
+  },
+  {
+    "ID": "30",
+    "Contents": [ "hellhound"],
+    "Spawn": 1
+  },
+  {
+    "ID": "31",
+    "Contents": [ "hellhound"],
+    "Spawn": 1
+  },
+  {
+    "ID": "32",
+    "Contents": [ "hellhound"],
+    "Spawn": 1
+  },
+  {
+    "ID": "33",
+    "Contents": [ "hellhound"],
+    "Spawn": 1
+  },
+  {
+    "ID": "34",
+    "Contents": [ "Captain Crow"],
+    "Spawn": 3
+  },
+  {
+    "ID": "35",
+    "Contents": [ "Red Horn", "Blue Fang"],
+    "Spawn": 3
+  },
+  {
+    "ID": "36",
+    "Contents": [ "Empyrea"],
+    "Spawn": 3
+  },
+  {
+    "ID": "37",
+    "Contents": [ "dark turkey", "Gemon", "dark condor"],
+    "Spawn": 3
+  },
+  {
+    "ID": "38",
+    "Contents": [ "Evil Sir Leopold"],
+    "Spawn": 3
+  },
+  {
+    "ID": "39",
+    "Contents": [ "Marcello"],
+    "Spawn": 3
+  },
+  {
+    "ID": "3A",
+    "Contents": [ "king squid"],
+    "Spawn": 2
+  },
+  {
+    "ID": "3B",
+    "Contents": [ "boss troll"],
+    "Spawn": 1
+  },
+  {
+    "ID": "3C",
+    "Contents": [ "Rhapthorne (1st form)"],
+    "Spawn": 1
+  },
+  {
+    "ID": "3D",
+    "Contents": [ "dancing flame", "servant of darkness"],
+    "Spawn": 1
+  },
+  {
+    "ID": "3E",
+    "Contents": [ "statue of Jessica", "statue of Hero", "statue of Yangus", "statue of Angelo"],
+    "Spawn": 3
+  },
+  {
+    "ID": "3F",
+    "Contents": [ "megalodon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "40",
+    "Contents": [ "Ruin"],
+    "Spawn": 3
+  },
+  {
+    "ID": "41",
+    "Contents": [ "Rhapthorne (barrier)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "42",
+    "Contents": [ "Rhapthorne (2nd form)"],
+    "Spawn": 1
+  },
+  {
+    "ID": "43",
+    "Contents": [ "Lord of the Dragovians (dragon)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "44",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "45",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "4C",
+    "Contents": [ "she-slime", "slime knight"],
+    "Spawn": 3
+  },
+  {
+    "ID": "4D",
+    "Contents": [ "frogface", "treeface"],
+    "Spawn": 3
+  },
+  {
+    "ID": "4E",
+    "Contents": [ "hammerhood", "gorerilla", "bullfinch"],
+    "Spawn": 3
+  },
+  {
+    "ID": "4F",
+    "Contents": [ "khalamari kid", "king kelp"],
+    "Spawn": 3
+  },
+  {
+    "ID": "50",
+    "Contents": [ "dingaling", "jargon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "51",
+    "Contents": [ "dancing devil", "wailin' weed", "redtail hipster"],
+    "Spawn": 3
+  },
+  {
+    "ID": "52",
+    "Contents": [ "jailcat", "terror tabby"],
+    "Spawn": 3
+  },
+  {
+    "ID": "53",
+    "Contents": [ "hipster", "minidemon", "witch"],
+    "Spawn": 3
+  },
+  {
+    "ID": "54",
+    "Contents": [ "magic marionette", "tap devil", "Volpone"],
+    "Spawn": 3
+  },
+  {
+    "ID": "55",
+    "Contents": [ "night fox", "night emperor", "night sneaker"],
+    "Spawn": 3
+  },
+  {
+    "ID": "56",
+    "Contents": [ "skeleton", "walking corpse", "mummy"],
+    "Spawn": 3
+  },
+  {
+    "ID": "57",
+    "Contents": [ "brownie", "hood"],
+    "Spawn": 3
+  },
+  {
+    "ID": "58",
+    "Contents": [ "see urchin", "siren"],
+    "Spawn": 3
+  },
+  {
+    "ID": "59",
+    "Contents": [ "mecha-mynah", "hunter mech", "clockwork cuckoo"],
+    "Spawn": 3
+  },
+  {
+    "ID": "5A",
+    "Contents": [ "fencing fox", "bone baron", "phantom fencer"],
+    "Spawn": 3
+  },
+  {
+    "ID": "5B",
+    "Contents": [ "dragurn", "tyrantosaurus", "snapdragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "5C",
+    "Contents": [ "stone guardian", "golem", "boss troll"],
+    "Spawn": 3
+  },
+  {
+    "ID": "5D",
+    "Contents": [ "rockbomb", "stone golem", "living statue"],
+    "Spawn": 3
+  },
+  {
+    "ID": "5E",
+    "Contents": [ "frou-frou", "cyclops", "troll"],
+    "Spawn": 3
+  },
+  {
+    "ID": "5F",
+    "Contents": [ "jumping jackal", "great sabrecat"],
+    "Spawn": 3
+  },
+  {
+    "ID": "60",
+    "Contents": [ "treevil", "zombie gladiator", "bomboulder"],
+    "Spawn": 3
+  },
+  {
+    "ID": "61",
+    "Contents": [ "goodybag", "mimic king", "mimic"],
+    "Spawn": 3
+  },
+  {
+    "ID": "62",
+    "Contents": [ "dullahan", "healslime", "gigantes"],
+    "Spawn": 3
+  },
+  {
+    "ID": "63",
+    "Contents": [ "liquid metal slime", "hell gladiator", "cureslime"],
+    "Spawn": 3
+  },
+  {
+    "ID": "64",
+    "Contents": [ "axoraptor", "shortshooter", "one knight stand"],
+    "Spawn": 1
+  },
+  {
+    "ID": "65",
+    "Contents": [ "cannibox"],
+    "Spawn": 1
+  },
+  {
+    "ID": "66",
+    "Contents": [ "mimic"],
+    "Spawn": 1
+  },
+  {
+    "ID": "67",
+    "Contents": [ "Pandora's box"],
+    "Spawn": 1
+  },
+  {
+    "ID": "68",
+    "Contents": [ "Lord of the Dragovians (dragon)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "69",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "6A",
+    "Contents": [ "vermillion dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "6B",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "6C",
+    "Contents": [ "emerald dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "6D",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "6E",
+    "Contents": [ "silver dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "6F",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "70",
+    "Contents": [ "golden dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "71",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "72",
+    "Contents": [ "darksteel dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "73",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "74",
+    "Contents": [ "divine dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "75",
+    "Contents": [ "Lord of the Dragovians (humanoid)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "76",
+    "Contents": [ "vermillion dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "77",
+    "Contents": [ "emerald dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "78",
+    "Contents": [ "silver dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "79",
+    "Contents": [ "golden dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "7A",
+    "Contents": [ "darksteel dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "7B",
+    "Contents": [ "divine dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "7C",
+    "Contents": [ "ultimate dragon"],
+    "Spawn": 3
+  },
+  {
+    "ID": "7D",
+    "Contents": [ "mumboh-jumboe"],
+    "Spawn": 2
+  },
+  {
+    "ID": "7E",
+    "Contents": [ "jabberwockee"],
+    "Spawn": 2
+  },
+  {
+    "ID": "7F",
+    "Contents": [ "democrobot"],
+    "Spawn": 2
+  },
+  {
+    "ID": "80",
+    "Contents": [ "coffer of death"],
+    "Spawn": 1
+  },
+  {
+    "ID": "81",
+    "Contents": [ "slime knight", "fencing fox", "restless armour"],
+    "Spawn": 3
+  },
+  {
+    "ID": "82",
+    "Contents": [ "goodybag", "bone baron", "gold golem"],
+    "Spawn": 3
+  },
+  {
+    "ID": "83",
+    "Contents": [ "treeface", "morrimp", "treevil"],
+    "Spawn": 3
+  },
+  {
+    "ID": "87",
+    "Contents": [ "phoenix", "great keeper"],
+    "Spawn": 1
+  },
+  {
+    "ID": "88",
+    "Contents": [ "great keeper"],
+    "Spawn": 1
+  },
+  {
+    "ID": "89",
+    "Contents": [ "Juggerwroth (1st form)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "8A",
+    "Contents": [ "Juggerwroth (2nd form)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "8B",
+    "Contents": [ "Geyzer in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "8C",
+    "Contents": [ "tortured soul in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "8D",
+    "Contents": [ "trap box in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "8E",
+    "Contents": [ "soul mole in Memoriam", "Don Mole in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "8F",
+    "Contents": [ "Argon lizard in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "90",
+    "Contents": [ "Dhoulmagus in Memoriam (1st form)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "91",
+    "Contents": [ "Dhoulmagus in Memoriam (2nd form)"],
+    "Spawn": 3
+  },
+  {
+    "ID": "92",
+    "Contents": [ "Evil Jessica in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "93",
+    "Contents": [ "Captain Crow in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "94",
+    "Contents": [ "dark turkey in Memoriam", "Gemon in Memoriam", "darkbird in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "95",
+    "Contents": [ "Sir Leopold in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "96",
+    "Contents": [ "Marcello in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "97",
+    "Contents": [ "dancing flame in Memoriam", "dark servant in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "98",
+    "Contents": [ "Ruin in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "99",
+    "Contents": [ "Estark"],
+    "Spawn": 3
+  },
+  {
+    "ID": "9A",
+    "Contents": [ "skeleton in Memoriam", "walking corpse in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "9B",
+    "Contents": [ "shadow in Memoriam"],
+    "Spawn": 3
+  },
+  {
+    "ID": "9C",
+    "Contents": [ "crème caraslime"],
+    "Spawn": 1
+  },
+  {
+    "ID": "9D",
+    "Contents": [ "dead bowdy"],
+    "Spawn": 1
+  },
+  {
+    "ID": "9E",
+    "Contents": [ "morrimp"],
+    "Spawn": 1
+  },
+  {
+    "ID": "9F",
+    "Contents": [ "gold nugcat"],
+    "Spawn": 1
+  },
+  {
+    "ID": "A0",
+    "Contents": [ "cherreevil blossom"],
+    "Spawn": 1
+  },
+  {
+    "ID": "A1",
+    "Contents": [ "santaclops"],
+    "Spawn": 1
+  },
+  {
+    "ID": "A2",
+    "Contents": [ "box of tricks"],
+    "Spawn": 1
+  }
+]

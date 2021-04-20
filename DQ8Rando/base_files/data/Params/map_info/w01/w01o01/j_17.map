@@ -1,0 +1,20 @@
+
+
+FUNC_POINT 2;
+	FUNC_DATA "event",1;
+		FUNC_MDS 1;
+		FUNC_NAME "door01";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,1,0,1,"c04i01",1,0,1;
+		FUNC_POS -48.0,120.0,185.1, 0,0,0, 30,30,30;
+	FUNC_DATA_END;
+	FUNC_DATA "event",1;
+		FUNC_MDS 1;
+		FUNC_NAME "door02";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,2,0,1,"c04i01",1,0,1;
+		FUNC_POS -48.0,267.0,-7.9, 0,0,0, 30,30,30;
+	FUNC_DATA_END;
+FUNC_POINT_END;

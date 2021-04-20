@@ -1,0 +1,31 @@
+
+
+FUNC_POINT 4;
+	FUNC_DATA "event",1;	//長階段→B3へのジャンプ機能点(door_no = 4)
+		FUNC_NAME "event-1";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,4,2,0,"d13i03",0,0,0;
+		FUNC_POS 0.0, 1640.0, -2690.0, 0,0,0, 40,30,30;
+	FUNC_DATA_END;
+	FUNC_DATA "event",1;	//長階段→B4へのジャンプ機能点(door_no = 5)
+		FUNC_MDS 1;
+		FUNC_NAME "event-2";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_EVENT_DATA "event",0,200,5,2,0,"d13i05",1,0,1;
+		FUNC_POS 0.0, 0.07, 170.0, 0,0,0, 50,30,30;
+	FUNC_DATA_END;
+	FUNC_DATA "pos",1;//専用カメラ判定用 下側
+		FUNC_NAME "camera_bottom";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_POS 0.0, 115.0, -135.0, 0,0,0, 30,30,30;	//一番下の石像より少し上の段
+	FUNC_DATA_END;
+	FUNC_DATA "pos",1;//専用カメラ判定用 上側
+		FUNC_NAME "camera_top";
+		FUNC_ID "";
+		FUNC_FLAG 0, 0, 0,0;
+		FUNC_POS 0.0, 1550.0, -2525, 0,0,0, 30,30,30;	//一番上の石像を通過する付近
+	FUNC_DATA_END;
+FUNC_POINT_END;
