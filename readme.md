@@ -5,7 +5,7 @@ Run "DQ8Rando.exe". After opening the application, input your specifications and
 <h1>Applying the generated patches</h1>
 Once the "output" folder has been created, within it you should see two folders: "romfs" and "spoiler". The "romfs" file contains all the patch data for your game.
 <h2>If using a 3DS with Luma:</h2>
-1. Copy the "romfs" folder to "luma/titles/000400000018F100" on your 3DS's SD card.<br/>
+1. Copy the "romfs" folder to "luma/titles/000400000018F100" ("luma/titles/000400000018F100" if using the EUR version) on your 3DS's SD card.<br/>
 2. Turn on the 3DS while holding SELECT to open the Luma 3DS menu, and make sure that "Enable game patching" is enabled.<br/>
 3. Open the game, and the changes should be applied.
 <h2>If using Citra:</h2>
