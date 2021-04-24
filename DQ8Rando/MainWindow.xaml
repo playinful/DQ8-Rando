@@ -4,20 +4,17 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DQ8Rando"
-        xmlns:syncfusion="http://schemas.syncfusion.com/wpf" x:Class="DQ8Rando.MainWindow"
         xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
         mc:Ignorable="d"
-        Title="Dragon Quest VIII Randomizer v0.1" Height="589.733" Width="400">
+        Title="Dragon Quest VIII Randomizer v0.1" Height="598" Width="408" ResizeMode="CanMinimize" x:Class="DQ8Rando.MainWindow">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <Button x:Name="button_finish" Click="button_finish_Click" Content="Randomize!" HorizontalAlignment="Left" Margin="225,502,0,0" VerticalAlignment="Top" Width="157" Height="47" FontSize="24"/>
 
-
-        <TabControl HorizontalAlignment="Left" Height="487" Margin="10,10,0,0" VerticalAlignment="Top" Width="372">
-            <TabItem Header="Monsters">
+        <TabControl Name="tabCtrl_main" HorizontalAlignment="Left" Height="487" Margin="10,10,0,0" VerticalAlignment="Top" Width="372">
+            <TabItem Header="Monsters" Name ="tab_monsters">
                 <Grid Background="#FFFFFFFF">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="15*"/>
@@ -26,10 +23,10 @@
                     <CheckBox x:Name="check_monsters_enemyOverworld" Content="Randomize Enemies on the Overworld" ToolTip="Randomize monsters that spawn in overworld areas (fields, dungeons, etc.)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="monsters_mixInInfamous_EnableCheck"/>
                     <CheckBox x:Name="check_monsters_mixInInfamous"  Content="Mix In Infamous Monsters"           ToolTip="Allow Infamous Monsters to spawn alongside regular monsters. (They cannot be recruited this way)" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" IsEnabled="False"/>
                     <CheckBox x:Name="check_monsters_enemySpecial"   Content="Randomize Special Monsters"         ToolTip="Randomize &quot;Special&quot; Family monsters, which are required for certain photo quests." HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-                    <CheckBox x:Name="check_monsters_enemyBoss"      Content="Randomize Special Encounters"       ToolTip="Randomize bosses and scripted encounters." HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+                    <CheckBox x:Name="check_monsters_enemyBoss"      Content="Randomize Scripted Encounters"      ToolTip="Randomize bosses and other scripted encounters." HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" />
                 </Grid>
             </TabItem>
-            <TabItem Header="Treasure">
+            <TabItem Header="Treasure" Name="tab_treasure">
                 <Grid Background="#FFFFFFFF">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="14*"/>
@@ -93,7 +90,18 @@
                     <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="44,283,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
                 </Grid>
             </TabItem>
+            <TabItem Header="Alchemy" Name="tab_alchemy" Visibility="Hidden">
+                <CheckBox Name="check_monsters_debug" Content="Randomize alchemy recipes" ToolTip="Randomize monsters that spawn in overworld areas (fields, dungeons, etc.)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="monsters_mixInInfamous_EnableCheck"/>
+            </TabItem>
+            <TabItem Header="Music" Name="tab_music"  Visibility="Hidden"></TabItem>
         </TabControl>
+        <TextBox Name="tbox_seed" ToolTip="The seed to use for the randomization (Numbers only). Leave blank for a random seed." HorizontalAlignment="Left" Height="20" Margin="48,502,0,0" VerticalAlignment="Top" Width="178" TextChanged="tbox_seed_TextChanged" PreviewTextInput="tbox_IsNumericOnly" PreviewKeyDown="tbox_PreventSpace"/>
+        <TextBox Name="tbox_directory" ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="10,527,0,0" VerticalAlignment="Top" Width="154"/>
+        <Button Name="button_browse" Content="Browse..." ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="169,527,0,0" VerticalAlignment="Top" Width="57" Click="button_browse_Click"/>
+        <Label Content="Seed:" HorizontalAlignment="Left" Height="26" Margin="10,499,0,0" VerticalAlignment="Top" Width="38"/>
+        <Label Name="label_seed_watermark" Content="Leave blank for a random seed" HorizontalAlignment="Left" Height="26" Margin="46,498,0,0" VerticalAlignment="Top" Width="178" Focusable="False" Opacity="0.5" IsHitTestVisible="False"/>
+        <Button x:Name="button_finish" Click="button_finish_Click" Content="Randomize!" HorizontalAlignment="Left" Margin="231,502,0,0" VerticalAlignment="Top" Width="151" Height="45" FontSize="24"/>
+
 
     </Grid>
 </Window>

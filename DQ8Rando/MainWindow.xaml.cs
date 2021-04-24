@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Microsoft.Win32;
+using System.Windows.Forms;
 
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
@@ -21,6 +23,8 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 
 using static System.Random;
+
+using Xceed.Wpf.Toolkit;
 
 namespace DQ8Rando
 {
@@ -32,11 +36,15 @@ namespace DQ8Rando
         public MainWindow()
         {
             InitializeComponent();
+            browseDialog.SelectedPath = Environment.CurrentDirectory;
+            tbox_directory.Text = Environment.CurrentDirectory;
+            browseDialog.Description = "Select the output folder.";
         }
 
-        public System.Random rand = new System.Random();
+        public System.Random superRand = new System.Random();
+        public System.Random rand;
 
-        public List<Option> optionOutputList;
+        public List<OptionTab> optionOutputList;
 
         public string jsonString = "";
         public List<Encounter> encountList;
@@ -50,37 +58,58 @@ namespace DQ8Rando
         public TreasureBoxFile customTreasureBoxFile;
         public TbContentsFile customTbContentsFile;
 
+        public string outputFolder;
+        public FolderBrowserDialog browseDialog = new FolderBrowserDialog();
+
         private void button_finish_Click(object sender, RoutedEventArgs e)
         {
             initializeOptionOutputList();
 
+            int seed = generateNewRandom(tbox_seed.Text);
+            
             customEncountFile = null;
             customTreasureBoxFile = null;
             customTbContentsFile = null;
 
-            string message = "Patch created successfully.";
+            outputFolder = tbox_directory.Text + "\\output";
+
+            string message = "Patch successfully built to " + outputFolder + ".\nSeed: " + seed.ToString();
 
             if (check_monsters_enemyOverworld.IsChecked == true || check_monsters_enemySpecial.IsChecked == true)
                 randomizeOverworldEnemies();
             if (check_monsters_enemyBoss.IsChecked == true)
                 randomizeBossEnemies();
-            if (check_treasure_tbRandom.IsChecked == true  || check_treasure_blueRandom.IsChecked == true        || check_treasure_blueShuffle.IsChecked == true ||
+            if (check_treasure_tbRandom.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_blueShuffle.IsChecked == true ||
                 check_treasure_forceFill.IsChecked == true || check_treasure_locks_keyLocation.IsChecked == true || check_treasure_locks_randomizeLocks.IsChecked == true ||
                 check_treasure_swapBlueRed.IsChecked == true)
                 randomizeTreasure();
 
-            if (customEncountFile != null)
-                outputEncounterTableToFile(customEncountFile,"encount.tbl");
-            if (customTreasureBoxFile != null)
-                outputTreasureBoxFileToFile(customTreasureBoxFile, "tbTreasureBox.tbl");
-            if (customTbContentsFile != null)
-                outputTbContentsFileToFile(customTbContentsFile, "tbContents.tbl");
+            var x = createOutputFolder(outputFolder);
 
-            generateSpoilerLog();
-            generateOptionLog();
+            if (x == null)
+            {
+                outputDataToFile(outputFolder);
+                generateSpoilerLog(outputFolder);
+                generateOptionLog(outputFolder, seed);
+            }
+            else
+            {
+                message = "Error: Unable to create output directory.";
+            }
 
-            MessageBoxResult result = MessageBox.Show(message);
+            copyGraphicalAssets(outputFolder);
 
+            MessageBoxResult result = System.Windows.MessageBox.Show(message);
+
+            if (x != null)
+                tbox_directory.Text = Environment.CurrentDirectory;
+
+        }
+        private void button_browse_Click(object sender, RoutedEventArgs e)
+        {
+            browseDialog.SelectedPath = tbox_directory.Text;
+            browseDialog.ShowDialog();
+            tbox_directory.Text = browseDialog.SelectedPath;
         }
         private void monsters_mixInInfamous_EnableCheck(object sender, RoutedEventArgs e)
         {
@@ -90,8 +119,8 @@ namespace DQ8Rando
         {
             tbox_treasure_goldPercentMin.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_forceFill.IsChecked == true);
             tbox_treasure_goldPercentMax.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_forceFill.IsChecked == true);
-            tbox_treasure_goldAmountMin.IsEnabled  = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_forceFill.IsChecked == true);
-            tbox_treasure_goldAmountMax.IsEnabled  = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_forceFill.IsChecked == true);
+            tbox_treasure_goldAmountMin.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_forceFill.IsChecked == true);
+            tbox_treasure_goldAmountMax.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_blueRandom.IsChecked == true || check_treasure_forceFill.IsChecked == true);
             tbox_treasure_emptyPercentMin.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true);
             tbox_treasure_emptyPercentMax.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true);
             tbox_treasure_trapPercentMin.IsEnabled = (check_treasure_tbRandom.IsChecked == true || check_treasure_swapBlueRed.IsChecked == true || check_treasure_forceFill.IsChecked == true);
@@ -103,8 +132,8 @@ namespace DQ8Rando
         {
             check_treasure_locks_thiefKey.IsEnabled = (check_treasure_locks_randomizeLocks.IsChecked == true);
             check_treasure_locks_magicKey.IsEnabled = (check_treasure_locks_randomizeLocks.IsChecked == true);
-            tbox_treasure_locks_min.IsEnabled       = (check_treasure_locks_randomizeLocks.IsChecked == true && (check_treasure_locks_thiefKey.IsChecked == true || check_treasure_locks_magicKey.IsChecked == true));
-            tbox_treasure_locks_max.IsEnabled       = (check_treasure_locks_randomizeLocks.IsChecked == true && (check_treasure_locks_thiefKey.IsChecked == true || check_treasure_locks_magicKey.IsChecked == true));
+            tbox_treasure_locks_min.IsEnabled = (check_treasure_locks_randomizeLocks.IsChecked == true && (check_treasure_locks_thiefKey.IsChecked == true || check_treasure_locks_magicKey.IsChecked == true));
+            tbox_treasure_locks_max.IsEnabled = (check_treasure_locks_randomizeLocks.IsChecked == true && (check_treasure_locks_thiefKey.IsChecked == true || check_treasure_locks_magicKey.IsChecked == true));
         }
         private void tbox_treasure_goldPercent_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
@@ -158,18 +187,53 @@ namespace DQ8Rando
                     min.Value = min.Minimum;
             }
         }
-        public void initializeOptionOutputList()
+        private void WatermarkBoxUpdate(System.Windows.Controls.TextBox box, System.Windows.Controls.Label watermark)
+        {
+            if (box.Text == "" || box.Text.All<char>(e => e == ' ') || box.Text == null)
+                watermark.Visibility = Visibility.Visible;
+            else
+                watermark.Visibility = Visibility.Hidden;
+        }
+        private void tbox_seed_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            WatermarkBoxUpdate(tbox_seed, label_seed_watermark);
+        }
+        private void tbox_IsNumericOnly(object sender, TextCompositionEventArgs e)
+        {
+            int dummy;
+            var obj = e.OriginalSource as System.Windows.Controls.TextBox;
+            bool success = int.TryParse(obj.Text + e.Text, out dummy);
+            e.Handled = !(success || int.TryParse(obj.Text, out dummy) == false);
+        }
+        private void tbox_PreventSpace(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            e.Handled = e.Key == Key.Space;
+        }
+        private void initializeOptionOutputList()
         {
             if (optionOutputList == null)
             {
-                
+                jsonString = File.ReadAllText("Data/Options.json");
+                optionOutputList = JsonSerializer.Deserialize<List<OptionTab>>(jsonString);
+                foreach (OptionTab tab in optionOutputList)
+                {
+                    tab.Control = FindName(tab.Element) as System.Windows.Controls.Control;
+                    if (tab.Parent != null)
+                        tab.ParentControl = FindName(tab.Parent) as System.Windows.Controls.Control;
+                    foreach (Option opt in tab.Contents)
+                    {
+                        opt.Control = FindName(opt.Element) as System.Windows.Controls.Control;
+                        if (opt.Parent != null)
+                            opt.ParentControl = FindName(opt.Parent) as System.Windows.Controls.Control;
+                    }
+                }
             }
         }
         private void loadEncounters()
         {
             if (encountList == null)
             {
-                jsonString = File.ReadAllText("Encounter.json");
+                jsonString = File.ReadAllText("Data/Encounter.json");
                 encountList = JsonSerializer.Deserialize<List<Encounter>>(jsonString);
                 loadEncounterFile();
             }
@@ -178,7 +242,7 @@ namespace DQ8Rando
         {
             if (setEncountList == null)
             {
-                jsonString = File.ReadAllText("SetEncounter.json");
+                jsonString = File.ReadAllText("Data/SetEncounter.json");
                 setEncountList = JsonSerializer.Deserialize<List<SetEncounter>>(jsonString);
                 loadEncounterFile();
             }
@@ -187,7 +251,7 @@ namespace DQ8Rando
         {
             if (encountFile == null)
             {
-                jsonString = File.ReadAllText("EncountTbl.json");
+                jsonString = File.ReadAllText("Data/EncountTbl.json");
                 encountFile = JsonSerializer.Deserialize<EncountFile>(jsonString);
             }
         }
@@ -195,7 +259,7 @@ namespace DQ8Rando
         {
             if (itemList == null)
             {
-                jsonString = File.ReadAllText("Item.json");
+                jsonString = File.ReadAllText("Data/Item.json");
                 itemList = JsonSerializer.Deserialize<List<Item>>(jsonString);
             }
         }
@@ -203,7 +267,7 @@ namespace DQ8Rando
         {
             if (tbTreasureBox == null)
             {
-                jsonString = File.ReadAllText("TreasureBox.json");
+                jsonString = File.ReadAllText("Data/TreasureBox.json");
                 tbTreasureBox = JsonSerializer.Deserialize<TreasureBoxFile>(jsonString);
                 loadItems();
             }
@@ -212,7 +276,7 @@ namespace DQ8Rando
         {
             if (tbContents == null)
             {
-                jsonString = File.ReadAllText("BlueChest.json");
+                jsonString = File.ReadAllText("Data/BlueChest.json");
                 tbContents = JsonSerializer.Deserialize<TbContentsFile>(jsonString);
             }
         }
@@ -319,6 +383,15 @@ namespace DQ8Rando
                     }
                 }
             }
+        }
+        private int generateNewRandom(string textSeed)
+        {
+            int seed;
+            bool success = int.TryParse(textSeed, out seed);
+            if (success == false)
+                seed = superRand.Next();
+            rand = new System.Random(seed);
+            return seed;
         }
         private string reverseHex(string hex)
         {
@@ -525,11 +598,28 @@ namespace DQ8Rando
             }
             return null;
         }
-        private void generateSpoilerLog()
+        private Exception createOutputFolder(string path)
         {
-            generateEncounterSpoilerLog("Encounters.txt");
-            generateTreasureSpoilerLog("Treasure.txt");
-            generateBlueChestSpoilerLog("BlueChests.txt");
+            try
+            {
+                if (Directory.Exists(path) == false)
+                    Directory.CreateDirectory(path);
+                return null;
+            }
+            catch (Exception x)
+            {
+                return x;
+            }
+        }
+        private void generateSpoilerLog(string path)
+        {
+            if (Directory.Exists(path) == false)
+                Directory.CreateDirectory(path);
+            if (Directory.Exists(path + "/spoiler") == false)
+                Directory.CreateDirectory(path + "/spoiler");
+            generateEncounterSpoilerLog(path + "/spoiler/" + "Encounters.txt");
+            generateTreasureSpoilerLog (path + "/spoiler/" + "Treasure.txt");
+            generateBlueChestSpoilerLog(path + "/spoiler/" + "BlueChests.txt");
         }
         private void generateEncounterSpoilerLog(string path)
         {
@@ -696,9 +786,55 @@ namespace DQ8Rando
                 File.WriteAllText(path, finalString);
             }
         }
-        private void generateOptionLog()
+        private void generateOptionLog(string path, int seed)
         {
-
+            string optionString = "Seed: " + seed.ToString() + "\n\n";
+            foreach (OptionTab tab in optionOutputList)
+            {
+                if (tab.Control != null)
+                {
+                    optionString += tab.Header + ":\n";
+                    foreach (Option opt in tab.Contents)
+                    {
+                        if (opt.Control != null && opt.Control.IsEnabled)
+                        {
+                            if (opt.Indent != 0)
+                            {
+                                for (int i = 0; i < opt.Indent; i++)
+                                    optionString += "   ";
+                            }
+                            optionString += " - " + opt.Text + ": ";
+                            var check = opt.Control as System.Windows.Controls.CheckBox;
+                            if (check != null)
+                            {
+                                if (check.IsChecked == true)
+                                    optionString += "True";
+                                else
+                                    optionString += "False";
+                            }
+                            var doubleUpDown = opt.Control as Xceed.Wpf.Toolkit.DoubleUpDown;
+                            if (doubleUpDown != null)
+                            {
+                                optionString += doubleUpDown.Value.ToString();
+                            }
+                            var shortUpDown = opt.Control as Xceed.Wpf.Toolkit.ShortUpDown;
+                            if (shortUpDown != null)
+                            {
+                                optionString += shortUpDown.Value.ToString();
+                            }
+                            optionString += "\n";
+                        }
+                    }
+                }
+            }
+            File.WriteAllText(path + "/options.txt", optionString);
+        }
+        private void copyGraphicalAssets(string path)
+        {
+            if (Directory.Exists(path + "/romfs/data/Layout/texPG/en") == false)
+                Directory.CreateDirectory(path + "/romfs/data/Layout/texPG/en");
+            File.Copy("Resources/title_logo.bflim", path + "/romfs/data/Layout/texPG/en/title_logo.bflim", true);
+            File.Copy("Resources/tittle_001.bflim", path + "/romfs/data/Layout/texPG/en/tittle_001.bflim", true);
         }
         private void writeHexStringToFile (string byteString, string path)
         {
@@ -712,6 +848,24 @@ namespace DQ8Rando
                 bytes[i] = (byte)intValue;
             }
             File.WriteAllBytes(path, bytes);
+        }
+        private void outputDataToFile(string path)
+        {
+            if (Directory.Exists(path) == false)
+                Directory.CreateDirectory(path);
+            if (Directory.Exists(path + "/romfs") == false)
+                Directory.CreateDirectory(path + "/romfs");
+            if (Directory.Exists(path + "/romfs/data") == false)
+                Directory.CreateDirectory(path + "/romfs/data");
+            if (Directory.Exists(path + "/romfs/data/Params") == false)
+                Directory.CreateDirectory(path + "/romfs/data/Params");
+            string fullPath = path + "/romfs/data/Params";
+            if (customEncountFile != null)
+                outputEncounterTableToFile(customEncountFile, fullPath + "/" + "encount.tbl");
+            if (customTreasureBoxFile != null)
+                outputTreasureBoxFileToFile(customTreasureBoxFile, fullPath + "/" + "tbTreasureBox.tbl");
+            if (customTbContentsFile != null)
+                outputTbContentsFileToFile(customTbContentsFile, fullPath + "/" + "tbContents.tbl");
         }
         private void outputEncounterTableToFile(EncountFile data, string path)
         {
@@ -796,8 +950,7 @@ namespace DQ8Rando
             double trapPercent  = getRandomDoubleBetweenTwoValues(rand, (double)tbox_treasure_trapPercentMin.Value,  (double)tbox_treasure_trapPercentMax.Value) / 100;
             int minGold = (int)tbox_treasure_goldAmountMin.Value;
             int maxGold = (int)tbox_treasure_goldAmountMax.Value;
-            double[] test = { goldPercent,emptyPercent,lockPercent,bluePercent,trapPercent };
-            test = test;
+            
             // chests to reassign
             List<TreasureBox> chestsToReassign = new List<TreasureBox>();
 
@@ -1081,5 +1234,6 @@ namespace DQ8Rando
                 }
             }
         }
+
     }
 }

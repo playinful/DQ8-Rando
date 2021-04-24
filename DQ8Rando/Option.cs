@@ -1,8 +1,22 @@
-﻿namespace DQ8Rando
+﻿using System.Windows.Controls;
+
+namespace DQ8Rando
 {
-    public class Option
+    public class OptionBase
     {
-        public object Element { get; set; }
-        public object Parent { get; set; }
+        public string Element { get; set; }
+        public string Parent { get; set; }
+        public Control Control { get; set; }
+        public Control ParentControl { get; set; }
+    }
+    public class OptionTab : OptionBase
+    {
+        public string Header { get; set; }
+        public Option[] Contents { get; set; }
+    }
+    public class Option : OptionBase
+    {
+        public string Text { get; set; }
+        public int Indent { get; set; }
     }
 }

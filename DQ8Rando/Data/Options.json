@@ -1,0 +1,134 @@
+[
+  {
+    "Header": "Monsters",
+    "Element": "tab_monsters",
+    "Contents": [
+      {
+        "Text": "Randomize Encounters on the Overworld",
+        "Element": "check_monsters_enemyOverworld"
+      },
+      {
+        "Text": "Mix In Infamous Monsters",
+        "Element": "check_monsters_mixInInfamous",
+        "Parent": "check_monsters_enemyOverworld",
+        "Indent": 1
+      },
+      {
+        "Text": "Randomize Special Monsters",
+        "Element": "check_monsters_enemySpecial"
+      },
+      {
+        "Text": "Randomize Scripted Encounters",
+        "Element": "check_monsters_enemyBoss"
+      }
+    ]
+  },
+  {
+    "Header": "Treasure",
+    "Element": "tab_treasure",
+    "Contents": [
+      {
+        "Text": "Randomize treasure drops",
+        "Element": "check_treasure_tbRandom"
+      },
+      {
+        "Text": "Minimum percentage of gold drops",
+        "Element": "tbox_treasure_goldPercentMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum percentage of gold drops",
+        "Element": "tbox_treasure_goldPercentMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum Gold Amount",
+        "Element": "tbox_treasure_goldAmountMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Minimum Gold Amount",
+        "Element": "tbox_treasure_goldAmountMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Minimum percentage of empty objects",
+        "Element": "tbox_treasure_emptyPercentMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum percentage of empty objects",
+        "Element": "tbox_treasure_emptyPercentMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Minimum percentage of trapped chests",
+        "Element": "tbox_treasure_trapPercentMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum percentage of trapped chests",
+        "Element": "tbox_treasure_trapPercentMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Force chests to be filled",
+        "Element": "check_treasure_forceFill"
+      },
+      {
+        "Text": "Shuffle blue chests",
+        "Element": "check_treasure_blueShuffle"
+      },
+      {
+        "Text": "Randomize blue chest pools",
+        "Element": "check_treasure_blueRandom"
+      },
+      {
+        "Text": "Swap blue and red chests",
+        "Element": "check_treasure_swapBlueRed"
+      },
+      {
+        "Text": "Minimum percentage of blue chests",
+        "Element": "tbox_treasure_bluePercentMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum percentage of blue chests",
+        "Element": "tbox_treasure_bluePercentMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Randomize locks",
+        "Element": "check_treasure_locks_randomizeLocks"
+      },
+      {
+        "Text": "Thief's Key",
+        "Element": "check_treasure_locks_thiefKey",
+        "Parent": "check_treasure_locks_randomizeLocks",
+        "Indent": 1
+      },
+      {
+        "Text": "Magic Key",
+        "Element": "check_treasure_locks_magicKey",
+        "Parent": "check_treasure_locks_randomizeLocks",
+        "Indent": 1
+      },
+      {
+        "Text": "Minimum percentage of locked chests",
+        "Element": "tbox_treasure_locks_min",
+        "Parent": "check_treasure_locks_randomizeLocks",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum percentage of locked chests",
+        "Element": "tbox_treasure_locks_max",
+        "Parent": "check_treasure_locks_randomizeLocks",
+        "Indent": 1
+      },
+      {
+        "Text": "Randomize Magic Key location",
+        "Element": "check_treasure_locks_keyLocation"
+      }
+    ]
+  }
+]
