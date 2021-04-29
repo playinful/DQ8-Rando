@@ -1,0 +1,2867 @@
+{
+  "Header": "36000000000000000000000000000000",
+  "Contents": [
+    {
+      "ID": "00",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "00",
+      "Location": "Farebury",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0064",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "01",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "01",
+      "Location": "Farebury",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0001",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0040",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0041",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0003",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0031",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "02",
+      "Unk1": "02",
+      "Unk2": "02",
+      "Unk3": "02",
+      "Location": "Farebury",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0065",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0066",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0079",
+          "Footer": "0000"
+        },
+        {
+          "ID": "009D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00B6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "03",
+      "Unk1": "01",
+      "Unk2": "02",
+      "Unk3": "03",
+      "Location": "Alexandria",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0040",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0041",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0003",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0031",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0038",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "04",
+      "Unk1": "02",
+      "Unk2": "00",
+      "Unk3": "04",
+      "Location": "Alexandria",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0069",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "009E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "05",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "05",
+      "Location": "Port Prospect",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "06",
+      "Unk1": "03",
+      "Unk2": "00",
+      "Unk3": "06",
+      "Location": "Port Prospect",
+      "Store": "Equipment Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0038",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0028",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0051",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0069",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "009E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "07",
+      "Unk1": "05",
+      "Unk2": "01",
+      "Unk3": "07",
+      "Location": "Empty",
+      "Store": "Empty",
+      "Edit": 0,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "08",
+      "Unk1": "00",
+      "Unk2": "01",
+      "Unk3": "08",
+      "Location": "Peregrin Quay",
+      "Store": "Item Shop (NW)",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "09",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "09",
+      "Location": "Peregrin Quay",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "001E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0048",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0028",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0051",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "0A",
+      "Unk1": "02",
+      "Unk2": "02",
+      "Unk3": "0A",
+      "Location": "Peregrin Quay",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "007A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0091",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "009E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00B8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "0B",
+      "Unk1": "04",
+      "Unk2": "02",
+      "Unk3": "0B",
+      "Location": "Simpleton",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00BA",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "0C",
+      "Unk1": "01",
+      "Unk2": "03",
+      "Unk3": "0C",
+      "Location": "Simpleton",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0017",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0048",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0056",
+          "Footer": "0000"
+        },
+        {
+          "ID": "002A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0042",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "0D",
+      "Unk1": "00",
+      "Unk2": "01",
+      "Unk3": "0D",
+      "Location": "Ascantha",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0125",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "0E",
+      "Unk1": "01",
+      "Unk2": "02",
+      "Unk3": "0E",
+      "Location": "Ascantha",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "001F",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0060",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0056",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0033",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0004",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "0F",
+      "Unk1": "02",
+      "Unk2": "01",
+      "Unk3": "0F",
+      "Location": "Ascantha",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "006A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007C",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A1",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00BA",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "10",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "10",
+      "Location": "Unused",
+      "Store": "Unused",
+      "Edit": 0,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0040",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0002",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0003",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0028",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "11",
+      "Unk1": "02",
+      "Unk2": "02",
+      "Unk3": "11",
+      "Location": "Pickham",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "007C",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0092",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0068",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A3",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00BE",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "12",
+      "Unk1": "01",
+      "Unk2": "02",
+      "Unk3": "12",
+      "Location": "Pickham",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0020",
+          "Footer": "0000"
+        },
+        {
+          "ID": "005E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0004",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0039",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0029",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "13",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "13",
+      "Location": "Pickham",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "14",
+      "Unk1": "03",
+      "Unk2": "00",
+      "Unk3": "14",
+      "Location": "Baccarat",
+      "Store": "Equipment Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0023",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0055",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0068",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A4",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C1",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "15",
+      "Unk1": "00",
+      "Unk2": "03",
+      "Unk3": "15",
+      "Location": "Baccarat",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "16",
+      "Unk1": "00",
+      "Unk2": "01",
+      "Unk3": "16",
+      "Location": "Princess Minnie's Castle",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0126",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0127",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "17",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "17",
+      "Location": "Neos",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00EB",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "18",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "18",
+      "Location": "Neos",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0033",
+          "Footer": "0000"
+        },
+        {
+          "ID": "004B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0055",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0006",
+          "Footer": "0000"
+        },
+        {
+          "ID": "001A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "19",
+      "Unk1": "02",
+      "Unk2": "03",
+      "Unk3": "19",
+      "Location": "Neos",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0080",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0081",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A4",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C3",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "1A",
+      "Unk1": "03",
+      "Unk2": "00",
+      "Unk3": "1A",
+      "Location": "Argonia",
+      "Store": "Equipment Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "003E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "002B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0083",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0094",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A4",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00BB",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "1B",
+      "Unk1": "00",
+      "Unk2": "01",
+      "Unk3": "1B",
+      "Location": "Argonia",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "1C",
+      "Unk1": "00",
+      "Unk2": "01",
+      "Unk3": "1C",
+      "Location": "Argonia",
+      "Store": "Bazaar: Accessory Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0119",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E1",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00DA",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E5",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E4",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E2",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "1D",
+      "Unk1": "01",
+      "Unk2": "02",
+      "Unk3": "1D",
+      "Location": "Argonia",
+      "Store": "Bazaar: Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "004B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0035",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0009",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0043",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0024",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "1E",
+      "Unk1": "02",
+      "Unk2": "03",
+      "Unk3": "1E",
+      "Location": "Argonia",
+      "Store": "Bazaar: Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0087",
+          "Footer": "0000"
+        },
+        {
+          "ID": "006F",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0085",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C3",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "1F",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "1F",
+      "Location": "Argonia",
+      "Store": "Bazaar: Shady Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 300,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00DB",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "20",
+      "Unk1": "00",
+      "Unk2": "00",
+      "Unk3": "20",
+      "Location": "Argonia",
+      "Store": "Bazaar: Cheese Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0125",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0124",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0126",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0127",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "21",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "21",
+      "Location": "Orkutsk",
+      "Store": "Item Shop (before Baumren's bell)",
+      "Edit": 1,
+      "Parent": "34",
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "22",
+      "Unk1": "02",
+      "Unk2": "03",
+      "Unk3": "22",
+      "Location": "Orkutsk",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0098",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0084",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0167",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00CE",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "23",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "23",
+      "Location": "Orkutsk",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0036",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0024",
+          "Footer": "0000"
+        },
+        {
+          "ID": "004D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "000B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "003A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0173",
+          "Footer": "0000"
+        },
+        {
+          "ID": "017D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "24",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "24",
+      "Location": "Arcadia",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "010B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "25",
+      "Unk1": "02",
+      "Unk2": "03",
+      "Unk3": "25",
+      "Location": "Arcadia",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "006D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0085",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0070",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C3",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "26",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "26",
+      "Location": "Arcadia",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0026",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0036",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0010",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0054",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "27",
+      "Unk1": "04",
+      "Unk2": "03",
+      "Unk3": "27",
+      "Location": "Empycchu",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "005D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "001D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0174",
+          "Footer": "0000"
+        },
+        {
+          "ID": "017E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "008A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0166",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00CA",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "28",
+      "Unk1": "04",
+      "Unk2": "03",
+      "Unk3": "28",
+      "Location": "Dark Empycchu",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "005D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "001D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0174",
+          "Footer": "0000"
+        },
+        {
+          "ID": "017E",
+          "Footer": "0000"
+        },
+        {
+          "ID": "008A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0166",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00CA",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "29",
+      "Unk1": "00",
+      "Unk2": "03",
+      "Unk3": "29",
+      "Location": "Tryan Gully",
+      "Store": "Item Shop (before Baumren's bell)",
+      "Edit": 1,
+      "Parent": "35",
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0095",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0109",
+          "Footer": "0000"
+        },
+        {
+          "ID": "010B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "2A",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "2A",
+      "Location": "Tryan Gully",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "000B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "003A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "000D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "005F",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0052",
+          "Footer": "0000"
+        },
+        {
+          "ID": "005C",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0175",
+          "Footer": "0000"
+        },
+        {
+          "ID": "017F",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "2B",
+      "Unk1": "02",
+      "Unk2": "01",
+      "Unk3": "2B",
+      "Location": "Tryan Gully",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "008C",
+          "Footer": "0000"
+        },
+        {
+          "ID": "008D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00AC",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00CD",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00D1",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "2C",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "2C",
+      "Location": "Peregrin Quay",
+      "Store": "Item Shop (SE)",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0001",
+          "Footer": "0000"
+        },
+        {
+          "ID": "009C",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00B5",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00B7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "2D",
+      "Unk1": "00",
+      "Unk2": "03",
+      "Unk3": "2D",
+      "Location": "Church to the west of Trodain",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0092",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00BF",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "2E",
+      "Unk1": "04",
+      "Unk2": "03",
+      "Unk3": "2E",
+      "Location": "Desert Chapel",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0006",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "2F",
+      "Unk1": "01",
+      "Unk2": "00",
+      "Unk3": "2F",
+      "Location": "Savella Cathedral",
+      "Store": "Weapon Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0055",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0027",
+          "Footer": "0000"
+        },
+        {
+          "ID": "002B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "001A",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "30",
+      "Unk1": "00",
+      "Unk2": "03",
+      "Unk3": "30",
+      "Location": "Savella Cathedral",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00EB",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "31",
+      "Unk1": "02",
+      "Unk2": "00",
+      "Unk3": "31",
+      "Location": "Savella Cathedral",
+      "Store": "Armour Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0080",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0083",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0094",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00A6",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00C3",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "32",
+      "Unk1": "00",
+      "Unk2": "01",
+      "Unk3": "32",
+      "Location": "Dragovian Sanctuary",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "011F",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00E7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0109",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0121",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0128",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "33",
+      "Unk1": "04",
+      "Unk2": "02",
+      "Unk3": "33",
+      "Location": "Peddlers' Tent",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F9",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0006",
+          "Footer": "0000"
+        },
+        {
+          "ID": "007F",
+          "Footer": "0000"
+        },
+        {
+          "ID": "006D",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "34",
+      "Unk1": "00",
+      "Unk2": "02",
+      "Unk3": "34",
+      "Location": "Orkutsk",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "00F7",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0107",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0198",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    },
+    {
+      "ID": "35",
+      "Unk1": "00",
+      "Unk2": "03",
+      "Unk3": "35",
+      "Location": "Tryan Gully",
+      "Store": "Item Shop",
+      "Edit": 1,
+      "Parent": null,
+      "Sale": 100,
+      "Items": [
+        {
+          "ID": "0095",
+          "Footer": "0000"
+        },
+        {
+          "ID": "00F8",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0108",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0106",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0109",
+          "Footer": "0000"
+        },
+        {
+          "ID": "010B",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0199",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        },
+        {
+          "ID": "0000",
+          "Footer": "0000"
+        }
+      ]
+    }
+  ]
+}

@@ -130,5 +130,107 @@
         "Element": "check_treasure_locks_keyLocation"
       }
     ]
+  },
+  {
+    "Header": "Shopping",
+    "Element": "tab_shop",
+    "Contents": [
+      {
+        "Text": "Shops",
+        "Elements": [
+          {
+            "Text": "No change",
+            "Element": "radio_shop_noChange"
+          },
+          {
+            "Text": "Shuffle shops",
+            "Element": "radio_shop_shuffleShop"
+          },
+          {
+            "Text": "Shuffle shop items",
+            "Element": "radio_shop_shuffleItem"
+          },
+          {
+            "Text": "Randomize shop items",
+            "Element": "radio_shop_randomItem"
+          }
+        ],
+        "Type": "Choice"
+      },
+      {
+        "Text": "Randomize prices by item",
+        "Element": "check_shop_itemPrice"
+      },
+      {
+        "Text": "Minimum item price",
+        "Element": "tbox_shop_itemPriceMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum item price",
+        "Element": "tbox_shop_itemPriceMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Randomize prices by shop",
+        "Element": "check_shop_shopPrice"
+      },
+      {
+        "Text": "Minimum shop price percentage",
+        "Element": "tbox_shop_shopPriceMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum shop price percentage",
+        "Element": "tbox_shop_shopPriceMax",
+        "Indent": 1
+      },
+      {
+        "Text": "Casino prizes",
+        "Elements": [
+          {
+            "Text": "No change",
+            "Element": "radio_shop_casino_noChange"
+          },
+          {
+            "Text": "Shuffle prizes",
+            "Element": "radio_shop_casino_shufflePrize"
+          },
+          {
+            "Text": "Randomize prizes",
+            "Element": "radio_shop_casino_randomPrize"
+          }
+        ],
+        "Type": "Choice"
+      },
+      {
+        "Text": "Randomize prize costs",
+        "Element": "check_shop_casino_Price"
+      },
+      {
+        "Text": "Minimum casino prize cost",
+        "Element": "tbox_shop_casino_price_min",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum casino prize cost",
+        "Element": "tbox_shop_casino_price_max",
+        "Indent": 1
+      },
+      {
+        "Text": "Randomize inn fares",
+        "Element": "check_shop_hotelCharges"
+      },
+      {
+        "Text": "Minimum inn fare",
+        "Element": "tbox_shop_hotelChargesMin",
+        "Indent": 1
+      },
+      {
+        "Text": "Maximum inn fare",
+        "Element": "tbox_shop_hotelChargesMax",
+        "Indent": 1
+      }
+    ]
   }
 ]

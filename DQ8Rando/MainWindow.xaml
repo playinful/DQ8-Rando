@@ -30,70 +30,125 @@
                 <Grid Background="#FFFFFFFF">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="14*"/>
-                        <ColumnDefinition Width="169*"/>
+                        <ColumnDefinition Width="54*"/>
+                        <ColumnDefinition Width="115*"/>
                     </Grid.ColumnDefinitions>
-                    <CheckBox x:Name="check_treasure_tbRandom"     Content="Randomize treasure drops"      ToolTip="Randomize the treasure obtained from chests, barrels, etc." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="treasure_goldPercent_EnableCheck"/>
-                    <CheckBox x:Name="check_treasure_forceFill"    Content="Force chests to be filled"     ToolTip="Make sure that no chest is left empty. Does not affect barrels, pots, etc." HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                    <CheckBox x:Name="check_treasure_tbRandom"     Content="Randomize treasure drops"      ToolTip="Randomize the treasure obtained from chests, barrels, etc." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Click="treasure_goldPercent_EnableCheck"/>
+                    <CheckBox x:Name="check_treasure_forceFill"    Content="Force chests to be filled"     ToolTip="Make sure that no chest is left empty. Does not affect barrels, pots, etc." HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
                     <CheckBox x:Name="check_treasure_blueShuffle"  Content="Shuffle blue chests"           ToolTip="Randomly assign loot pools to each blue and purple chest." HorizontalAlignment="Left" Margin="10,185,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-                    <CheckBox x:Name="check_treasure_blueRandom"   Content="Randomize blue chest pools"    ToolTip="Randomize items within blue and purple chest pools." HorizontalAlignment="Left" Margin="10,205,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"  Click="treasure_goldPercent_EnableCheck"/>
-                    <CheckBox x:Name="check_treasure_swapBlueRed"  Content="Swap blue and red chests"      ToolTip="Randomly turn some red chests blue, and vice versa." HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="treasure_goldPercent_EnableCheck"/>
+                    <CheckBox x:Name="check_treasure_blueRandom"   Content="Randomize blue chest pools"    ToolTip="Randomize items within blue and purple chest pools." HorizontalAlignment="Left" Margin="10,205,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"  Click="treasure_goldPercent_EnableCheck"/>
+                    <CheckBox x:Name="check_treasure_swapBlueRed"  Content="Swap blue and red chests"      ToolTip="Randomly turn some red chests blue, and vice versa." HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Click="treasure_goldPercent_EnableCheck"/>
                     <wpfTool:DoubleUpDown Name="tbox_treasure_goldPercentMin"  Value="25"   Maximum="100" Minimum="0"   ToolTip="Minimum percentage of loot objects to contain gold." HorizontalAlignment="Left" Height="20" Margin="10,71,0,0" VerticalAlignment="Top" Width="62" Grid.ColumnSpan="2" IsEnabled="False" ValueChanged="tbox_treasure_goldPercent_ValueChanged"/>
-                    <wpfTool:DoubleUpDown Name="tbox_treasure_goldPercentMax"  Value="50"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of loot objects to contain gold." HorizontalAlignment="Left" Height="20" Margin="64,71,0,0" VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False"     ValueChanged="tbox_treasure_goldPercent_ValueChanged"/>
-                    <wpfTool:ShortUpDown Name="tbox_treasure_goldAmountMin"    Value="1"    Maximum="32767" Minimum="1" ToolTip="Minimum amount of gold contained within a single object." HorizontalAlignment="Left" Height="20" Margin="152,71,0,0"  VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.Column="1" ValueChanged="tbox_treasure_goldAmount_ValueChanged"/>
-                    <wpfTool:ShortUpDown Name="tbox_treasure_goldAmountMax"    Value="2500" Maximum="32767" Minimum="1" ToolTip="Maximum amount of gold contained within a single object." HorizontalAlignment="Left" Height="20" Margin="234,71,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False" ValueChanged="tbox_treasure_goldAmount_ValueChanged"/>
+                    <wpfTool:DoubleUpDown Name="tbox_treasure_goldPercentMax"  Value="50"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of loot objects to contain gold." HorizontalAlignment="Left" Height="20" Margin="64,71,0,0" VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False"     ValueChanged="tbox_treasure_goldPercent_ValueChanged" Grid.ColumnSpan="2"/>
+                    <wpfTool:ShortUpDown Name="tbox_treasure_goldAmountMin"    Value="1"    Maximum="32767" Minimum="1" ToolTip="Minimum amount of gold contained within a single object." HorizontalAlignment="Left" Height="20" Margin="44,71,0,0"  VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.Column="2" ValueChanged="tbox_treasure_goldAmount_ValueChanged"/>
+                    <wpfTool:ShortUpDown Name="tbox_treasure_goldAmountMax"    Value="2500" Maximum="32767" Minimum="1" ToolTip="Maximum amount of gold contained within a single object." HorizontalAlignment="Left" Height="20" Margin="126,71,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="2" IsEnabled="False" ValueChanged="tbox_treasure_goldAmount_ValueChanged"/>
                     <wpfTool:DoubleUpDown Name="tbox_treasure_emptyPercentMin" Value="20"   Maximum="100" Minimum="0"   ToolTip="Minimum percentage of loot objects to contain nothing." HorizontalAlignment="Left" Height="20" Margin="10,137,0,0"  VerticalAlignment="Top" Width="62" Grid.ColumnSpan="2" IsEnabled="False" ValueChanged="tbox_treasure_emptyPercent_ValueChanged"/>
-                    <wpfTool:DoubleUpDown Name="tbox_treasure_emptyPercentMax" Value="30"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of loot objects to contain nothing." HorizontalAlignment="Left" Height="20" Margin="64,137,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False" ValueChanged="tbox_treasure_emptyPercent_ValueChanged"/>
-                    <wpfTool:DoubleUpDown Name="tbox_treasure_trapPercentMin"  Value="5"    Maximum="100" Minimum="0"   ToolTip="Minimum percentage of chests that are monsters in disguise." HorizontalAlignment="Left" Height="20" Margin="152,137,0,0"  VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.Column="1" ValueChanged="tbox_treasure_trapPercent_ValueChanged"/>
-                    <wpfTool:DoubleUpDown Name="tbox_treasure_trapPercentMax"  Value="10"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of chests that are monsters in disguise." HorizontalAlignment="Left" Height="20" Margin="234,137,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False" ValueChanged="tbox_treasure_trapPercent_ValueChanged"/>
+                    <wpfTool:DoubleUpDown Name="tbox_treasure_emptyPercentMax" Value="30"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of loot objects to contain nothing." HorizontalAlignment="Left" Height="20" Margin="64,137,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False" ValueChanged="tbox_treasure_emptyPercent_ValueChanged" Grid.ColumnSpan="2"/>
+                    <wpfTool:DoubleUpDown Name="tbox_treasure_trapPercentMin"  Value="5"    Maximum="100" Minimum="0"   ToolTip="Minimum percentage of chests that are monsters in disguise." HorizontalAlignment="Left" Height="20" Margin="44,137,0,0"  VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.Column="2" ValueChanged="tbox_treasure_trapPercent_ValueChanged"/>
+                    <wpfTool:DoubleUpDown Name="tbox_treasure_trapPercentMax"  Value="10"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of chests that are monsters in disguise." HorizontalAlignment="Left" Height="20" Margin="126,137,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="2" IsEnabled="False" ValueChanged="tbox_treasure_trapPercent_ValueChanged"/>
                     <wpfTool:DoubleUpDown Name="tbox_treasure_bluePercentMin"  Value="10"   Maximum="100" Minimum="0"   ToolTip="Minimum percentage of blue/purple chests." HorizontalAlignment="Left" Height="20" Margin="10,286,0,0"  VerticalAlignment="Top" Width="62" Grid.ColumnSpan="2" IsEnabled="False" ValueChanged="tbox_treasure_bluePercent_ValueChanged" />
-                    <wpfTool:DoubleUpDown Name="tbox_treasure_bluePercentMax"  Value="15"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of blue/purple chests." HorizontalAlignment="Left" Height="20" Margin="64,286,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False" ValueChanged="tbox_treasure_bluePercent_ValueChanged"/>
+                    <wpfTool:DoubleUpDown Name="tbox_treasure_bluePercentMax"  Value="15"   Maximum="100" Minimum="0"   ToolTip="Maximum percentage of blue/purple chests." HorizontalAlignment="Left" Height="20" Margin="64,286,0,0"  VerticalAlignment="Top" Width="62" Grid.Column="1" IsEnabled="False" ValueChanged="tbox_treasure_bluePercent_ValueChanged" Grid.ColumnSpan="2"/>
                     <!-- Locks -->
                     <CheckBox x:Name="check_treasure_locks_randomizeLocks" Content="Randomize locks"              ToolTip="Randomize the locks on treasure chests." HorizontalAlignment="Left" Margin="10,332,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="treasure_locks_EnableCheck"/>
                     <CheckBox x:Name="check_treasure_locks_thiefKey"       Content="Thief's Key"                  ToolTip="Allow chests to be locked by the Thief's Key." HorizontalAlignment="Left" Margin="10,352,0,0" VerticalAlignment="Top" IsEnabled="False" Grid.ColumnSpan="2" Click="treasure_locks_EnableCheck" IsChecked="True"/>
-                    <CheckBox x:Name="check_treasure_locks_magicKey"       Content="Magic Key"                    ToolTip="Allow chests to be locked by the Magic Key." HorizontalAlignment="Left" Margin="73,352,0,0" VerticalAlignment="Top" IsEnabled="False" Grid.Column="1" Click="treasure_locks_EnableCheck" IsChecked="True"/>
-                    <CheckBox x:Name="check_treasure_locks_keyLocation"    Content="Randomize Magic Key location" ToolTip="Shuffle the Magic Key into a random loot object. (Guaranteed to be accessible)" HorizontalAlignment="Left" Margin="10,437,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                    <CheckBox x:Name="check_treasure_locks_magicKey"       Content="Magic Key"                    ToolTip="Allow chests to be locked by the Magic Key." HorizontalAlignment="Left" Margin="73,352,0,0" VerticalAlignment="Top" IsEnabled="False" Grid.Column="1" Click="treasure_locks_EnableCheck" IsChecked="True" Grid.ColumnSpan="2"/>
+                    <CheckBox x:Name="check_treasure_locks_keyLocation"    Content="Randomize Magic Key location" ToolTip="Shuffle the Magic Key into a random loot object. (Guaranteed to be accessible)" HorizontalAlignment="Left" Margin="10,437,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
                     <wpfTool:DoubleUpDown Name="tbox_treasure_locks_min" Value="35" ToolTip="Minimum percentage of chests to lock." Minimum="0" Maximum="100"         HorizontalAlignment="Left" Height="20" Margin="10,412,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.ColumnSpan="2" ValueChanged="tbox_treasure_lockPercent_ValueChanged"/>
-                    <wpfTool:DoubleUpDown Name="tbox_treasure_locks_max" Value="45" ToolTip="Maximum percentage of chests to lock." Minimum="0" Maximum="100"         HorizontalAlignment="Left" Height="20" Margin="64,412,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.Column="1" ValueChanged="tbox_treasure_lockPercent_ValueChanged"/>
+                    <wpfTool:DoubleUpDown Name="tbox_treasure_locks_max" Value="45" ToolTip="Maximum percentage of chests to lock." Minimum="0" Maximum="100"         HorizontalAlignment="Left" Height="20" Margin="64,412,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" Grid.Column="1" ValueChanged="tbox_treasure_lockPercent_ValueChanged" Grid.ColumnSpan="2"/>
                     <!-- Mini Medals -->
 
-                    <Label Content="Percentage of gold drops" HorizontalAlignment="Left" Height="26" Margin="10,25,0,0" VerticalAlignment="Top" Width="170" Grid.ColumnSpan="2"/>
-                    <Label Content="Gold amount" HorizontalAlignment="Left" Height="26" Margin="152,25,0,0" VerticalAlignment="Top" Width="186" Grid.Column="1"/>
+                    <Label Content="Percentage of gold drops" HorizontalAlignment="Left" Height="26" Margin="10,25,0,0" VerticalAlignment="Top" Width="170" Grid.ColumnSpan="3"/>
+                    <Label Content="Gold amount" HorizontalAlignment="Left" Height="26" Margin="44,25,0,0" VerticalAlignment="Top" Width="186" Grid.Column="2"/>
                     <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="10,45,0,0" VerticalAlignment="Top" Width="82" Grid.ColumnSpan="2"/>
-                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,45,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="126,68,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,45,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="18,68,0,0" VerticalAlignment="Top" Width="20" Grid.Column="2"/>
                     <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="44,68,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
                     <Label Content="Locks" HorizontalAlignment="Left" Height="26" Margin="10,306,0,0" VerticalAlignment="Top" Width="40" Grid.ColumnSpan="2"/>
-                    <Separator HorizontalAlignment="Left" Height="21" Margin="27,311,0,0" VerticalAlignment="Top" Width="301" Grid.Column="1"/>
-                    <Label Content="Percentage of chests to lock" HorizontalAlignment="Left" Height="26" Margin="10,367,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="2"/>
+                    <Separator HorizontalAlignment="Left" Height="21" Margin="27,311,0,0" VerticalAlignment="Top" Width="301" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <Label Content="Percentage of chests to lock" HorizontalAlignment="Left" Height="26" Margin="10,367,0,0" VerticalAlignment="Top" Width="183" Grid.ColumnSpan="3"/>
                     <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="10,387,0,0" VerticalAlignment="Top" Width="82" Grid.ColumnSpan="2"/>
-                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,387,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="126,409,0,0" VerticalAlignment="Top" Width="26" Grid.Column="1"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,387,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="18,409,0,0" VerticalAlignment="Top" Width="26" Grid.Column="2"/>
                     <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="44,409,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
-                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="152,45,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="234,45,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="296,68,0,0" VerticalAlignment="Top" Width="26" Grid.Column="1"/>
-                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="214,68,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
-                    <Label Content="Percentage of empty objects" HorizontalAlignment="Left" Height="26" Margin="10,91,0,0" VerticalAlignment="Top" Width="170" Grid.ColumnSpan="2"/>
+                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="44,45,0,0" VerticalAlignment="Top" Width="82" Grid.Column="2"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="126,45,0,0" VerticalAlignment="Top" Width="82" Grid.Column="2"/>
+                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="188,68,0,0" VerticalAlignment="Top" Width="26" Grid.Column="2"/>
+                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="106,68,0,0" VerticalAlignment="Top" Width="20" Grid.Column="2"/>
+                    <Label Content="Percentage of empty objects" HorizontalAlignment="Left" Height="26" Margin="10,91,0,0" VerticalAlignment="Top" Width="170" Grid.ColumnSpan="3"/>
                     <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="10,111,0,0" VerticalAlignment="Top" Width="82" Grid.ColumnSpan="2"/>
-                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,111,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="126,134,0,0" VerticalAlignment="Top" Width="26" Grid.Column="1"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,111,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="18,134,0,0" VerticalAlignment="Top" Width="26" Grid.Column="2"/>
                     <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="44,134,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
-                    <Label Content="Percentage of trap chests" HorizontalAlignment="Left" Height="26" Margin="152,91,0,0" VerticalAlignment="Top" Width="186" Grid.Column="1"/>
-                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="152,111,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="234,111,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="296,134,0,0" VerticalAlignment="Top" Width="26" Grid.Column="1"/>
-                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="214,134,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
-                    <Label Content="Percentage of blue chests" HorizontalAlignment="Left" Height="26" Margin="10,240,0,0" VerticalAlignment="Top" Width="170" Grid.ColumnSpan="2"/>
+                    <Label Content="Percentage of trap chests" HorizontalAlignment="Left" Height="26" Margin="44,91,0,0" VerticalAlignment="Top" Width="186" Grid.Column="2"/>
+                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="44,111,0,0" VerticalAlignment="Top" Width="82" Grid.Column="2"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="126,111,0,0" VerticalAlignment="Top" Width="82" Grid.Column="2"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="188,134,0,0" VerticalAlignment="Top" Width="26" Grid.Column="2"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="106,134,0,0" VerticalAlignment="Top" Width="20" Grid.Column="2"/>
+                    <Label Content="Percentage of blue chests" HorizontalAlignment="Left" Height="26" Margin="10,240,0,0" VerticalAlignment="Top" Width="170" Grid.ColumnSpan="3"/>
                     <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="10,260,0,0" VerticalAlignment="Top" Width="82" Grid.ColumnSpan="2"/>
-                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,260,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
-                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="126,283,0,0" VerticalAlignment="Top" Width="26" Grid.Column="1"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="64,260,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1" Grid.ColumnSpan="2"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="18,283,0,0" VerticalAlignment="Top" Width="26" Grid.Column="2"/>
                     <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="44,283,0,0" VerticalAlignment="Top" Width="20" Grid.Column="1"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="Alchemy" Name="tab_alchemy" Visibility="Hidden">
-                <CheckBox Name="check_monsters_debug" Content="Randomize alchemy recipes" ToolTip="Randomize monsters that spawn in overworld areas (fields, dungeons, etc.)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Click="monsters_mixInInfamous_EnableCheck"/>
+            <TabItem Header="Shopping" Name="tab_shop" >
+                <Grid>
+                    <GroupBox Header="Shop inventory" HorizontalAlignment="Left" Height="78" Margin="10,10,0,0" VerticalAlignment="Top" Width="346">
+                        <Grid>
+                            <RadioButton Name="radio_shop_noChange"    Content="No change"            ToolTip="Make no changes to shop lineups." HorizontalAlignment="Left" Width="109" Margin="10,10,0,0" Height="15" VerticalAlignment="Top" IsChecked="True"/>
+                            <RadioButton Name="radio_shop_shuffleShop" Content="Shuffle shops"        ToolTip="Shuffle shop inventories between shops." VerticalAlignment="Top" Margin="167,10,58,0"/>
+                            <RadioButton Name="radio_shop_shuffleItem" Content="Shuffle shop items"   ToolTip="Shuffle items between shops." VerticalAlignment="Top" Margin="10,30,195,0"/>
+                            <RadioButton Name="radio_shop_randomItem"  Content="Randomize shop items" ToolTip="Randomize all items sold in shops." Margin="167,30,16,0" Height="15" VerticalAlignment="Top"/>
+                        </Grid>
+                    </GroupBox>
+                    <CheckBox x:Name="check_shop_itemPrice" Content="Randomize prices by item" ToolTip="Randomize the price of all items." HorizontalAlignment="Left" Margin="10,98,0,0" VerticalAlignment="Top" Click="shop_itemPrice_EnableCheck"/>
+                    <CheckBox x:Name="check_shop_shopPrice" Content="Randomize prices by shop" ToolTip="Randomize the sale/markup percentage each shop sells items at." Margin="183,98,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="shop_shopPrice_EnableCheck"/>
+                    <wpfTool:LongUpDown x:Name="tbox_shop_itemPriceMin" Value="1"      Maximum="9999999" Minimum="1" ToolTip="Minimum price for any item." HorizontalAlignment="Left" Height="20" Margin="10,159,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" ValueChanged="shop_itemPrice_ValueChanged"/>
+                    <wpfTool:LongUpDown x:Name="tbox_shop_itemPriceMax" Value="500000" Maximum="9999999" Minimum="1" ToolTip="Maximum price for any item." HorizontalAlignment="Left" Height="20" Margin="92,159,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" ValueChanged="shop_itemPrice_ValueChanged"/>
+                    <wpfTool:LongUpDown x:Name="tbox_shop_shopPriceMin" Value="50"     Maximum="20000"   Minimum="1" ToolTip="Minimum percentage of sale price for any shop." HorizontalAlignment="Left" Height="20" Margin="183,159,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" ValueChanged="shop_shopPrice_ValueChanged"/>
+                    <wpfTool:LongUpDown x:Name="tbox_shop_shopPriceMax" Value="300"    Maximum="20000"   Minimum="1" ToolTip="Maximum percentage of sale price for any shop." HorizontalAlignment="Left" Height="20" Margin="265,159,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" ValueChanged="shop_shopPrice_ValueChanged"/>
+                    <!-- Casino -->
+                    <GroupBox Header="Casino prizes" HorizontalAlignment="Left" Height="58" Margin="10,205,0,0" VerticalAlignment="Top" Width="346">
+                        <Grid>
+                            <RadioButton x:Name="radio_shop_casino_noChange"    Content="No change" HorizontalAlignment="Left" Width="85" Margin="10,10,0,10" IsChecked="True"/>
+                            <RadioButton x:Name="radio_shop_casino_shufflePrize" Content="Shuffle prizes" Margin="100,10,134,0" Height="15" VerticalAlignment="Top"/>
+                            <RadioButton x:Name="radio_shop_casino_randomPrize" Content="Randomize prizes" Margin="205,10,10,0" Height="15" VerticalAlignment="Top"/>
+                        </Grid>
+                    </GroupBox>
+                    <CheckBox x:Name="check_shop_casino_Price"  Content="Randomize prize costs" ToolTip="Randomize monsters that spawn in overworld areas (fields, dungeons, etc.)" HorizontalAlignment="Left" Margin="10,274,0,0" VerticalAlignment="Top" Click="shop_casino_price_EnableCheck"/>
+                    <wpfTool:LongUpDown x:Name="tbox_shop_casino_price_min"  Value="300"       Maximum="2147483647" Minimum="1"   ToolTip="Minimum amount of gold that inns may charge." HorizontalAlignment="Left" Height="20" Margin="186,314,0,0" VerticalAlignment="Top" Width="77" IsEnabled="False" ValueChanged="shop_casino_Price_ValueChanged"/>
+                    <wpfTool:LongUpDown x:Name="tbox_shop_casino_price_max"  Value="1000000"   Maximum="2147483647" Minimum="1"   ToolTip="Maximum amount of gold that inns may charge." HorizontalAlignment="Left" Height="20" Margin="268,314,0,0" VerticalAlignment="Top" Width="77" IsEnabled="False" ValueChanged="shop_casino_Price_ValueChanged"/>
+                    <!-- Inns -->
+                    <CheckBox x:Name="check_shop_hotelCharges" Content="Randomize inn fares" ToolTip="Randomize monsters that spawn in overworld areas (fields, dungeons, etc.)" HorizontalAlignment="Left" Margin="10,365,0,0" VerticalAlignment="Top" Click="shop_hotelCharges_EnableCheck"/>
+                    <wpfTool:ShortUpDown x:Name="tbox_shop_hotelChargesMin"  Value="1"    Maximum="5461" Minimum="0"   ToolTip="Minimum amount of gold that inns may charge." HorizontalAlignment="Left" Height="20" Margin="186,405,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" ValueChanged="shop_hotelCharges_ValueChanged"/>
+                    <wpfTool:ShortUpDown x:Name="tbox_shop_hotelChargesMax"  Value="50"   Maximum="5461" Minimum="0"   ToolTip="Maximum amount of gold that inns may charge." HorizontalAlignment="Left" Height="20" Margin="268,405,0,0" VerticalAlignment="Top" Width="62" IsEnabled="False" ValueChanged="shop_hotelCharges_ValueChanged"/>
+
+                    <Label Content="Item prices" HorizontalAlignment="Left" Height="26" Margin="10,113,0,0" VerticalAlignment="Top" Width="170"/>
+                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="10,133,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="92,133,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="154,156,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="72,156,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Label Content="Shop prices" HorizontalAlignment="Left" Height="26" Margin="183,113,0,0" VerticalAlignment="Top" Width="170"/>
+                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="183,133,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="265,133,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="327,156,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Label Content="%" HorizontalAlignment="Left" Height="26" Margin="245,156,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Separator HorizontalAlignment="Left" Height="21" Margin="60,184,0,0" VerticalAlignment="Top" Width="296"/>
+                    <Label Content="Prize costs" HorizontalAlignment="Left" Height="26" Margin="186,268,0,0" VerticalAlignment="Top" Width="170"/>
+                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="186,288,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="268,288,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="Inns" HorizontalAlignment="Left" Height="26" Margin="10,334,0,0" VerticalAlignment="Top"/>
+                    <Separator HorizontalAlignment="Left" Height="21" Margin="47,339,0,0" VerticalAlignment="Top" Width="309"/>
+                    <Label Content="Inn fare" HorizontalAlignment="Left" Height="26" Margin="186,359,0,0" VerticalAlignment="Top" Width="170"/>
+                    <Label Content="Min." HorizontalAlignment="Left" Height="26" Margin="186,379,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="Max." HorizontalAlignment="Left" Height="26" Margin="268,379,0,0" VerticalAlignment="Top" Width="82"/>
+                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="330,402,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Label Content="G" HorizontalAlignment="Left" Height="26" Margin="248,402,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Label Content="Casino" HorizontalAlignment="Left" Height="26" Margin="10,179,0,0" VerticalAlignment="Top"/>
+                </Grid>
             </TabItem>
-            <TabItem Header="Music" Name="tab_music"  Visibility="Hidden"></TabItem>
+            <TabItem Header="Alchemy" Name="tab_alchemy"  ></TabItem>
+            <TabItem Header="Music" Name="tab_music"  ></TabItem>
         </TabControl>
         <TextBox Name="tbox_seed" ToolTip="The seed to use for the randomization (Numbers only). Leave blank for a random seed." HorizontalAlignment="Left" Height="20" Margin="48,502,0,0" VerticalAlignment="Top" Width="178" TextChanged="tbox_seed_TextChanged" PreviewTextInput="tbox_IsNumericOnly" PreviewKeyDown="tbox_PreventSpace"/>
         <TextBox Name="tbox_directory" ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="10,527,0,0" VerticalAlignment="Top" Width="154"/>

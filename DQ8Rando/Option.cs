@@ -6,6 +6,8 @@ namespace DQ8Rando
     {
         public string Element { get; set; }
         public string Parent { get; set; }
+        public OptionChoice[] Elements { get; set; }
+        public string Type { get; set; }
         public Control Control { get; set; }
         public Control ParentControl { get; set; }
     }
@@ -18,5 +20,9 @@ namespace DQ8Rando
     {
         public string Text { get; set; }
         public int Indent { get; set; }
+    }
+    public class OptionChoice : Option
+    {
+
     }
 }

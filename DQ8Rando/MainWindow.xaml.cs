@@ -49,14 +49,21 @@ namespace DQ8Rando
         public string jsonString = "";
         public List<Encounter> encountList;
         public List<SetEncounter> setEncountList;
-        public List<Item> itemList;
+        public ItemFile itemFile;
         public EncountFile encountFile;
         public TreasureBoxFile tbTreasureBox;
         public TbContentsFile tbContents;
+        public HotelCharges hotelCharges;
+        public ShopItemFile shopItem;
+        public ItemCasinoFile itemCasino;
 
+        public ItemFile customItemFile;
         public EncountFile customEncountFile;
         public TreasureBoxFile customTreasureBoxFile;
         public TbContentsFile customTbContentsFile;
+        public HotelCharges customHotelCharges;
+        public ShopItemFile customShopItem;
+        public ItemCasinoFile customItemCasino;
 
         public string outputFolder;
         public FolderBrowserDialog browseDialog = new FolderBrowserDialog();
@@ -66,10 +73,14 @@ namespace DQ8Rando
             initializeOptionOutputList();
 
             int seed = generateNewRandom(tbox_seed.Text);
-            
+
+            customItemFile = null;
             customEncountFile = null;
             customTreasureBoxFile = null;
             customTbContentsFile = null;
+            customHotelCharges = null;
+            customShopItem = null;
+            customItemCasino = null;
 
             outputFolder = tbox_directory.Text + "\\output";
 
@@ -83,6 +94,12 @@ namespace DQ8Rando
                 check_treasure_forceFill.IsChecked == true || check_treasure_locks_keyLocation.IsChecked == true || check_treasure_locks_randomizeLocks.IsChecked == true ||
                 check_treasure_swapBlueRed.IsChecked == true)
                 randomizeTreasure();
+            if (radio_shop_noChange.IsChecked == false || check_shop_itemPrice.IsChecked == true || check_shop_shopPrice.IsChecked == true)
+                randomizeShops();
+            if (radio_shop_casino_noChange.IsChecked == false || check_shop_casino_Price.IsChecked == true)
+                randomizeCasino();
+            if (check_shop_hotelCharges.IsChecked == true)
+                randomizeHotelCharges();
 
             var x = createOutputFolder(outputFolder);
 
@@ -135,6 +152,26 @@ namespace DQ8Rando
             tbox_treasure_locks_min.IsEnabled = (check_treasure_locks_randomizeLocks.IsChecked == true && (check_treasure_locks_thiefKey.IsChecked == true || check_treasure_locks_magicKey.IsChecked == true));
             tbox_treasure_locks_max.IsEnabled = (check_treasure_locks_randomizeLocks.IsChecked == true && (check_treasure_locks_thiefKey.IsChecked == true || check_treasure_locks_magicKey.IsChecked == true));
         }
+        private void shop_hotelCharges_EnableCheck(object sender, RoutedEventArgs e)
+        {
+            tbox_shop_hotelChargesMax.IsEnabled = check_shop_hotelCharges.IsChecked == true;
+            tbox_shop_hotelChargesMin.IsEnabled = check_shop_hotelCharges.IsChecked == true;
+        }
+        private void shop_itemPrice_EnableCheck(object sender, RoutedEventArgs e)
+        {
+            tbox_shop_itemPriceMin.IsEnabled = check_shop_itemPrice.IsChecked == true;
+            tbox_shop_itemPriceMax.IsEnabled = check_shop_itemPrice.IsChecked == true;
+        }
+        private void shop_shopPrice_EnableCheck(object sender, RoutedEventArgs e)
+        {
+            tbox_shop_shopPriceMin.IsEnabled = check_shop_shopPrice.IsChecked == true;
+            tbox_shop_shopPriceMax.IsEnabled = check_shop_shopPrice.IsChecked == true;
+        }
+        private void shop_casino_price_EnableCheck(object sender, RoutedEventArgs e)
+        {
+            tbox_shop_casino_price_max.IsEnabled = check_shop_casino_Price.IsChecked == true;
+            tbox_shop_casino_price_min.IsEnabled = check_shop_casino_Price.IsChecked == true;
+        }
         private void tbox_treasure_goldPercent_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
             minMaxCheck(sender, tbox_treasure_goldPercentMin, tbox_treasure_goldPercentMax);
@@ -159,6 +196,22 @@ namespace DQ8Rando
         {
             minMaxCheck(sender, tbox_treasure_locks_min, tbox_treasure_locks_max);
         }
+        private void shop_hotelCharges_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        {
+            minMaxCheck(sender, tbox_shop_hotelChargesMin, tbox_shop_hotelChargesMax);
+        }
+        private void shop_itemPrice_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        {
+            minMaxCheck(sender, tbox_shop_itemPriceMin, tbox_shop_itemPriceMax);
+        }
+        private void shop_shopPrice_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        {
+            minMaxCheck(sender, tbox_shop_shopPriceMin, tbox_shop_shopPriceMax);
+        }
+        private void shop_casino_Price_ValueChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        {
+            minMaxCheck(sender, tbox_shop_casino_price_min, tbox_shop_casino_price_max);
+        }
         private void minMaxCheck(object sender, Xceed.Wpf.Toolkit.DoubleUpDown min, Xceed.Wpf.Toolkit.DoubleUpDown max)
         {
             if (sender != null && max != null && min != null)
@@ -174,6 +227,20 @@ namespace DQ8Rando
             }
         }
         private void minMaxCheck(object sender, Xceed.Wpf.Toolkit.ShortUpDown min, Xceed.Wpf.Toolkit.ShortUpDown max)
+        {
+            if (sender != null && max != null && min != null)
+            {
+                if (sender == max && max.Value < min.Value)
+                    min.Value = max.Value;
+                else if (max.Value < min.Value)
+                    max.Value = min.Value;
+                else if (sender == max && max.Value == null)
+                    max.Value = min.Value;
+                else if (sender == min && min.Value == null)
+                    min.Value = min.Minimum;
+            }
+        }
+        private void minMaxCheck(object sender, Xceed.Wpf.Toolkit.LongUpDown min, Xceed.Wpf.Toolkit.LongUpDown max)
         {
             if (sender != null && max != null && min != null)
             {
@@ -225,6 +292,15 @@ namespace DQ8Rando
                         opt.Control = FindName(opt.Element) as System.Windows.Controls.Control;
                         if (opt.Parent != null)
                             opt.ParentControl = FindName(opt.Parent) as System.Windows.Controls.Control;
+                        if (opt.Elements != null && opt.Type == "Choice")
+                        {
+                            foreach (OptionChoice element in opt.Elements)
+                            {
+                                element.Control = FindName(element.Element) as System.Windows.Controls.Control;
+                                if (element.Parent != null)
+                                    element.ParentControl = FindName(element.Parent) as System.Windows.Controls.Control;
+                            }
+                        }
                     }
                 }
             }
@@ -257,10 +333,10 @@ namespace DQ8Rando
         }
         private void loadItems()
         {
-            if (itemList == null)
+            if (itemFile == null)
             {
                 jsonString = File.ReadAllText("Data/Item.json");
-                itemList = JsonSerializer.Deserialize<List<Item>>(jsonString);
+                itemFile = JsonSerializer.Deserialize<ItemFile>(jsonString);
             }
         }
         private void loadTreasureFile()
@@ -278,6 +354,30 @@ namespace DQ8Rando
             {
                 jsonString = File.ReadAllText("Data/BlueChest.json");
                 tbContents = JsonSerializer.Deserialize<TbContentsFile>(jsonString);
+            }
+        }
+        private void loadHotelCharges()
+        {
+            if (hotelCharges == null)
+            {
+                jsonString = File.ReadAllText("Data/HotelCharges.json");
+                hotelCharges = JsonSerializer.Deserialize<HotelCharges>(jsonString);
+            }
+        }
+        private void loadShopItemFile()
+        {
+            if (shopItem == null)
+            {
+                jsonString = File.ReadAllText("Data/ShopItem.json");
+                shopItem = JsonSerializer.Deserialize<ShopItemFile>(jsonString);
+            }
+        }
+        private void loadItemCasinoFile()
+        {
+            if (itemCasino == null)
+            {
+                jsonString = File.ReadAllText("Data/Item_Casino.json");
+                itemCasino = JsonSerializer.Deserialize<ItemCasinoFile>(jsonString);
             }
         }
         private void prepareCustomEncountFile() 
@@ -384,6 +484,122 @@ namespace DQ8Rando
                 }
             }
         }
+        private void prepareCustomHotelCharges()
+        {
+            loadHotelCharges();
+            if (customHotelCharges == null)
+            {
+                customHotelCharges = new HotelCharges();
+                customHotelCharges.Header = hotelCharges.Header;
+                customHotelCharges.Contents = new Hotel[hotelCharges.Contents.Length];
+                for (int i = 0; i < hotelCharges.Contents.Length; i++)
+                {
+                    Hotel cust = new Hotel();
+                    var src = hotelCharges.Contents[i];
+                    cust.ID = src.ID;
+                    cust.Price = src.Price;
+                    cust.Location = src.Location;
+                    cust.Edit = src.Edit;
+                    customHotelCharges.Contents[i] = cust;
+                }
+            }
+        }
+        private void prepareCustomShopItemFile()
+        {
+            loadShopItemFile();
+            loadItems();
+            if (customShopItem == null)
+            {
+                customShopItem = new ShopItemFile();
+                customShopItem.Header = shopItem.Header;
+                customShopItem.Contents = new Shop[shopItem.Contents.Length];
+                for (int i = 0; i < shopItem.Contents.Length; i++)
+                {
+                    Shop cust = new Shop();
+                    var src = shopItem.Contents[i];
+                    cust.ID = src.ID;
+                    cust.Unk1 = src.Unk1;
+                    cust.Unk2 = src.Unk2;
+                    cust.Unk3 = src.Unk3;
+                    cust.Location = src.Location;
+                    cust.Parent = src.Parent;
+                    cust.Store = src.Store;
+                    cust.Sale = src.Sale;
+                    cust.Items = new ShopItem[src.Items.Length];
+                    cust.Edit = src.Edit;
+                    for (int j = 0; j < src.Items.Length; j++)
+                    {
+                        ShopItem cust2 = new ShopItem();
+                        var src2 = src.Items[j];
+                        cust2.ID = src2.ID;
+                        cust2.Footer = src2.Footer;
+                        cust.Items[j] = cust2;
+                    }
+                    customShopItem.Contents[i] = cust;
+                }
+            }
+        }
+        private void prepareCustomItemCasinoFile()
+        {
+            loadItemCasinoFile();
+            loadItems();
+            if (customItemCasino == null)
+            {
+                customItemCasino = new ItemCasinoFile();
+                customItemCasino.Header = itemCasino.Header;
+                customItemCasino.Contents = new Casino[itemCasino.Contents.Length];
+                for (int i = 0; i < itemCasino.Contents.Length; i++)
+                {
+                    Casino cust = new Casino();
+                    var src = itemCasino.Contents[i];
+                    cust.ID = src.ID;
+                    cust.Location = src.Location;
+                    cust.Items = new string[src.Items.Length];
+                    for (int j = 0; j < src.Items.Length; j++)
+                    {
+                        cust.Items[j] = src.Items[j];
+                    }
+                    cust.Prices = new string[src.Prices.Length];
+                    for (int j = 0; j < src.Prices.Length; j++)
+                    {
+                        cust.Prices[j] = src.Prices[j];
+                    }
+                    customItemCasino.Contents[i] = cust;
+                }
+            }
+        }
+        private void prepareCustomItemFile()
+        {
+            loadItems();
+            if (customItemFile == null)
+            {
+                customItemFile = new ItemFile();
+                customItemFile.Header = itemFile.Header;
+                customItemFile.Contents = new Item[itemFile.Contents.Length];
+                for (int i = 0; i < itemFile.Contents.Length; i++)
+                {
+                    Item cust = new Item();
+                    var src = itemFile.Contents[i];
+                    cust.ID        = src.ID;
+                    cust.Name      = src.Name;
+                    cust.Spawn     = src.Spawn;
+                    cust.Unk1      = src.Unk1;
+                    cust.Unk2      = src.Unk2;
+                    cust.Unk3      = src.Unk3;
+                    cust.Unk4      = src.Unk4;
+                    cust.Unk5      = src.Unk5;
+                    cust.Icon      = src.Icon;
+                    cust.Price     = src.Price;
+                    cust.SellPrice = src.SellPrice;
+                    cust.Attack    = src.Attack;
+                    cust.Defence   = src.Defence;
+                    cust.Agility   = src.Agility;
+                    cust.Wisdom    = src.Wisdom;
+                    cust.Footer    = src.Footer;
+                    customItemFile.Contents[i] = cust;
+                }
+            }
+        }
         private int generateNewRandom(string textSeed)
         {
             int seed;
@@ -395,6 +611,8 @@ namespace DQ8Rando
         }
         private string reverseHex(string hex)
         {
+            if (hex == null)
+                return null;
             if (hex.Length % 2 != 0)
                 hex = "0" + hex;
             string reversedHex = "";
@@ -577,7 +795,7 @@ namespace DQ8Rando
         private Item findItemByID(string id)
         {
             loadItems();
-            foreach (Item item in itemList)
+            foreach (Item item in itemFile.Contents)
             {
                 if (item.ID.ToUpper() == id.ToUpper())
                     return item;
@@ -620,6 +838,10 @@ namespace DQ8Rando
             generateEncounterSpoilerLog(path + "/spoiler/" + "Encounters.txt");
             generateTreasureSpoilerLog (path + "/spoiler/" + "Treasure.txt");
             generateBlueChestSpoilerLog(path + "/spoiler/" + "BlueChests.txt");
+            generateHotelChargesSpoilerLog(path + "/spoiler/" + "Inns.txt");
+            generateShopSpoilerLog(path + "/spoiler/" + "Shops.txt");
+            generateItemPriceSpoilerLog(path + "/spoiler/" + "ItemPrices.txt");
+            generateItemCasinoSpoilerLog(path + "/spoiler/" + "Casino.txt");
         }
         private void generateEncounterSpoilerLog(string path)
         {
@@ -786,9 +1008,95 @@ namespace DQ8Rando
                 File.WriteAllText(path, finalString);
             }
         }
+        private void generateHotelChargesSpoilerLog(string path)
+        {
+            if (customHotelCharges != null)
+            {
+                List<string> outputArr = new List<string>();
+
+                foreach (Hotel hotel in customHotelCharges.Contents)
+                {
+                    if (hotel.Edit == 1)
+                        outputArr.Add(hotel.Location + ": " + hotel.Price.ToString() + " G");
+                }
+
+                File.WriteAllText(path, string.Join("\n", outputArr));
+            }
+        }
+        private void generateShopSpoilerLog(string path)
+        {
+            if (customShopItem != null)
+            {
+                List<string> outputArr = new List<string>();
+
+                foreach (Shop shop in customShopItem.Contents)
+                {
+                    if (shop.Edit == 1 && shop.Parent == null)
+                    {
+                        string push = shop.Location + " - " + shop.Store;
+                        if (shop.Sale < 100)
+                            push += " (" + (100 - shop.Sale).ToString() + "% off)";
+                        else if (shop.Sale > 100)
+                            push += " (" + (shop.Sale - 100).ToString() + "% markup)";
+                        push += ": ";
+                        List<string> pushArr = new List<string>();
+                        foreach (ShopItem item in shop.Items)
+                        {
+                            if (item.ID != "0000")
+                            {
+                                Item srcItem = findItemByID(item.ID);
+                                pushArr.Add(srcItem.Name);
+                            }
+                        }
+                        push += string.Join(", ", pushArr);
+                        outputArr.Add(push);
+                    }
+                }
+
+                File.WriteAllText(path, string.Join("\n", outputArr));
+            }
+        }
+        private void generateItemPriceSpoilerLog(string path)
+        {
+            if (customItemFile != null && check_shop_itemPrice.IsChecked == true)
+            {
+                List<string> outputArr = new List<string>();
+
+                foreach (Item item in customItemFile.Contents)
+                {
+                    if (item.Spawn != 0 && item.Spawn != 3)
+                        outputArr.Add(item.Name + ": " + int.Parse(item.Price, System.Globalization.NumberStyles.HexNumber).ToString() + " G");
+                }
+
+                File.WriteAllText(path, string.Join("\n", outputArr));
+            }
+        }
+        private void generateItemCasinoSpoilerLog(string path)
+        {
+            if (customItemCasino != null)
+            {
+                List<string> outputArr = new List<string>();
+
+                foreach (Casino casino in customItemCasino.Contents)
+                {
+                    List<string> casinoArr = new List<string>();
+                    casinoArr.Add(casino.Location + " Casino");
+                    casinoArr.Add("-------------------------------------");
+                    for (int i = 0; i < 12; i++)
+                    {
+                        if (casino.Items[i] != "0000")
+                            casinoArr.Add(findItemByID(casino.Items[i]).Name + " - " + int.Parse(casino.Prices[i], System.Globalization.NumberStyles.HexNumber).ToString() + " tokens");
+                    }
+                    outputArr.Add(string.Join("\n", casinoArr));
+                }
+
+                File.WriteAllText(path, string.Join("\n\n", outputArr));
+            }
+        }
         private void generateOptionLog(string path, int seed)
         {
-            string optionString = "Seed: " + seed.ToString() + "\n\n";
+            string optionString = "DQ8-Rando v0.3\nDragon Quest VIII 3DS Randomizer Version 0.3\n\n";
+            optionString += "Seed: " + seed.ToString() + "\n\n";
             foreach (OptionTab tab in optionOutputList)
             {
                 if (tab.Control != null)
@@ -796,7 +1104,7 @@ namespace DQ8Rando
                     optionString += tab.Header + ":\n";
                     foreach (Option opt in tab.Contents)
                     {
-                        if (opt.Control != null && opt.Control.IsEnabled)
+                        if ((opt.Control != null && opt.Control.IsEnabled) || opt.Elements != null)
                         {
                             if (opt.Indent != 0)
                             {
@@ -821,6 +1129,23 @@ namespace DQ8Rando
                             if (shortUpDown != null)
                             {
                                 optionString += shortUpDown.Value.ToString();
+                            }
+                            var longUpDown = opt.Control as Xceed.Wpf.Toolkit.LongUpDown;
+                            if (longUpDown != null)
+                            {
+                                optionString += longUpDown.Value.ToString();
+                            }
+                            if (opt.Elements != null && opt.Type == "Choice")
+                            {
+                                var element = Array.Find(opt.Elements, e => {
+                                    var radioButton = e.Control as System.Windows.Controls.RadioButton;
+                                    if (radioButton != null && radioButton.IsChecked == true)
+                                        return true;
+                                    else
+                                        return false;
+                                });
+                                if (element != null)
+                                    optionString += element.Text;
                             }
                             optionString += "\n";
                         }
@@ -866,6 +1191,14 @@ namespace DQ8Rando
                 outputTreasureBoxFileToFile(customTreasureBoxFile, fullPath + "/" + "tbTreasureBox.tbl");
             if (customTbContentsFile != null)
                 outputTbContentsFileToFile(customTbContentsFile, fullPath + "/" + "tbContents.tbl");
+            if (customHotelCharges != null)
+                outputHotelChargesToFile(customHotelCharges, fullPath + "/" + "hotelCharges.tbl");
+            if (customShopItem != null)
+                outputShopItemToFile(customShopItem, fullPath + "/" + "shopItem.tbl");
+            if (customItemFile != null)
+                outputItemFileToFile(customItemFile, fullPath + "/" + "item.tbl");
+            if (customItemCasino != null)
+                outputItemCasinoToFile(customItemCasino, fullPath + "/" + "item_casino.tbl");
         }
         private void outputEncounterTableToFile(EncountFile data, string path)
         {
@@ -927,6 +1260,81 @@ namespace DQ8Rando
                         byteString += reverseHex(item.ID)
                           + reverseHex(item.Value)
                           + item.Footer;
+                    }
+                }
+
+                writeHexStringToFile(byteString, path);
+            }
+        }
+        private void outputHotelChargesToFile(HotelCharges data, string path)
+        {
+            if (data != null)
+            {
+                string byteString = data.Header;
+                foreach (Hotel hotel in data.Contents)
+                {
+                    byteString += hotel.ID + hotel.ID;
+                    byteString += reverseHex(hotel.Price.ToString("X4"));
+                }
+
+                writeHexStringToFile(byteString, path);
+            }
+        }
+        private void outputShopItemToFile(ShopItemFile data, string path)
+        {
+            if (data != null)
+            {
+                string byteString = data.Header;
+                foreach (Shop shop in data.Contents)
+                {
+                    byteString += shop.ID + shop.Unk1 + shop.Unk2 + shop.Unk3;
+                    byteString += reverseHex(shop.Sale.ToString("X8"));
+                    foreach (ShopItem item in shop.Items)
+                    {
+                        byteString += reverseHex(item.ID);
+                        byteString += item.Footer;
+                    }
+                }
+
+                writeHexStringToFile(byteString, path);
+            }
+        }
+        private void outputItemFileToFile(ItemFile data, string path)
+        {
+            if (data != null)
+            {
+                string byteString = data.Header;
+                foreach (Item item in data.Contents)
+                {
+                    byteString += reverseHex(item.ID);
+                    byteString += item.Unk1 + item.Unk2;
+                    byteString += reverseHex(item.Icon);
+                    byteString += item.Unk3;
+                    byteString += reverseHex(item.Price);
+                    byteString += reverseHex(item.SellPrice);
+                    byteString += item.Unk4;
+                    byteString += item.Attack + item.Defence + item.Agility + item.Wisdom;
+                    byteString += item.Unk5 + item.Footer;
+                }
+
+                writeHexStringToFile(byteString, path);
+            }
+        }
+        private void outputItemCasinoToFile(ItemCasinoFile data, string path)
+        {
+            if (data != null)
+            {
+                string byteString = data.Header;
+                foreach (Casino casino in data.Contents)
+                {
+                    byteString += casino.ID;
+                    foreach (string item in casino.Items)
+                    {
+                        byteString += reverseHex(item);
+                    }
+                    foreach (string price in casino.Prices)
+                    {
+                        byteString += reverseHex(price);
                     }
                 }
 
@@ -999,7 +1407,7 @@ namespace DQ8Rando
                 }
             }
             // then assign normal chest values
-            var validItems = itemList.FindAll(e => e.Spawn == 1);
+            Item[] validItems = Array.FindAll<Item>(itemFile.Contents, e => e.Spawn == 1);
             // if "Randomize All" is checked, we just add all chests to the pool
             if (check_treasure_tbRandom.IsChecked == true)
             {
@@ -1057,7 +1465,7 @@ namespace DQ8Rando
                     z++;
                 } else
                 {
-                    var randomItem = validItems[rand.Next(validItems.Count)];
+                    var randomItem = validItems[rand.Next(validItems.Count())];
                     box.Content = randomItem.ID;
                     box.Pool = "0000";
                     box.Value = "0001";
@@ -1081,7 +1489,7 @@ namespace DQ8Rando
                 }
                 else
                 {
-                    var randomItem = validItems[rand.Next(validItems.Count)];
+                    var randomItem = validItems[rand.Next(validItems.Count())];
                     box.Content = randomItem.ID;
                     box.Value = "0001";
                     box.Pool = "0000";
@@ -1124,7 +1532,7 @@ namespace DQ8Rando
                     {
                         item.Value = "0001";
                         item.Footer = "00002041";
-                        item.ID = validItems[rand.Next(validItems.Count)].ID;
+                        item.ID = validItems[rand.Next(validItems.Count())].ID;
                     }
                     x++;
                 }
@@ -1234,6 +1642,209 @@ namespace DQ8Rando
                 }
             }
         }
+        private void randomizeHotelCharges()
+        {
+            prepareCustomHotelCharges();
+            int hotelChargeMin = (int)tbox_shop_hotelChargesMin.Value;
+            int hotelChargeMax = (int)tbox_shop_hotelChargesMax.Value;
 
+            foreach (Hotel hotel in customHotelCharges.Contents)
+            {
+                if (hotel.Edit == 1)
+                    hotel.Price = rand.Next(hotelChargeMin,hotelChargeMax+1);
+            }
+        }
+        private void randomizeShops()
+        {
+            Shop[] validShops = new Shop[0];
+            Shop[] validCustomShops = new Shop[0];
+
+            if (radio_shop_noChange.IsChecked == false || check_shop_shopPrice.IsChecked == true)
+            {
+                prepareCustomShopItemFile();
+                validShops = Array.FindAll<Shop>(shopItem.Contents, e => e.Edit == 1 && e.Parent == null);
+                validCustomShops = Array.FindAll<Shop>(customShopItem.Contents, e => e.Edit == 1 && e.Parent == null);
+            }
+            if (check_shop_itemPrice.IsChecked == true)
+                prepareCustomItemFile();
+
+            int itemPriceMin = (int)tbox_shop_itemPriceMin.Value;
+            int itemPriceMax = (int)tbox_shop_itemPriceMax.Value;
+            int shopPriceMin = (int)tbox_shop_shopPriceMin.Value;
+            int shopPriceMax = (int)tbox_shop_shopPriceMax.Value;
+
+            // start by shuffling or randomizing
+            if (radio_shop_shuffleShop.IsChecked == true)
+            {
+                var shuffledShops = new List<Shop>(validCustomShops.OrderBy(e => rand.NextDouble()));
+                for (int i = 0; i < validCustomShops.Length; i++)
+                {
+                    Shop cust = validCustomShops[i];
+                    Shop src  = shuffledShops[i];
+
+                    cust.Items = src.Items;
+                    cust.Sale  = src.Sale;
+                }
+            }
+            else if (radio_shop_shuffleItem.IsChecked == true)
+            {
+                List<ShopItem> itemList = new List<ShopItem>();
+                foreach (Shop shop in validCustomShops)
+                {
+                    foreach (ShopItem item in shop.Items)
+                    {
+                        if (item.ID != "0000")
+                            itemList.Add(item);
+                    }
+                }
+                itemList = new List<ShopItem>(itemList.OrderBy(e => rand.NextDouble()));
+                int j = 0;
+                foreach (Shop shop in validCustomShops)
+                {
+                    for (int i = 0; i < shop.Items.Length; i++)
+                    {
+                        ShopItem item = shop.Items[i];
+                        if (item.ID != "0000")
+                        {
+                            shop.Items[i] = itemList[j];
+                            j++;
+                        }
+                    }
+                }
+
+            }
+            else if (radio_shop_randomItem.IsChecked == true)
+            {
+                Item[] validItems = Array.FindAll<Item>(itemFile.Contents, e => e.Spawn == 1);
+                foreach (Shop shop in validCustomShops)
+                {
+                    int itemCount = rand.Next(1,11);
+                    for (int i = 0; i < shop.Items.Length; i++)
+                    {
+                        ShopItem item = shop.Items[i];
+                        if (i < itemCount)
+                        {
+                            Item randItem = validItems[rand.Next(validItems.Length)];
+                            item.ID = randItem.ID;
+                        }
+                        else
+                            item.ID = "0000";
+                    }
+                }
+            }
+
+            // now assign shop sales
+            if (check_shop_shopPrice.IsChecked == true)
+            {
+                foreach (Shop shop in validCustomShops)
+                {
+                    shop.Sale = rand.Next(shopPriceMin,shopPriceMax+1);
+                }
+            }
+
+            // assign parents
+            if (radio_shop_noChange.IsChecked == false || check_shop_shopPrice.IsChecked == true)
+            {
+                foreach (Shop shop in customShopItem.Contents)
+                {
+                    if (shop.Parent != null)
+                    {
+                        Shop parent = Array.Find(customShopItem.Contents, e => e.ID == shop.Parent);
+                        shop.Items = parent.Items;
+                        shop.Sale = parent.Sale;
+                    }
+                }
+            }
+
+            // now assign item prices
+            if (check_shop_itemPrice.IsChecked == true)
+            {
+                foreach (Item item in customItemFile.Contents)
+                {
+                    if (item.Spawn != 0 && item.Spawn != 3)
+                    {
+                        int price = rand.Next(itemPriceMin, itemPriceMax + 1);
+                        item.Price = price.ToString("X8");
+                        int sellPrice = (int)Math.Ceiling(price / 2.0);
+                        item.SellPrice = sellPrice.ToString("X8");
+                    }
+                }
+            }
+        }
+        private void randomizeCasino()
+        {
+            if (radio_shop_casino_noChange.IsChecked == false || check_shop_casino_Price.IsChecked == true)
+                prepareCustomItemCasinoFile();
+
+            int casinoPriceMin = (int)tbox_shop_casino_price_min.Value;
+            int casinoPriceMax = (int)tbox_shop_casino_price_max.Value;
+
+            Item[] validItems = Array.FindAll<Item>(itemFile.Contents, e => e.Spawn == 1);
+
+            // randomize prizes
+            if (radio_shop_casino_shufflePrize.IsChecked == true)
+            {
+                List<string> shuffleItems = new List<string>();
+                foreach (Casino casino in itemCasino.Contents)
+                {
+                    foreach (string item in casino.Items)
+                    {
+                        if (item != "0000")
+                            shuffleItems.Add(item);
+                    }
+                }
+                shuffleItems = new List<string>(shuffleItems.OrderBy(e => rand.NextDouble()));
+                int j = 0;
+                foreach (Casino casino in customItemCasino.Contents)
+                {
+                    for (int i = 0; i < casino.Items.Length; i++)
+                    {
+                        if (casino.Items[i] != "0000")
+                        {
+                            casino.Items[i] = shuffleItems[j];
+                            j++;
+                        }
+                    }
+                }
+            } else if (radio_shop_casino_randomPrize.IsChecked == true)
+            {
+                foreach (Casino casino in customItemCasino.Contents)
+                {
+                    int itemAmount = rand.Next(1,13);
+                    for (int i = 0; i < 12; i++)
+                    {
+                        if (check_shop_casino_Price.IsChecked == true)
+                        {
+                            if (i < itemAmount)
+                                casino.Items[i] = validItems[rand.Next(validItems.Length)].ID;
+                            else
+                                casino.Items[i] = "0000";
+                        } else
+                        {
+                            if (casino.Items[i] != "0000")
+                                casino.Items[i] = validItems[rand.Next(validItems.Length)].ID;
+                            else
+                                casino.Items[i] = "0000";
+                        }
+                    }
+                }
+            }
+
+            // randomize prices
+            if (check_shop_casino_Price.IsChecked == true)
+            {
+                foreach (Casino casino in customItemCasino.Contents)
+                {
+                    for (int i = 0; i < 12; i++)
+                    {
+                        if (casino.Items[i] != "0000")
+                            casino.Prices[i] = rand.Next(casinoPriceMin,casinoPriceMax+1).ToString("X8");
+                        else
+                            casino.Prices[i] = "00000000";
+                    }
+                }
+            }
+        }
     }
+
 }

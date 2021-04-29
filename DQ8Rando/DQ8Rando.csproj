@@ -145,6 +145,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Casino.cs" />
+    <Compile Include="ShopItem.cs" />
+    <Compile Include="HotelCharges.cs" />
     <Compile Include="Option.cs" />
     <Compile Include="Encounter.cs" />
     <Compile Include="Item.cs" />
@@ -180,6 +183,15 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="Data\HotelCharges.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Item_Casino.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\ShopItem.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Data\Options.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

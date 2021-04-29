@@ -1,0 +1,125 @@
+{
+  "Header": "14000000000000000000000000000000",
+  "Contents": [
+    {
+      "ID": "00",
+      "Price": 1,
+      "Location":  "Farebury, Hilltop Hut",
+      "Edit":  1
+    },
+    {
+      "ID": "01",
+      "Price": 2,
+      "Location": "Alexandria",
+      "Edit": 1
+    },
+    {
+      "ID": "02",
+      "Price": 2,
+      "Location": "Port Prospect",
+      "Edit": 1
+    },
+    {
+      "ID": "03",
+      "Price": 3,
+      "Location": "Peregrin Quay",
+      "Edit": 1
+    },
+    {
+      "ID": "04",
+      "Price": 4,
+      "Location": "Simpleton",
+      "Edit": 1
+    },
+    {
+      "ID": "05",
+      "Price": 5,
+      "Location": "Ascantha",
+      "Edit": 1
+    },
+    {
+      "ID": "06",
+      "Price": 6,
+      "Location": "Pickham",
+      "Edit": 1
+    },
+    {
+      "ID": "07",
+      "Price": 2,
+      "Location": "Baccarat",
+      "Edit": 1
+    },
+    {
+      "ID": "08",
+      "Price": 50,
+      "Location": "Neos, Savella Cathedral",
+      "Edit": 1
+    },
+    {
+      "ID": "09",
+      "Price": 10,
+      "Location": "Argonia",
+      "Edit": 1
+    },
+    {
+      "ID": "0A",
+      "Price": 12,
+      "Location": "Orkutsk",
+      "Edit": 1
+    },
+    {
+      "ID": "0B",
+      "Price": 10,
+      "Location": "Arcadia",
+      "Edit": 1
+    },
+    {
+      "ID": "0C",
+      "Price": 7,
+      "Location": "Chapel of Autumn",
+      "Edit": 1
+    },
+    {
+      "ID": "0D",
+      "Price": 2,
+      "Location": "Tryan Gully",
+      "Edit": 1
+    },
+    {
+      "ID": "0E",
+      "Price": 5,
+      "Location": "Lakeside Cabin",
+      "Edit": 1
+    },
+    {
+      "ID": "0F",
+      "Price": 1,
+      "Location": "?",
+      "Edit": 0
+    },
+    {
+      "ID": "10",
+      "Price": 7,
+      "Location": "Church to the west of Trodain",
+      "Edit": 1
+    },
+    {
+      "ID": "11",
+      "Price": 0,
+      "Location": "?",
+      "Edit": 0
+    },
+    {
+      "ID": "12",
+      "Price": 7,
+      "Location": "Desert Chapel",
+      "Edit": 1
+    },
+    {
+      "ID": "13",
+      "Price": 40,
+      "Location": "?",
+      "Edit": 0
+    }
+  ]
+}
