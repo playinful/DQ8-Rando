@@ -4,22 +4,36 @@
     "Element": "tab_monsters",
     "Contents": [
       {
-        "Text": "Randomize Encounters on the Overworld",
+        "Text": "Randomize overworld encounters",
         "Element": "check_monsters_enemyOverworld"
-      },
-      {
-        "Text": "Mix In Infamous Monsters",
-        "Element": "check_monsters_mixInInfamous",
-        "Parent": "check_monsters_enemyOverworld",
-        "Indent": 1
       },
       {
         "Text": "Randomize Special Monsters",
         "Element": "check_monsters_enemySpecial"
       },
       {
-        "Text": "Randomize Scripted Encounters",
+        "Text": "Randomize scripted encounters",
         "Element": "check_monsters_enemyBoss"
+      },
+      {
+        "Text": "Mix in Infamous Monsters",
+        "Element": "check_monsters_mixInInfamous",
+        "Indent": 1
+      },
+      {
+        "Text": "Spawn postgame bosses",
+        "Element": "check_monsters_includePostgame",
+        "Indent": 1
+      },
+      {
+        "Text": "Spawn Memories Lane bosses",
+        "Element": "check_monsters_includeMemoriam",
+        "Indent": 1
+      },
+      {
+        "Text": "Spawn Monster Arena teams",
+        "Element": "check_monsters_includeArena",
+        "Indent": 1
       }
     ]
   },

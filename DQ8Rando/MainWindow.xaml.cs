@@ -130,7 +130,10 @@ namespace DQ8Rando
         }
         private void monsters_mixInInfamous_EnableCheck(object sender, RoutedEventArgs e)
         {
-            check_monsters_mixInInfamous.IsEnabled = (check_monsters_enemyOverworld.IsChecked == true);
+            check_monsters_mixInInfamous.IsEnabled = (check_monsters_enemyOverworld.IsChecked == true || check_monsters_enemyBoss.IsChecked == true || check_monsters_enemySpecial.IsChecked == true);
+            check_monsters_includePostgame.IsEnabled = (check_monsters_enemyOverworld.IsChecked == true || check_monsters_enemyBoss.IsChecked == true || check_monsters_enemySpecial.IsChecked == true);
+            check_monsters_includeMemoriam.IsEnabled = (check_monsters_enemyOverworld.IsChecked == true || check_monsters_enemyBoss.IsChecked == true || check_monsters_enemySpecial.IsChecked == true);
+            check_monsters_includeArena.IsEnabled = (check_monsters_enemyOverworld.IsChecked == true || check_monsters_enemyBoss.IsChecked == true || check_monsters_enemySpecial.IsChecked == true);
         }
         private void treasure_goldPercent_EnableCheck(object sender, RoutedEventArgs e)
         {
@@ -641,9 +644,17 @@ namespace DQ8Rando
             prepareCustomEncountFile();
             List<int> valid = new List<int>();
             valid.Add(1);
-            if (check_monsters_mixInInfamous.IsChecked == true) {
+            if (check_monsters_mixInInfamous.IsChecked == true)
                 valid.Add(4);
-            }
+            /*
+            if (check_monsters_includeArena.IsChecked  == true)
+                valid.Add(5);
+            if (check_monsters_includePostgame.IsChecked == true)
+                valid.Add(6);
+            if (check_monsters_includeMemoriam.IsChecked == true)
+                valid.Add(7);
+            */
+
             List<Encounter> validEncounters = encountList.FindAll(e => valid.Contains(e.Spawn));
             List<SetEncounter> validSetEncounters = setEncountList.FindAll(e => valid.Contains(e.Spawn));
             foreach (EncountTable table in customEncountFile.Contents)
@@ -658,6 +669,52 @@ namespace DQ8Rando
                 }
             }
         }
+        private Encounter getRandomEncounter(List<Encounter> l)
+        {
+            List<double> chanceList = new List<double>();
+            foreach (Encounter mon in l)
+            {
+                if (chanceList.Count == 0) 
+                    chanceList.Add(mon.Chance);
+                else
+                    chanceList.Add(mon.Chance + chanceList[chanceList.Count - 1]);
+            }
+            double result = getRandomDoubleBetweenTwoValues(rand, 0, chanceList[chanceList.Count - 1]);
+            Encounter encount = new Encounter();
+            for (var i = 0; i < chanceList.Count; i++)
+            {
+                if (chanceList[i] > result)
+                {
+                    encount = l[i];
+                    break;
+                }
+            }
+
+            return encount;
+        }
+        private SetEncounter getRandomSetEncounter(List<SetEncounter> l)
+        {
+            List<double> chanceList = new List<double>();
+            foreach (SetEncounter mon in l)
+            {
+                if (chanceList.Count == 0)
+                    chanceList.Add(mon.Chance);
+                else
+                    chanceList.Add(mon.Chance + chanceList[chanceList.Count - 1]);
+            }
+            double result = getRandomDoubleBetweenTwoValues(rand, 0, chanceList[chanceList.Count - 1]);
+            SetEncounter encount = new SetEncounter();
+            for (var i = 0; i < chanceList.Count; i++)
+            {
+                if (chanceList[i] > result)
+                {
+                    encount = l[i];
+                    break;
+                }
+            }
+
+            return encount;
+        }
         private EncountTableEntry[] getTenRandomEncounters(List<Encounter> l)
         {
             EncountTableEntry[] entryArr = new EncountTableEntry[10];
@@ -669,7 +726,7 @@ namespace DQ8Rando
                 entryArr[i] = entry;
                 if (count < enemyCount)
                 {
-                    var randomEnemy = l[rand.Next(l.Count)];
+                    var randomEnemy = getRandomEncounter(l);
                     entry.Arg1 = "03";
                     entry.Arg2 = "03";
                     entry.ID = randomEnemy.ID;
@@ -697,7 +754,7 @@ namespace DQ8Rando
                 entryArr[i] = entry;
                 if (count < enemyCount)
                 {
-                    var randomEnemy = l[rand.Next(l.Count)];
+                    var randomEnemy = getRandomSetEncounter(l);
                     entry.Weight = "03";
                     entry.ID = randomEnemy.ID;
                 }
@@ -721,7 +778,7 @@ namespace DQ8Rando
                 entryArr[i] = entry;
                 if (count < enemyCount)
                 {
-                    var randomEnemy = l[rand.Next(l.Count)];
+                    var randomEnemy = getRandomSetEncounter(l);
                     entry.Weight = "03";
                     entry.ID = randomEnemy.ID;
                 }
@@ -766,12 +823,23 @@ namespace DQ8Rando
         {
             loadSetEncounters();
             prepareCustomEncountFile();
-            List<SetEncounter> validSetEncounters = setEncountList.FindAll(e => e.Spawn > 0);
+            List<int> valid = new List<int>();
+            valid.Add(1);
+            if (check_monsters_mixInInfamous.IsChecked == true)
+                valid.Add(4);
+            if (check_monsters_includeArena.IsChecked == true)
+                valid.Add(5);
+            if (check_monsters_includePostgame.IsChecked == true)
+                valid.Add(6);
+            if (check_monsters_includeMemoriam.IsChecked == true)
+                valid.Add(7);
+
+            List<SetEncounter> validSetEncounters = setEncountList.FindAll(e => valid.Contains(e.Spawn));
             foreach (EncountTable table in customEncountFile.Contents)
             {
                 if (table.Edit == 2)
                 {
-                    table.SetEncounters = getOneRandomSetEncounter(setEncountList);
+                    table.SetEncounters = getOneRandomSetEncounter(validSetEncounters);
                 }
             }
         }
@@ -864,14 +932,21 @@ namespace DQ8Rando
                         foreach (EncountTableEntry entry in table.Contents)
                         {
                             var monster = getEncounterById(entry.ID);
-                            if (monster != null && monster.Spawn > 0)
+                            if (monster != null && monster.Spawn > 0 && monsters.Contains(monster.Name) == false)
                                 monsters.Add(monster.Name);
                         }
                         foreach (EncountTableSetEntry entry in table.SetEncounters)
                         {
                             var monster = getSetEncounterById(entry.ID);
                             if (monster != null && monster.Spawn > 0)
-                                monsters.AddRange(monster.Contents);
+                            {
+                                foreach (string name in monster.Contents)
+                                {
+                                    if (name != null && monsters.Contains(name) == false)
+                                        monsters.Add(name);
+                                }
+                            }
+                                
                         }
                         spoiler.Add(string.Join(", ", monsters));
                         spoiler.Add("\n");
@@ -1095,7 +1170,7 @@ namespace DQ8Rando
         }
         private void generateOptionLog(string path, int seed)
         {
-            string optionString = "DQ8-Rando v0.3\nDragon Quest VIII 3DS Randomizer Version 0.3\n\n";
+            string optionString = "DQ8-Rando v0.3.1\nDragon Quest VIII 3DS Randomizer Version 0.3.1\n\n";
             optionString += "Seed: " + seed.ToString() + "\n\n";
             foreach (OptionTab tab in optionOutputList)
             {

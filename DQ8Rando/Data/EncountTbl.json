@@ -873,7 +873,7 @@
     {
       "ID": "0010",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "north plains, day, before Citadel",
       "Edit": 1,
       "Header": "66000500060301100000",
       "Contents": [
@@ -952,7 +952,7 @@
     {
       "ID": "0011",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "north plains, night, before Citadel",
       "Edit": 1,
       "Header": "66000500050402100000",
       "Contents": [
@@ -1031,7 +1031,7 @@
     {
       "ID": "0012",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "north woods, before Citadel",
       "Edit": 1,
       "Header": "67000600040303000000",
       "Contents": [
@@ -1347,7 +1347,7 @@
     {
       "ID": "0016",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "beach, before Citadel",
       "Edit": 1,
       "Header": "68000900020503100000",
       "Contents": [
@@ -1426,7 +1426,7 @@
     {
       "ID": "0017",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "south plains, day, before Citadel",
       "Edit": 1,
       "Header": "69000A00060301040000",
       "Contents": [
@@ -1505,7 +1505,7 @@
     {
       "ID": "0018",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "south plains, night, before Citadel",
       "Edit": 1,
       "Header": "69000B00050302050000",
       "Contents": [
@@ -1584,7 +1584,7 @@
     {
       "ID": "0019",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "south woods, before Citadel",
       "Edit": 1,
       "Header": "6A000B00060303050000",
       "Contents": [
@@ -13829,7 +13829,7 @@
     {
       "ID": "00C4",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "north plains, day, after Citadel",
       "Edit": 1,
       "Header": "98002D00050501060000",
       "Contents": [
@@ -13908,7 +13908,7 @@
     {
       "ID": "00C5",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "north plains, night, after Citadel",
       "Edit": 1,
       "Header": "98002D00040602070000",
       "Contents": [
@@ -13987,7 +13987,7 @@
     {
       "ID": "00C6",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "north woods, after Citadel",
       "Edit": 1,
       "Header": "99002D00040403070000",
       "Contents": [
@@ -14066,7 +14066,7 @@
     {
       "ID": "00C7",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "beach, after Citadel",
       "Edit": 1,
       "Header": "9A002D00050203070000",
       "Contents": [
@@ -14145,7 +14145,7 @@
     {
       "ID": "00C8",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "south plains, day, after Citadel",
       "Edit": 1,
       "Header": "9B002D00060301060000",
       "Contents": [
@@ -14224,7 +14224,7 @@
     {
       "ID": "00C9",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "south plains, night, after Citadel",
       "Edit": 1,
       "Header": "9B002D00060402070000",
       "Contents": [
@@ -14303,7 +14303,7 @@
     {
       "ID": "00CA",
       "Region": "Alexandria Region",
-      "Area": "",
+      "Area": "south woods, after Citadel",
       "Edit": 1,
       "Header": "9C002D00060603070000",
       "Contents": [

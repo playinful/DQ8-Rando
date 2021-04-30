@@ -9,6 +9,7 @@ namespace DQ8Rando
         public string ID { get; set; }
         public string Name { get; set; }
         public int Spawn { get; set; }
+        public double Chance { get; set; }
     }
     [Serializable]
     public class SetEncounter
@@ -16,6 +17,7 @@ namespace DQ8Rando
         public string ID { get; set; }
         public string[] Contents { get; set; }
         public int Spawn { get; set; }
+        public double Chance { get; set; }
     }
     [Serializable]
     public class EncountFile
