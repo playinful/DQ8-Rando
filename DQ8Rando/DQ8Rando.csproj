@@ -146,24 +146,30 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Casino.cs" />
+    <Compile Include="Assets.cs" />
+    <Compile Include="MainWindow.xaml.cs" />
     <Compile Include="ShopItem.cs" />
     <Compile Include="HotelCharges.cs" />
     <Compile Include="Option.cs" />
     <Compile Include="Encounter.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="TreasureBox.cs" />
-    <Page Include="MainWindow.xaml">
+    <None Include="MainWindowbak.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
-    </Page>
+    </None>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
+    <None Include="MainWindowbak.xaml.cs">
+      <DependentUpon>MainWindowbak.xaml</DependentUpon>
       <SubType>Code</SubType>
-    </Compile>
+    </None>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -187,6 +193,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data\Item_Casino.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Assets.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data\ShopItem.json">
@@ -218,6 +227,12 @@
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\blank.moflex">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\silence.bcstm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Resources\title_logo.bflim">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

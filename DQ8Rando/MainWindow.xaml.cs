@@ -56,6 +56,7 @@ namespace DQ8Rando
         public HotelCharges hotelCharges;
         public ShopItemFile shopItem;
         public ItemCasinoFile itemCasino;
+        public AssetFile[] gameAssets;
 
         public ItemFile customItemFile;
         public EncountFile customEncountFile;
@@ -114,7 +115,7 @@ namespace DQ8Rando
                 message = "Error: Unable to create output directory.";
             }
 
-            copyGraphicalAssets(outputFolder);
+            copyAssets(outputFolder);
 
             MessageBoxResult result = System.Windows.MessageBox.Show(message);
 
@@ -1229,12 +1230,46 @@ namespace DQ8Rando
             }
             File.WriteAllText(path + "/options.txt", optionString);
         }
-        private void copyGraphicalAssets(string path)
+        private void copyAssets(string path)
         {
-            if (Directory.Exists(path + "/romfs/data/Layout/texPG/en") == false)
-                Directory.CreateDirectory(path + "/romfs/data/Layout/texPG/en");
-            File.Copy("Resources/title_logo.bflim", path + "/romfs/data/Layout/texPG/en/title_logo.bflim", true);
-            File.Copy("Resources/tittle_001.bflim", path + "/romfs/data/Layout/texPG/en/tittle_001.bflim", true);
+            loadAssetData();
+            foreach (AssetFile asset in gameAssets)
+            {
+                bool doAsset = false;
+                if (asset.Condition != null)
+                {
+                    var checkBox = asset.ConditionControl as System.Windows.Controls.CheckBox;
+                    if (checkBox != null && checkBox.IsChecked == true)
+                    {
+                        doAsset = true;
+                    }
+                }
+                else
+                    doAsset = true;
+
+                if (doAsset)
+                {
+                    foreach (AssetPath asspath in asset.Output)
+                    {
+                        if (Directory.Exists(path + "/" + asspath.Path) == false)
+                            Directory.CreateDirectory(path + "/" + asspath.Path);
+                        File.Copy("Resources/" + asset.Source, path + "/" + asspath.Path + "/" + asspath.Filename, true);
+                    }
+                }
+            }
+        }
+        private void loadAssetData()
+        {
+            if (gameAssets == null)
+            {
+                jsonString = File.ReadAllText("Data/Assets.json");
+                gameAssets = JsonSerializer.Deserialize<AssetFile[]>(jsonString);
+                foreach (AssetFile asset in gameAssets)
+                {
+                    if (asset.Condition != null)
+                        asset.ConditionControl = FindName(asset.Condition) as System.Windows.Controls.Control;
+                }
+            }
         }
         private void writeHexStringToFile (string byteString, string path)
         {

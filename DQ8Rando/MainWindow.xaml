@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DQ8Rando"
         xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
         mc:Ignorable="d"
-        Title="Dragon Quest VIII Randomizer v0.3.1" Height="598" Width="408" ResizeMode="CanMinimize" x:Class="DQ8Rando.MainWindow">
+        Title="Dragon Quest VIII Randomizer v0.3.2" Height="598" Width="408" ResizeMode="CanMinimize" x:Class="DQ8Rando.MainWindow">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="263*"/>
@@ -151,9 +151,14 @@
                     <Label Content="Casino" HorizontalAlignment="Left" Height="26" Margin="10,179,0,0" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="Alchemy" Name="tab_alchemy"  Visibility="Hidden"></TabItem>
+            <!--<TabItem Header="Alchemy" Name="tab_alchemy"  Visibility="Hidden"></TabItem>
             <TabItem Header="Music" Name="tab_music"  Visibility="Hidden"></TabItem>
-            <TabItem Header="Attributes" Name="tab_stats"  Visibility="Hidden"></TabItem>
+            <TabItem Header="Attributes" Name="tab_stats"  Visibility="Hidden"></TabItem>-->
+            <TabItem Header="Misc." Name="tab_misc"  >
+                <Grid>
+                    <CheckBox x:Name="check_misc_skipCutscene" Content="Skip movie cutscenes" ToolTip="Skips certain cutscenes." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="monsters_mixInInfamous_EnableCheck"/>
+                </Grid>
+            </TabItem>
         </TabControl>
         <TextBox Name="tbox_seed" ToolTip="The seed to use for the randomization (Numbers only). Leave blank for a random seed." HorizontalAlignment="Left" Height="20" Margin="48,502,0,0" VerticalAlignment="Top" Width="178" TextChanged="tbox_seed_TextChanged" PreviewTextInput="tbox_IsNumericOnly" PreviewKeyDown="tbox_PreventSpace"/>
         <TextBox Name="tbox_directory" ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="10,527,0,0" VerticalAlignment="Top" Width="154"/>

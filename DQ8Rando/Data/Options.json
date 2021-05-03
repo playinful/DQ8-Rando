@@ -5,7 +5,7 @@
     "Contents": [
       {
         "Text": "Randomize overworld encounters",
-        "Element": "check_monsters_enemyOverworld"
+        "Element": "radio_monsters_overworld_random"
       },
       {
         "Text": "Randomize Special Monsters",
@@ -13,7 +13,7 @@
       },
       {
         "Text": "Randomize scripted encounters",
-        "Element": "check_monsters_enemyBoss"
+        "Element": "radio_monsters_boss_random"
       },
       {
         "Text": "Mix in Infamous Monsters",
