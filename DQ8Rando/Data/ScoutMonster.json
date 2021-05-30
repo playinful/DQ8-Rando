@@ -1,0 +1,705 @@
+{
+  "Header": "64000000313530353035313535333538",
+  "Contents": {
+    "0000": {
+      "ID": "0000",
+      "Monster": "01F5",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0001": {
+      "ID": "0001",
+      "Monster": "01F6",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0002": {
+      "ID": "0002",
+      "Monster": "01F7",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0003": {
+      "ID": "0003",
+      "Monster": "01F8",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0004": {
+      "ID": "0004",
+      "Monster": "01F9",
+      "Unk1": "02",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0005": {
+      "ID": "0005",
+      "Monster": "01FA",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0006": {
+      "ID": "0006",
+      "Monster": "01FB",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0007": {
+      "ID": "0007",
+      "Monster": "01FC",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": false
+    },
+    "0008": {
+      "ID": "0008",
+      "Monster": "01FD",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0009": {
+      "ID": "0009",
+      "Monster": "01FE",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "000A": {
+      "ID": "000A",
+      "Monster": "01FF",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "000B": {
+      "ID": "000B",
+      "Monster": "0200",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "000C": {
+      "ID": "000C",
+      "Monster": "0201",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": false
+    },
+    "000D": {
+      "ID": "000D",
+      "Monster": "0202",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "000E": {
+      "ID": "000E",
+      "Monster": "0203",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "000F": {
+      "ID": "000F",
+      "Monster": "0204",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": false
+    },
+    "0010": {
+      "ID": "0010",
+      "Monster": "0205",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0011": {
+      "ID": "0011",
+      "Monster": "0206",
+      "Unk1": "02",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0012": {
+      "ID": "0012",
+      "Monster": "0207",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0013": {
+      "ID": "0013",
+      "Monster": "0208",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0014": {
+      "ID": "0014",
+      "Monster": "0209",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0015": {
+      "ID": "0015",
+      "Monster": "020A",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0016": {
+      "ID": "0016",
+      "Monster": "020B",
+      "Unk1": "02",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0017": {
+      "ID": "0017",
+      "Monster": "020C",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0018": {
+      "ID": "0018",
+      "Monster": "020D",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0019": {
+      "ID": "0019",
+      "Monster": "020E",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "001A": {
+      "ID": "001A",
+      "Monster": "020F",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "001B": {
+      "ID": "001B",
+      "Monster": "0210",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "001C": {
+      "ID": "001C",
+      "Monster": "0211",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "001D": {
+      "ID": "001D",
+      "Monster": "0212",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "001E": {
+      "ID": "001E",
+      "Monster": "0213",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "001F": {
+      "ID": "001F",
+      "Monster": "0214",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0020": {
+      "ID": "0020",
+      "Monster": "0215",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0021": {
+      "ID": "0021",
+      "Monster": "0216",
+      "Unk1": "03",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "0022": {
+      "ID": "0022",
+      "Monster": "0217",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0023": {
+      "ID": "0023",
+      "Monster": "0218",
+      "Unk1": "02",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "0024": {
+      "ID": "0024",
+      "Monster": "0219",
+      "Unk1": "03",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "0025": {
+      "ID": "0025",
+      "Monster": "021A",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0026": {
+      "ID": "0026",
+      "Monster": "021B",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0027": {
+      "ID": "0027",
+      "Monster": "021C",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0028": {
+      "ID": "0028",
+      "Monster": "021D",
+      "Unk1": "03",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "0029": {
+      "ID": "0029",
+      "Monster": "021E",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "002A": {
+      "ID": "002A",
+      "Monster": "021F",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "002B": {
+      "ID": "002B",
+      "Monster": "0220",
+      "Unk1": "03",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "002C": {
+      "ID": "002C",
+      "Monster": "0221",
+      "Unk1": "03",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "002D": {
+      "ID": "002D",
+      "Monster": "0222",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "002E": {
+      "ID": "002E",
+      "Monster": "0223",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "002F": {
+      "ID": "002F",
+      "Monster": "0224",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0030": {
+      "ID": "0030",
+      "Monster": "0225",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0031": {
+      "ID": "0031",
+      "Monster": "0226",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0032": {
+      "ID": "0032",
+      "Monster": "0227",
+      "Unk1": "01",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0033": {
+      "ID": "0033",
+      "Monster": "0228",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0034": {
+      "ID": "0034",
+      "Monster": "0229",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0035": {
+      "ID": "0035",
+      "Monster": "022A",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0036": {
+      "ID": "0036",
+      "Monster": "022B",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0037": {
+      "ID": "0037",
+      "Monster": "022C",
+      "Unk1": "03",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "0038": {
+      "ID": "0038",
+      "Monster": "022D",
+      "Unk1": "03",
+      "Unk2": "01",
+			"Shuffle": true
+    },
+    "0039": {
+      "ID": "0039",
+      "Monster": "022E",
+      "Unk1": "03",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "003A": {
+      "ID": "003A",
+      "Monster": "022F",
+      "Unk1": "02",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "003B": {
+      "ID": "003B",
+      "Monster": "0230",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "003C": {
+      "ID": "003C",
+      "Monster": "0231",
+      "Unk1": "03",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "003D": {
+      "ID": "003D",
+      "Monster": "0232",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "003E": {
+      "ID": "003E",
+      "Monster": "0233",
+      "Unk1": "03",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "003F": {
+      "ID": "003F",
+      "Monster": "0234",
+      "Unk1": "03",
+      "Unk2": "03",
+			"Shuffle": true
+    },
+    "0040": {
+      "ID": "0040",
+      "Monster": "0235",
+      "Unk1": "02",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "0041": {
+      "ID": "0041",
+      "Monster": "0236",
+      "Unk1": "03",
+      "Unk2": "05",
+			"Shuffle": true
+    },
+    "0042": {
+      "ID": "0042",
+      "Monster": "0237",
+      "Unk1": "03",
+      "Unk2": "08",
+			"Shuffle": true
+    },
+    "0043": {
+      "ID": "0043",
+      "Monster": "0238",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0044": {
+      "ID": "0044",
+      "Monster": "0239",
+      "Unk1": "02",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0045": {
+      "ID": "0045",
+      "Monster": "023A",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0046": {
+      "ID": "0046",
+      "Monster": "023B",
+      "Unk1": "01",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0047": {
+      "ID": "0047",
+      "Monster": "023C",
+      "Unk1": "01",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0048": {
+      "ID": "0048",
+      "Monster": "023D",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0049": {
+      "ID": "0049",
+      "Monster": "023E",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "004A": {
+      "ID": "004A",
+      "Monster": "023F",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "004B": {
+      "ID": "004B",
+      "Monster": "0240",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "004C": {
+      "ID": "004C",
+      "Monster": "0241",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "004D": {
+      "ID": "004D",
+      "Monster": "0244",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "004E": {
+      "ID": "004E",
+      "Monster": "0245",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "004F": {
+      "ID": "004F",
+      "Monster": "0246",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "0050": {
+      "ID": "0050",
+      "Monster": "0247",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "0051": {
+      "ID": "0051",
+      "Monster": "0248",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0052": {
+      "ID": "0052",
+      "Monster": "0249",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0053": {
+      "ID": "0053",
+      "Monster": "024A",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "0054": {
+      "ID": "0054",
+      "Monster": "024B",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "0055": {
+      "ID": "0055",
+      "Monster": "024C",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0056": {
+      "ID": "0056",
+      "Monster": "024D",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0057": {
+      "ID": "0057",
+      "Monster": "024E",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "0058": {
+      "ID": "0058",
+      "Monster": "024F",
+      "Unk1": "03",
+      "Unk2": "07",
+			"Shuffle": true
+    },
+    "0059": {
+      "ID": "0059",
+      "Monster": "0250",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "005A": {
+      "ID": "005A",
+      "Monster": "0251",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "005B": {
+      "ID": "005B",
+      "Monster": "0252",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "005C": {
+      "ID": "005C",
+      "Monster": "0253",
+      "Unk1": "01",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "005D": {
+      "ID": "005D",
+      "Monster": "0254",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "005E": {
+      "ID": "005E",
+      "Monster": "0255",
+      "Unk1": "03",
+      "Unk2": "04",
+			"Shuffle": true
+    },
+    "005F": {
+      "ID": "005F",
+      "Monster": "0256",
+      "Unk1": "03",
+      "Unk2": "04",
+			"Shuffle": true
+    },
+    "0060": {
+      "ID": "0060",
+      "Monster": "0257",
+      "Unk1": "03",
+      "Unk2": "04",
+			"Shuffle": true
+    },
+    "0061": {
+      "ID": "0061",
+      "Monster": "0258",
+      "Unk1": "03",
+      "Unk2": "06",
+			"Shuffle": true
+    },
+    "0062": {
+      "ID": "0062",
+      "Monster": "0259",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    },
+    "0063": {
+      "ID": "0063",
+      "Monster": "025A",
+      "Unk1": "03",
+      "Unk2": "00",
+			"Shuffle": true
+    }
+  }
+}

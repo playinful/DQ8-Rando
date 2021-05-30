@@ -1,11 +1,11 @@
 {
   "Header": "19020000313530353237313035303432",
-  "Contents": [
-    {
+  "Contents": {
+    "0003": {
       "ID": "0003",
       "Region": "Farebury Region",
       "Area": "central plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "02000100060201030000",
       "Contents": [
         {
@@ -80,11 +80,11 @@
         }
       ]
     },
-    {
+    "0004": {
       "ID": "0004",
       "Region": "Farebury Region",
       "Area": "central plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "02000100060202040000",
       "Contents": [
         {
@@ -159,11 +159,11 @@
         }
       ]
     },
-    {
+    "0005": {
       "ID": "0005",
       "Region": "Farebury Region",
       "Area": "central woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "03000200050303040000",
       "Contents": [
         {
@@ -238,11 +238,11 @@
         }
       ]
     },
-    {
+    "0006": {
       "ID": "0006",
       "Region": "Farebury Region",
       "Area": "west plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "04000300060201030000",
       "Contents": [
         {
@@ -317,11 +317,11 @@
         }
       ]
     },
-    {
+    "0007": {
       "ID": "0007",
       "Region": "Farebury Region",
       "Area": "west plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "04000300050402040000",
       "Contents": [
         {
@@ -396,11 +396,11 @@
         }
       ]
     },
-    {
+    "0008": {
       "ID": "0008",
       "Region": "Farebury Region",
       "Area": "west woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "05000300050503040000",
       "Contents": [
         {
@@ -475,7 +475,7 @@
         }
       ]
     },
-    {
+    "0009": {
       "ID": "0009",
       "Region": "Waterfall Cave",
       "Area": "level 1",
@@ -554,7 +554,7 @@
         }
       ]
     },
-    {
+    "000A": {
       "ID": "000A",
       "Region": "Waterfall Cave",
       "Area": "level 2, 3",
@@ -633,11 +633,11 @@
         }
       ]
     },
-    {
+    "000B": {
       "ID": "000B",
       "Region": "Farebury Region",
       "Area": "east plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "06000200060201040000",
       "Contents": [
         {
@@ -712,11 +712,11 @@
         }
       ]
     },
-    {
+    "000C": {
       "ID": "000C",
       "Region": "Farebury Region",
       "Area": "east plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "06000200050302050000",
       "Contents": [
         {
@@ -791,11 +791,11 @@
         }
       ]
     },
-    {
+    "000D": {
       "ID": "000D",
       "Region": "Farebury Region",
       "Area": "east woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "07000300060403040000",
       "Contents": [
         {
@@ -870,11 +870,11 @@
         }
       ]
     },
-    {
+    "0010": {
       "ID": "0010",
       "Region": "Alexandria Region",
       "Area": "north plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "66000500060301100000",
       "Contents": [
         {
@@ -949,11 +949,11 @@
         }
       ]
     },
-    {
+    "0011": {
       "ID": "0011",
       "Region": "Alexandria Region",
       "Area": "north plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "66000500050402100000",
       "Contents": [
         {
@@ -1028,11 +1028,11 @@
         }
       ]
     },
-    {
+    "0012": {
       "ID": "0012",
       "Region": "Alexandria Region",
       "Area": "north woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "67000600040303000000",
       "Contents": [
         {
@@ -1107,7 +1107,7 @@
         }
       ]
     },
-    {
+    "0013": {
       "ID": "0013",
       "Region": "Tower of Alexandra",
       "Area": "outside",
@@ -1186,7 +1186,7 @@
         }
       ]
     },
-    {
+    "0014": {
       "ID": "0014",
       "Region": "Tower of Alexandra",
       "Area": "level 1",
@@ -1265,7 +1265,7 @@
         }
       ]
     },
-    {
+    "0015": {
       "ID": "0015",
       "Region": "Tower of Alexandra",
       "Area": "level 3-6",
@@ -1344,11 +1344,11 @@
         }
       ]
     },
-    {
+    "0016": {
       "ID": "0016",
       "Region": "Alexandria Region",
       "Area": "beach, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "68000900020503100000",
       "Contents": [
         {
@@ -1423,11 +1423,11 @@
         }
       ]
     },
-    {
+    "0017": {
       "ID": "0017",
       "Region": "Alexandria Region",
       "Area": "south plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "69000A00060301040000",
       "Contents": [
         {
@@ -1502,11 +1502,11 @@
         }
       ]
     },
-    {
+    "0018": {
       "ID": "0018",
       "Region": "Alexandria Region",
       "Area": "south plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "69000B00050302050000",
       "Contents": [
         {
@@ -1581,11 +1581,11 @@
         }
       ]
     },
-    {
+    "0019": {
       "ID": "0019",
       "Region": "Alexandria Region",
       "Area": "south woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "6A000B00060303050000",
       "Contents": [
         {
@@ -1660,11 +1660,11 @@
         }
       ]
     },
-    {
+    "001C": {
       "ID": "001C",
       "Region": "Maella Region",
       "Area": "north plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "2E010D00060301040000",
       "Contents": [
         {
@@ -1739,11 +1739,11 @@
         }
       ]
     },
-    {
+    "001D": {
       "ID": "001D",
       "Region": "Maella Region",
       "Area": "north plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "2E010D00060302050000",
       "Contents": [
         {
@@ -1818,11 +1818,11 @@
         }
       ]
     },
-    {
+    "001E": {
       "ID": "001E",
       "Region": "Maella Region",
       "Area": "north woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "2F010D00050403050000",
       "Contents": [
         {
@@ -1897,11 +1897,11 @@
         }
       ]
     },
-    {
+    "001F": {
       "ID": "001F",
       "Region": "Maella Region",
       "Area": "south plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "30010D00060201050000",
       "Contents": [
         {
@@ -1976,11 +1976,11 @@
         }
       ]
     },
-    {
+    "0020": {
       "ID": "0020",
       "Region": "Maella Region",
       "Area": "south plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "30010D00060302050000",
       "Contents": [
         {
@@ -2055,11 +2055,11 @@
         }
       ]
     },
-    {
+    "0021": {
       "ID": "0021",
       "Region": "Maella Region",
       "Area": "south woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "31010D00040403050000",
       "Contents": [
         {
@@ -2134,7 +2134,7 @@
         }
       ]
     },
-    {
+    "0022": {
       "ID": "0022",
       "Region": "Ruined Abbey",
       "Area": "outside",
@@ -2213,7 +2213,7 @@
         }
       ]
     },
-    {
+    "0023": {
       "ID": "0023",
       "Region": "Ruined Abbey",
       "Area": "level 1-3",
@@ -2292,7 +2292,7 @@
         }
       ]
     },
-    {
+    "0024": {
       "ID": "0024",
       "Region": "Ruined Abbey",
       "Area": "level 4, 3",
@@ -2371,11 +2371,11 @@
         }
       ]
     },
-    {
+    "0027": {
       "ID": "0027",
       "Region": "Kingdom of Ascantha",
       "Area": "west side plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "92010F00060401050000",
       "Contents": [
         {
@@ -2450,11 +2450,11 @@
         }
       ]
     },
-    {
+    "0028": {
       "ID": "0028",
       "Region": "Kingdom of Ascantha",
       "Area": "west side plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "92010F00060602060000",
       "Contents": [
         {
@@ -2529,11 +2529,11 @@
         }
       ]
     },
-    {
+    "0029": {
       "ID": "0029",
       "Region": "Kingdom of Ascantha",
       "Area": "west side woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "93010F00050403060000",
       "Contents": [
         {
@@ -2608,11 +2608,11 @@
         }
       ]
     },
-    {
+    "002A": {
       "ID": "002A",
       "Region": "Maella Region",
       "Area": "northeast plains, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "32010F00030603050000",
       "Contents": [
         {
@@ -2687,11 +2687,11 @@
         }
       ]
     },
-    {
+    "002B": {
       "ID": "002B",
       "Region": "Kingdom of Ascantha",
       "Area": "northeast plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "94010F00060301050000",
       "Contents": [
         {
@@ -2766,11 +2766,11 @@
         }
       ]
     },
-    {
+    "002C": {
       "ID": "002C",
       "Region": "Kingdom of Ascantha",
       "Area": "northeast plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "94010F00060402060000",
       "Contents": [
         {
@@ -2845,11 +2845,11 @@
         }
       ]
     },
-    {
+    "002D": {
       "ID": "002D",
       "Region": "Kingdom of Ascantha",
       "Area": "northeast woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "95011000050303000000",
       "Contents": [
         {
@@ -2924,11 +2924,11 @@
         }
       ]
     },
-    {
+    "002E": {
       "ID": "002E",
       "Region": "Kingdom of Ascantha",
       "Area": "coast, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "96011000070203100000",
       "Contents": [
         {
@@ -3003,11 +3003,11 @@
         }
       ]
     },
-    {
+    "002F": {
       "ID": "002F",
       "Region": "Kingdom of Ascantha",
       "Area": "south plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "97011000060301100000",
       "Contents": [
         {
@@ -3082,11 +3082,11 @@
         }
       ]
     },
-    {
+    "0030": {
       "ID": "0030",
       "Region": "Kingdom of Ascantha",
       "Area": "south plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "97011000060402100000",
       "Contents": [
         {
@@ -3161,11 +3161,11 @@
         }
       ]
     },
-    {
+    "0031": {
       "ID": "0031",
       "Region": "Kingdom of Ascantha",
       "Area": "south woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "98011000050303100000",
       "Contents": [
         {
@@ -3240,11 +3240,11 @@
         }
       ]
     },
-    {
+    "0032": {
       "ID": "0032",
       "Region": "Kingdom of Ascantha",
       "Area": "riverbank, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "99011000050503100000",
       "Contents": [
         {
@@ -3319,7 +3319,7 @@
         }
       ]
     },
-    {
+    "0033": {
       "ID": "0033",
       "Region": "Wishers' Peak",
       "Area": "inside",
@@ -3398,7 +3398,7 @@
         }
       ]
     },
-    {
+    "0034": {
       "ID": "0034",
       "Region": "Wishers' Peak",
       "Area": "outside",
@@ -3477,11 +3477,11 @@
         }
       ]
     },
-    {
+    "0035": {
       "ID": "0035",
       "Region": "Kingdom of Ascantha",
       "Area": "northwest plains, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "9A011100030303050000",
       "Contents": [
         {
@@ -3556,11 +3556,11 @@
         }
       ]
     },
-    {
+    "0036": {
       "ID": "0036",
       "Region": "Kingdom of Ascantha",
       "Area": "northwest woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "9B011100030503060000",
       "Contents": [
         {
@@ -3635,11 +3635,11 @@
         }
       ]
     },
-    {
+    "0039": {
       "ID": "0039",
       "Region": "Pickham Region",
       "Area": "east plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5A021200050301050000",
       "Contents": [
         {
@@ -3714,11 +3714,11 @@
         }
       ]
     },
-    {
+    "003A": {
       "ID": "003A",
       "Region": "Pickham Region",
       "Area": "east plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5A021200040302070000",
       "Contents": [
         {
@@ -3793,11 +3793,11 @@
         }
       ]
     },
-    {
+    "003B": {
       "ID": "003B",
       "Region": "Pickham Region",
       "Area": "east woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5B021200050303060000",
       "Contents": [
         {
@@ -3872,11 +3872,11 @@
         }
       ]
     },
-    {
+    "003C": {
       "ID": "003C",
       "Region": "Pickham Region",
       "Area": "west plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5C021200050301050000",
       "Contents": [
         {
@@ -3951,11 +3951,11 @@
         }
       ]
     },
-    {
+    "003D": {
       "ID": "003D",
       "Region": "Pickham Region",
       "Area": "west plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5C021300040302070000",
       "Contents": [
         {
@@ -4030,11 +4030,11 @@
         }
       ]
     },
-    {
+    "003E": {
       "ID": "003E",
       "Region": "Pickham Region",
       "Area": "west woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5D021300050303060000",
       "Contents": [
         {
@@ -4109,11 +4109,11 @@
         }
       ]
     },
-    {
+    "003F": {
       "ID": "003F",
       "Region": "Pickham Region",
       "Area": "beach, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "5E021300060303080000",
       "Contents": [
         {
@@ -4188,7 +4188,7 @@
         }
       ]
     },
-    {
+    "0040": {
       "ID": "0040",
       "Region": "Swordsman's Labyrinth",
       "Area": "level 1, 2",
@@ -4267,7 +4267,7 @@
         }
       ]
     },
-    {
+    "0041": {
       "ID": "0041",
       "Region": "Swordsman's Labyrinth",
       "Area": "level 3, 4",
@@ -4346,11 +4346,11 @@
         }
       ]
     },
-    {
+    "0044": {
       "ID": "0044",
       "Region": "Kingdom of Trodain",
       "Area": "south plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CA001400060301060000",
       "Contents": [
         {
@@ -4425,11 +4425,11 @@
         }
       ]
     },
-    {
+    "0045": {
       "ID": "0045",
       "Region": "Kingdom of Trodain",
       "Area": "south plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CA001400060502080000",
       "Contents": [
         {
@@ -4504,11 +4504,11 @@
         }
       ]
     },
-    {
+    "0046": {
       "ID": "0046",
       "Region": "Kingdom of Trodain",
       "Area": "south woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CB001400070403070000",
       "Contents": [
         {
@@ -4583,11 +4583,11 @@
         }
       ]
     },
-    {
+    "0047": {
       "ID": "0047",
       "Region": "Kingdom of Trodain",
       "Area": "west cape, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CC001400050403070000",
       "Contents": [
         {
@@ -4662,11 +4662,11 @@
         }
       ]
     },
-    {
+    "0048": {
       "ID": "0048",
       "Region": "Kingdom of Trodain",
       "Area": "north plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CD001400020601080000",
       "Contents": [
         {
@@ -4741,11 +4741,11 @@
         }
       ]
     },
-    {
+    "0049": {
       "ID": "0049",
       "Region": "Kingdom of Trodain",
       "Area": "north plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CD001400030602080000",
       "Contents": [
         {
@@ -4820,11 +4820,11 @@
         }
       ]
     },
-    {
+    "004A": {
       "ID": "004A",
       "Region": "Kingdom of Trodain",
       "Area": "north woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "CE001400050503070000",
       "Contents": [
         {
@@ -4899,7 +4899,7 @@
         }
       ]
     },
-    {
+    "004B": {
       "ID": "004B",
       "Region": "Castle Trodain",
       "Area": "courtyard",
@@ -4978,7 +4978,7 @@
         }
       ]
     },
-    {
+    "004C": {
       "ID": "004C",
       "Region": "Castle Trodain",
       "Area": "interior",
@@ -5057,7 +5057,7 @@
         }
       ]
     },
-    {
+    "004D": {
       "ID": "004D",
       "Region": "Beneath Ascantha",
       "Area": "",
@@ -5136,11 +5136,11 @@
         }
       ]
     },
-    {
+    "004E": {
       "ID": "004E",
       "Region": "Land of the Moles",
       "Area": "before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "F5011500060403060000",
       "Contents": [
         {
@@ -5215,7 +5215,7 @@
         }
       ]
     },
-    {
+    "004F": {
       "ID": "004F",
       "Region": "Mole Hole",
       "Area": "level 1, 2",
@@ -5294,7 +5294,7 @@
         }
       ]
     },
-    {
+    "0050": {
       "ID": "0050",
       "Region": "Mole Hole",
       "Area": "level 2, 3",
@@ -5373,11 +5373,11 @@
         }
       ]
     },
-    {
+    "0051": {
       "ID": "0051",
       "Region": "Ocean",
       "Area": "central ocean",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "550B1600050503070000",
       "Contents": [
         {
@@ -5452,11 +5452,11 @@
         }
       ]
     },
-    {
+    "0052": {
       "ID": "0052",
       "Region": "Ocean",
       "Area": "arcadia canal",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "560B1700060103070000",
       "Contents": [
         {
@@ -5531,11 +5531,11 @@
         }
       ]
     },
-    {
+    "0053": {
       "ID": "0053",
       "Region": "Ocean",
       "Area": "outer ocean",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "570B1900040503080000",
       "Contents": [
         {
@@ -5610,11 +5610,11 @@
         }
       ]
     },
-    {
+    "0054": {
       "ID": "0054",
       "Region": "Ocean",
       "Area": "distant ocean",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "580B1C00030503080000",
       "Contents": [
         {
@@ -5689,11 +5689,11 @@
         }
       ]
     },
-    {
+    "0055": {
       "ID": "0055",
       "Region": "Ocean",
       "Area": "map's edge",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "590B1F00050503080000",
       "Contents": [
         {
@@ -5768,11 +5768,12 @@
         }
       ]
     },
-    {
+    "0056": {
       "ID": "0056",
       "Region": "Ocean",
       "Area": "?",
-      "Edit": 1,
+      "Edit": 0,
+      "Parent": "0051",
       "Header": "5E0B1700060103070000",
       "Contents": [
         {
@@ -5847,11 +5848,11 @@
         }
       ]
     },
-    {
+    "0057": {
       "ID": "0057",
       "Region": "Baccarat Region",
       "Area": "north plains, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "86031600060303100000",
       "Contents": [
         {
@@ -5926,11 +5927,11 @@
         }
       ]
     },
-    {
+    "0058": {
       "ID": "0058",
       "Region": "Baccarat Region",
       "Area": "north woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "87031600050503100000",
       "Contents": [
         {
@@ -6005,11 +6006,11 @@
         }
       ]
     },
-    {
+    "0059": {
       "ID": "0059",
       "Region": "Baccarat Region",
       "Area": "south, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "88031600060401100000",
       "Contents": [
         {
@@ -6084,11 +6085,11 @@
         }
       ]
     },
-    {
+    "005A": {
       "ID": "005A",
       "Region": "Baccarat Region",
       "Area": "south, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "88031700060602100000",
       "Contents": [
         {
@@ -6163,11 +6164,11 @@
         }
       ]
     },
-    {
+    "005B": {
       "ID": "005B",
       "Region": "Baccarat Region",
       "Area": "plains near tree, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "89031700060501100000",
       "Contents": [
         {
@@ -6242,11 +6243,11 @@
         }
       ]
     },
-    {
+    "005C": {
       "ID": "005C",
       "Region": "Baccarat Region",
       "Area": "plains near tree, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "89031700060602100000",
       "Contents": [
         {
@@ -6321,11 +6322,11 @@
         }
       ]
     },
-    {
+    "005D": {
       "ID": "005D",
       "Region": "Baccarat Region",
       "Area": "woods near tree, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "8A031700040603070000",
       "Contents": [
         {
@@ -6400,11 +6401,11 @@
         }
       ]
     },
-    {
+    "005E": {
       "ID": "005E",
       "Region": "Northwest Isle",
       "Area": "before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "41061800060603100000",
       "Contents": [
         {
@@ -6479,11 +6480,11 @@
         }
       ]
     },
-    {
+    "005F": {
       "ID": "005F",
       "Region": "Unnamed Isle",
       "Area": "isle near farebury, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "6D071800040603060000",
       "Contents": [
         {
@@ -6558,11 +6559,11 @@
         }
       ]
     },
-    {
+    "0060": {
       "ID": "0060",
       "Region": "Unnamed Isle",
       "Area": "minnie's island/maella isle, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "6E071A00050203060000",
       "Contents": [
         {
@@ -6637,11 +6638,11 @@
         }
       ]
     },
-    {
+    "0061": {
       "ID": "0061",
       "Region": "Unnamed Isle",
       "Area": "southern isles woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "6F071C00070503060000",
       "Contents": [
         {
@@ -6716,11 +6717,11 @@
         }
       ]
     },
-    {
+    "0062": {
       "ID": "0062",
       "Region": "Unnamed Isle",
       "Area": "southern isles plains, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "70071E00030503060000",
       "Contents": [
         {
@@ -6795,11 +6796,11 @@
         }
       ]
     },
-    {
+    "0063": {
       "ID": "0063",
       "Region": "Unnamed Isle",
       "Area": "uncharted island, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "71072000060303100000",
       "Contents": [
         {
@@ -6874,11 +6875,11 @@
         }
       ]
     },
-    {
+    "0064": {
       "ID": "0064",
       "Region": "Holy Isle of Neos",
       "Area": "day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "DD051800050301060000",
       "Contents": [
         {
@@ -6953,11 +6954,11 @@
         }
       ]
     },
-    {
+    "0065": {
       "ID": "0065",
       "Region": "Holy Isle of Neos",
       "Area": "night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "DD051800050502070000",
       "Contents": [
         {
@@ -7032,11 +7033,11 @@
         }
       ]
     },
-    {
+    "0069": {
       "ID": "0069",
       "Region": "Eastern Argonia",
       "Area": "west plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "4E041800060401060000",
       "Contents": [
         {
@@ -7111,11 +7112,11 @@
         }
       ]
     },
-    {
+    "006A": {
       "ID": "006A",
       "Region": "Eastern Argonia",
       "Area": "west plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "4E041800050502080000",
       "Contents": [
         {
@@ -7190,11 +7191,11 @@
         }
       ]
     },
-    {
+    "006B": {
       "ID": "006B",
       "Region": "Eastern Argonia",
       "Area": "west woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "4F041800040603070000",
       "Contents": [
         {
@@ -7269,11 +7270,11 @@
         }
       ]
     },
-    {
+    "006C": {
       "ID": "006C",
       "Region": "Western Argonia",
       "Area": "east plains, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "EA031900060603070000",
       "Contents": [
         {
@@ -7348,11 +7349,11 @@
         }
       ]
     },
-    {
+    "006D": {
       "ID": "006D",
       "Region": "Western Argonia",
       "Area": "west plains, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "EB031900030503070000",
       "Contents": [
         {
@@ -7427,11 +7428,11 @@
         }
       ]
     },
-    {
+    "006E": {
       "ID": "006E",
       "Region": "Western Argonia",
       "Area": "south plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "EC031900060301080000",
       "Contents": [
         {
@@ -7506,11 +7507,11 @@
         }
       ]
     },
-    {
+    "006F": {
       "ID": "006F",
       "Region": "Western Argonia",
       "Area": "south plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "EC031900060402080000",
       "Contents": [
         {
@@ -7585,11 +7586,11 @@
         }
       ]
     },
-    {
+    "0070": {
       "ID": "0070",
       "Region": "Eastern Argonia",
       "Area": "east plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "50041900060301100000",
       "Contents": [
         {
@@ -7664,11 +7665,11 @@
         }
       ]
     },
-    {
+    "0071": {
       "ID": "0071",
       "Region": "Eastern Argonia",
       "Area": "east plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "50041900060502100000",
       "Contents": [
         {
@@ -7743,11 +7744,11 @@
         }
       ]
     },
-    {
+    "0072": {
       "ID": "0072",
       "Region": "Eastern Argonia",
       "Area": "east woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "51041900060603100000",
       "Contents": [
         {
@@ -7822,11 +7823,11 @@
         }
       ]
     },
-    {
+    "0073": {
       "ID": "0073",
       "Region": "Eastern Argonia",
       "Area": "beach, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "52041A00060201070000",
       "Contents": [
         {
@@ -7901,11 +7902,11 @@
         }
       ]
     },
-    {
+    "0074": {
       "ID": "0074",
       "Region": "Eastern Argonia",
       "Area": "beach, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "52041A00060402080000",
       "Contents": [
         {
@@ -7980,11 +7981,11 @@
         }
       ]
     },
-    {
+    "0075": {
       "ID": "0075",
       "Region": "Eastern Argonia",
       "Area": "north plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "53041A00060601070000",
       "Contents": [
         {
@@ -8059,11 +8060,11 @@
         }
       ]
     },
-    {
+    "0076": {
       "ID": "0076",
       "Region": "Eastern Argonia",
       "Area": "north plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "53041A00060702080000",
       "Contents": [
         {
@@ -8138,11 +8139,11 @@
         }
       ]
     },
-    {
+    "0077": {
       "ID": "0077",
       "Region": "Eastern Argonia",
       "Area": "north woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "54041A00040703080000",
       "Contents": [
         {
@@ -8217,11 +8218,11 @@
         }
       ]
     },
-    {
+    "0078": {
       "ID": "0078",
       "Region": "Eastern Argonia",
       "Area": "beach coastline, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "55041A00060403060000",
       "Contents": [
         {
@@ -8296,7 +8297,7 @@
         }
       ]
     },
-    {
+    "0079": {
       "ID": "0079",
       "Region": "Savella Area",
       "Area": "day",
@@ -8375,7 +8376,7 @@
         }
       ]
     },
-    {
+    "007A": {
       "ID": "007A",
       "Region": "Savella Area",
       "Area": "night",
@@ -8454,11 +8455,11 @@
         }
       ]
     },
-    {
+    "007B": {
       "ID": "007B",
       "Region": "Cape West of Pickham",
       "Area": "before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "BD021C00060603080000",
       "Contents": [
         {
@@ -8533,7 +8534,7 @@
         }
       ]
     },
-    {
+    "007C": {
       "ID": "007C",
       "Region": "Royal Hunting Ground",
       "Area": "random encounter",
@@ -8612,11 +8613,11 @@
         }
       ]
     },
-    {
+    "007D": {
       "ID": "007D",
       "Region": "Desert",
       "Area": "day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "B1041C00060701080000",
       "Contents": [
         {
@@ -8691,11 +8692,11 @@
         }
       ]
     },
-    {
+    "007E": {
       "ID": "007E",
       "Region": "Desert",
       "Area": "night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "B1041C00060302080000",
       "Contents": [
         {
@@ -8770,7 +8771,7 @@
         }
       ]
     },
-    {
+    "007F": {
       "ID": "007F",
       "Region": "Dark Ruins",
       "Area": "level 1",
@@ -8849,7 +8850,7 @@
         }
       ]
     },
-    {
+    "0080": {
       "ID": "0080",
       "Region": "Dark Ruins",
       "Area": "basement level 1",
@@ -8928,7 +8929,7 @@
         }
       ]
     },
-    {
+    "0081": {
       "ID": "0081",
       "Region": "Dark Ruins",
       "Area": "basement level 2, 4",
@@ -9007,11 +9008,11 @@
         }
       ]
     },
-    {
+    "0083": {
       "ID": "0083",
       "Region": "Arcadia Region",
       "Area": "south plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "16051E00060501050000",
       "Contents": [
         {
@@ -9086,11 +9087,11 @@
         }
       ]
     },
-    {
+    "0084": {
       "ID": "0084",
       "Region": "Arcadia Region",
       "Area": "south plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "16051E00060602060000",
       "Contents": [
         {
@@ -9165,11 +9166,11 @@
         }
       ]
     },
-    {
+    "0085": {
       "ID": "0085",
       "Region": "Arcadia Region",
       "Area": "south woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "17051E00050603060000",
       "Contents": [
         {
@@ -9244,11 +9245,11 @@
         }
       ]
     },
-    {
+    "0086": {
       "ID": "0086",
       "Region": "Arcadia Region",
       "Area": "north plains, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "18051E00060301050000",
       "Contents": [
         {
@@ -9323,11 +9324,11 @@
         }
       ]
     },
-    {
+    "0087": {
       "ID": "0087",
       "Region": "Arcadia Region",
       "Area": "north plains, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "18051F00060602060000",
       "Contents": [
         {
@@ -9402,11 +9403,11 @@
         }
       ]
     },
-    {
+    "0088": {
       "ID": "0088",
       "Region": "Arcadia Region",
       "Area": "north woods, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "19051F00050603060000",
       "Contents": [
         {
@@ -9481,7 +9482,7 @@
         }
       ]
     },
-    {
+    "0089": {
       "ID": "0089",
       "Region": "Rydon's Tower",
       "Area": "outside",
@@ -9560,7 +9561,7 @@
         }
       ]
     },
-    {
+    "008A": {
       "ID": "008A",
       "Region": "Rydon's Tower",
       "Area": "level 1-3",
@@ -9639,7 +9640,7 @@
         }
       ]
     },
-    {
+    "008B": {
       "ID": "008B",
       "Region": "Rydon's Tower",
       "Area": "level 7-10",
@@ -9718,11 +9719,12 @@
         }
       ]
     },
-    {
+    "008C": {
       "ID": "008C",
       "Region": "Blizzard Peaks",
       "Area": "?",
-      "Edit": 1,
+      "Edit": 0,
+      "Parent": "008E",
       "Header": "79052000060301100000",
       "Contents": [
         {
@@ -9797,11 +9799,11 @@
         }
       ]
     },
-    {
+    "008D": {
       "ID": "008D",
       "Region": "Blizzard Peaks",
       "Area": "?",
-      "Edit": 1,
+      "Parent": "008F",
       "Header": "79052000060402100000",
       "Contents": [
         {
@@ -9876,11 +9878,11 @@
         }
       ]
     },
-    {
+    "008E": {
       "ID": "008E",
       "Region": "Blizzard Peaks",
       "Area": "day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "7A052000060601090000",
       "Contents": [
         {
@@ -9955,11 +9957,11 @@
         }
       ]
     },
-    {
+    "008F": {
       "ID": "008F",
       "Region": "Blizzard Peaks",
       "Area": "night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "7A052000040602060000",
       "Contents": [
         {
@@ -10034,7 +10036,7 @@
         }
       ]
     },
-    {
+    "0090": {
       "ID": "0090",
       "Region": "Herb Grotto",
       "Area": "level 1, 2",
@@ -10113,7 +10115,7 @@
         }
       ]
     },
-    {
+    "0091": {
       "ID": "0091",
       "Region": "Herb Grotto",
       "Area": "level 3, 4",
@@ -10192,7 +10194,7 @@
         }
       ]
     },
-    {
+    "0092": {
       "ID": "0092",
       "Region": "Dragon Graveyard",
       "Area": "level 1 west",
@@ -10271,7 +10273,7 @@
         }
       ]
     },
-    {
+    "0093": {
       "ID": "0093",
       "Region": "Dragon Graveyard",
       "Area": "level 1 east",
@@ -10350,7 +10352,7 @@
         }
       ]
     },
-    {
+    "0094": {
       "ID": "0094",
       "Region": "Pirate's Cove",
       "Area": "level 1",
@@ -10429,7 +10431,7 @@
         }
       ]
     },
-    {
+    "0095": {
       "ID": "0095",
       "Region": "Pirate's Cove",
       "Area": "level 2",
@@ -10508,7 +10510,7 @@
         }
       ]
     },
-    {
+    "0096": {
       "ID": "0096",
       "Region": "Pirate's Cove",
       "Area": "level 3, 4",
@@ -10587,7 +10589,7 @@
         }
       ]
     },
-    {
+    "0097": {
       "ID": "0097",
       "Region": "Isolated Plateau",
       "Area": "west plains, day",
@@ -10666,7 +10668,7 @@
         }
       ]
     },
-    {
+    "0098": {
       "ID": "0098",
       "Region": "Isolated Plateau",
       "Area": "west plains, night",
@@ -10745,7 +10747,7 @@
         }
       ]
     },
-    {
+    "0099": {
       "ID": "0099",
       "Region": "Isolated Plateau",
       "Area": "near lake",
@@ -10824,7 +10826,7 @@
         }
       ]
     },
-    {
+    "009A": {
       "ID": "009A",
       "Region": "Isolated Plateau",
       "Area": "east plains, day",
@@ -10903,7 +10905,7 @@
         }
       ]
     },
-    {
+    "009B": {
       "ID": "009B",
       "Region": "Isolated Plateau",
       "Area": "east plains, night",
@@ -10982,7 +10984,7 @@
         }
       ]
     },
-    {
+    "009C": {
       "ID": "009C",
       "Region": "Isolated Plateau",
       "Area": "woods",
@@ -11061,7 +11063,7 @@
         }
       ]
     },
-    {
+    "009D": {
       "ID": "009D",
       "Region": "World of Darkness",
       "Area": "west plains",
@@ -11140,7 +11142,7 @@
         }
       ]
     },
-    {
+    "009E": {
       "ID": "009E",
       "Region": "World of Darkness",
       "Area": "east plains",
@@ -11219,7 +11221,7 @@
         }
       ]
     },
-    {
+    "009F": {
       "ID": "009F",
       "Region": "Godbird's Eyrie (Dark)",
       "Area": "outside",
@@ -11298,7 +11300,7 @@
         }
       ]
     },
-    {
+    "00A0": {
       "ID": "00A0",
       "Region": "Godbird's Eyrie (Dark)",
       "Area": "level 1, 2",
@@ -11377,7 +11379,7 @@
         }
       ]
     },
-    {
+    "00A1": {
       "ID": "00A1",
       "Region": "Godbird's Eyrie (Dark)",
       "Area": "level 3, 4",
@@ -11456,7 +11458,7 @@
         }
       ]
     },
-    {
+    "00A2": {
       "ID": "00A2",
       "Region": "Godbird's Eyrie (Dark)",
       "Area": "level 5",
@@ -11535,7 +11537,7 @@
         }
       ]
     },
-    {
+    "00A3": {
       "ID": "00A3",
       "Region": "Godbird's Eyrie",
       "Area": "outside",
@@ -11614,7 +11616,7 @@
         }
       ]
     },
-    {
+    "00A4": {
       "ID": "00A4",
       "Region": "Godbird's Eyrie",
       "Area": "level 1-3",
@@ -11693,7 +11695,7 @@
         }
       ]
     },
-    {
+    "00A5": {
       "ID": "00A5",
       "Region": "Godbird's Eyrie",
       "Area": "level 4, 5",
@@ -11772,11 +11774,11 @@
         }
       ]
     },
-    {
+    "00A6": {
       "ID": "00A6",
       "Region": "Areas Accessible by Air",
       "Area": "generic, day, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "F30A2800050401080000",
       "Contents": [
         {
@@ -11851,11 +11853,11 @@
         }
       ]
     },
-    {
+    "00A7": {
       "ID": "00A7",
       "Region": "Areas Accessible by Air",
       "Area": "generic, night, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "F30A2800050402080000",
       "Contents": [
         {
@@ -11930,11 +11932,12 @@
         }
       ]
     },
-    {
+    "00A8": {
       "ID": "00A8",
       "Region": "Untrodden Groves",
       "Area": "?",
-      "Edit": 1,
+      "Edit": 0,
+      "Parent": "00A9",
       "Header": "21032900050503100000",
       "Contents": [
         {
@@ -12009,11 +12012,11 @@
         }
       ]
     },
-    {
+    "00A9": {
       "ID": "00A9",
       "Region": "Untrodden Groves",
       "Area": "before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "22032900050503100000",
       "Contents": [
         {
@@ -12088,11 +12091,11 @@
         }
       ]
     },
-    {
+    "00AA": {
       "ID": "00AA",
       "Region": "Areas Accessible by Air",
       "Area": "egeus' tablet, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "F10A2900040503060000",
       "Contents": [
         {
@@ -12167,11 +12170,11 @@
         }
       ]
     },
-    {
+    "00AB": {
       "ID": "00AB",
       "Region": "Areas Accessible by Air",
       "Area": "howlwind hill, before Citadel",
-      "Edit": 1,
+      "Edit": 2,
       "Header": "F20A2A000207030C0000",
       "Contents": [
         {
@@ -12246,7 +12249,7 @@
         }
       ]
     },
-    {
+    "00AC": {
       "ID": "00AC",
       "Region": "Black Citadel",
       "Area": "outside",
@@ -12325,7 +12328,7 @@
         }
       ]
     },
-    {
+    "00AD": {
       "ID": "00AD",
       "Region": "Black Citadel",
       "Area": "inside building",
@@ -12404,7 +12407,7 @@
         }
       ]
     },
-    {
+    "00AE": {
       "ID": "00AE",
       "Region": "Black Citadel",
       "Area": "inside citadel",
@@ -12483,7 +12486,7 @@
         }
       ]
     },
-    {
+    "00AF": {
       "ID": "00AF",
       "Region": "Black Citadel",
       "Area": "fake town, loop 2",
@@ -12562,7 +12565,7 @@
         }
       ]
     },
-    {
+    "00B0": {
       "ID": "00B0",
       "Region": "Black Citadel",
       "Area": "fake town, loop 3",
@@ -12641,7 +12644,7 @@
         }
       ]
     },
-    {
+    "00B1": {
       "ID": "00B1",
       "Region": "Trolls' Maze",
       "Area": "random encounter",
@@ -12720,7 +12723,7 @@
         }
       ]
     },
-    {
+    "00B2": {
       "ID": "00B2",
       "Region": "Dragovian Path",
       "Area": "level 1",
@@ -12799,7 +12802,7 @@
         }
       ]
     },
-    {
+    "00B3": {
       "ID": "00B3",
       "Region": "Dragovian Path",
       "Area": "level 2, 3",
@@ -12878,7 +12881,7 @@
         }
       ]
     },
-    {
+    "00B4": {
       "ID": "00B4",
       "Region": "Dragovian Path",
       "Area": "level 4",
@@ -12957,7 +12960,7 @@
         }
       ]
     },
-    {
+    "00B5": {
       "ID": "00B5",
       "Region": "Heavenly Dais",
       "Area": "level 1",
@@ -13036,7 +13039,7 @@
         }
       ]
     },
-    {
+    "00B6": {
       "ID": "00B6",
       "Region": "Heavenly Dais",
       "Area": "level 2",
@@ -13115,11 +13118,11 @@
         }
       ]
     },
-    {
+    "00B9": {
       "ID": "00B9",
       "Region": "Farebury Region",
       "Area": "east plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "34002D00040201050000",
       "Contents": [
         {
@@ -13194,11 +13197,11 @@
         }
       ]
     },
-    {
+    "00BA": {
       "ID": "00BA",
       "Region": "Farebury Region",
       "Area": "east plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "34002D00040402060000",
       "Contents": [
         {
@@ -13273,11 +13276,11 @@
         }
       ]
     },
-    {
+    "00BB": {
       "ID": "00BB",
       "Region": "Farebury Region",
       "Area": "east woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "35002D00040303060000",
       "Contents": [
         {
@@ -13352,11 +13355,11 @@
         }
       ]
     },
-    {
+    "00BC": {
       "ID": "00BC",
       "Region": "Farebury Region",
       "Area": "west plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "36002D00040201050000",
       "Contents": [
         {
@@ -13431,11 +13434,11 @@
         }
       ]
     },
-    {
+    "00BD": {
       "ID": "00BD",
       "Region": "Farebury Region",
       "Area": "west plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "36002D00040602060000",
       "Contents": [
         {
@@ -13510,11 +13513,11 @@
         }
       ]
     },
-    {
+    "00BE": {
       "ID": "00BE",
       "Region": "Farebury Region",
       "Area": "west woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "37002D00040403060000",
       "Contents": [
         {
@@ -13589,11 +13592,11 @@
         }
       ]
     },
-    {
+    "00BF": {
       "ID": "00BF",
       "Region": "Farebury Region",
       "Area": "plains near egeus' tablet, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "38002D00050201060000",
       "Contents": [
         {
@@ -13668,11 +13671,11 @@
         }
       ]
     },
-    {
+    "00C0": {
       "ID": "00C0",
       "Region": "Farebury Region",
       "Area": "plains near egeus' tablet, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "38002D00040402070000",
       "Contents": [
         {
@@ -13747,11 +13750,11 @@
         }
       ]
     },
-    {
+    "00C1": {
       "ID": "00C1",
       "Region": "Farebury Region",
       "Area": "woods near egeus' tablet, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "39002D00040303060000",
       "Contents": [
         {
@@ -13826,11 +13829,11 @@
         }
       ]
     },
-    {
+    "00C4": {
       "ID": "00C4",
       "Region": "Alexandria Region",
       "Area": "north plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "98002D00050501060000",
       "Contents": [
         {
@@ -13905,11 +13908,11 @@
         }
       ]
     },
-    {
+    "00C5": {
       "ID": "00C5",
       "Region": "Alexandria Region",
       "Area": "north plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "98002D00040602070000",
       "Contents": [
         {
@@ -13984,11 +13987,11 @@
         }
       ]
     },
-    {
+    "00C6": {
       "ID": "00C6",
       "Region": "Alexandria Region",
       "Area": "north woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "99002D00040403070000",
       "Contents": [
         {
@@ -14063,11 +14066,11 @@
         }
       ]
     },
-    {
+    "00C7": {
       "ID": "00C7",
       "Region": "Alexandria Region",
       "Area": "beach, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "9A002D00050203070000",
       "Contents": [
         {
@@ -14142,11 +14145,11 @@
         }
       ]
     },
-    {
+    "00C8": {
       "ID": "00C8",
       "Region": "Alexandria Region",
       "Area": "south plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "9B002D00060301060000",
       "Contents": [
         {
@@ -14221,11 +14224,11 @@
         }
       ]
     },
-    {
+    "00C9": {
       "ID": "00C9",
       "Region": "Alexandria Region",
       "Area": "south plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "9B002D00060402070000",
       "Contents": [
         {
@@ -14300,11 +14303,11 @@
         }
       ]
     },
-    {
+    "00CA": {
       "ID": "00CA",
       "Region": "Alexandria Region",
       "Area": "south woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "9C002D00060603070000",
       "Contents": [
         {
@@ -14379,11 +14382,11 @@
         }
       ]
     },
-    {
+    "00CD": {
       "ID": "00CD",
       "Region": "Maella Region",
       "Area": "north plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "60012D00060301060000",
       "Contents": [
         {
@@ -14458,11 +14461,11 @@
         }
       ]
     },
-    {
+    "00CE": {
       "ID": "00CE",
       "Region": "Maella Region",
       "Area": "north plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "60012D00060502070000",
       "Contents": [
         {
@@ -14537,11 +14540,11 @@
         }
       ]
     },
-    {
+    "00CF": {
       "ID": "00CF",
       "Region": "Maella Region",
       "Area": "north woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "61012D00050403070000",
       "Contents": [
         {
@@ -14616,11 +14619,11 @@
         }
       ]
     },
-    {
+    "00D0": {
       "ID": "00D0",
       "Region": "Maella Region",
       "Area": "south plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "62012D00060301070000",
       "Contents": [
         {
@@ -14695,11 +14698,11 @@
         }
       ]
     },
-    {
+    "00D1": {
       "ID": "00D1",
       "Region": "Maella Region",
       "Area": "south plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "62012D00060602070000",
       "Contents": [
         {
@@ -14774,11 +14777,11 @@
         }
       ]
     },
-    {
+    "00D2": {
       "ID": "00D2",
       "Region": "Maella Region",
       "Area": "south woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "63012D00040403070000",
       "Contents": [
         {
@@ -14853,11 +14856,11 @@
         }
       ]
     },
-    {
+    "00D5": {
       "ID": "00D5",
       "Region": "Kingdom of Ascantha",
       "Area": "west side plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C4012D00050401060000",
       "Contents": [
         {
@@ -14932,11 +14935,11 @@
         }
       ]
     },
-    {
+    "00D6": {
       "ID": "00D6",
       "Region": "Kingdom of Ascantha",
       "Area": "west side plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C4012D00040502070000",
       "Contents": [
         {
@@ -15011,11 +15014,11 @@
         }
       ]
     },
-    {
+    "00D7": {
       "ID": "00D7",
       "Region": "Kingdom of Ascantha",
       "Area": "west side woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C5012D00050503070000",
       "Contents": [
         {
@@ -15090,11 +15093,11 @@
         }
       ]
     },
-    {
+    "00D8": {
       "ID": "00D8",
       "Region": "Maella Region",
       "Area": "northeast plains, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "64012D00050603060000",
       "Contents": [
         {
@@ -15169,11 +15172,11 @@
         }
       ]
     },
-    {
+    "00D9": {
       "ID": "00D9",
       "Region": "Kingdom of Ascantha",
       "Area": "northeast plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C6012D00050501060000",
       "Contents": [
         {
@@ -15248,11 +15251,11 @@
         }
       ]
     },
-    {
+    "00DA": {
       "ID": "00DA",
       "Region": "Kingdom of Ascantha",
       "Area": "northeast plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C6012D00040502070000",
       "Contents": [
         {
@@ -15327,11 +15330,11 @@
         }
       ]
     },
-    {
+    "00DB": {
       "ID": "00DB",
       "Region": "Kingdom of Ascantha",
       "Area": "northeast woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C7012D00060503060000",
       "Contents": [
         {
@@ -15406,11 +15409,11 @@
         }
       ]
     },
-    {
+    "00DC": {
       "ID": "00DC",
       "Region": "Kingdom of Ascantha",
       "Area": "coast, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C8012D00070303070000",
       "Contents": [
         {
@@ -15485,11 +15488,11 @@
         }
       ]
     },
-    {
+    "00DD": {
       "ID": "00DD",
       "Region": "Kingdom of Ascantha",
       "Area": "south plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C9012D00060301060000",
       "Contents": [
         {
@@ -15564,11 +15567,11 @@
         }
       ]
     },
-    {
+    "00DE": {
       "ID": "00DE",
       "Region": "Kingdom of Ascantha",
       "Area": "south plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "C9012D00060402070000",
       "Contents": [
         {
@@ -15643,11 +15646,11 @@
         }
       ]
     },
-    {
+    "00DF": {
       "ID": "00DF",
       "Region": "Kingdom of Ascantha",
       "Area": "south woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "CA012D00050503070000",
       "Contents": [
         {
@@ -15722,11 +15725,11 @@
         }
       ]
     },
-    {
+    "00E0": {
       "ID": "00E0",
       "Region": "Kingdom of Ascantha",
       "Area": "riverbank, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "CB012D00050503070000",
       "Contents": [
         {
@@ -15801,11 +15804,11 @@
         }
       ]
     },
-    {
+    "00E1": {
       "ID": "00E1",
       "Region": "Kingdom of Ascantha",
       "Area": "northwest plains, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "CC012D00050403060000",
       "Contents": [
         {
@@ -15880,11 +15883,11 @@
         }
       ]
     },
-    {
+    "00E2": {
       "ID": "00E2",
       "Region": "Kingdom of Ascantha",
       "Area": "northwest woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "CD012D00030503070000",
       "Contents": [
         {
@@ -15959,11 +15962,11 @@
         }
       ]
     },
-    {
+    "00E5": {
       "ID": "00E5",
       "Region": "Pickham Region",
       "Area": "east plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "8C022D00050301060000",
       "Contents": [
         {
@@ -16038,11 +16041,11 @@
         }
       ]
     },
-    {
+    "00E6": {
       "ID": "00E6",
       "Region": "Pickham Region",
       "Area": "east plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "8C022D00040302080000",
       "Contents": [
         {
@@ -16117,11 +16120,11 @@
         }
       ]
     },
-    {
+    "00E7": {
       "ID": "00E7",
       "Region": "Pickham Region",
       "Area": "east woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "8D022D00050503070000",
       "Contents": [
         {
@@ -16196,11 +16199,11 @@
         }
       ]
     },
-    {
+    "00E8": {
       "ID": "00E8",
       "Region": "Pickham Region",
       "Area": "west plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "8E022D00050301060000",
       "Contents": [
         {
@@ -16275,11 +16278,11 @@
         }
       ]
     },
-    {
+    "00E9": {
       "ID": "00E9",
       "Region": "Pickham Region",
       "Area": "west plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "8E022D00040302080000",
       "Contents": [
         {
@@ -16354,11 +16357,11 @@
         }
       ]
     },
-    {
+    "00EA": {
       "ID": "00EA",
       "Region": "Pickham Region",
       "Area": "west woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "8F022D00060603070000",
       "Contents": [
         {
@@ -16433,11 +16436,11 @@
         }
       ]
     },
-    {
+    "00EB": {
       "ID": "00EB",
       "Region": "Pickham Region",
       "Area": "beach, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "90022D00060303070000",
       "Contents": [
         {
@@ -16512,11 +16515,11 @@
         }
       ]
     },
-    {
+    "00EE": {
       "ID": "00EE",
       "Region": "Kingdom of Trodain",
       "Area": "south plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "FC002D00060301060000",
       "Contents": [
         {
@@ -16591,11 +16594,11 @@
         }
       ]
     },
-    {
+    "00EF": {
       "ID": "00EF",
       "Region": "Kingdom of Trodain",
       "Area": "south plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "FC002D00060502080000",
       "Contents": [
         {
@@ -16670,11 +16673,11 @@
         }
       ]
     },
-    {
+    "00F0": {
       "ID": "00F0",
       "Region": "Kingdom of Trodain",
       "Area": "south woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "FD002D00060603070000",
       "Contents": [
         {
@@ -16749,11 +16752,11 @@
         }
       ]
     },
-    {
+    "00F1": {
       "ID": "00F1",
       "Region": "Kingdom of Trodain",
       "Area": "west cape, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "FE002D00050403070000",
       "Contents": [
         {
@@ -16828,11 +16831,11 @@
         }
       ]
     },
-    {
+    "00F2": {
       "ID": "00F2",
       "Region": "Kingdom of Trodain",
       "Area": "north plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "FF002D00020601080000",
       "Contents": [
         {
@@ -16907,11 +16910,11 @@
         }
       ]
     },
-    {
+    "00F3": {
       "ID": "00F3",
       "Region": "Kingdom of Trodain",
       "Area": "north plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "FF002D00030602080000",
       "Contents": [
         {
@@ -16986,11 +16989,11 @@
         }
       ]
     },
-    {
+    "00F4": {
       "ID": "00F4",
       "Region": "Kingdom of Trodain",
       "Area": "north woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "00012D00050503070000",
       "Contents": [
         {
@@ -17065,11 +17068,11 @@
         }
       ]
     },
-    {
+    "00F5": {
       "ID": "00F5",
       "Region": "Land of the Moles",
       "Area": "after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "27022D00060403070000",
       "Contents": [
         {
@@ -17144,11 +17147,11 @@
         }
       ]
     },
-    {
+    "00F7": {
       "ID": "00F7",
       "Region": "Baccarat Region",
       "Area": "north plains, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "B8032D00050303080000",
       "Contents": [
         {
@@ -17223,11 +17226,11 @@
         }
       ]
     },
-    {
+    "00F8": {
       "ID": "00F8",
       "Region": "Baccarat Region",
       "Area": "north woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "B9032D00050503080000",
       "Contents": [
         {
@@ -17302,11 +17305,11 @@
         }
       ]
     },
-    {
+    "00F9": {
       "ID": "00F9",
       "Region": "Baccarat Region",
       "Area": "south, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "BA032D00060401060000",
       "Contents": [
         {
@@ -17381,11 +17384,11 @@
         }
       ]
     },
-    {
+    "00FA": {
       "ID": "00FA",
       "Region": "Baccarat Region",
       "Area": "south, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "BA032D00060602080000",
       "Contents": [
         {
@@ -17460,11 +17463,11 @@
         }
       ]
     },
-    {
+    "00FB": {
       "ID": "00FB",
       "Region": "Baccarat Region",
       "Area": "plains near tree, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "BB032D00060501060000",
       "Contents": [
         {
@@ -17539,11 +17542,11 @@
         }
       ]
     },
-    {
+    "00FC": {
       "ID": "00FC",
       "Region": "Baccarat Region",
       "Area": "plains near tree, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "BB032D00060602080000",
       "Contents": [
         {
@@ -17618,11 +17621,11 @@
         }
       ]
     },
-    {
+    "00FD": {
       "ID": "00FD",
       "Region": "Baccarat Region",
       "Area": "woods near tree, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "BC032D00040603080000",
       "Contents": [
         {
@@ -17697,11 +17700,11 @@
         }
       ]
     },
-    {
+    "00FE": {
       "ID": "00FE",
       "Region": "Northwest Isle",
       "Area": "after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "73062D00060603080000",
       "Contents": [
         {
@@ -17776,11 +17779,11 @@
         }
       ]
     },
-    {
+    "00FF": {
       "ID": "00FF",
       "Region": "Unnamed Isle",
       "Area": "isle near farebury, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "9F072D00040603070000",
       "Contents": [
         {
@@ -17855,11 +17858,11 @@
         }
       ]
     },
-    {
+    "0100": {
       "ID": "0100",
       "Region": "Unnamed Isle",
       "Area": "minnie's island/maella isle, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "A0072D00050203070000",
       "Contents": [
         {
@@ -17934,11 +17937,11 @@
         }
       ]
     },
-    {
+    "0101": {
       "ID": "0101",
       "Region": "Unnamed Isle",
       "Area": "southern isles woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "A1072D00070503070000",
       "Contents": [
         {
@@ -18013,11 +18016,11 @@
         }
       ]
     },
-    {
+    "0102": {
       "ID": "0102",
       "Region": "Unnamed Isle",
       "Area": "southern isles plains, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "A2072D00030503070000",
       "Contents": [
         {
@@ -18092,11 +18095,11 @@
         }
       ]
     },
-    {
+    "0103": {
       "ID": "0103",
       "Region": "Unnamed Isle",
       "Area": "uncharted island, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "A3072D00050503080000",
       "Contents": [
         {
@@ -18171,11 +18174,11 @@
         }
       ]
     },
-    {
+    "0104": {
       "ID": "0104",
       "Region": "Holy Isle of Neos",
       "Area": "day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "0F062D00050301060000",
       "Contents": [
         {
@@ -18250,11 +18253,11 @@
         }
       ]
     },
-    {
+    "0105": {
       "ID": "0105",
       "Region": "Holy Isle of Neos",
       "Area": "night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "0F062D00050502080000",
       "Contents": [
         {
@@ -18329,11 +18332,11 @@
         }
       ]
     },
-    {
+    "0109": {
       "ID": "0109",
       "Region": "Eastern Argonia",
       "Area": "west plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "80042D00060401060000",
       "Contents": [
         {
@@ -18408,11 +18411,11 @@
         }
       ]
     },
-    {
+    "010A": {
       "ID": "010A",
       "Region": "Eastern Argonia",
       "Area": "west plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "80042D00050502080000",
       "Contents": [
         {
@@ -18487,11 +18490,11 @@
         }
       ]
     },
-    {
+    "010B": {
       "ID": "010B",
       "Region": "Eastern Argonia",
       "Area": "west woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "81042D00040603070000",
       "Contents": [
         {
@@ -18566,11 +18569,11 @@
         }
       ]
     },
-    {
+    "010C": {
       "ID": "010C",
       "Region": "Western Argonia",
       "Area": "east plains, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "1C042D00060603070000",
       "Contents": [
         {
@@ -18645,11 +18648,11 @@
         }
       ]
     },
-    {
+    "010D": {
       "ID": "010D",
       "Region": "Western Argonia",
       "Area": "west plains, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "1D042D00030503070000",
       "Contents": [
         {
@@ -18724,11 +18727,11 @@
         }
       ]
     },
-    {
+    "010E": {
       "ID": "010E",
       "Region": "Western Argonia",
       "Area": "south plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "1E042D00060301080000",
       "Contents": [
         {
@@ -18803,11 +18806,11 @@
         }
       ]
     },
-    {
+    "010F": {
       "ID": "010F",
       "Region": "Western Argonia",
       "Area": "south plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "1E042D00060402080000",
       "Contents": [
         {
@@ -18882,11 +18885,11 @@
         }
       ]
     },
-    {
+    "0110": {
       "ID": "0110",
       "Region": "Eastern Argonia",
       "Area": "east plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "82042D00060301080000",
       "Contents": [
         {
@@ -18961,11 +18964,11 @@
         }
       ]
     },
-    {
+    "0111": {
       "ID": "0111",
       "Region": "Eastern Argonia",
       "Area": "east plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "82042D00060502080000",
       "Contents": [
         {
@@ -19040,11 +19043,11 @@
         }
       ]
     },
-    {
+    "0112": {
       "ID": "0112",
       "Region": "Eastern Argonia",
       "Area": "east woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "83042D00060603080000",
       "Contents": [
         {
@@ -19119,11 +19122,11 @@
         }
       ]
     },
-    {
+    "0113": {
       "ID": "0113",
       "Region": "Eastern Argonia",
       "Area": "beach, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "84042D00060201070000",
       "Contents": [
         {
@@ -19198,11 +19201,11 @@
         }
       ]
     },
-    {
+    "0114": {
       "ID": "0114",
       "Region": "Eastern Argonia",
       "Area": "beach, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "84042D00060402080000",
       "Contents": [
         {
@@ -19277,11 +19280,11 @@
         }
       ]
     },
-    {
+    "0115": {
       "ID": "0115",
       "Region": "Eastern Argonia",
       "Area": "north plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "85042D00060601070000",
       "Contents": [
         {
@@ -19356,11 +19359,11 @@
         }
       ]
     },
-    {
+    "0116": {
       "ID": "0116",
       "Region": "Eastern Argonia",
       "Area": "north plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "85042D00060702080000",
       "Contents": [
         {
@@ -19435,11 +19438,11 @@
         }
       ]
     },
-    {
+    "0117": {
       "ID": "0117",
       "Region": "Eastern Argonia",
       "Area": "north woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "86042D00040703080000",
       "Contents": [
         {
@@ -19514,11 +19517,11 @@
         }
       ]
     },
-    {
+    "0118": {
       "ID": "0118",
       "Region": "Eastern Argonia",
       "Area": "beach coastline, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "87042D00060403060000",
       "Contents": [
         {
@@ -19593,11 +19596,11 @@
         }
       ]
     },
-    {
+    "0119": {
       "ID": "0119",
       "Region": "Cape West of Pickham",
       "Area": "after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "EF022D00060603080000",
       "Contents": [
         {
@@ -19672,11 +19675,11 @@
         }
       ]
     },
-    {
+    "011A": {
       "ID": "011A",
       "Region": "Desert",
       "Area": "day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "E3042D00060701080000",
       "Contents": [
         {
@@ -19751,11 +19754,11 @@
         }
       ]
     },
-    {
+    "011B": {
       "ID": "011B",
       "Region": "Desert",
       "Area": "night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "E3042D00060302080000",
       "Contents": [
         {
@@ -19830,11 +19833,11 @@
         }
       ]
     },
-    {
+    "011D": {
       "ID": "011D",
       "Region": "Arcadia Region",
       "Area": "south plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "48052D00060501060000",
       "Contents": [
         {
@@ -19909,11 +19912,11 @@
         }
       ]
     },
-    {
+    "011E": {
       "ID": "011E",
       "Region": "Arcadia Region",
       "Area": "south plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "48052D00060602070000",
       "Contents": [
         {
@@ -19988,11 +19991,11 @@
         }
       ]
     },
-    {
+    "011F": {
       "ID": "011F",
       "Region": "Arcadia Region",
       "Area": "south woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "49052D00050603070000",
       "Contents": [
         {
@@ -20067,11 +20070,11 @@
         }
       ]
     },
-    {
+    "0120": {
       "ID": "0120",
       "Region": "Arcadia Region",
       "Area": "north plains, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "4A052D00060301060000",
       "Contents": [
         {
@@ -20146,11 +20149,11 @@
         }
       ]
     },
-    {
+    "0121": {
       "ID": "0121",
       "Region": "Arcadia Region",
       "Area": "north plains, night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "4A052D00060602070000",
       "Contents": [
         {
@@ -20225,11 +20228,11 @@
         }
       ]
     },
-    {
+    "0122": {
       "ID": "0122",
       "Region": "Arcadia Region",
       "Area": "north woods, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "4B052D00050603070000",
       "Contents": [
         {
@@ -20304,11 +20307,12 @@
         }
       ]
     },
-    {
+    "0123": {
       "ID": "0123",
       "Region": "Blizzard Peaks",
       "Area": "?",
-      "Edit": 1,
+      "Edit": 0,
+      "Parent": "0125",
       "Header": "AB052D00060301090000",
       "Contents": [
         {
@@ -20383,11 +20387,12 @@
         }
       ]
     },
-    {
+    "0124": {
       "ID": "0124",
       "Region": "Blizzard Peaks",
       "Area": "?",
-      "Edit": 1,
+      "Edit": 0,
+      "Parent": "0126",
       "Header": "AB052D00060402060000",
       "Contents": [
         {
@@ -20462,11 +20467,11 @@
         }
       ]
     },
-    {
+    "0125": {
       "ID": "0125",
       "Region": "Blizzard Peaks",
       "Area": "day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "AC052D00060601090000",
       "Contents": [
         {
@@ -20541,11 +20546,11 @@
         }
       ]
     },
-    {
+    "0126": {
       "ID": "0126",
       "Region": "Blizzard Peaks",
       "Area": "night, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "AC052D00040602060000",
       "Contents": [
         {
@@ -20620,11 +20625,11 @@
         }
       ]
     },
-    {
+    "0127": {
       "ID": "0127",
       "Region": "Areas Accessible by Air",
       "Area": "generic, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "250B2D00050401060000",
       "Contents": [
         {
@@ -20699,11 +20704,11 @@
         }
       ]
     },
-    {
+    "0128": {
       "ID": "0128",
       "Region": "Areas Accessible by Air",
       "Area": "generic, day, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "250B2D00050402080000",
       "Contents": [
         {
@@ -20778,11 +20783,12 @@
         }
       ]
     },
-    {
+    "0129": {
       "ID": "0129",
       "Region": "Untrodden Groves",
       "Area": "?",
-      "Edit": 1,
+      "Edit": 0,
+      "Parent": "012A",
       "Header": "53032D00050603080000",
       "Contents": [
         {
@@ -20857,11 +20863,11 @@
         }
       ]
     },
-    {
+    "012A": {
       "ID": "012A",
       "Region": "Untrodden Groves",
       "Area": "after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "54032D00050603080000",
       "Contents": [
         {
@@ -20936,11 +20942,11 @@
         }
       ]
     },
-    {
+    "012B": {
       "ID": "012B",
       "Region": "Areas Accessible by Air",
       "Area": "Egeus' tablet, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "230B2D00040503060000",
       "Contents": [
         {
@@ -21015,11 +21021,11 @@
         }
       ]
     },
-    {
+    "012C": {
       "ID": "012C",
       "Region": "Areas Accessible by Air",
       "Area": "Howlwind Hill, after Citadel",
-      "Edit": 1,
+      "Edit": 3,
       "Header": "240B2D000207030C0000",
       "Contents": [
         {
@@ -21094,7 +21100,7 @@
         }
       ]
     },
-    {
+    "015F": {
       "ID": "015F",
       "Region": "Altar of Wroth",
       "Area": "level 1",
@@ -21173,7 +21179,7 @@
         }
       ]
     },
-    {
+    "0160": {
       "ID": "0160",
       "Region": "Altar of Wroth",
       "Area": "level 2",
@@ -21252,7 +21258,7 @@
         }
       ]
     },
-    {
+    "0161": {
       "ID": "0161",
       "Region": "Altar of Wroth",
       "Area": "level 3",
@@ -21331,11 +21337,11 @@
         }
       ]
     },
-    {
+    "0162": {
       "ID": "0162",
       "Region": "Altar of Wroth",
       "Area": "miniboss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "78237F00000003040000",
       "Contents": [
         {
@@ -21410,11 +21416,11 @@
         }
       ]
     },
-    {
+    "0163": {
       "ID": "0163",
       "Region": "Altar of Wroth",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "79237F00000003010000",
       "Contents": [
         {
@@ -21489,11 +21495,11 @@
         }
       ]
     },
-    {
+    "0164": {
       "ID": "0164",
       "Region": "Memories Lane",
       "Area": "Geyzer in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "7A237F00000003010000",
       "Contents": [
         {
@@ -21568,11 +21574,11 @@
         }
       ]
     },
-    {
+    "0165": {
       "ID": "0165",
       "Region": "Memories Lane",
       "Area": "tortured soul in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "7B237F00000003030000",
       "Contents": [
         {
@@ -21647,11 +21653,11 @@
         }
       ]
     },
-    {
+    "0166": {
       "ID": "0166",
       "Region": "Memories Lane",
       "Area": "trap box in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "7C237F00000003010000",
       "Contents": [
         {
@@ -21726,11 +21732,11 @@
         }
       ]
     },
-    {
+    "0167": {
       "ID": "0167",
       "Region": "Memories Lane",
       "Area": "Don Mole in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "7D237F00000003050000",
       "Contents": [
         {
@@ -21805,11 +21811,11 @@
         }
       ]
     },
-    {
+    "0168": {
       "ID": "0168",
       "Region": "Memories Lane",
       "Area": "Argon lizard in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "7E237F00000003010000",
       "Contents": [
         {
@@ -21884,11 +21890,11 @@
         }
       ]
     },
-    {
+    "0169": {
       "ID": "0169",
       "Region": "Memories Lane",
       "Area": "Dhoulmagus in Memoriam (1st form)",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "7F237F00000003030000",
       "Contents": [
         {
@@ -21963,11 +21969,11 @@
         }
       ]
     },
-    {
+    "016A": {
       "ID": "016A",
       "Region": "Memories Lane",
       "Area": "Dhoulmagus in Memoriam (2nd form)",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "80237F00000003010000",
       "Contents": [
         {
@@ -22042,11 +22048,11 @@
         }
       ]
     },
-    {
+    "016B": {
       "ID": "016B",
       "Region": "Memories Lane",
       "Area": "Evil Jessica in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "81237F00000003070000",
       "Contents": [
         {
@@ -22121,11 +22127,11 @@
         }
       ]
     },
-    {
+    "016C": {
       "ID": "016C",
       "Region": "Memories Lane",
       "Area": "Captain Crow in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "82237F00000003010000",
       "Contents": [
         {
@@ -22200,11 +22206,11 @@
         }
       ]
     },
-    {
+    "016D": {
       "ID": "016D",
       "Region": "Memories Lane",
       "Area": "Gemon in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "83237F00000003030000",
       "Contents": [
         {
@@ -22279,11 +22285,11 @@
         }
       ]
     },
-    {
+    "016E": {
       "ID": "016E",
       "Region": "Memories Lane",
       "Area": "Sir Leopold in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "84237F00000003010000",
       "Contents": [
         {
@@ -22358,11 +22364,11 @@
         }
       ]
     },
-    {
+    "016F": {
       "ID": "016F",
       "Region": "Memories Lane",
       "Area": "Marcello in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "85237F00000003010000",
       "Contents": [
         {
@@ -22437,11 +22443,11 @@
         }
       ]
     },
-    {
+    "0170": {
       "ID": "0170",
       "Region": "Memories Lane",
       "Area": "dark servant in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "86237F00000003030000",
       "Contents": [
         {
@@ -22516,11 +22522,11 @@
         }
       ]
     },
-    {
+    "0171": {
       "ID": "0171",
       "Region": "Memories Lane",
       "Area": "Ruin in Memoriam",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "87237F00000003010000",
       "Contents": [
         {
@@ -22595,11 +22601,11 @@
         }
       ]
     },
-    {
+    "0172": {
       "ID": "0172",
       "Region": "Memories Lane",
       "Area": "Estark",
-      "Edit": 2,
+      "Edit": 8,
       "Header": "88237F00000003010000",
       "Contents": [
         {
@@ -22674,11 +22680,11 @@
         }
       ]
     },
-    {
+    "0191": {
       "ID": "0191",
       "Region": "Farebury Region",
       "Area": "wooded opening",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "29237F00000003030000",
       "Contents": [
         {
@@ -22753,11 +22759,11 @@
         }
       ]
     },
-    {
+    "0192": {
       "ID": "0192",
       "Region": "Waterfall Cave",
       "Area": "miniboss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "2A237F00000003010000",
       "Contents": [
         {
@@ -22832,11 +22838,11 @@
         }
       ]
     },
-    {
+    "0193": {
       "ID": "0193",
       "Region": "Waterfall Cave",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "2B237F00000003010000",
       "Contents": [
         {
@@ -22911,11 +22917,11 @@
         }
       ]
     },
-    {
+    "0194": {
       "ID": "0194",
       "Region": "Alexandria Region",
       "Area": "Alexandria gate",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "2C237F00000003020000",
       "Contents": [
         {
@@ -22990,11 +22996,11 @@
         }
       ]
     },
-    {
+    "0195": {
       "ID": "0195",
       "Region": "Ocean",
       "Area": "Khalamari boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "2D237F00000003020000",
       "Contents": [
         {
@@ -23069,11 +23075,11 @@
         }
       ]
     },
-    {
+    "0196": {
       "ID": "0196",
       "Region": "Ruined Abbey",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "2E237F00000003030000",
       "Contents": [
         {
@@ -23148,7 +23154,7 @@
         }
       ]
     },
-    {
+    "0197": {
       "ID": "0197",
       "Region": "Swordsman's Labyrinth",
       "Area": "boss",
@@ -23227,11 +23233,11 @@
         }
       ]
     },
-    {
+    "0198": {
       "ID": "0198",
       "Region": "Mole Hole",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "30237F00000003050000",
       "Contents": [
         {
@@ -23306,11 +23312,11 @@
         }
       ]
     },
-    {
+    "0199": {
       "ID": "0199",
       "Region": "Royal Hunting Ground",
-      "Area": "Argon lizard #1",
-      "Edit": 2,
+      "Area": "miniboss",
+      "Edit": 6,
       "Header": "31237F00000003010000",
       "Contents": [
         {
@@ -23385,11 +23391,12 @@
         }
       ]
     },
-    {
+    "019A": {
       "ID": "019A",
       "Region": "Royal Hunting Ground",
       "Area": "Argon lizard #2",
-      "Edit": 2,
+      "Edit": 0,
+      "Parent": "0199",
       "Header": "32237F00000003010000",
       "Contents": [
         {
@@ -23464,11 +23471,12 @@
         }
       ]
     },
-    {
+    "019B": {
       "ID": "019B",
       "Region": "Royal Hunting Ground",
       "Area": "Argon lizard #3",
-      "Edit": 2,
+      "Edit": 0,
+      "Parent": "0199",
       "Header": "33237F00000003010000",
       "Contents": [
         {
@@ -23543,11 +23551,11 @@
         }
       ]
     },
-    {
+    "019C": {
       "ID": "019C",
       "Region": "Royal Hunting Ground",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "34237F00000003010000",
       "Contents": [
         {
@@ -23622,7 +23630,7 @@
         }
       ]
     },
-    {
+    "019D": {
       "ID": "019D",
       "Region": "Ocean",
       "Area": "Arcadia underpass",
@@ -23701,11 +23709,11 @@
         }
       ]
     },
-    {
+    "019E": {
       "ID": "019E",
       "Region": "Dark Ruins",
       "Area": "boss (1st form)",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "36237F00000003030000",
       "Contents": [
         {
@@ -23780,11 +23788,11 @@
         }
       ]
     },
-    {
+    "019F": {
       "ID": "019F",
       "Region": "Dark Ruins",
       "Area": "boss (2nd form)",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "37237F00000003010000",
       "Contents": [
         {
@@ -23859,11 +23867,11 @@
         }
       ]
     },
-    {
+    "01A0": {
       "ID": "01A0",
       "Region": "Arcadia Region",
       "Area": "Evil Jessica",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "38237F00000003070000",
       "Contents": [
         {
@@ -23938,11 +23946,11 @@
         }
       ]
     },
-    {
+    "01A1": {
       "ID": "01A1",
       "Region": "Blizzard Peaks",
-      "Area": "Hellhound encounter",
-      "Edit": 2,
+      "Area": "Hellhound encounter #1",
+      "Edit": 6,
       "Header": "39237F00000003080000",
       "Contents": [
         {
@@ -24017,11 +24025,11 @@
         }
       ]
     },
-    {
+    "01A2": {
       "ID": "01A2",
       "Region": "Blizzard Peaks",
-      "Area": "Hellhound encounter",
-      "Edit": 2,
+      "Area": "Marta's Cottage, Interior, Ground Floor",
+      "Edit": 6,
       "Header": "3A237F00000003080000",
       "Contents": [
         {
@@ -24096,11 +24104,11 @@
         }
       ]
     },
-    {
+    "01A3": {
       "ID": "01A3",
       "Region": "Blizzard Peaks",
-      "Area": "Hellhound encounter",
-      "Edit": 2,
+      "Area": "Marta's Cottage, Basement",
+      "Edit": 6,
       "Header": "3B237F00000003080000",
       "Contents": [
         {
@@ -24175,11 +24183,11 @@
         }
       ]
     },
-    {
+    "01A4": {
       "ID": "01A4",
       "Region": "Blizzard Peaks",
-      "Area": "Hellhound encounter",
-      "Edit": 2,
+      "Area": "Marta's Cottage, Basement",
+      "Edit": 6,
       "Header": "3C237F00000003080000",
       "Contents": [
         {
@@ -24254,11 +24262,11 @@
         }
       ]
     },
-    {
+    "01A5": {
       "ID": "01A5",
       "Region": "Blizzard Peaks",
-      "Area": "Hellhound encounter",
-      "Edit": 2,
+      "Area": "Marta's Cottage, Outside",
+      "Edit": 6,
       "Header": "3D237F00000003080000",
       "Contents": [
         {
@@ -24333,11 +24341,11 @@
         }
       ]
     },
-    {
+    "01A6": {
       "ID": "01A6",
       "Region": "Pirate's Cove",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "3E237F00000003010000",
       "Contents": [
         {
@@ -24412,11 +24420,11 @@
         }
       ]
     },
-    {
+    "01A7": {
       "ID": "01A7",
       "Region": "Dragon Graveyard",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "3F237F00000003020000",
       "Contents": [
         {
@@ -24491,11 +24499,11 @@
         }
       ]
     },
-    {
+    "01A8": {
       "ID": "01A8",
       "Region": "World of Darkness",
       "Area": "Empyrea",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "40237F00000003010000",
       "Contents": [
         {
@@ -24570,11 +24578,11 @@
         }
       ]
     },
-    {
+    "01A9": {
       "ID": "01A9",
       "Region": "World of Darkness",
       "Area": "Godbird's Eyrie boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "41237F00000003030000",
       "Contents": [
         {
@@ -24649,11 +24657,11 @@
         }
       ]
     },
-    {
+    "01AA": {
       "ID": "01AA",
       "Region": "Savella Area",
       "Area": "Lord High Priest's Residence",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "42237F00000003010000",
       "Contents": [
         {
@@ -24728,11 +24736,11 @@
         }
       ]
     },
-    {
+    "01AB": {
       "ID": "01AB",
       "Region": "Holy Isle of Neos",
       "Area": "Marcello",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "43237F00000003010000",
       "Contents": [
         {
@@ -24807,11 +24815,11 @@
         }
       ]
     },
-    {
+    "01AC": {
       "ID": "01AC",
       "Region": "Baccarat Region",
       "Area": "king squid encounter",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "44237F00000003010000",
       "Contents": [
         {
@@ -24886,11 +24894,11 @@
         }
       ]
     },
-    {
+    "01AD": {
       "ID": "01AD",
       "Region": "Trolls' Maze",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "45237F00000003020000",
       "Contents": [
         {
@@ -24965,11 +24973,11 @@
         }
       ]
     },
-    {
+    "01AE": {
       "ID": "01AE",
       "Region": "Black Citadel",
       "Area": "boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "46237F00000003010000",
       "Contents": [
         {
@@ -25044,11 +25052,11 @@
         }
       ]
     },
-    {
+    "01AF": {
       "ID": "01AF",
       "Region": "Black Citadel",
       "Area": "miniboss #1",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "47237F00000003030000",
       "Contents": [
         {
@@ -25123,11 +25131,11 @@
         }
       ]
     },
-    {
+    "01B0": {
       "ID": "01B0",
       "Region": "Black Citadel",
       "Area": "miniboss #2",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "48237F00000003040000",
       "Contents": [
         {
@@ -25202,11 +25210,11 @@
         }
       ]
     },
-    {
+    "01B1": {
       "ID": "01B1",
       "Region": "Black Citadel",
       "Area": "miniboss #3",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "49237F00000003010000",
       "Contents": [
         {
@@ -25281,11 +25289,11 @@
         }
       ]
     },
-    {
+    "01B2": {
       "ID": "01B2",
       "Region": "Black Citadel",
       "Area": "miniboss #4",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "4A237F00000003010000",
       "Contents": [
         {
@@ -25360,11 +25368,11 @@
         }
       ]
     },
-    {
+    "01B3": {
       "ID": "01B3",
       "Region": "Areas Accessible by Air",
       "Area": "final boss (barrier)",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "4B237F00000003010000",
       "Contents": [
         {
@@ -25439,11 +25447,11 @@
         }
       ]
     },
-    {
+    "01B4": {
       "ID": "01B4",
       "Region": "Areas Accessible by Air",
       "Area": "final boss",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "4C237F00000003010000",
       "Contents": [
         {
@@ -25518,11 +25526,12 @@
         }
       ]
     },
-    {
+    "01B5": {
       "ID": "01B5",
       "Region": "Heavenly Dais",
       "Area": "boss (dragon)",
-      "Edit": 2,
+      "Edit": 0,
+      "Parent": "01D5",
       "Header": "4D237F00000003010000",
       "Contents": [
         {
@@ -25597,11 +25606,12 @@
         }
       ]
     },
-    {
+    "01B6": {
       "ID": "01B6",
       "Region": "Heavenly Dais",
       "Area": "boss (human)",
-      "Edit": 2,
+      "Edit": 0,
+      "Parent": "01D6",
       "Header": "4E237F00000003010000",
       "Contents": [
         {
@@ -25676,11 +25686,12 @@
         }
       ]
     },
-    {
+    "01B7": {
       "ID": "01B7",
       "Region": "Heavenly Dais",
       "Area": "boss (human)",
-      "Edit": 2,
+      "Edit": 0,
+      "Parent": "01D6",
       "Header": "4F237F00000003010000",
       "Contents": [
         {
@@ -25755,11 +25766,11 @@
         }
       ]
     },
-    {
+    "01B8": {
       "ID": "01B8",
       "Region": "Monster Arena",
       "Area": "Rank G-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "8C237F00000003030000",
       "Contents": [
         {
@@ -25834,11 +25845,11 @@
         }
       ]
     },
-    {
+    "01B9": {
       "ID": "01B9",
       "Region": "Monster Arena",
       "Area": "Rank G-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "8D237F00000003030000",
       "Contents": [
         {
@@ -25913,11 +25924,11 @@
         }
       ]
     },
-    {
+    "01BA": {
       "ID": "01BA",
       "Region": "Monster Arena",
       "Area": "Rank G-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "8E237F00000003030000",
       "Contents": [
         {
@@ -25992,11 +26003,11 @@
         }
       ]
     },
-    {
+    "01BB": {
       "ID": "01BB",
       "Region": "Monster Arena",
       "Area": "Rank F-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "8F237F00000003030000",
       "Contents": [
         {
@@ -26071,11 +26082,11 @@
         }
       ]
     },
-    {
+    "01BC": {
       "ID": "01BC",
       "Region": "Monster Arena",
       "Area": "Rank F-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "90237F00000003030000",
       "Contents": [
         {
@@ -26150,11 +26161,11 @@
         }
       ]
     },
-    {
+    "01BD": {
       "ID": "01BD",
       "Region": "Monster Arena",
       "Area": "Rank F-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "91237F00000003030000",
       "Contents": [
         {
@@ -26229,11 +26240,11 @@
         }
       ]
     },
-    {
+    "01BE": {
       "ID": "01BE",
       "Region": "Monster Arena",
       "Area": "Rank E-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "92237F00000003030000",
       "Contents": [
         {
@@ -26308,11 +26319,11 @@
         }
       ]
     },
-    {
+    "01BF": {
       "ID": "01BF",
       "Region": "Monster Arena",
       "Area": "Rank E-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "93237F00000003030000",
       "Contents": [
         {
@@ -26387,11 +26398,11 @@
         }
       ]
     },
-    {
+    "01C0": {
       "ID": "01C0",
       "Region": "Monster Arena",
       "Area": "Rank E-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "94237F00000003030000",
       "Contents": [
         {
@@ -26466,11 +26477,11 @@
         }
       ]
     },
-    {
+    "01C1": {
       "ID": "01C1",
       "Region": "Monster Arena",
       "Area": "Rank D-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "95237F00000003030000",
       "Contents": [
         {
@@ -26545,11 +26556,11 @@
         }
       ]
     },
-    {
+    "01C2": {
       "ID": "01C2",
       "Region": "Monster Arena",
       "Area": "Rank D-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "96237F00000003030000",
       "Contents": [
         {
@@ -26624,11 +26635,11 @@
         }
       ]
     },
-    {
+    "01C3": {
       "ID": "01C3",
       "Region": "Monster Arena",
       "Area": "Rank D-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "97237F00000003030000",
       "Contents": [
         {
@@ -26703,11 +26714,11 @@
         }
       ]
     },
-    {
+    "01C4": {
       "ID": "01C4",
       "Region": "Monster Arena",
       "Area": "Rank C-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "98237F00000003030000",
       "Contents": [
         {
@@ -26782,11 +26793,11 @@
         }
       ]
     },
-    {
+    "01C5": {
       "ID": "01C5",
       "Region": "Monster Arena",
       "Area": "Rank C-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "99237F00000003030000",
       "Contents": [
         {
@@ -26861,11 +26872,11 @@
         }
       ]
     },
-    {
+    "01C6": {
       "ID": "01C6",
       "Region": "Monster Arena",
       "Area": "Rank C-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "9A237F00000003030000",
       "Contents": [
         {
@@ -26940,11 +26951,11 @@
         }
       ]
     },
-    {
+    "01C7": {
       "ID": "01C7",
       "Region": "Monster Arena",
       "Area": "Rank B-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "9B237F00000003030000",
       "Contents": [
         {
@@ -27019,11 +27030,11 @@
         }
       ]
     },
-    {
+    "01C8": {
       "ID": "01C8",
       "Region": "Monster Arena",
       "Area": "Rank B-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "9C237F00000003030000",
       "Contents": [
         {
@@ -27098,11 +27109,11 @@
         }
       ]
     },
-    {
+    "01C9": {
       "ID": "01C9",
       "Region": "Monster Arena",
       "Area": "Rank B-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "9D237F00000003030000",
       "Contents": [
         {
@@ -27177,11 +27188,11 @@
         }
       ]
     },
-    {
+    "01CA": {
       "ID": "01CA",
       "Region": "Monster Arena",
       "Area": "Rank A-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "9E237F00000003030000",
       "Contents": [
         {
@@ -27256,11 +27267,11 @@
         }
       ]
     },
-    {
+    "01CB": {
       "ID": "01CB",
       "Region": "Monster Arena",
       "Area": "Rank A-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "9F237F00000003030000",
       "Contents": [
         {
@@ -27335,11 +27346,11 @@
         }
       ]
     },
-    {
+    "01CC": {
       "ID": "01CC",
       "Region": "Monster Arena",
       "Area": "Rank A-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A0237F00000003030000",
       "Contents": [
         {
@@ -27414,11 +27425,11 @@
         }
       ]
     },
-    {
+    "01CD": {
       "ID": "01CD",
       "Region": "Monster Arena",
       "Area": "Rank S-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A1237F00000003030000",
       "Contents": [
         {
@@ -27493,11 +27504,11 @@
         }
       ]
     },
-    {
+    "01CE": {
       "ID": "01CE",
       "Region": "Monster Arena",
       "Area": "Rank S-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A2237F00000003030000",
       "Contents": [
         {
@@ -27572,11 +27583,11 @@
         }
       ]
     },
-    {
+    "01CF": {
       "ID": "01CF",
       "Region": "Monster Arena",
       "Area": "Rank S-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A3237F00000003030000",
       "Contents": [
         {
@@ -27651,11 +27662,11 @@
         }
       ]
     },
-    {
+    "01D0": {
       "ID": "01D0",
       "Region": "Monster Arena",
       "Area": "Team Battle",
-      "Edit": 2,
+      "Edit": 0,
       "Header": "A4237F00000003030000",
       "Contents": [
         {
@@ -27730,11 +27741,11 @@
         }
       ]
     },
-    {
+    "01D1": {
       "ID": "01D1",
       "Region": "Treasure Chest",
       "Area": "weak",
-      "Edit": 2,
+      "Edit": 9,
       "Header": "F0237F00000003010000",
       "Contents": [
         {
@@ -27809,11 +27820,11 @@
         }
       ]
     },
-    {
+    "01D2": {
       "ID": "01D2",
       "Region": "Treasure Chest",
       "Area": "medium",
-      "Edit": 2,
+      "Edit": 9,
       "Header": "F1237F00000003010000",
       "Contents": [
         {
@@ -27888,11 +27899,11 @@
         }
       ]
     },
-    {
+    "01D3": {
       "ID": "01D3",
       "Region": "Treasure Chest",
       "Area": "strong",
-      "Edit": 2,
+      "Edit": 9,
       "Header": "F2237F00000003010000",
       "Contents": [
         {
@@ -27967,7 +27978,7 @@
         }
       ]
     },
-    {
+    "01D4": {
       "ID": "01D4",
       "Region": "",
       "Area": "empty",
@@ -28046,11 +28057,11 @@
         }
       ]
     },
-    {
+    "01D5": {
       "ID": "01D5",
       "Region": "Heavenly Dais",
-      "Area": "boss (dragon)",
-      "Edit": 2,
+      "Area": "boss",
+      "Edit": 7,
       "Header": "5A237F00000003010000",
       "Contents": [
         {
@@ -28125,11 +28136,11 @@
         }
       ]
     },
-    {
+    "01D6": {
       "ID": "01D6",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #1-1",
+      "Edit": 7,
       "Header": "5B237F00000003010000",
       "Contents": [
         {
@@ -28204,11 +28215,11 @@
         }
       ]
     },
-    {
+    "01D7": {
       "ID": "01D7",
       "Region": "Heavenly Dais",
-      "Area": "Trial #1",
-      "Edit": 2,
+      "Area": "Trial #1-2",
+      "Edit": 7,
       "Header": "5C237F00000003010000",
       "Contents": [
         {
@@ -28283,11 +28294,11 @@
         }
       ]
     },
-    {
+    "01D8": {
       "ID": "01D8",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #2-1",
+      "Edit": 7,
       "Header": "5D237F00000003010000",
       "Contents": [
         {
@@ -28362,11 +28373,11 @@
         }
       ]
     },
-    {
+    "01D9": {
       "ID": "01D9",
       "Region": "Heavenly Dais",
-      "Area": "Trial #2",
-      "Edit": 2,
+      "Area": "Trial #2-2",
+      "Edit": 7,
       "Header": "5E237F00000003010000",
       "Contents": [
         {
@@ -28441,11 +28452,11 @@
         }
       ]
     },
-    {
+    "01DA": {
       "ID": "01DA",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #3-1",
+      "Edit": 7,
       "Header": "5F237F00000003010000",
       "Contents": [
         {
@@ -28520,11 +28531,11 @@
         }
       ]
     },
-    {
+    "01DB": {
       "ID": "01DB",
       "Region": "Heavenly Dais",
-      "Area": "Trial #3",
-      "Edit": 2,
+      "Area": "Trial #3-2",
+      "Edit": 7,
       "Header": "60237F00000003010000",
       "Contents": [
         {
@@ -28599,11 +28610,11 @@
         }
       ]
     },
-    {
+    "01DC": {
       "ID": "01DC",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #4-1",
+      "Edit": 7,
       "Header": "61237F00000003010000",
       "Contents": [
         {
@@ -28678,11 +28689,11 @@
         }
       ]
     },
-    {
+    "01DD": {
       "ID": "01DD",
       "Region": "Heavenly Dais",
-      "Area": "Trial #4",
-      "Edit": 2,
+      "Area": "Trial #4-2",
+      "Edit": 7,
       "Header": "62237F00000003010000",
       "Contents": [
         {
@@ -28757,11 +28768,11 @@
         }
       ]
     },
-    {
+    "01DE": {
       "ID": "01DE",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #5-1",
+      "Edit": 7,
       "Header": "63237F00000003010000",
       "Contents": [
         {
@@ -28836,11 +28847,11 @@
         }
       ]
     },
-    {
+    "01DF": {
       "ID": "01DF",
       "Region": "Heavenly Dais",
-      "Area": "Trial #5",
-      "Edit": 2,
+      "Area": "Trial #5-2",
+      "Edit": 7,
       "Header": "64237F00000003010000",
       "Contents": [
         {
@@ -28915,11 +28926,11 @@
         }
       ]
     },
-    {
+    "01E0": {
       "ID": "01E0",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #6-1",
+      "Edit": 7,
       "Header": "65237F00000003010000",
       "Contents": [
         {
@@ -28994,11 +29005,11 @@
         }
       ]
     },
-    {
+    "01E1": {
       "ID": "01E1",
       "Region": "Heavenly Dais",
-      "Area": "Trial #6",
-      "Edit": 2,
+      "Area": "Trial #6-2",
+      "Edit": 7,
       "Header": "66237F00000003010000",
       "Contents": [
         {
@@ -29073,11 +29084,11 @@
         }
       ]
     },
-    {
+    "01E2": {
       "ID": "01E2",
       "Region": "Heavenly Dais",
-      "Area": "boss (human)",
-      "Edit": 2,
+      "Area": "Trial #7-1",
+      "Edit": 7,
       "Header": "67237F00000003010000",
       "Contents": [
         {
@@ -29152,11 +29163,11 @@
         }
       ]
     },
-    {
+    "01E3": {
       "ID": "01E3",
       "Region": "Heavenly Dais",
-      "Area": "Trial #7",
-      "Edit": 2,
+      "Area": "Trial #7-2",
+      "Edit": 7,
       "Header": "68237F00000003010000",
       "Contents": [
         {
@@ -29231,11 +29242,11 @@
         }
       ]
     },
-    {
+    "01E4": {
       "ID": "01E4",
       "Region": "Heavenly Dais",
-      "Area": "Trial #8-1",
-      "Edit": 2,
+      "Area": "Trial #7-3",
+      "Edit": 7,
       "Header": "69237F00000003010000",
       "Contents": [
         {
@@ -29310,11 +29321,11 @@
         }
       ]
     },
-    {
+    "01E5": {
       "ID": "01E5",
       "Region": "Heavenly Dais",
-      "Area": "Trial #8-2",
-      "Edit": 2,
+      "Area": "Trial #7-4",
+      "Edit": 7,
       "Header": "6A237F00000003010000",
       "Contents": [
         {
@@ -29389,11 +29400,11 @@
         }
       ]
     },
-    {
+    "01E6": {
       "ID": "01E6",
       "Region": "Heavenly Dais",
-      "Area": "Trial #8-3",
-      "Edit": 2,
+      "Area": "Trial #7-5",
+      "Edit": 7,
       "Header": "6B237F00000003010000",
       "Contents": [
         {
@@ -29468,11 +29479,11 @@
         }
       ]
     },
-    {
+    "01E7": {
       "ID": "01E7",
       "Region": "Heavenly Dais",
-      "Area": "Trial #8-4",
-      "Edit": 2,
+      "Area": "Trial #7-6",
+      "Edit": 7,
       "Header": "6C237F00000003010000",
       "Contents": [
         {
@@ -29547,11 +29558,11 @@
         }
       ]
     },
-    {
+    "01E8": {
       "ID": "01E8",
       "Region": "Heavenly Dais",
-      "Area": "Trial #8-5",
-      "Edit": 2,
+      "Area": "Trial #7-7",
+      "Edit": 7,
       "Header": "6D237F00000003010000",
       "Contents": [
         {
@@ -29626,11 +29637,11 @@
         }
       ]
     },
-    {
+    "01E9": {
       "ID": "01E9",
       "Region": "Heavenly Dais",
-      "Area": "Trial #8-6",
-      "Edit": 2,
+      "Area": "Trial #7-8",
+      "Edit": 7,
       "Header": "6E237F00000003010000",
       "Contents": [
         {
@@ -29705,11 +29716,12 @@
         }
       ]
     },
-    {
+    "01EA": {
       "ID": "01EA",
       "Region": "Kingdom of Trodain",
       "Area": "Mumbuh-jumboe",
       "Edit": 0,
+      "Parent": "0258",
       "Header": "B7267F00000003010000",
       "Contents": [
         {
@@ -29784,11 +29796,12 @@
         }
       ]
     },
-    {
+    "01EB": {
       "ID": "01EB",
       "Region": "Cape West of Pickham",
       "Area": "Jabberwockee",
       "Edit": 0,
+      "Parent": "0258",
       "Header": "B8267F00000003010000",
       "Contents": [
         {
@@ -29863,11 +29876,12 @@
         }
       ]
     },
-    {
+    "01EC": {
       "ID": "01EC",
       "Region": "Rydon's Tower",
       "Area": "Jabberwockee",
       "Edit": 0,
+      "Parent": "0258",
       "Header": "B9267F00000003010000",
       "Contents": [
         {
@@ -29942,11 +29956,12 @@
         }
       ]
     },
-    {
+    "01ED": {
       "ID": "01ED",
       "Region": "Heavenly Dais",
       "Area": "Democrobot",
       "Edit": 0,
+      "Parent": "0258",
       "Header": "BA267F00000003010000",
       "Contents": [
         {
@@ -30021,7 +30036,7 @@
         }
       ]
     },
-    {
+    "01EE": {
       "ID": "01EE",
       "Region": "Baccarat Region",
       "Area": "empty",
@@ -30100,7 +30115,7 @@
         }
       ]
     },
-    {
+    "01EF": {
       "ID": "01EF",
       "Region": "Unnamed Isle",
       "Area": "empty",
@@ -30179,11 +30194,12 @@
         }
       ]
     },
-    {
+    "01F0": {
       "ID": "01F0",
       "Region": "Memories Lane",
       "Area": "Tortured Soul goons",
       "Edit": 0,
+      "Parent": "0258",
       "Header": "7B237F00000003010000",
       "Contents": [
         {
@@ -30258,11 +30274,12 @@
         }
       ]
     },
-    {
+    "01F1": {
       "ID": "01F1",
       "Region": "Memories Lane",
       "Area": "Evil Jessica goons",
       "Edit": 0,
+      "Parent": "0258",
       "Header": "81237F00000003010000",
       "Contents": [
         {
@@ -30337,11 +30354,11 @@
         }
       ]
     },
-    {
+    "01F4": {
       "ID": "01F4",
       "Region": "Farebury Region",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "E4250100000003010000",
       "Contents": [
         {
@@ -30416,11 +30433,11 @@
         }
       ]
     },
-    {
+    "01F5": {
       "ID": "01F5",
       "Region": "Kingdom of Ascantha",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "E5250100000003010000",
       "Contents": [
         {
@@ -30495,11 +30512,11 @@
         }
       ]
     },
-    {
+    "01F6": {
       "ID": "01F6",
       "Region": "Pickham Region",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "E6250100000003010000",
       "Contents": [
         {
@@ -30574,11 +30591,11 @@
         }
       ]
     },
-    {
+    "01F7": {
       "ID": "01F7",
       "Region": "Kingdom of Trodain",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "E7250100000003010000",
       "Contents": [
         {
@@ -30653,11 +30670,11 @@
         }
       ]
     },
-    {
+    "01F8": {
       "ID": "01F8",
       "Region": "Baccarat Region",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "E8250100000003010000",
       "Contents": [
         {
@@ -30732,11 +30749,11 @@
         }
       ]
     },
-    {
+    "01F9": {
       "ID": "01F9",
       "Region": "Blizzard Peaks",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "E9250100000003010000",
       "Contents": [
         {
@@ -30811,11 +30828,11 @@
         }
       ]
     },
-    {
+    "01FA": {
       "ID": "01FA",
       "Region": "Unnamed Isle",
       "Area": "special",
-      "Edit": 3,
+      "Edit": 5,
       "Header": "EA250100000003010000",
       "Contents": [
         {
@@ -30890,7 +30907,7 @@
         }
       ]
     },
-    {
+    "0258": {
       "ID": "0258",
       "Region": ".",
       "Area": "",
@@ -30969,7 +30986,7 @@
         }
       ]
     },
-    {
+    "0259": {
       "ID": "0259",
       "Region": ".",
       "Area": "",
@@ -31048,7 +31065,7 @@
         }
       ]
     },
-    {
+    "025A": {
       "ID": "025A",
       "Region": ".",
       "Area": "",
@@ -31127,7 +31144,7 @@
         }
       ]
     },
-    {
+    "025B": {
       "ID": "025B",
       "Region": ".",
       "Area": "",
@@ -31206,7 +31223,7 @@
         }
       ]
     },
-    {
+    "025C": {
       "ID": "025C",
       "Region": ".",
       "Area": "",
@@ -31285,7 +31302,7 @@
         }
       ]
     },
-    {
+    "025D": {
       "ID": "025D",
       "Region": ".",
       "Area": "",
@@ -31364,7 +31381,7 @@
         }
       ]
     },
-    {
+    "025E": {
       "ID": "025E",
       "Region": ".",
       "Area": "",
@@ -31443,7 +31460,7 @@
         }
       ]
     },
-    {
+    "025F": {
       "ID": "025F",
       "Region": ".",
       "Area": "",
@@ -31522,7 +31539,7 @@
         }
       ]
     },
-    {
+    "0260": {
       "ID": "0260",
       "Region": ".",
       "Area": "",
@@ -31601,7 +31618,7 @@
         }
       ]
     },
-    {
+    "0261": {
       "ID": "0261",
       "Region": ".",
       "Area": "",
@@ -31680,7 +31697,7 @@
         }
       ]
     },
-    {
+    "0262": {
       "ID": "0262",
       "Region": ".",
       "Area": "",
@@ -31759,7 +31776,7 @@
         }
       ]
     },
-    {
+    "0263": {
       "ID": "0263",
       "Region": ".",
       "Area": "",
@@ -31838,7 +31855,7 @@
         }
       ]
     },
-    {
+    "0264": {
       "ID": "0264",
       "Region": ".",
       "Area": "",
@@ -31917,7 +31934,7 @@
         }
       ]
     },
-    {
+    "0265": {
       "ID": "0265",
       "Region": ".",
       "Area": "",
@@ -31996,7 +32013,7 @@
         }
       ]
     },
-    {
+    "0266": {
       "ID": "0266",
       "Region": ".",
       "Area": "",
@@ -32075,7 +32092,7 @@
         }
       ]
     },
-    {
+    "0267": {
       "ID": "0267",
       "Region": ".",
       "Area": "",
@@ -32154,7 +32171,7 @@
         }
       ]
     },
-    {
+    "0268": {
       "ID": "0268",
       "Region": ".",
       "Area": "",
@@ -32233,7 +32250,7 @@
         }
       ]
     },
-    {
+    "0269": {
       "ID": "0269",
       "Region": ".",
       "Area": "",
@@ -32312,7 +32329,7 @@
         }
       ]
     },
-    {
+    "026A": {
       "ID": "026A",
       "Region": ".",
       "Area": "",
@@ -32391,7 +32408,7 @@
         }
       ]
     },
-    {
+    "026B": {
       "ID": "026B",
       "Region": ".",
       "Area": "",
@@ -32470,7 +32487,7 @@
         }
       ]
     },
-    {
+    "026C": {
       "ID": "026C",
       "Region": ".",
       "Area": "",
@@ -32549,7 +32566,7 @@
         }
       ]
     },
-    {
+    "026D": {
       "ID": "026D",
       "Region": ".",
       "Area": "",
@@ -32628,7 +32645,7 @@
         }
       ]
     },
-    {
+    "026E": {
       "ID": "026E",
       "Region": ".",
       "Area": "",
@@ -32707,7 +32724,7 @@
         }
       ]
     },
-    {
+    "026F": {
       "ID": "026F",
       "Region": ".",
       "Area": "",
@@ -32786,7 +32803,7 @@
         }
       ]
     },
-    {
+    "0270": {
       "ID": "0270",
       "Region": ".",
       "Area": "",
@@ -32865,7 +32882,7 @@
         }
       ]
     },
-    {
+    "0271": {
       "ID": "0271",
       "Region": ".",
       "Area": "",
@@ -32944,7 +32961,7 @@
         }
       ]
     },
-    {
+    "0272": {
       "ID": "0272",
       "Region": ".",
       "Area": "",
@@ -33023,7 +33040,7 @@
         }
       ]
     },
-    {
+    "0273": {
       "ID": "0273",
       "Region": ".",
       "Area": "",
@@ -33102,7 +33119,7 @@
         }
       ]
     },
-    {
+    "0274": {
       "ID": "0274",
       "Region": ".",
       "Area": "",
@@ -33181,7 +33198,7 @@
         }
       ]
     },
-    {
+    "0275": {
       "ID": "0275",
       "Region": ".",
       "Area": "",
@@ -33260,7 +33277,7 @@
         }
       ]
     },
-    {
+    "0276": {
       "ID": "0276",
       "Region": ".",
       "Area": "",
@@ -33339,7 +33356,7 @@
         }
       ]
     },
-    {
+    "0277": {
       "ID": "0277",
       "Region": ".",
       "Area": "",
@@ -33418,7 +33435,7 @@
         }
       ]
     },
-    {
+    "0278": {
       "ID": "0278",
       "Region": ".",
       "Area": "",
@@ -33497,7 +33514,7 @@
         }
       ]
     },
-    {
+    "0279": {
       "ID": "0279",
       "Region": ".",
       "Area": "",
@@ -33576,7 +33593,7 @@
         }
       ]
     },
-    {
+    "027A": {
       "ID": "027A",
       "Region": ".",
       "Area": "",
@@ -33655,7 +33672,7 @@
         }
       ]
     },
-    {
+    "027B": {
       "ID": "027B",
       "Region": ".",
       "Area": "",
@@ -33734,7 +33751,7 @@
         }
       ]
     },
-    {
+    "027C": {
       "ID": "027C",
       "Region": ".",
       "Area": "",
@@ -33813,7 +33830,7 @@
         }
       ]
     },
-    {
+    "027D": {
       "ID": "027D",
       "Region": ".",
       "Area": "",
@@ -33892,7 +33909,7 @@
         }
       ]
     },
-    {
+    "027E": {
       "ID": "027E",
       "Region": ".",
       "Area": "",
@@ -33971,7 +33988,7 @@
         }
       ]
     },
-    {
+    "027F": {
       "ID": "027F",
       "Region": ".",
       "Area": "",
@@ -34050,7 +34067,7 @@
         }
       ]
     },
-    {
+    "0280": {
       "ID": "0280",
       "Region": ".",
       "Area": "",
@@ -34129,7 +34146,7 @@
         }
       ]
     },
-    {
+    "0281": {
       "ID": "0281",
       "Region": ".",
       "Area": "",
@@ -34208,7 +34225,7 @@
         }
       ]
     },
-    {
+    "0282": {
       "ID": "0282",
       "Region": ".",
       "Area": "",
@@ -34287,7 +34304,7 @@
         }
       ]
     },
-    {
+    "0283": {
       "ID": "0283",
       "Region": ".",
       "Area": "",
@@ -34366,7 +34383,7 @@
         }
       ]
     },
-    {
+    "0284": {
       "ID": "0284",
       "Region": ".",
       "Area": "",
@@ -34445,7 +34462,7 @@
         }
       ]
     },
-    {
+    "0285": {
       "ID": "0285",
       "Region": ".",
       "Area": "",
@@ -34524,7 +34541,7 @@
         }
       ]
     },
-    {
+    "0286": {
       "ID": "0286",
       "Region": ".",
       "Area": "",
@@ -34603,7 +34620,7 @@
         }
       ]
     },
-    {
+    "0287": {
       "ID": "0287",
       "Region": ".",
       "Area": "",
@@ -34682,7 +34699,7 @@
         }
       ]
     },
-    {
+    "0288": {
       "ID": "0288",
       "Region": ".",
       "Area": "",
@@ -34761,7 +34778,7 @@
         }
       ]
     },
-    {
+    "0289": {
       "ID": "0289",
       "Region": ".",
       "Area": "",
@@ -34840,7 +34857,7 @@
         }
       ]
     },
-    {
+    "028A": {
       "ID": "028A",
       "Region": ".",
       "Area": "",
@@ -34919,7 +34936,7 @@
         }
       ]
     },
-    {
+    "028B": {
       "ID": "028B",
       "Region": ".",
       "Area": "",
@@ -34998,7 +35015,7 @@
         }
       ]
     },
-    {
+    "028C": {
       "ID": "028C",
       "Region": ".",
       "Area": "",
@@ -35077,7 +35094,7 @@
         }
       ]
     },
-    {
+    "028D": {
       "ID": "028D",
       "Region": ".",
       "Area": "",
@@ -35156,7 +35173,7 @@
         }
       ]
     },
-    {
+    "028E": {
       "ID": "028E",
       "Region": ".",
       "Area": "",
@@ -35235,7 +35252,7 @@
         }
       ]
     },
-    {
+    "028F": {
       "ID": "028F",
       "Region": ".",
       "Area": "",
@@ -35314,7 +35331,7 @@
         }
       ]
     },
-    {
+    "0290": {
       "ID": "0290",
       "Region": ".",
       "Area": "",
@@ -35393,7 +35410,7 @@
         }
       ]
     },
-    {
+    "0291": {
       "ID": "0291",
       "Region": ".",
       "Area": "",
@@ -35472,7 +35489,7 @@
         }
       ]
     },
-    {
+    "0292": {
       "ID": "0292",
       "Region": ".",
       "Area": "",
@@ -35551,7 +35568,7 @@
         }
       ]
     },
-    {
+    "0293": {
       "ID": "0293",
       "Region": ".",
       "Area": "",
@@ -35630,7 +35647,7 @@
         }
       ]
     },
-    {
+    "0294": {
       "ID": "0294",
       "Region": ".",
       "Area": "",
@@ -35709,7 +35726,7 @@
         }
       ]
     },
-    {
+    "0295": {
       "ID": "0295",
       "Region": ".",
       "Area": "",
@@ -35788,7 +35805,7 @@
         }
       ]
     },
-    {
+    "0296": {
       "ID": "0296",
       "Region": ".",
       "Area": "",
@@ -35867,7 +35884,7 @@
         }
       ]
     },
-    {
+    "0297": {
       "ID": "0297",
       "Region": ".",
       "Area": "",
@@ -35946,7 +35963,7 @@
         }
       ]
     },
-    {
+    "0298": {
       "ID": "0298",
       "Region": ".",
       "Area": "",
@@ -36025,7 +36042,7 @@
         }
       ]
     },
-    {
+    "0299": {
       "ID": "0299",
       "Region": ".",
       "Area": "",
@@ -36104,7 +36121,7 @@
         }
       ]
     },
-    {
+    "029A": {
       "ID": "029A",
       "Region": ".",
       "Area": "",
@@ -36183,7 +36200,7 @@
         }
       ]
     },
-    {
+    "029B": {
       "ID": "029B",
       "Region": ".",
       "Area": "",
@@ -36262,7 +36279,7 @@
         }
       ]
     },
-    {
+    "029C": {
       "ID": "029C",
       "Region": ".",
       "Area": "",
@@ -36341,7 +36358,7 @@
         }
       ]
     },
-    {
+    "029D": {
       "ID": "029D",
       "Region": ".",
       "Area": "",
@@ -36420,7 +36437,7 @@
         }
       ]
     },
-    {
+    "029E": {
       "ID": "029E",
       "Region": ".",
       "Area": "",
@@ -36499,7 +36516,7 @@
         }
       ]
     },
-    {
+    "029F": {
       "ID": "029F",
       "Region": ".",
       "Area": "",
@@ -36578,7 +36595,7 @@
         }
       ]
     },
-    {
+    "02A0": {
       "ID": "02A0",
       "Region": ".",
       "Area": "",
@@ -36657,7 +36674,7 @@
         }
       ]
     },
-    {
+    "02A1": {
       "ID": "02A1",
       "Region": ".",
       "Area": "",
@@ -36736,7 +36753,7 @@
         }
       ]
     },
-    {
+    "02A2": {
       "ID": "02A2",
       "Region": ".",
       "Area": "",
@@ -36815,7 +36832,7 @@
         }
       ]
     },
-    {
+    "02A3": {
       "ID": "02A3",
       "Region": ".",
       "Area": "",
@@ -36894,7 +36911,7 @@
         }
       ]
     },
-    {
+    "02A4": {
       "ID": "02A4",
       "Region": ".",
       "Area": "",
@@ -36973,7 +36990,7 @@
         }
       ]
     },
-    {
+    "02A5": {
       "ID": "02A5",
       "Region": ".",
       "Area": "",
@@ -37052,7 +37069,7 @@
         }
       ]
     },
-    {
+    "02A6": {
       "ID": "02A6",
       "Region": ".",
       "Area": "",
@@ -37131,7 +37148,7 @@
         }
       ]
     },
-    {
+    "02A7": {
       "ID": "02A7",
       "Region": ".",
       "Area": "",
@@ -37210,7 +37227,7 @@
         }
       ]
     },
-    {
+    "02A8": {
       "ID": "02A8",
       "Region": ".",
       "Area": "",
@@ -37289,7 +37306,7 @@
         }
       ]
     },
-    {
+    "02A9": {
       "ID": "02A9",
       "Region": ".",
       "Area": "",
@@ -37368,7 +37385,7 @@
         }
       ]
     },
-    {
+    "02AA": {
       "ID": "02AA",
       "Region": ".",
       "Area": "",
@@ -37447,7 +37464,7 @@
         }
       ]
     },
-    {
+    "02AB": {
       "ID": "02AB",
       "Region": ".",
       "Area": "",
@@ -37526,7 +37543,7 @@
         }
       ]
     },
-    {
+    "02AC": {
       "ID": "02AC",
       "Region": ".",
       "Area": "",
@@ -37605,7 +37622,7 @@
         }
       ]
     },
-    {
+    "02AD": {
       "ID": "02AD",
       "Region": ".",
       "Area": "",
@@ -37684,7 +37701,7 @@
         }
       ]
     },
-    {
+    "02AE": {
       "ID": "02AE",
       "Region": ".",
       "Area": "",
@@ -37763,7 +37780,7 @@
         }
       ]
     },
-    {
+    "02AF": {
       "ID": "02AF",
       "Region": ".",
       "Area": "",
@@ -37842,7 +37859,7 @@
         }
       ]
     },
-    {
+    "02B0": {
       "ID": "02B0",
       "Region": ".",
       "Area": "",
@@ -37921,7 +37938,7 @@
         }
       ]
     },
-    {
+    "02B1": {
       "ID": "02B1",
       "Region": ".",
       "Area": "",
@@ -38000,7 +38017,7 @@
         }
       ]
     },
-    {
+    "02B2": {
       "ID": "02B2",
       "Region": ".",
       "Area": "",
@@ -38079,7 +38096,7 @@
         }
       ]
     },
-    {
+    "02B3": {
       "ID": "02B3",
       "Region": ".",
       "Area": "",
@@ -38158,7 +38175,7 @@
         }
       ]
     },
-    {
+    "02B4": {
       "ID": "02B4",
       "Region": ".",
       "Area": "",
@@ -38237,7 +38254,7 @@
         }
       ]
     },
-    {
+    "02B5": {
       "ID": "02B5",
       "Region": ".",
       "Area": "",
@@ -38316,7 +38333,7 @@
         }
       ]
     },
-    {
+    "02B6": {
       "ID": "02B6",
       "Region": ".",
       "Area": "",
@@ -38395,7 +38412,7 @@
         }
       ]
     },
-    {
+    "02B7": {
       "ID": "02B7",
       "Region": ".",
       "Area": "",
@@ -38474,7 +38491,7 @@
         }
       ]
     },
-    {
+    "02B8": {
       "ID": "02B8",
       "Region": ".",
       "Area": "",
@@ -38553,7 +38570,7 @@
         }
       ]
     },
-    {
+    "02B9": {
       "ID": "02B9",
       "Region": ".",
       "Area": "",
@@ -38632,7 +38649,7 @@
         }
       ]
     },
-    {
+    "02BA": {
       "ID": "02BA",
       "Region": ".",
       "Area": "",
@@ -38711,7 +38728,7 @@
         }
       ]
     },
-    {
+    "02BB": {
       "ID": "02BB",
       "Region": ".",
       "Area": "",
@@ -38790,11 +38807,11 @@
         }
       ]
     },
-    {
+    "0173": {
       "ID": "0173",
       "Region": "Altar of Wroth",
       "Area": "boss (2nd form)",
-      "Edit": 2,
+      "Edit": 6,
       "Header": "89237F00000003010000",
       "Contents": [
         {
@@ -38869,11 +38886,11 @@
         }
       ]
     },
-    {
+    "0174": {
       "ID": "0174",
       "Region": "Treasure Chest",
       "Area": "very strong",
-      "Edit": 2,
+      "Edit": 9,
       "Header": "F3237F00000003010000",
       "Contents": [
         {
@@ -38948,7 +38965,7 @@
         }
       ]
     },
-    {
+    "012D": {
       "ID": "012D",
       "Region": "Kingdom of Trodain",
       "Area": "empty",
@@ -39027,7 +39044,7 @@
         }
       ]
     },
-    {
+    "012E": {
       "ID": "012E",
       "Region": "Pickham Region",
       "Area": "empty",
@@ -39106,7 +39123,7 @@
         }
       ]
     },
-    {
+    "012F": {
       "ID": "012F",
       "Region": "Baccarat Region",
       "Area": "empty",
@@ -39185,7 +39202,7 @@
         }
       ]
     },
-    {
+    "0130": {
       "ID": "0130",
       "Region": "Eastern Argonia",
       "Area": "empty",
@@ -39264,11 +39281,11 @@
         }
       ]
     },
-    {
+    "0175": {
       "ID": "0175",
       "Region": "Memories Lane",
       "Area": "shortcut 1",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "CD102D00020703070000",
       "Contents": [
         {
@@ -39343,11 +39360,11 @@
         }
       ]
     },
-    {
+    "0176": {
       "ID": "0176",
       "Region": "Memories Lane",
       "Area": "shortcut 2",
-      "Edit": 1,
+      "Edit": 10,
       "Header": "CE103C00050403030000",
       "Contents": [
         {
@@ -39422,7 +39439,7 @@
         }
       ]
     },
-    {
+    "0131": {
       "ID": "0131",
       "Region": ".",
       "Area": "",
@@ -39501,7 +39518,7 @@
         }
       ]
     },
-    {
+    "0132": {
       "ID": "0132",
       "Region": ".",
       "Area": "",
@@ -39580,11 +39597,11 @@
         }
       ]
     },
-    {
+    "0177": {
       "ID": "0177",
       "Region": "Monster Arena",
       "Area": "Rank X-1",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A5237F00000003030000",
       "Contents": [
         {
@@ -39659,11 +39676,11 @@
         }
       ]
     },
-    {
+    "0178": {
       "ID": "0178",
       "Region": "Monster Arena",
       "Area": "Rank X-2",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A6237F00000003030000",
       "Contents": [
         {
@@ -39738,11 +39755,11 @@
         }
       ]
     },
-    {
+    "0179": {
       "ID": "0179",
       "Region": "Monster Arena",
       "Area": "Rank X-3",
-      "Edit": 2,
+      "Edit": 4,
       "Header": "A7237F00000003030000",
       "Contents": [
         {
@@ -39817,5 +39834,5 @@
         }
       ]
     }
-  ]
+  }
 }

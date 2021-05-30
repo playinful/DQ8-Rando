@@ -147,29 +147,25 @@
     </ApplicationDefinition>
     <Compile Include="Casino.cs" />
     <Compile Include="Assets.cs" />
-    <Compile Include="MainWindow.xaml.cs" />
+    <Compile Include="Action.cs" />
     <Compile Include="ShopItem.cs" />
     <Compile Include="HotelCharges.cs" />
     <Compile Include="Option.cs" />
-    <Compile Include="Encounter.cs" />
+    <Compile Include="Monster.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="TreasureBox.cs" />
-    <None Include="MainWindowbak.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </None>
-    <Compile Include="App.xaml.cs">
-      <DependentUpon>App.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
-    <None Include="MainWindowbak.xaml.cs">
-      <DependentUpon>MainWindowbak.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </None>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -189,6 +185,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="Data\Gospel.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Data\HotelCharges.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -196,6 +195,15 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data\Assets.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Actions.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\ScoutMonster.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Monsters.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data\ShopItem.json">

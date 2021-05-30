@@ -1,878 +1,1352 @@
-[
-  {
+{
+  "00": {
     "ID": "00",
-    "Contents": [ "none" ],
+    "Contents": [ "0000" ],
     "Spawn": 0,
-    "Chance": 0
+    "Chance": 0,
+    "Groups": 0,
+    "Count": 0,
+    "HasOverworldModel": false
   },
-  {
+  "86": {
+    "ID": "00",
+    "Contents": [ "0000" ],
+    "Spawn": 0,
+    "Chance": 0,
+    "Groups": 0,
+    "Count": 0,
+    "HasOverworldModel": false
+  },
+  "01": {
     "ID": "01",
-    "Contents": [ "slime knight", "healslime" ],
+    "Contents": [ "002E", "0014" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "02": {
     "ID": "02",
-    "Contents": [ "hipster", "witch" ],
+    "Contents": [ "0044", "003F" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "03": {
     "ID": "03",
-    "Contents": [ "mummy boy", "mummy" ],
+    "Contents": [ "002B", "0040" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 6,
+    "HasOverworldModel": true
   },
-  {
+  "04": {
     "ID": "04",
-    "Contents": [ "infernal armour", "cureslime" ],
+    "Contents": [ "0052", "0041" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "05": {
     "ID": "05",
-    "Contents": [ "khalamari kid", "king squid" ],
+    "Contents": [ "00EE", "00F8" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 8,
+    "HasOverworldModel": true
   },
-  {
+  "06": {
     "ID": "06",
-    "Contents": [ "tentacular", "khalamari kid", "king squid" ],
+    "Contents": [ "0103", "00EE", "00F8" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 6,
+    "HasOverworldModel": true
   },
-  {
+  "07": {
     "ID": "07",
-    "Contents": [ "treeface", "treevil" ],
+    "Contents": [ "0030", "005F" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 6,
+    "HasOverworldModel": true
   },
-  {
+  "08": {
     "ID": "08",
-    "Contents": [ "cureslime", "notso macho" ],
+    "Contents": [ "0041", "0076" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "09": {
     "ID": "09",
-    "Contents": [ "mummy boy", "blood mummy", "mummy" ],
+    "Contents": [ "002B", "008A", "0040" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 9,
+    "HasOverworldModel": true
   },
-  {
+  "0A": {
     "ID": "0A",
-    "Contents": [ "buffalogre", "mohawker" ],
+    "Contents": [ "00BC", "00BD" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "0B": {
     "ID": "0B",
-    "Contents": [ "liquid metal slime", "metal king slime" ],
+    "Contents": [ "004E", "00A1" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 7,
+    "HasOverworldModel": true
   },
-  {
+  "0C": {
     "ID": "0C",
-    "Contents": [ "gigantes", "stone guardian" ],
+    "Contents": [ "00C6", "00C8" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "0D": {
     "ID": "0D",
-    "Contents": [ "dark macarbour", "treevil", "treeface" ],
+    "Contents": [ "00CF", "005F", "0030" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 6,
+    "HasOverworldModel": true
   },
-  {
+  "0E": {
     "ID": "0E",
-    "Contents": [ "lethal armour", "cureslime" ],
+    "Contents": [ "007C", "0041" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "0F": {
     "ID": "0F",
-    "Contents": [ "goodybag", "night emperor" ],
+    "Contents": [ "003E", "005E" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "10": {
     "ID": "10",
-    "Contents": [ "bag o' laughs", "puppeteer" ],
+    "Contents": [ "0021", "0028" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "11": {
     "ID": "11",
-    "Contents": [ "winky", "puppeteer" ],
+    "Contents": [ "0019", "0028" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "12": {
     "ID": "12",
-    "Contents": [ "jum", "mum", "boh", "boe" ],
+    "Contents": [ "0116", "0114", "0115", "0117" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 4,
+    "Count": 4,
+    "HasOverworldModel": true
   },
-  {
+  "13": {
     "ID": "13",
-    "Contents": [ "kee", "jab", "ber", "woc" ],
+    "Contents": [ "011A", "0118", "0119", "011B" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 4,
+    "Count": 4,
+    "HasOverworldModel": true
   },
-  {
+  "14": {
     "ID": "14",
-    "Contents": [ "right wing", "head of state", "body politic", "left wing" ],
+    "Contents": [ "011E", "011C", "011D", "011F" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 4,
+    "Count": 4,
+    "HasOverworldModel": true
   },
-  {
+  "15": {
     "ID": "15",
-    "Contents": [ "jum", "boe" ],
+    "Contents": [ "0116", "0117" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "16": {
     "ID": "16",
-    "Contents": [ "red horn", "blue fang" ],
+    "Contents": [ "0121", "0122" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "1F": {
     "ID": "1F",
-    "Contents": [ "slime" ],
+    "Contents": [ "0191", "0190" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "20": {
     "ID": "20",
-    "Contents": [ "hammerhood" ],
+    "Contents": [ "0192" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "21": {
     "ID": "21",
-    "Contents": [ "Geyzer" ],
+    "Contents": [ "0193" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "22": {
     "ID": "22",
-    "Contents": [ "Bangerz", "Mash" ],
+    "Contents": [ "0195", "0194" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": false
   },
-  {
+  "23": {
     "ID": "23",
-    "Contents": [ "Khalamari" ],
+    "Contents": [ "0196" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "24": {
     "ID": "24",
-    "Contents": [ "tortured soul" ],
+    "Contents": [ "0197" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "25": {
     "ID": "25",
-    "Contents": [ "trap box" ],
+    "Contents": [ "0198" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "26": {
     "ID": "26",
-    "Contents": [ "soul mole", "Don Mole" ],
+    "Contents": [ "01CA", "0199" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 5,
+    "HasOverworldModel": false
   },
-  {
+  "27": {
     "ID": "27",
-    "Contents": [ "Argon lizard" ],
+    "Contents": [ "019B" ],
     "Spawn": 3,
-    "Chance": 0.33333
+    "Chance": 0.33333,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "28": {
     "ID": "28",
-    "Contents": [ "Argon lizard" ],
+    "Contents": [ "019B" ],
     "Spawn": 3,
-    "Chance": 0.33333
+    "Chance": 0.33333,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "29": {
     "ID": "29",
-    "Contents": [ "Argon lizard" ],
+    "Contents": [ "019B" ],
     "Spawn": 3,
-    "Chance": 0.33333
+    "Chance": 0.33333,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "2A": {
     "ID": "2A",
-    "Contents": [ "great Argon lizard" ],
+    "Contents": [ "019C" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "2B": {
     "ID": "2B",
-    "Contents": [ "sea dragon" ],
+    "Contents": [ "019A" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "2C": {
     "ID": "2C",
-    "Contents": [ "Dhoulmagus (1st form)" ],
+    "Contents": [ "019D" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "2D": {
     "ID": "2D",
-    "Contents": [ "Dhoulmagus (2nd form)" ],
+    "Contents": [ "01A1" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "2E": {
     "ID": "2E",
-    "Contents": [ "Evil Jessica" ],
+    "Contents": [ "01A4" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "2F": {
     "ID": "2F",
-    "Contents": [ "hellhound" ],
+    "Contents": [ "01A7" ],
     "Spawn": 1,
-    "Chance": 0.2
+    "Chance": 0.2,
+    "Groups": 1,
+    "Count": 8,
+    "HasOverworldModel": true
   },
-  {
+  "30": {
     "ID": "30",
-    "Contents": [ "hellhound" ],
+    "Contents": [ "01A7" ],
     "Spawn": 1,
-    "Chance": 0.2
+    "Chance": 0.2,
+    "Groups": 1,
+    "Count": 5,
+    "HasOverworldModel": true
   },
-  {
+  "31": {
     "ID": "31",
-    "Contents": [ "hellhound" ],
+    "Contents": [ "01A7" ],
     "Spawn": 1,
-    "Chance": 0.2
+    "Chance": 0.2,
+    "Groups": 1,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "32": {
     "ID": "32",
-    "Contents": [ "hellhound" ],
+    "Contents": [ "01A7" ],
     "Spawn": 1,
-    "Chance": 0.2
+    "Chance": 0.2,
+    "Groups": 1,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "33": {
     "ID": "33",
-    "Contents": [ "hellhound" ],
+    "Contents": [ "01A7" ],
     "Spawn": 1,
-    "Chance": 0.2
+    "Chance": 0.2,
+    "Groups": 1,
+    "Count": 8,
+    "HasOverworldModel": true
   },
-  {
+  "34": {
     "ID": "34",
-    "Contents": [ "Captain Crow" ],
+    "Contents": [ "01A8" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "35": {
     "ID": "35",
-    "Contents": [ "Red Horn", "Blue Fang" ],
+    "Contents": [ "01A9", "01AA" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": false
   },
-  {
+  "36": {
     "ID": "36",
-    "Contents": [ "Empyrea" ],
+    "Contents": [ "01AB" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "37": {
     "ID": "37",
-    "Contents": [ "dark turkey", "Gemon", "dark condor" ],
+    "Contents": [ "00B3", "01AC", "00A8" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false
   },
-  {
+  "38": {
     "ID": "38",
-    "Contents": [ "Evil Sir Leopold" ],
+    "Contents": [ "01AD" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "39": {
     "ID": "39",
-    "Contents": [ "Marcello" ],
+    "Contents": [ "01AF" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "3A": {
     "ID": "3A",
-    "Contents": [ "king squid" ],
+    "Contents": [ "01B1" ],
     "Spawn": 2,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "3B": {
     "ID": "3B",
-    "Contents": [ "boss troll" ],
+    "Contents": [ "01B2" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 2,
+    "HasOverworldModel": true
   },
-  {
+  "3C": {
     "ID": "3C",
-    "Contents": [ "Rhapthorne (1st form)" ],
+    "Contents": [ "01B3" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "3D": {
     "ID": "3D",
-    "Contents": [ "dancing flame", "servant of darkness" ],
+    "Contents": [ "01CB", "01C3" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "3E": {
     "ID": "3E",
-    "Contents": [ "statue of Jessica", "statue of Hero", "statue of Yangus", "statue of Angelo" ],
+    "Contents": [ "01C6", "01C4", "01C5", "01C7" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 4,
+    "Count": 4,
+    "HasOverworldModel": false
   },
-  {
+  "3F": {
     "ID": "3F",
-    "Contents": [ "megalodon" ],
+    "Contents": [ "01C8" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 2,
+    "HasOverworldModel": false
   },
-  {
+  "40": {
     "ID": "40",
-    "Contents": [ "Ruin" ],
+    "Contents": [ "01C9" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "41": {
     "ID": "41",
-    "Contents": [ "Rhapthorne (barrier)" ],
+    "Contents": [ "01B6" ],
     "Spawn": 3,
-    "Chance": 0
+    "Chance": 0,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "42": {
     "ID": "42",
-    "Contents": [ "Rhapthorne (2nd form)" ],
+    "Contents": [ "01B8" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "43": {
     "ID": "43",
-    "Contents": [ "Lord of the Dragovians (dragon)" ],
+    "Contents": [ "01BC" ],
     "Spawn": 3,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "44": {
     "ID": "44",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 3,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "45": {
     "ID": "45",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01C0" ],
     "Spawn": 3,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "4C": {
     "ID": "4C",
-    "Contents": [ "she-slime", "slime knight" ],
+    "Contents": [ "0320", "0321" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Slimeys"
   },
-  {
+  "4D": {
     "ID": "4D",
-    "Contents": [ "frogface", "treeface" ],
+    "Contents": [ "0322", "0323" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Team Face Off"
   },
-  {
+  "4E": {
     "ID": "4E",
-    "Contents": [ "hammerhood", "gorerilla", "bullfinch" ],
+    "Contents": [ "0324", "0325", "0326" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Bully Brothers"
   },
-  {
+  "4F": {
     "ID": "4F",
-    "Contents": [ "khalamari kid", "king kelp" ],
+    "Contents": [ "0327", "0328" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Fisher Kings"
   },
-  {
+  "50": {
     "ID": "50",
-    "Contents": [ "dingaling", "jargon" ],
+    "Contents": [ "0329", "032A" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Hell's Bells"
   },
-  {
+  "51": {
     "ID": "51",
-    "Contents": [ "dancing devil", "wailin' weed", "redtail hipster" ],
+    "Contents": [ "032B", "032C", "032D" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Red Barons"
   },
-  {
+  "52": {
     "ID": "52",
-    "Contents": [ "jailcat", "terror tabby" ],
+    "Contents": [ "032E", "032F" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Prison Pussycats"
   },
-  {
+  "53": {
     "ID": "53",
-    "Contents": [ "hipster", "minidemon", "witch" ],
+    "Contents": [ "0330", "0331", "0332" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Fiend Family"
   },
-  {
+  "54": {
     "ID": "54",
-    "Contents": [ "magic marionette", "tap devil", "Volpone" ],
+    "Contents": [ "0333", "0334", "0335" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Dirty Dancers"
   },
-  {
+  "55": {
     "ID": "55",
-    "Contents": [ "night fox", "night emperor", "night sneaker" ],
+    "Contents": [ "0336", "0337", "0338" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Team Nightmare"
   },
-  {
+  "56": {
     "ID": "56",
-    "Contents": [ "skeleton", "walking corpse", "mummy" ],
+    "Contents": [ "0339", "033A", "033B" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Deadheads"
   },
-  {
+  "57": {
     "ID": "57",
-    "Contents": [ "brownie", "hood" ],
+    "Contents": [ "033C", "033D" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Psyche-os"
   },
-  {
+  "58": {
     "ID": "58",
-    "Contents": [ "see urchin", "siren" ],
+    "Contents": [ "033E", "033F" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Beach Babes"
   },
-  {
+  "59": {
     "ID": "59",
-    "Contents": [ "mecha-mynah", "hunter mech", "clockwork cuckoo" ],
+    "Contents": [ "0340", "0341", "0342" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Bad Science"
   },
-  {
+  "5A": {
     "ID": "5A",
-    "Contents": [ "fencing fox", "bone baron", "phantom fencer" ],
+    "Contents": [ "0343", "0344", "0345" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Battle Royals"
   },
-  {
+  "5B": {
     "ID": "5B",
-    "Contents": [ "dragurn", "tyrantosaurus", "snapdragon" ],
+    "Contents": [ "0346", "0347", "0348" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Drag Queens"
   },
-  {
+  "5C": {
     "ID": "5C",
-    "Contents": [ "stone guardian", "golem", "boss troll" ],
+    "Contents": [ "0349", "034A", "034B" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Tough Nuts"
   },
-  {
+  "5D": {
     "ID": "5D",
-    "Contents": [ "rockbomb", "stone golem", "living statue" ],
+    "Contents": [ "034C", "034D", "034E" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Rock 'n' Rollers"
   },
-  {
+  "5E": {
     "ID": "5E",
-    "Contents": [ "frou-frou", "cyclops", "troll" ],
+    "Contents": [ "034F", "0350", "0351" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Big Boys"
   },
-  {
+  "5F": {
     "ID": "5F",
-    "Contents": [ "jumping jackal", "great sabrecat" ],
+    "Contents": [ "0352", "0353" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Wild Cats"
   },
-  {
+  "60": {
     "ID": "60",
-    "Contents": [ "treevil", "zombie gladiator", "bomboulder" ],
+    "Contents": [ "0354", "0355", "0356" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Fear Factor"
   },
-  {
+  "61": {
     "ID": "61",
-    "Contents": [ "goodybag", "mimic king", "mimic" ],
+    "Contents": [ "0357", "0358", "0359" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Taloon's Treasures"
   },
-  {
+  "62": {
     "ID": "62",
-    "Contents": [ "dullahan", "healslime", "gigantes" ],
+    "Contents": [ "035A", "035B", "035C" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Healie's Heelies"
   },
-  {
+  "63": {
     "ID": "63",
-    "Contents": [ "liquid metal slime", "hell gladiator", "cureslime" ],
+    "Contents": [ "035D", "035E", "035F" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Morrie's Glories"
   },
-  {
+  "64": {
     "ID": "64",
-    "Contents": [ "axoraptor", "shortshooter", "one knight stand" ],
+    "Contents": [ "0258", "0259", "025A" ],
     "Spawn": 4,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false
   },
-  {
+  "65": {
     "ID": "65",
-    "Contents": [ "cannibox" ],
+    "Contents": [ "003D" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "66": {
     "ID": "66",
-    "Contents": [ "mimic" ],
+    "Contents": [ "0072" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "67": {
     "ID": "67",
-    "Contents": [ "Pandora's box" ],
+    "Contents": [ "00DE" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "68": {
     "ID": "68",
-    "Contents": [ "Lord of the Dragovians (dragon)" ],
+    "Contents": [ "01BC" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "69": {
     "ID": "69",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "6A": {
     "ID": "6A",
-    "Contents": [ "vermillion dragon" ],
+    "Contents": [ "01C1" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "6B": {
     "ID": "6B",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "6C": {
     "ID": "6C",
-    "Contents": [ "emerald dragon" ],
+    "Contents": [ "01CC" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "6D": {
     "ID": "6D",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "6E": {
     "ID": "6E",
-    "Contents": [ "silver dragon" ],
+    "Contents": [ "01CF" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "6F": {
     "ID": "6F",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "70": {
     "ID": "70",
-    "Contents": [ "golden dragon" ],
+    "Contents": [ "01D2" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "71": {
     "ID": "71",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "72": {
     "ID": "72",
-    "Contents": [ "darksteel dragon" ],
+    "Contents": [ "01D5" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "73": {
     "ID": "73",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "74": {
     "ID": "74",
-    "Contents": [ "divine dragon" ],
+    "Contents": [ "01D8" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "75": {
     "ID": "75",
-    "Contents": [ "Lord of the Dragovians (humanoid)" ],
+    "Contents": [ "01BE" ],
     "Spawn": 6,
-    "Chance": 0.11111
+    "Chance": 0.11111,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "76": {
     "ID": "76",
-    "Contents": [ "vermillion dragon" ],
+    "Contents": [ "01ED" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "77": {
     "ID": "77",
-    "Contents": [ "emerald dragon" ],
+    "Contents": [ "01DB" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "78": {
     "ID": "78",
-    "Contents": [ "silver dragon" ],
+    "Contents": [ "01DE" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "79": {
     "ID": "79",
-    "Contents": [ "golden dragon" ],
+    "Contents": [ "01E1" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "7A": {
     "ID": "7A",
-    "Contents": [ "darksteel dragon" ],
+    "Contents": [ "01E4" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "7B": {
     "ID": "7B",
-    "Contents": [ "divine dragon" ],
+    "Contents": [ "01E7" ],
     "Spawn": 6,
-    "Chance": 0.5
+    "Chance": 0.5,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "7C": {
     "ID": "7C",
-    "Contents": [ "ultimate dragon" ],
+    "Contents": [ "01EA" ],
     "Spawn": 6,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "7D": {
     "ID": "7D",
-    "Contents": [ "mumboh-jumboe" ],
+    "Contents": [ "004B" ],
     "Spawn": 2,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "7E": {
     "ID": "7E",
-    "Contents": [ "jabberwockee" ],
+    "Contents": [ "0082" ],
     "Spawn": 2,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "7F": {
     "ID": "7F",
-    "Contents": [ "democrobot" ],
+    "Contents": [ "00DD" ],
     "Spawn": 2,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "80": {
     "ID": "80",
-    "Contents": [ "coffer of death" ],
+    "Contents": [ "012F" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "81": {
     "ID": "81",
-    "Contents": [ "slime knight", "fencing fox", "restless armour" ],
+    "Contents": [ "0361", "0362", "0363" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Bash Brigade"
   },
-  {
+  "82": {
     "ID": "82",
-    "Contents": [ "goodybag", "bone baron", "gold golem" ],
+    "Contents": [ "0364", "0365", "0366" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "Double or Nothing"
   },
-  {
+  "83": {
     "ID": "83",
-    "Contents": [ "treeface", "morrimp", "treevil" ],
+    "Contents": [ "0367", "0368", "0369" ],
     "Spawn": 5,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false,
+    "TeamName": "The Battle Bunnies"
   },
-  {
+  "87": {
     "ID": "87",
-    "Contents": [ "phoenix", "great keeper" ],
+    "Contents": [ "0126", "0123" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": true
   },
-  {
+  "88": {
     "ID": "88",
-    "Contents": [ "great keeper" ],
+    "Contents": [ "0130" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 4,
+    "HasOverworldModel": true
   },
-  {
+  "89": {
     "ID": "89",
-    "Contents": [ "Juggerwroth (1st form)" ],
+    "Contents": [ "01EF" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "8A": {
     "ID": "8A",
-    "Contents": [ "Juggerwroth (2nd form)" ],
+    "Contents": [ "01F0" ],
     "Spawn": 3,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "8B": {
     "ID": "8B",
-    "Contents": [ "Geyzer in Memoriam" ],
+    "Contents": [ "01F3" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "8C": {
     "ID": "8C",
-    "Contents": [ "tortured soul in Memoriam" ],
+    "Contents": [ "01F4" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "8D": {
     "ID": "8D",
-    "Contents": [ "trap box in Memoriam" ],
+    "Contents": [ "01F7" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "8E": {
     "ID": "8E",
-    "Contents": [ "soul mole in Memoriam", "Don Mole in Memoriam" ],
+    "Contents": [ "01F9", "01F8" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 5,
+    "HasOverworldModel": false
   },
-  {
+  "8F": {
     "ID": "8F",
-    "Contents": [ "Argon lizard in Memoriam" ],
+    "Contents": [ "01FA" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "90": {
     "ID": "90",
-    "Contents": [ "Dhoulmagus in Memoriam (1st form)" ],
+    "Contents": [ "01FE", "01FB", "01FF" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false
   },
-  {
+  "91": {
     "ID": "91",
-    "Contents": [ "Dhoulmagus in Memoriam (2nd form)" ],
+    "Contents": [ "0200" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "92": {
     "ID": "92",
-    "Contents": [ "Evil Jessica in Memoriam" ],
+    "Contents": [ "0203" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "93": {
     "ID": "93",
-    "Contents": [ "Captain Crow in Memoriam" ],
+    "Contents": [ "0206" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "94": {
     "ID": "94",
-    "Contents": [ "dark turkey in Memoriam", "Gemon in Memoriam", "darkbird in Memoriam" ],
+    "Contents": [ "0209", "0207", "0208" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false
   },
-  {
+  "95": {
     "ID": "95",
-    "Contents": [ "Sir Leopold in Memoriam" ],
+    "Contents": [ "020A" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "96": {
     "ID": "96",
-    "Contents": [ "Marcello in Memoriam" ],
+    "Contents": [ "020C" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "97": {
     "ID": "97",
-    "Contents": [ "dancing flame in Memoriam", "dark servant in Memoriam" ],
+    "Contents": [ "020F", "020E" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 3,
+    "Count": 3,
+    "HasOverworldModel": false
   },
-  {
+  "98": {
     "ID": "98",
-    "Contents": [ "Ruin in Memoriam" ],
+    "Contents": [ "0210" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "99": {
     "ID": "99",
-    "Contents": [ "Estark" ],
+    "Contents": [ "0211" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "9A": {
     "ID": "9A",
-    "Contents": [ "skeleton in Memoriam", "walking corpse in Memoriam" ],
+    "Contents": [ "01F5", "01F6" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 2,
+    "Count": 2,
+    "HasOverworldModel": false
   },
-  {
+  "9B": {
     "ID": "9B",
-    "Contents": [ "shadow in Memoriam" ],
+    "Contents": [ "0205" ],
     "Spawn": 7,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": false
   },
-  {
+  "9C": {
     "ID": "9C",
-    "Contents": [ "crème caraslime" ],
+    "Contents": [ "0127" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "9D": {
     "ID": "9D",
-    "Contents": [ "dead bowdy" ],
+    "Contents": [ "0128" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "9E": {
     "ID": "9E",
-    "Contents": [ "morrimp" ],
+    "Contents": [ "0129" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "9F": {
     "ID": "9F",
-    "Contents": [ "gold nugcat" ],
+    "Contents": [ "012A" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "A0": {
     "ID": "A0",
-    "Contents": [ "cherreevil blossom" ],
+    "Contents": [ "012B" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "A1": {
     "ID": "A1",
-    "Contents": [ "santaclops" ],
+    "Contents": [ "012C" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   },
-  {
+  "A2": {
     "ID": "A2",
-    "Contents": [ "box of tricks" ],
+    "Contents": [ "012D" ],
     "Spawn": 1,
-    "Chance": 1
+    "Chance": 1,
+    "Groups": 1,
+    "Count": 1,
+    "HasOverworldModel": true
   }
-]
+}
