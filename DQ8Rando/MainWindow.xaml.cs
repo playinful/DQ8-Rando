@@ -24,6 +24,8 @@ using System.Text.Json.Serialization;
 
 using static System.Random;
 
+using System.Text.RegularExpressions;
+
 using Xceed.Wpf.Toolkit;
 
 namespace DQ8Rando
@@ -85,6 +87,7 @@ namespace DQ8Rando
 
         public string outputFolder;
         public FolderBrowserDialog browseDialog = new FolderBrowserDialog();
+        public System.Windows.Forms.OpenFileDialog optionSelectDialog = new System.Windows.Forms.OpenFileDialog();
         public Dictionary<int, List<GospelEntry>> validEncounterHandler;
         public Dictionary<int, List<SetEncounter>> validSetEncounterHandler;
 
@@ -123,7 +126,8 @@ namespace DQ8Rando
             if (radio_monsters_overworld_noChange.IsChecked == false ||
                 radio_monsters_arena_noChange.IsChecked == false ||
                 radio_monsters_boss_noChange.IsChecked == false ||
-                check_monsters_enemySpecial.IsChecked == true)
+                check_monsters_enemySpecial.IsChecked == true ||
+                check_monsters_stats_balance.IsChecked == true)
                 randomizeEncounters();
             if (check_monsters_infamous.IsChecked == true)
                 shuffleInfamousMonsters();
@@ -147,6 +151,8 @@ namespace DQ8Rando
                 message = "Error: Unable to create output directory.";
             }
 
+            // getBSTAs();
+
             copyAssets(outputFolder);
 
             MessageBoxResult result = System.Windows.MessageBox.Show(message);
@@ -160,6 +166,67 @@ namespace DQ8Rando
             browseDialog.SelectedPath = tbox_directory.Text;
             browseDialog.ShowDialog();
             tbox_directory.Text = browseDialog.SelectedPath;
+        }
+        private void button_loadOptions_Click(object sender, RoutedEventArgs e)
+        {
+            initializeOptionOutputList();
+            optionSelectDialog.ShowDialog();
+            legacyParseOptionLog(optionSelectDialog.FileName);
+        }
+
+        // get BSTAs
+        private void getBSTAs()
+        {
+            loadEncounterFile();
+            List<string> outputList = new List<string>();
+            foreach (EncountTable table in encountFile.Contents.Values)
+            {
+                string addStr = table.ID + " - ";
+
+                List<Monster> monsterList = new List<Monster>();
+                foreach (EncountTableEntry entry in table.Contents)
+                {
+                    var mon = getMonsterByEncounterID(entry.ID);
+                    if (mon != null && mon.Edit.Contains("N") != true && monsterList.Contains(mon) != true && mon.DoNotAverage != true)
+                        monsterList.Add(mon);
+                }
+                foreach (EncountTableSetEntry entry in table.SetEncounters)
+                {
+                    foreach (string id in getSetEncounterById(entry.ID).Contents)
+                    {
+                        var mon = getMonsterById(id);
+                        if (mon != null && mon.Edit.Contains("N") != true && monsterList.Contains(mon) != true && mon.DoNotAverage != true)
+                            monsterList.Add(mon);
+                    }
+                }
+
+                if (monsterList.Count > 0)
+                {
+                    /*double avgHP = monsterList.Select(m => m.HP).Average();
+                    double avgMP = monsterList.Select(m => m.MP).Average();
+                    double avgAttack = monsterList.Select(m => m.Attack).Average();
+                    double avgDefence = monsterList.Select(m => m.Defence).Average();
+                    double avgAgility = monsterList.Select(m => m.Agility).Average();
+                    double avgWisdom = monsterList.Select(m => m.Wisdom).Average(); */
+                    double avgExp = monsterList.Select(m => m.Experience).Average();
+
+                    /*addStr += "HP: " + avgHP.ToString() + ", "
+                        + "MP: " + avgMP.ToString() + ", "
+                        + "Attack: " + avgAttack.ToString() + ", "
+                        + "Defence: " + avgDefence.ToString() + ", "
+                        + "Agility: " + avgAgility.ToString() + ", "
+                        + "Wisdom: " + avgWisdom.ToString() + ", ";*/
+                    addStr += avgExp.ToString();
+
+                    outputList.Add(addStr);
+                }
+                else
+                {
+                    addStr += "null";
+                    outputList.Add(addStr);
+                }
+            }
+            File.WriteAllText(outputFolder + "/bstAverage.txt", string.Join("\n", outputList));
         }
 
         // IsEnabled check functions
@@ -416,7 +483,6 @@ namespace DQ8Rando
                 jsonString = File.ReadAllText("Data/Encounter.json");
                 encountList = JsonSerializer.Deserialize<Dictionary<string, Encounter>>(jsonString);
             }
-            loadEncounterFile();
             loadMonsterFile();
             loadGospel();
         }
@@ -427,9 +493,7 @@ namespace DQ8Rando
                 jsonString = File.ReadAllText("Data/SetEncounter.json");
                 setEncountList = JsonSerializer.Deserialize<Dictionary<string, SetEncounter>>(jsonString);
             }
-            loadEncounterFile();
             loadMonsterFile();
-            loadGospel();
         }
         private void loadGospel()
         {
@@ -446,6 +510,8 @@ namespace DQ8Rando
                 jsonString = File.ReadAllText("Data/EncountTbl.json");
                 encountFile = JsonSerializer.Deserialize<EncountFile>(jsonString);
             }
+            loadEncounters();
+            loadSetEncounters();
         }
         private void loadItems()
         {
@@ -557,6 +623,14 @@ namespace DQ8Rando
                         newTable.SetEncounters[count] = newEntry;
                         count++;
                     }
+                    newTable.AvgHP = kv.Value.AvgHP;
+                    newTable.AvgMP = kv.Value.AvgMP;
+                    newTable.AvgATK = kv.Value.AvgATK;
+                    newTable.AvgDEF = kv.Value.AvgDEF;
+                    newTable.AvgAGI = kv.Value.AvgAGI;
+                    newTable.AvgWIS = kv.Value.AvgWIS;
+                    newTable.AvgBST = kv.Value.AvgBST;
+                    newTable.AvgEXP = kv.Value.AvgEXP;
                     customEncountFile.Contents.Add(kv.Key, newTable);
                 }
             }
@@ -789,6 +863,8 @@ namespace DQ8Rando
                     add.Unk4 = src.Unk4;
                     add.Unk5 = src.Unk5;
                     add.Unk6 = src.Unk6;
+                    add.Edit = src.Edit;
+                    add.Parent = src.Parent;
                     add.Actions = new string[6];
                     for (int i = 0; i < add.Actions.Length; i++)
                     {
@@ -1058,7 +1134,7 @@ namespace DQ8Rando
                 var boss = setEncountList[table.SetEncounters[0].ID];
                 if (boss.Count < 10 && boss.Groups < 4 && rand.Next(0,2) == 1)
                 {
-                    var validDoubleEncounters = validSetEncounters.FindAll(e => e.Count <= (10 - boss.Count) && e.Groups <= (4 - boss.Groups));
+                    var validDoubleEncounters = validSetEncounters.FindAll(e => e.Count <= (10 - boss.Count) && e.Groups <= (4 - boss.Groups) && e.Spawn != 8);
                     if (validDoubleEncounters.Count > 0)
                     {
                         var randomEnemy = getRandomSetEncounter(validDoubleEncounters);
@@ -1186,39 +1262,51 @@ namespace DQ8Rando
 
             return false;
         }
-        private int randomizeStat(int stat, double min, double max, bool? condition, bool nonZero)
+        private int randomizeStat(int stat, double min, double max, bool? condition, string flags)
         {
+            // flags: "Z" = non-zero, "M" = respect 255
             if (condition != true)
                 return stat;
             else
             {
+                if (flags.Contains("M") && stat == 255)
+                    return stat;
+
                 var xValue = getRandomDoubleBetweenTwoValues(rand, min, max);
 
                 var result = stat * xValue / 100;
                 result = result > 65535 ? 65535 : result;
-                if (nonZero)
+                if (flags.Contains("Z"))
                     result = result < 1 ? 1 : result;
                 else
                     result = result < 0 ? 0 : result;
 
+                if (flags.Contains("M") && (int)result == 255)
+                {
+                    if (result >= 255)
+                        return 256;
+                    else
+                        return 254;
+                }
+
                 return (int)result;
             }
         }
-        private int randomizeStat(int stat, double min, double max, System.Windows.Controls.CheckBox condition, bool nonZero)
+        private int randomizeStat(int stat, double min, double max, System.Windows.Controls.CheckBox condition, string flags)
         {
-            return randomizeStat(stat, min, max, condition.IsChecked, nonZero);
+            return randomizeStat(stat, min, max, condition.IsChecked, flags);
         }
         private int randomizeStat(int stat, double min, double max, System.Windows.Controls.CheckBox condition)
         {
-            return randomizeStat(stat, min, max, condition.IsChecked, false);
+            return randomizeStat(stat, min, max, condition.IsChecked, "");
         }
         private int randomizeStat(int stat, double min, double max, bool? condition)
         {
-            return randomizeStat(stat, min, max, condition, false);
+            return randomizeStat(stat, min, max, condition, "");
         }
         private int randomizeStat(int stat, double min, double max)
         {
-            return randomizeStat(stat, min, max, true, false);
+            return randomizeStat(stat, min, max, true, "");
         }
         private string capFirstLetter(string str)
         {
@@ -1314,9 +1402,13 @@ namespace DQ8Rando
             }
             return null;
         }
+        private Monster getMonsterById(string id, MonsterFile data)
+        {
+            return data.Contents[id];
+        }
         private Monster getMonsterById(string id)
         {
-            return monsterFile.Contents[id];
+            return getMonsterById(id, monsterFile);
         }
         private Monster getMonsterByEncounterID(string id)
         {
@@ -1361,22 +1453,27 @@ namespace DQ8Rando
             {
                 foreach (Monster mon in customMonsterFile.Contents.Values)
                 {
-                    mon.HP = randomizeStat(mon.HP, minStat, maxStat, check_monsters_stats_hp, true);
-                    mon.MP = randomizeStat(mon.MP, minStat, maxStat, check_monsters_stats_mp);
-                    mon.Attack = randomizeStat(mon.Attack, minStat, maxStat, check_monsters_stats_attack);
-                    mon.Defence = randomizeStat(mon.Defence, minStat, maxStat, check_monsters_stats_defence);
-                    mon.Agility = randomizeStat(mon.Agility, minStat, maxStat, check_monsters_stats_agility);
-                    //mon.Wisdom = randomizeStat(mon.Wisdom, minStat, maxStat, check_monsters_stats_wisdom);
-                    mon.Gold = randomizeStat(mon.Gold, minStat, maxStat, check_monsters_stats_gold);
-                    mon.Experience = randomizeStat(mon.Experience, minStat, maxStat, check_monsters_stats_exp);
-                    if (check_monsters_stats_resist.IsChecked == true)
-                    {
-                        for (int i = 0; i < mon.Resistances.Length; i++)
+                    if (mon.Edit.ToUpper().Contains("N") != true && mon.Edit.ToUpper().Contains("C") != true && mon.Edit.ToUpper().Contains("I") != true) {
+                        if (mon.Edit.ToUpper().Contains("P") != true)
                         {
-                            mon.Resistances[i] = "0" + rand.Next(4).ToString();
+                            mon.HP = randomizeStat(mon.HP, minStat, maxStat, check_monsters_stats_hp, "Z");
+                            mon.MP = randomizeStat(mon.MP, minStat, maxStat, check_monsters_stats_mp, "M");
+                            mon.Gold = randomizeStat(mon.Gold, minStat, maxStat, check_monsters_stats_gold);
+                            mon.Experience = randomizeStat(mon.Experience, minStat, maxStat, check_monsters_stats_exp);
+                        }
+                        mon.Attack = randomizeStat(mon.Attack, minStat, maxStat, check_monsters_stats_attack);
+                        mon.Defence = randomizeStat(mon.Defence, minStat, maxStat, check_monsters_stats_defence);
+                        mon.Agility = randomizeStat(mon.Agility, minStat, maxStat, check_monsters_stats_agility);
+                        //mon.Wisdom = randomizeStat(mon.Wisdom, minStat, maxStat, check_monsters_stats_wisdom);
+                        if (check_monsters_stats_resist.IsChecked == true)
+                        {
+                            for (int i = 0; i < mon.Resistances.Length; i++)
+                            {
+                                mon.Resistances[i] = "0" + rand.Next(4).ToString();
+                            }
                         }
                     }
-                    if (check_monsters_stats_actions.IsChecked == true)
+                    if (check_monsters_stats_actions.IsChecked == true && mon.Edit.ToUpper().Contains("I") != true)
                     {
                         // to be added
                     }
@@ -1387,24 +1484,56 @@ namespace DQ8Rando
                 loadItems();
                 Item[] validItems = Array.FindAll<Item>(itemFile.Contents, e => e.Spawn == 1);
 
-                foreach (Monster mon in monsterFile.Contents.Values)
+                foreach (Monster mon in customMonsterFile.Contents.Values)
                 {
-                    var randVal = rand.NextDouble();
-                    int itemAmount = 0;
-                    if (randVal > 0.05)
-                        itemAmount++;
-                    if (randVal > 0.5)
-                        itemAmount++;
-
-                    for (int i = 0; i < mon.Items.Length; i++)
+                    if (mon.Edit.ToUpper().Contains("L") != true && mon.Edit.ToUpper().Contains("C") != true && mon.Edit.ToUpper().Contains("I") != true && mon.Edit.ToUpper().Contains("N") != true && mon.Edit.ToUpper().Contains("P") != true)
                     {
-                        if (i < itemAmount)
+                        var randVal = rand.NextDouble();
+                        int itemAmount = 0;
+                        if (randVal > 0.05)
+                            itemAmount++;
+                        if (randVal > 0.5)
+                            itemAmount++;
+
+                        for (int i = 0; i < mon.Items.Length; i++)
                         {
-                            var randomItem = validItems[rand.Next(validItems.Length)];
-                            mon.Items[i] = randomItem.ID;
+                            if (i < itemAmount)
+                            {
+                                var randomItem = validItems[rand.Next(validItems.Length)];
+                                mon.Items[i] = randomItem.ID;
+                            }
+                            else
+                                mon.Items[i] = "0000";
                         }
-                        else
-                            mon.Items[i] = "0000";
+                    }
+                }
+            }
+            // now do parents
+            foreach (Monster mon in customMonsterFile.Contents.Values)
+            {
+                if (mon.Parent != null && mon.Parent.Length > 0)
+                {
+                    var parent = getMonsterById(mon.Parent, customMonsterFile);
+                    parent.Children.Add(mon);
+                    if (mon.Edit.ToUpper().Contains("P") || mon.Edit.ToUpper().Contains("I") || mon.Edit.ToUpper().Contains("C"))
+                    {
+                        mon.HP = parent.HP;
+                        mon.MP = parent.MP;
+                        mon.Experience = parent.Experience;
+                        mon.Gold = parent.Gold;
+                        mon.Items = parent.Items;
+                    }
+                    if (mon.Edit.ToUpper().Contains("I") || mon.Edit.ToUpper().Contains("C"))
+                    {
+                        mon.Attack = parent.Attack;
+                        mon.Defence = parent.Defence;
+                        mon.Agility = parent.Agility;
+                        mon.Wisdom = parent.Wisdom;
+                        mon.Resistances = parent.Resistances;
+                    }
+                    if (mon.Edit.ToUpper().Contains("I"))
+                    {
+                        mon.Actions = parent.Actions;
                     }
                 }
             }
@@ -2429,63 +2558,73 @@ namespace DQ8Rando
 
                 foreach (Monster mon in customMonsterFile.Contents.Values)
                 {
-                    string addStr = "╔" + stringFillToLength(capFirstLetter(mon.Name), 73, '═') + "╗\n";
-                    addStr += "║┌Stats──────────────────┬───────────────────────┬───────────────────────┐║\n" +
-                        "║│HP:               " + stringFillToLength(mon.HP.ToString(), 5, ' ', 1) +
-                        "│MP:               "  + stringFillToLength(mon.MP.ToString(), 5, ' ', 1) +
-                        "│Attack:           "  + stringFillToLength(mon.Attack.ToString(), 5, ' ', 1) + "│║\n" +
-                        "║├───────────────────────┼───────────────────────┼───────────────────────┤║\n" +
-                        "║│Defence:          " + stringFillToLength(mon.Defence.ToString(), 5, ' ', 1) +
-                        "│Agility:          "  + stringFillToLength(mon.Agility.ToString(), 5, ' ', 1) +
-                        "│Wisdom:           "  + stringFillToLength(mon.Wisdom.ToString(), 5, ' ', 1) + "│║\n" +
-                        "║├───────────────────────┴───────────┬───────────┴───────────────────────┤║\n" +
-                        "║│Experience:              " + stringFillToLength(mon.Experience.ToString(), 10, ' ', 1) +
-                        "│Gold:                    "  + stringFillToLength(mon.Gold.ToString(), 10, ' ', 1) + "│║\n" +
-                        "║└───────────────────────────────────┴───────────────────────────────────┘║\n" +
-                        "║Items Dropped: ";
-                    string itemStr = findItemByID(mon.Items[0]).Name;
-                    if (mon.Items[1] != "0000")
+                    if (mon.Edit.ToUpper().Contains("N") != true && mon.Edit.ToUpper().Contains("C") != true && mon.Edit.ToUpper().Contains("I") != true)
                     {
-                        itemStr += ", " + findItemByID(mon.Items[1]).Name;
-                    }
-                    addStr += stringFillToLength(itemStr, 58, ' ') + "║\n";
-                    addStr += "║Actions:                                                                 ║\n";
+                        string addStr = "╔" + stringFillToLength(capFirstLetter(mon.Name), 73, '═') + "╗\n";
+                        addStr += "║┌Stats──────────────────┬───────────────────────┬───────────────────────┐║\n" +
+                            "║│HP:" + stringFillToLength(mon.HP.ToString(), 20, ' ', 1) +
+                            "│MP:" + stringFillToLength(mon.MP == 255 ? "Infinite" : mon.MP.ToString(), 20, ' ', 1) +
+                            "│Attack:" + stringFillToLength(mon.Attack.ToString(), 16, ' ', 1) + "│║\n" +
+                            "║├───────────────────────┼───────────────────────┼───────────────────────┤║\n" +
+                            "║│Defence:" + stringFillToLength(mon.Defence.ToString(), 15, ' ', 1) +
+                            "│Agility:" + stringFillToLength(mon.Agility.ToString(), 15, ' ', 1) +
+                            "│Wisdom:" + stringFillToLength(mon.Wisdom.ToString(), 16, ' ', 1) + "│║\n" +
+                            "║├───────────────────────┴───────────┬───────────┴───────────────────────┤║\n" +
+                            "║│Experience:" + stringFillToLength(mon.Experience.ToString(), 24, ' ', 1) +
+                            "│Gold:" + stringFillToLength(mon.Gold.ToString(), 30, ' ', 1) + "│║\n" +
+                            "║└───────────────────────────────────┴───────────────────────────────────┘║\n" +
+                            "║Items Dropped: ";
+                        string itemStr = findItemByID(mon.Items[0]).Name;
+                        if (mon.Items[1] != "0000")
+                        {
+                            itemStr += ", " + findItemByID(mon.Items[1]).Name;
+                        }
+                        addStr += stringFillToLength(itemStr, 58, ' ') + "║\n";
+                        addStr += "║Actions:                                                                 ║\n";
 
-                    List<Action> monActions = new List<Action>();
-                    foreach (string act in mon.Actions)
-                    {
-                        var a = getActionById(act);
-                        if (monActions.Contains(a) != true)
-                            monActions.Add(a);
-                    }
-                    List<string> monActionStrings = new List<string>();
-                    foreach (Action act in monActions)
-                    {
-                        monActionStrings.Add("║ - " + stringFillToLength(act.Name, 70, ' ') + "║");
-                    }
-                    addStr += string.Join("\n", monActionStrings) + "\n";
+                        var concatActions = new List<string>(mon.Actions);
+                        foreach (Monster child in mon.Children)
+                        {
+                            if (child.Edit.ToUpper().Contains("C"))
+                                concatActions.AddRange(child.Actions);
+                        }
 
-                    addStr += "║┌Resistances──────┬─────────────────┬─────────────────┬─────────────────┐║\n";
+                        List<Action> monActions = new List<Action>();
+                        foreach (string act in concatActions)
+                        {
+                            var a = getActionById(act);
+                            if (monActions.Contains(a) != true)
+                                monActions.Add(a);
+                        }
+                        List<string> monActionStrings = new List<string>();
+                        foreach (Action act in monActions)
+                        {
+                            monActionStrings.Add("║ - " + stringFillToLength(act.Name, 70, ' ') + "║");
+                        }
+                        addStr += string.Join("\n", monActionStrings) + "\n";
 
-                    string[] resStr = new string[24];
-                    resStr[0] = stringFillToLength(resistName.Keys.ElementAt(0) + ":", 12, ' ') + " " + stringFillToLength("???" + "%", 4, ' ', 1);
-                    resStr[1] = stringFillToLength(resistName.Keys.ElementAt(1) + ":", 12, ' ') + " " + stringFillToLength("???" + "%", 4, ' ', 1);
-                    for (int i = 2; i < 24; i ++)
-                    {
-                        resStr[i] = stringFillToLength(resistName.Keys.ElementAt(i) + ":", 12, ' ') + " " + stringFillToLength(getResistPercent(mon.Resistances[i-2], resistName.Values.ElementAt(i))+"%", 4, ' ', 1);
+                        addStr += "║┌Resistances──────┬─────────────────┬─────────────────┬─────────────────┐║\n";
+
+                        string[] resStr = new string[24];
+                        resStr[0] = stringFillToLength(resistName.Keys.ElementAt(0) + ":", 12, ' ') + " " + stringFillToLength("???" + "%", 4, ' ', 1);
+                        resStr[1] = stringFillToLength(resistName.Keys.ElementAt(1) + ":", 12, ' ') + " " + stringFillToLength("???" + "%", 4, ' ', 1);
+                        for (int i = 2; i < 24; i++)
+                        {
+                            resStr[i] = stringFillToLength(resistName.Keys.ElementAt(i) + ":", 12, ' ') + " " + stringFillToLength(getResistPercent(mon.Resistances[i - 2], resistName.Values.ElementAt(i)) + "%", 4, ' ', 1);
+                        }
+                        List<string> resRows = new List<string>();
+                        for (int i = 0; i < 24; i += 4)
+                        {
+                            resRows.Add(string.Join("│", resStr.Skip(i).Take(4)));
+                        }
+                        addStr += "║│" + string.Join("│║\n║├─────────────────┼─────────────────┼─────────────────┼─────────────────┤║\n║│", resRows) +
+                            "│║\n";
+
+                        addStr += "║└─────────────────┴─────────────────┴─────────────────┴─────────────────┘║\n" +
+                            "╚═════════════════════════════════════════════════════════════════════════╝";
+
+                        outputArr.Add(addStr);
                     }
-                    List<string> resRows = new List<string>();
-                    for (int i = 0; i < 24; i += 4)
-                    {
-                        resRows.Add(string.Join("│", resStr.Skip(i).Take(4)));
-                    }
-                    addStr += "║│" + string.Join("│║\n║├─────────────────┼─────────────────┼─────────────────┼─────────────────┤║\n║│", resRows) + 
-                        "│║\n";
-
-                    addStr += "║└─────────────────┴─────────────────┴─────────────────┴─────────────────┘║\n" +
-                        "╚═════════════════════════════════════════════════════════════════════════╝";
-
-                    outputArr.Add(addStr);
                 }
 
                 File.WriteAllText(path, string.Join("\n", outputArr));
@@ -2553,6 +2692,75 @@ namespace DQ8Rando
                 }
             }
             File.WriteAllText(path + "/options.txt", optionString);
+        }
+        private void legacyParseOptionLog(string path)
+        {
+            string optionString;
+            try
+            {
+                optionString = File.ReadAllText(path);
+            } catch
+            {
+                optionString = "";
+            }
+            string seed = new Regex("Seed: ([0-9]+)+\n").Match(optionString).Groups[1].Value;
+            tbox_seed.Text = seed;
+            foreach (OptionTab tab in optionOutputList)
+            {
+                if (tab.Control != null)
+                {
+                    foreach (Option opt in tab.Contents)
+                    {
+                        if ((opt.Control != null && opt.Control.IsEnabled) || opt.Elements != null)
+                        {
+                            Regex optionRegex = new Regex("\\s*- " + opt.Text + ": ([\\w \\t]*)");
+                            string optionValue = optionRegex.Match(optionString).Groups[1].Value;
+
+                            var check = opt.Control as System.Windows.Controls.CheckBox;
+                            if (check != null)
+                            {
+                                check.IsChecked = String.Equals(optionValue, "True");
+                            }
+
+                            var doubleUpDown = opt.Control as Xceed.Wpf.Toolkit.DoubleUpDown;
+                            if (doubleUpDown != null)
+                            {
+                                if (Double.TryParse(optionValue, out double value))
+                                {
+                                    doubleUpDown.Value = value;
+                                }
+                            }
+
+                            var shortUpDown = opt.Control as Xceed.Wpf.Toolkit.ShortUpDown;
+                            if (shortUpDown != null)
+                            {
+                                if (short.TryParse(optionValue, out short value))
+                                {
+                                    shortUpDown.Value = value;
+                                }
+                            }
+
+                            var longUpDown = opt.Control as Xceed.Wpf.Toolkit.LongUpDown;
+                            if (longUpDown != null)
+                            {
+                                if (long.TryParse(optionValue, out long value))
+                                {
+                                    longUpDown.Value = value;
+                                }
+                            }
+
+                            if (opt.Elements != null && opt.Type == "Choice")
+                            {
+                                Array.ForEach(opt.Elements, e => {
+                                    var radioButton = e.Control as System.Windows.Controls.RadioButton;
+                                    if (radioButton != null && String.Equals(e.Text, optionValue))
+                                        radioButton.IsChecked = true;
+                                });
+                            }
+                        }
+                    }
+                }
+            }
         }
 
         // copy graphics

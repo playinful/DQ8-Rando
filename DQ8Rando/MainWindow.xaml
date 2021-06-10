@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DQ8Rando"
         xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
         mc:Ignorable="d"
-        Title="Dragon Quest VIII Randomizer v0.4 Prerelease" Height="603" Width="436" ResizeMode="CanMinimize" x:Class="DQ8Rando.MainWindow">
+        Title="Dragon Quest VIII Randomizer v0.4 Prerelease" Height="628" Width="436" ResizeMode="CanMinimize" x:Class="DQ8Rando.MainWindow">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -215,12 +215,14 @@
             <TabItem Header="Music" Name="tab_music" ></TabItem>
             <TabItem Header="Attributes" Name="tab_stats"  ></TabItem>-->
         </TabControl>
-        <TextBox Name="tbox_seed" ToolTip="The seed to use for the randomization (Numbers only). Leave blank for a random seed." HorizontalAlignment="Left" Height="20" Margin="48,509,0,0" VerticalAlignment="Top" Width="206" TextChanged="tbox_seed_TextChanged" PreviewTextInput="tbox_IsNumericOnly" PreviewKeyDown="tbox_PreventSpace"/>
-        <TextBox Name="tbox_directory" ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="10,534,0,0" VerticalAlignment="Top" Width="182"/>
-        <Button Name="button_browse" Content="Browse..." ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="197,534,0,0" VerticalAlignment="Top" Width="57" Click="button_browse_Click"/>
+        <TextBox Name="tbox_seed" ToolTip="The seed to use for the randomization (Numbers only). Leave blank for a random seed." HorizontalAlignment="Left" Height="20" Margin="48,509,0,0" VerticalAlignment="Top" Width="222" TextChanged="tbox_seed_TextChanged" PreviewTextInput="tbox_IsNumericOnly" PreviewKeyDown="tbox_PreventSpace"/>
+        <TextBox Name="tbox_directory" ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="10,534,0,0" VerticalAlignment="Top" Width="198"/>
+        <Button Name="button_browse" Content="Browse..." ToolTip="Output directory" HorizontalAlignment="Left" Height="20" Margin="213,534,0,0" VerticalAlignment="Top" Width="57" Click="button_browse_Click"/>
         <Label Content="Seed:" HorizontalAlignment="Left" Height="26" Margin="10,505,0,0" VerticalAlignment="Top" Width="38"/>
         <Label Name="label_seed_watermark" Content="Leave blank for a random seed" HorizontalAlignment="Left" Height="26" Margin="48,505,0,0" VerticalAlignment="Top" Width="178" Focusable="False" Opacity="0.5" IsHitTestVisible="False"/>
-        <Button x:Name="button_finish" Click="button_finish_Click" Content="Randomize!" HorizontalAlignment="Left" Margin="259,509,0,0" VerticalAlignment="Top" Width="151" Height="45" FontSize="24"/>
+        <Button x:Name="button_finish" Click="button_finish_Click" Content="Generate" HorizontalAlignment="Left" Margin="275,509,0,0" VerticalAlignment="Top" Width="135" Height="45" FontSize="24"/>
+        <Button x:Name="button_loadOptions" Content="Load Options" ToolTip="Load options from an options.txt file." HorizontalAlignment="Left" Height="20" Margin="10,559,0,0" VerticalAlignment="Top" Width="198" Click="button_loadOptions_Click"/>
+        <Button x:Name="button_saveDefault" Content="Save Config as Default" ToolTip="Save the current configuration as the default." HorizontalAlignment="Left" Height="20" Margin="213,559,0,0" VerticalAlignment="Top" Width="197" Click="button_browse_Click"/>
 
 
     </Grid>

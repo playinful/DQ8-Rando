@@ -12,6 +12,8 @@ namespace DQ8Rando
     {
         public string ID { get; set; }
         public string Name { get; set; }
+        public string Edit { get; set; }
+        public string Parent { get; set; }
         public string Unk1 { get; set; }
         public int HP { get; set; }
         public int MP { get; set; }
@@ -30,6 +32,8 @@ namespace DQ8Rando
         public string Unk5 { get; set; }
         public string Unk6 { get; set; }
         public string Footer { get; set; }
+        public bool DoNotAverage { get; set; }
+        public List<Monster> Children = new List<Monster>();
     }
     [Serializable]
     public class Encounter
@@ -66,6 +70,14 @@ namespace DQ8Rando
         public int Edit { get; set; }
         public string Parent { get; set; }
         public string Header { get; set; }
+        public double AvgHP { get; set; }
+        public double AvgMP { get; set; }
+        public double AvgATK { get; set; }
+        public double AvgDEF { get; set; }
+        public double AvgAGI { get; set; }
+        public double AvgWIS { get; set; }
+        public double AvgBST { get; set; }
+        public double AvgEXP { get; set; }
         public EncountTableEntry[] Contents { get; set; }
         public EncountTableSetEntry[] SetEncounters { get; set; }
     }

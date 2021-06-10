@@ -1754,13 +1754,13 @@
   "0130": {
     "ID": "0130",
     "Monster": "0194",
-    "Spawn": 3,
+    "Spawn": 0,
     "HasOverworldModel": false
   },
   "0131": {
     "ID": "0131",
     "Monster": "0195",
-    "Spawn": 3,
+    "Spawn": 0,
     "HasOverworldModel": false
   },
   "0132": {
