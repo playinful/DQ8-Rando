@@ -1,383 +1,344 @@
 [
   {
-    "Header": "Monsters",
-    "Element": "tab_monsters",
-    "Contents": [
-      {
-        "Text": "Random encounters",
-        "Elements": [
-          {
-            "Text": "No change",
-            "Element": "radio_monsters_overworld_noChange"
-          },
-          {
-            "Text": "Shuffle encounter tables",
-            "Element": "radio_monsters_overworld_tables"
-          },
-          {
-            "Text": "Shuffle monsters",
-            "Element": "radio_monsters_overworld_shuffle"
-          },
-          {
-            "Text": "Randomize monsters",
-            "Element": "radio_monsters_overworld_random"
-          }
-        ],
-        "Type": "Choice"
-      },
-      {
-        "Text": "Scripted encounters",
-        "Elements": [
-          {
-            "Text": "No change",
-            "Element": "radio_monsters_boss_noChange"
-          },
-          {
-            "Text": "Shuffle encounters",
-            "Element": "radio_monsters_boss_shuffle"
-          },
-          {
-            "Text": "Randomize encounters",
-            "Element": "radio_monsters_boss_random"
-          }
-        ],
-        "Type": "Choice"
-      },
-      {
-        "Text": "Monster Arena",
-        "Elements": [
-          {
-            "Text": "No change",
-            "Element": "radio_monsters_arena_noChange"
-          },
-          {
-            "Text": "Shuffle teams",
-            "Element": "radio_monsters_arena_shuffle"
-          },
-          {
-            "Text": "Randomize teams",
-            "Element": "radio_monsters_arena_random"
-          }
-        ],
-        "Type": "Choice"
-      },
-      {
-        "Text": "Shuffle Infamous Monsters",
-        "Element": "check_monsters_infamous"
-      },
-      {
-        "Text": "Randomize Special Monsters",
-        "Element": "check_monsters_enemySpecial"
-      },
-      {
-        "Text": "Mix in Infamous Monsters",
-        "Element": "check_monsters_mixInInfamous",
-        "Indent": 1
-      },
-      {
-        "Text": "Spawn Monster Arena teams",
-        "Element": "check_monsters_includeArena",
-        "Indent": 1
-      },
-      {
-        "Text": "Spawn postgame bosses",
-        "Element": "check_monsters_includePostgame",
-        "Indent": 1
-      },
-      {
-        "Text": "Spawn Memories Lane bosses",
-        "Element": "check_monsters_includeMemoriam",
-        "Indent": 1
-      },
-      {
-        "Text": "Allow double bosses",
-        "Element": "check_monsters_boss_allowMultiple",
-        "Indent": 1
-      },
-      {
-        "Text": "Guarantee full bestiary",
-        "Element": "check_monsters_gospel",
-        "Indent": 1
-      },
-      {
-        "Text": "Randomize HP",
-        "Element": "check_monsters_stats_hp"
-      },
-      {
-        "Text": "Randomize MP",
-        "Element": "check_monsters_stats_mp"
-      },
-      {
-        "Text": "Randomize Attack",
-        "Element": "check_monsters_stats_attack"
-      },
-      {
-        "Text": "Randomize Defence",
-        "Element": "check_monsters_stats_defence"
-      },
-      {
-        "Text": "Randomize Agility",
-        "Element": "check_monsters_stats_agility"
-      },
-      {
-        "Text": "Randomize experience drops",
-        "Element": "check_monsters_stats_exp"
-      },
-      {
-        "Text": "Randomize gold drops",
-        "Element": "check_monsters_stats_gold"
-      },
-      {
-        "Text": "Randomize item drops",
-        "Element": "check_monsters_stats_items"
-      },
-      {
-        "Text": "Randomize monster actions",
-        "Element": "check_monsters_stats_actions"
-      },
-      {
-        "Text": "Randomize resistances",
-        "Element": "check_monsters_stats_resist"
-      },
-      {
-        "Text": "Scale attributes by habitat",
-        "Element": "check_monsters_stats_balance",
-        "Indent": 1
-      },
-      {
-        "Text": "Minimum stat fluctuation %",
-        "Element": "tbox_monster_statMin",
-        "Indent": 2
-      },
-      {
-        "Text": "Maximum stat fluctuation %",
-        "Element": "tbox_monster_statMax",
-        "Indent": 2
-      }
-    ]
+    "Type": "version",
+    "Text": "DQ8-Rando v0.4p2"
   },
   {
-    "Header": "Treasure",
-    "Element": "tab_treasure",
-    "Contents": [
-      {
-        "Text": "Randomize treasure drops",
-        "Element": "check_treasure_tbRandom"
-      },
-      {
-        "Text": "Minimum percentage of gold drops",
-        "Element": "tbox_treasure_goldPercentMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum percentage of gold drops",
-        "Element": "tbox_treasure_goldPercentMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum Gold Amount",
-        "Element": "tbox_treasure_goldAmountMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Minimum Gold Amount",
-        "Element": "tbox_treasure_goldAmountMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Minimum percentage of empty objects",
-        "Element": "tbox_treasure_emptyPercentMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum percentage of empty objects",
-        "Element": "tbox_treasure_emptyPercentMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Minimum percentage of trapped chests",
-        "Element": "tbox_treasure_trapPercentMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum percentage of trapped chests",
-        "Element": "tbox_treasure_trapPercentMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Force chests to be filled",
-        "Element": "check_treasure_forceFill"
-      },
-      {
-        "Text": "Shuffle blue chests",
-        "Element": "check_treasure_blueShuffle"
-      },
-      {
-        "Text": "Randomize blue chest pools",
-        "Element": "check_treasure_blueRandom"
-      },
-      {
-        "Text": "Swap blue and red chests",
-        "Element": "check_treasure_swapBlueRed"
-      },
-      {
-        "Text": "Minimum percentage of blue chests",
-        "Element": "tbox_treasure_bluePercentMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum percentage of blue chests",
-        "Element": "tbox_treasure_bluePercentMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Randomize locks",
-        "Element": "check_treasure_locks_randomizeLocks"
-      },
-      {
-        "Text": "Thief's Key",
-        "Element": "check_treasure_locks_thiefKey",
-        "Parent": "check_treasure_locks_randomizeLocks",
-        "Indent": 1
-      },
-      {
-        "Text": "Magic Key",
-        "Element": "check_treasure_locks_magicKey",
-        "Parent": "check_treasure_locks_randomizeLocks",
-        "Indent": 1
-      },
-      {
-        "Text": "Minimum percentage of locked chests",
-        "Element": "tbox_treasure_locks_min",
-        "Parent": "check_treasure_locks_randomizeLocks",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum percentage of locked chests",
-        "Element": "tbox_treasure_locks_max",
-        "Parent": "check_treasure_locks_randomizeLocks",
-        "Indent": 1
-      },
-      {
-        "Text": "Randomize Magic Key location",
-        "Element": "check_treasure_locks_keyLocation"
-      }
-    ]
+    "Type": "label",
+    "Text": "Dragon Quest VIII 3DS Randomizer Version 0.4 Prerelease 2"
   },
   {
-    "Header": "Shopping",
-    "Element": "tab_shop",
-    "Contents": [
-      {
-        "Text": "Shops",
-        "Elements": [
-          {
-            "Text": "No change",
-            "Element": "radio_shop_noChange"
-          },
-          {
-            "Text": "Shuffle shops",
-            "Element": "radio_shop_shuffleShop"
-          },
-          {
-            "Text": "Shuffle shop items",
-            "Element": "radio_shop_shuffleItem"
-          },
-          {
-            "Text": "Randomize shop items",
-            "Element": "radio_shop_randomItem"
-          }
-        ],
-        "Type": "Choice"
-      },
-      {
-        "Text": "Randomize prices by item",
-        "Element": "check_shop_itemPrice"
-      },
-      {
-        "Text": "Minimum item price",
-        "Element": "tbox_shop_itemPriceMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum item price",
-        "Element": "tbox_shop_itemPriceMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Randomize prices by shop",
-        "Element": "check_shop_shopPrice"
-      },
-      {
-        "Text": "Minimum shop price percentage",
-        "Element": "tbox_shop_shopPriceMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum shop price percentage",
-        "Element": "tbox_shop_shopPriceMax",
-        "Indent": 1
-      },
-      {
-        "Text": "Casino prizes",
-        "Elements": [
-          {
-            "Text": "No change",
-            "Element": "radio_shop_casino_noChange"
-          },
-          {
-            "Text": "Shuffle prizes",
-            "Element": "radio_shop_casino_shufflePrize"
-          },
-          {
-            "Text": "Randomize prizes",
-            "Element": "radio_shop_casino_randomPrize"
-          }
-        ],
-        "Type": "Choice"
-      },
-      {
-        "Text": "Randomize prize costs",
-        "Element": "check_shop_casino_Price"
-      },
-      {
-        "Text": "Minimum casino prize cost",
-        "Element": "tbox_shop_casino_price_min",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum casino prize cost",
-        "Element": "tbox_shop_casino_price_max",
-        "Indent": 1
-      },
-      {
-        "Text": "Randomize inn fares",
-        "Element": "check_shop_hotelCharges"
-      },
-      {
-        "Text": "Minimum inn fare",
-        "Element": "tbox_shop_hotelChargesMin",
-        "Indent": 1
-      },
-      {
-        "Text": "Maximum inn fare",
-        "Element": "tbox_shop_hotelChargesMax",
-        "Indent": 1
-      }
-    ]
+    "Type": "blank"
   },
   {
-    "Header": "Misc",
-    "Element": "tab_shop",
-    "Contents": [
-      {
-        "Text": "Skip movie cutscenes",
-        "Element": "check_misc_skipCutscene"
-      },
-      {
-        "Text": "Anti-exploit",
-        "Element": "check_misc_antiExploit"
-      }
-    ]
+    "Type": "seed",
+    "Text": "Seed: $1"
+  },
+  {
+    "Type": "blank"
+  },
+  {
+    "Type": "label",
+    "Text": "Monsters:"
+  },
+  {
+    "Type": "radio",
+    "Text": "Random encounters: $1",
+    "Indent": 1,
+    "Controls": [ "radio_monsters_overworld_noChange", "radio_monsters_overworld_tables", "radio_monsters_overworld_shuffle", "radio_monsters_overworld_random" ]
+  },
+  {
+    "Type": "radio",
+    "Text": "Scripted encounters: $1",
+    "Indent": 1,
+    "Controls": [ "radio_monsters_boss_noChange", "radio_monsters_boss_shuffle", "radio_monsters_boss_random" ]
+  },
+  {
+    "Type": "radio",
+    "Text": "Monster Arena: $1",
+    "Indent": 1,
+    "Controls": [ "radio_monsters_arena_noChange", "radio_monsters_arena_shuffle", "radio_monsters_arena_random" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Shuffle Infamous Monsters: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_infamous" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize Special Monsters: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_enemySpecial" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Mix in Infamous Monsters: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_mixInInfamous" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Spawn Monster Arena teams: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_includeArena" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Spawn postgame bosses: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_includePostgame" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Spawn Memories Lane bosses: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_includeMemoriam" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Allow double bosses: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_boss_allowMultiple" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Guarantee full bestiary: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_gospel" ]
+  },
+  {
+    "Type": "label",
+    "Text": "Monster Attributes -----"
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize HP: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_hp" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize MP: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_mp" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize Attack: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_attack" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize Defence: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_defence" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize Agility: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_agility" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Stat fluctuation: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_monster_statMin", "tbox_monster_statMax" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize experience drops: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_exp" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize gold drops: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_gold" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize item drops: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_items" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize actions: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_actions" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize resistances: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_resist" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Scale attributes by habitat: $1",
+    "Indent": 1,
+    "Controls": [ "check_monsters_stats_balance" ]
+  },
+  {
+    "Type": "label",
+    "Text": "Treasure:"
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize treasure drops: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_tbRandom" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Percentage of gold drops: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_treasure_goldPercentMin", "tbox_treasure_goldPercentMax" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Gold amount: $1-$2",
+    "Indent": 2,
+    "Controls": [ "tbox_treasure_goldAmountMin", "tbox_treasure_goldAmountMax" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Percentage of empty objects: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_treasure_emptyPercentMin", "tbox_treasure_emptyPercentMax" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Percentage of trap chests: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_treasure_trapPercentMin", "tbox_treasure_trapPercentMax" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Force chests to be filled: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_forceFill" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Shuffle blue chests: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_blueShuffle" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize blue chest pools: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_blueRandom" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Swap blue and red chests: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_swapBlueRed" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Percentage of blue chests: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_treasure_bluePercentMin", "tbox_treasure_bluePercentMax" ]
+  },
+  {
+    "Type": "label",
+    "Text": "Locks -----"
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize locks: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_locks_randomizeLocks" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Thief's Key': $1",
+    "Indent": 2,
+    "Controls": [ "check_treasure_locks_thiefKey" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Magic Key: $1",
+    "Indent": 2,
+    "Controls": [ "check_treasure_locks_magicKey" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Percentage of chests to lock: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_treasure_locks_min", "tbox_treasure_locks_max" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize Magic Key location: $1",
+    "Indent": 1,
+    "Controls": [ "check_treasure_locks_keyLocation" ]
+  },
+  {
+    "Type": "label",
+    "Text": "Shopping:"
+  },
+  {
+    "Type": "radio",
+    "Text": "Shop inventory: $1",
+    "Indent": 1,
+    "Controls": [ "radio_shop_noChange", "radio_shop_shuffleShop", "radio_shop_shuffleItem", "radio_shop_randomItem" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize prices by item: $1",
+    "Indent": 1,
+    "Controls": [ "check_shop_itemPrice" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Item prices: $1-$2 G",
+    "Indent": 2,
+    "Controls": [ "tbox_shop_itemPriceMin", "tbox_shop_itemPriceMax" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize prices by shop: $1",
+    "Indent": 1,
+    "Controls": [ "check_shop_shopPrice" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Shop prices: $1-$2%",
+    "Indent": 2,
+    "Controls": [ "tbox_shop_shopPriceMin", "tbox_shop_shopPriceMax" ]
+  },
+  {
+    "Type": "radio",
+    "Text": "Casino prizes: $1",
+    "Indent": 1,
+    "Controls": [ "radio_shop_casino_noChange", "radio_shop_casino_shufflePrize", "radio_shop_casino_randomPrize" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize prize costs: $1",
+    "Indent": 1,
+    "Controls": [ "check_shop_casino_Price" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Prize costs: $1-$2",
+    "Indent": 2,
+    "Controls": [ "tbox_shop_casino_price_min", "tbox_shop_casino_price_max" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Randomize inn fares: $1",
+    "Indent": 1,
+    "Controls": [ "check_shop_hotelCharges" ]
+  },
+  {
+    "Type": "number",
+    "Text": "Inn fare: $1-$2 G",
+    "Indent": 2,
+    "Controls": [ "tbox_shop_hotelChargesMin", "tbox_shop_hotelChargesMax" ]
+  },
+  {
+    "Type": "label",
+    "Text": "Misc:"
+  },
+  {
+    "Type": "bool",
+    "Text": "Skip movie cutscenes: $1",
+    "Indent": 1,
+    "Controls": [ "check_misc_skipCutscene" ]
+  },
+  {
+    "Type": "bool",
+    "Text": "Anti-exploit features: $1",
+    "Indent": 1,
+    "Controls": [ "check_misc_antiExploit" ]
   }
 ]
