@@ -1651,7 +1651,7 @@
     "ID": 274,
     "Name": "Blue Fang",
     "Required": true,
-    "Monsters": [ "01AA" ]
+    "Monsters": [ "01AA", "0122" ]
   },
   {
     "ID": 275,
@@ -1812,43 +1812,43 @@
     "ID": 300,
     "Name": "crème caraslime",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 301,
     "Name": "dead bowdy",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 302,
     "Name": "Morrimp",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 303,
     "Name": "gold nugcat",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 304,
     "Name": "cherreevil blossom",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 305,
     "Name": "Santaclops",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 306,
     "Name": "box of tricks",
     "Required": false,
-    "Monsters": [ "" ]
+    "Monsters": []
   },
   {
     "ID": 307,

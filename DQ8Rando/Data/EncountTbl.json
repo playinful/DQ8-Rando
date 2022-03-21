@@ -15,6 +15,7 @@
       "AvgWIS": 0,
       "AvgBST": 9.125,
       "AvgEXP": 2.5,
+      "PowerLevel": 2.5,
       "Header": "02000100060201030000",
       "Contents": [
         {
@@ -103,6 +104,7 @@
       "AvgWIS": 0,
       "AvgBST": 10.125,
       "AvgEXP": 3.75,
+      "PowerLevel": 3.75,
       "Header": "02000100060202040000",
       "Contents": [
         {
@@ -191,6 +193,7 @@
       "AvgWIS": 0,
       "AvgBST": 9.8125,
       "AvgEXP": 3.5,
+      "PowerLevel": 3.5,
       "Header": "03000200050303040000",
       "Contents": [
         {
@@ -279,6 +282,7 @@
       "AvgWIS": 0,
       "AvgBST": 9.65,
       "AvgEXP": 3.2,
+      "PowerLevel": 3.2,
       "Header": "04000300060201030000",
       "Contents": [
         {
@@ -367,6 +371,7 @@
       "AvgWIS": 0,
       "AvgBST": 11.125,
       "AvgEXP": 4.8333333333,
+      "PowerLevel": 4.8333333333,
       "Header": "04000300050402040000",
       "Contents": [
         {
@@ -455,6 +460,7 @@
       "AvgWIS": 0,
       "AvgBST": 9.9,
       "AvgEXP": 3.8,
+      "PowerLevel": 3.8,
       "Header": "05000300050503040000",
       "Contents": [
         {
@@ -543,6 +549,7 @@
       "AvgWIS": 0,
       "AvgBST": 12.2083333333333,
       "AvgEXP": 5.5,
+      "PowerLevel": 5.5,
       "Header": "B90B0100060303040000",
       "Contents": [
         {
@@ -631,6 +638,7 @@
       "AvgWIS": 0,
       "AvgBST": 13.6785714285714,
       "AvgEXP": 7.2857142857,
+      "PowerLevel": 7.2857142857,
       "Header": "BA0B0200060503040000",
       "Contents": [
         {
@@ -719,6 +727,7 @@
       "AvgWIS": 0,
       "AvgBST": 10.5833333333333,
       "AvgEXP": 4,
+      "PowerLevel": 4,
       "Header": "06000200060201040000",
       "Contents": [
         {
@@ -807,6 +816,7 @@
       "AvgWIS": 0,
       "AvgBST": 13.5416666666667,
       "AvgEXP": 7,
+      "PowerLevel": 7,
       "Header": "06000200050302050000",
       "Contents": [
         {
@@ -895,6 +905,7 @@
       "AvgWIS": 0,
       "AvgBST": 13,
       "AvgEXP": 6.8333333333,
+      "PowerLevel": 6.8333333333,
       "Header": "07000300060403040000",
       "Contents": [
         {
@@ -983,6 +994,7 @@
       "AvgWIS": 0,
       "AvgBST": 19.7083333333333,
       "AvgEXP": 16.8333333333,
+      "PowerLevel": 16.8333333333,
       "Header": "66000500060301100000",
       "Contents": [
         {
@@ -1071,6 +1083,7 @@
       "AvgWIS": 0,
       "AvgBST": 19.35,
       "AvgEXP": 13.6,
+      "PowerLevel": 13.6,
       "Header": "66000500050402100000",
       "Contents": [
         {
@@ -1159,6 +1172,7 @@
       "AvgWIS": 0,
       "AvgBST": 22.55,
       "AvgEXP": 20.2,
+      "PowerLevel": 20.2,
       "Header": "67000600040303000000",
       "Contents": [
         {
@@ -1247,6 +1261,7 @@
       "AvgWIS": 0,
       "AvgBST": 19,
       "AvgEXP": 14.6666666667,
+      "PowerLevel": 14.6666666667,
       "Header": "89130700070303000000",
       "Contents": [
         {
@@ -1335,6 +1350,7 @@
       "AvgWIS": 0,
       "AvgBST": 20,
       "AvgEXP": 15.2,
+      "PowerLevel": 15.2,
       "Header": "8A130700060303040000",
       "Contents": [
         {
@@ -1423,6 +1439,7 @@
       "AvgWIS": 0,
       "AvgBST": 19.9583333333333,
       "AvgEXP": 15.6666666667,
+      "PowerLevel": 15.6666666667,
       "Header": "8B130803050303050000",
       "Contents": [
         {
@@ -1511,6 +1528,7 @@
       "AvgWIS": 0,
       "AvgBST": 25.2,
       "AvgEXP": 22.2,
+      "PowerLevel": 22.2,
       "Header": "68000900020503100000",
       "Contents": [
         {
@@ -1599,6 +1617,7 @@
       "AvgWIS": 0,
       "AvgBST": 23.6,
       "AvgEXP": 23.4,
+      "PowerLevel": 23.4,
       "Header": "69000A00060301040000",
       "Contents": [
         {
@@ -1687,6 +1706,7 @@
       "AvgWIS": 0,
       "AvgBST": 23.05,
       "AvgEXP": 19.8,
+      "PowerLevel": 19.8,
       "Header": "69000B00050302050000",
       "Contents": [
         {
@@ -1775,6 +1795,7 @@
       "AvgWIS": 0,
       "AvgBST": 22.55,
       "AvgEXP": 20.2,
+      "PowerLevel": 20.2,
       "Header": "6A000B00060303050000",
       "Contents": [
         {
@@ -1863,6 +1884,7 @@
       "AvgWIS": 0,
       "AvgBST": 28.8,
       "AvgEXP": 27.8,
+      "PowerLevel": 27.8,
       "Header": "2E010D00060301040000",
       "Contents": [
         {
@@ -1951,6 +1973,7 @@
       "AvgWIS": 0,
       "AvgBST": 26.7,
       "AvgEXP": 29.2,
+      "PowerLevel": 29.2,
       "Header": "2E010D00060302050000",
       "Contents": [
         {
@@ -2039,6 +2062,7 @@
       "AvgWIS": 0,
       "AvgBST": 33.35,
       "AvgEXP": 34.8,
+      "PowerLevel": 34.8,
       "Header": "2F010D00050403050000",
       "Contents": [
         {
@@ -2127,6 +2151,7 @@
       "AvgWIS": 0,
       "AvgBST": 31.1,
       "AvgEXP": 33.4,
+      "PowerLevel": 33.4,
       "Header": "30010D00060201050000",
       "Contents": [
         {
@@ -2215,6 +2240,7 @@
       "AvgWIS": 0,
       "AvgBST": 29.75,
       "AvgEXP": 35.6,
+      "PowerLevel": 35.6,
       "Header": "30010D00060302050000",
       "Contents": [
         {
@@ -2303,6 +2329,7 @@
       "AvgWIS": 0,
       "AvgBST": 35.2,
       "AvgEXP": 41.4,
+      "PowerLevel": 41.4,
       "Header": "31010D00040403050000",
       "Contents": [
         {
@@ -2391,6 +2418,7 @@
       "AvgWIS": 0,
       "AvgBST": 32.5625,
       "AvgEXP": 34.25,
+      "PowerLevel": 34.25,
       "Header": "490D0E00050203040000",
       "Contents": [
         {
@@ -2479,6 +2507,7 @@
       "AvgWIS": 0,
       "AvgBST": 34.4,
       "AvgEXP": 40.6,
+      "PowerLevel": 40.6,
       "Header": "4A0D0E03050403050000",
       "Contents": [
         {
@@ -2567,6 +2596,7 @@
       "AvgWIS": 0,
       "AvgBST": 35,
       "AvgEXP": 43.6666666667,
+      "PowerLevel": 43.6666666667,
       "Header": "4B0D0E03060603050000",
       "Contents": [
         {
@@ -2655,6 +2685,7 @@
       "AvgWIS": 0,
       "AvgBST": 36.4166666666667,
       "AvgEXP": 41.8333333333,
+      "PowerLevel": 41.8333333333,
       "Header": "92010F00060401050000",
       "Contents": [
         {
@@ -2743,6 +2774,7 @@
       "AvgWIS": 0,
       "AvgBST": 36.25,
       "AvgEXP": 43,
+      "PowerLevel": 43,
       "Header": "92010F00060602060000",
       "Contents": [
         {
@@ -2831,6 +2863,7 @@
       "AvgWIS": 0,
       "AvgBST": 40.5,
       "AvgEXP": 45.7142857143,
+      "PowerLevel": 45.7142857143,
       "Header": "93010F00050403060000",
       "Contents": [
         {
@@ -2919,6 +2952,7 @@
       "AvgWIS": 0,
       "AvgBST": 42.1,
       "AvgEXP": 48.6,
+      "PowerLevel": 48.6,
       "Header": "32010F00030603050000",
       "Contents": [
         {
@@ -3007,6 +3041,7 @@
       "AvgWIS": 0,
       "AvgBST": 47.5,
       "AvgEXP": 47.5,
+      "PowerLevel": 47.5,
       "Header": "94010F00060301050000",
       "Contents": [
         {
@@ -3095,6 +3130,7 @@
       "AvgWIS": 0,
       "AvgBST": 38.25,
       "AvgEXP": 46.6,
+      "PowerLevel": 46.6,
       "Header": "94010F00060402060000",
       "Contents": [
         {
@@ -3183,6 +3219,7 @@
       "AvgWIS": 0,
       "AvgBST": 43.5,
       "AvgEXP": 52.2,
+      "PowerLevel": 52.2,
       "Header": "95011000050303000000",
       "Contents": [
         {
@@ -3271,6 +3308,7 @@
       "AvgWIS": 0,
       "AvgBST": 37.35,
       "AvgEXP": 37.6,
+      "PowerLevel": 37.6,
       "Header": "96011000070203100000",
       "Contents": [
         {
@@ -3359,6 +3397,7 @@
       "AvgWIS": 0,
       "AvgBST": 43.5,
       "AvgEXP": 46.6666666667,
+      "PowerLevel": 46.6666666667,
       "Header": "97011000060301100000",
       "Contents": [
         {
@@ -3447,6 +3486,7 @@
       "AvgWIS": 0,
       "AvgBST": 38.25,
       "AvgEXP": 47.2,
+      "PowerLevel": 47.2,
       "Header": "97011000060402100000",
       "Contents": [
         {
@@ -3535,6 +3575,7 @@
       "AvgWIS": 0,
       "AvgBST": 39.55,
       "AvgEXP": 47.8,
+      "PowerLevel": 47.8,
       "Header": "98011000050303100000",
       "Contents": [
         {
@@ -3623,6 +3664,7 @@
       "AvgWIS": 0,
       "AvgBST": 39.6875,
       "AvgEXP": 42.5,
+      "PowerLevel": 42.5,
       "Header": "99011000050503100000",
       "Contents": [
         {
@@ -3711,6 +3753,7 @@
       "AvgWIS": 0,
       "AvgBST": 38.1,
       "AvgEXP": 49.6,
+      "PowerLevel": 49.6,
       "Header": "1D0C1100060403060000",
       "Contents": [
         {
@@ -3799,6 +3842,7 @@
       "AvgWIS": 0,
       "AvgBST": 44.8,
       "AvgEXP": 56,
+      "PowerLevel": 56,
       "Header": "1E0C1100040603050000",
       "Contents": [
         {
@@ -3887,6 +3931,7 @@
       "AvgWIS": 0,
       "AvgBST": 53.7,
       "AvgEXP": 60.8,
+      "PowerLevel": 60.8,
       "Header": "9A011100030303050000",
       "Contents": [
         {
@@ -3975,6 +4020,7 @@
       "AvgWIS": 0,
       "AvgBST": 50.25,
       "AvgEXP": 61.2,
+      "PowerLevel": 61.2,
       "Header": "9B011100030503060000",
       "Contents": [
         {
@@ -4063,6 +4109,7 @@
       "AvgWIS": 0,
       "AvgBST": 51.6875,
       "AvgEXP": 61.5,
+      "PowerLevel": 61.5,
       "Header": "5A021200050301050000",
       "Contents": [
         {
@@ -4151,6 +4198,7 @@
       "AvgWIS": 0,
       "AvgBST": 48,
       "AvgEXP": 60.75,
+      "PowerLevel": 60.75,
       "Header": "5A021200040302070000",
       "Contents": [
         {
@@ -4239,6 +4287,7 @@
       "AvgWIS": 0,
       "AvgBST": 50.55,
       "AvgEXP": 61,
+      "PowerLevel": 61,
       "Header": "5B021200050303060000",
       "Contents": [
         {
@@ -4327,6 +4376,7 @@
       "AvgWIS": 0,
       "AvgBST": 53.85,
       "AvgEXP": 65,
+      "PowerLevel": 65,
       "Header": "5C021200050301050000",
       "Contents": [
         {
@@ -4415,6 +4465,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.8,
       "AvgEXP": 63.8,
+      "PowerLevel": 63.8,
       "Header": "5C021300040302070000",
       "Contents": [
         {
@@ -4503,6 +4554,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.3,
       "AvgEXP": 61.8,
+      "PowerLevel": 61.8,
       "Header": "5D021300050303060000",
       "Contents": [
         {
@@ -4591,6 +4643,7 @@
       "AvgWIS": 0,
       "AvgBST": 45.4583333333333,
       "AvgEXP": 49,
+      "PowerLevel": 49,
       "Header": "5E021300060303080000",
       "Contents": [
         {
@@ -4679,6 +4732,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.625,
       "AvgEXP": 59.6666666667,
+      "PowerLevel": 59.6666666667,
       "Header": "810C1400060503060000",
       "Contents": [
         {
@@ -4767,6 +4821,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.5714285714286,
       "AvgEXP": 62,
+      "PowerLevel": 62,
       "Header": "820C1403050703070000",
       "Contents": [
         {
@@ -4855,6 +4910,7 @@
       "AvgWIS": 0,
       "AvgBST": 48.3333333333334,
       "AvgEXP": 47.6666666667,
+      "PowerLevel": 47.6666666667,
       "Header": "CA001400060301060000",
       "Contents": [
         {
@@ -4943,6 +4999,7 @@
       "AvgWIS": 0,
       "AvgBST": 45.8,
       "AvgEXP": 42.4,
+      "PowerLevel": 42.4,
       "Header": "CA001400060502080000",
       "Contents": [
         {
@@ -5031,6 +5088,7 @@
       "AvgWIS": 0,
       "AvgBST": 52.90625,
       "AvgEXP": 50.875,
+      "PowerLevel": 50.875,
       "Header": "CB001400070403070000",
       "Contents": [
         {
@@ -5119,6 +5177,7 @@
       "AvgWIS": 0,
       "AvgBST": 64.05,
       "AvgEXP": 65.7,
+      "PowerLevel": 65.7,
       "Header": "CC001400050403070000",
       "Contents": [
         {
@@ -5207,6 +5266,7 @@
       "AvgWIS": 0,
       "AvgBST": 53.3055555555556,
       "AvgEXP": 52.1111111111,
+      "PowerLevel": 52.1111111111,
       "Header": "CD001400020601080000",
       "Contents": [
         {
@@ -5295,6 +5355,7 @@
       "AvgWIS": 0,
       "AvgBST": 53.3888888888889,
       "AvgEXP": 51.7777777778,
+      "PowerLevel": 51.7777777778,
       "Header": "CD001400030602080000",
       "Contents": [
         {
@@ -5383,6 +5444,7 @@
       "AvgWIS": 0,
       "AvgBST": 56.7,
       "AvgEXP": 57,
+      "PowerLevel": 57,
       "Header": "CE001400050503070000",
       "Contents": [
         {
@@ -5471,6 +5533,7 @@
       "AvgWIS": 0,
       "AvgBST": 70.8928571428571,
       "AvgEXP": 79.2857142857,
+      "PowerLevel": 79.2857142857,
       "Header": "4D1D1500060403060000",
       "Contents": [
         {
@@ -5559,6 +5622,7 @@
       "AvgWIS": 0,
       "AvgBST": 71.15,
       "AvgEXP": 82,
+      "PowerLevel": 82,
       "Header": "4E1D1500060603060000",
       "Contents": [
         {
@@ -5647,6 +5711,7 @@
       "AvgWIS": 0,
       "AvgBST": 51.3,
       "AvgEXP": 41.2,
+      "PowerLevel": 41.2,
       "Header": "B11D1500060603060000",
       "Contents": [
         {
@@ -5735,6 +5800,7 @@
       "AvgWIS": 0,
       "AvgBST": 55.6,
       "AvgEXP": 58.6,
+      "PowerLevel": 58.6,
       "Header": "F5011500060403060000",
       "Contents": [
         {
@@ -5823,6 +5889,7 @@
       "AvgWIS": 0,
       "AvgBST": 57.5,
       "AvgEXP": 54.8,
+      "PowerLevel": 54.8,
       "Header": "D90E1500030603060000",
       "Contents": [
         {
@@ -5911,6 +5978,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.75,
       "AvgEXP": 49.8,
+      "PowerLevel": 49.8,
       "Header": "DA0E1500020703080000",
       "Contents": [
         {
@@ -5999,6 +6067,7 @@
       "AvgWIS": 0,
       "AvgBST": 67.75,
       "AvgEXP": 73.25,
+      "PowerLevel": 73.25,
       "Header": "550B1600050503070000",
       "Contents": [
         {
@@ -6087,6 +6156,7 @@
       "AvgWIS": 0,
       "AvgBST": 71.5,
       "AvgEXP": 78.75,
+      "PowerLevel": 78.75,
       "Header": "560B1700060103070000",
       "Contents": [
         {
@@ -6175,6 +6245,7 @@
       "AvgWIS": 0,
       "AvgBST": 74.3125,
       "AvgEXP": 94,
+      "PowerLevel": 94,
       "Header": "570B1900040503080000",
       "Contents": [
         {
@@ -6263,6 +6334,7 @@
       "AvgWIS": 0,
       "AvgBST": 98.7142857142857,
       "AvgEXP": 121,
+      "PowerLevel": 121,
       "Header": "580B1C00030503080000",
       "Contents": [
         {
@@ -6351,6 +6423,7 @@
       "AvgWIS": 0,
       "AvgBST": 104.53125,
       "AvgEXP": 138.75,
+      "PowerLevel": 138.75,
       "Header": "590B1F00050503080000",
       "Contents": [
         {
@@ -6439,6 +6512,7 @@
       "AvgWIS": 0,
       "AvgBST": 62.5,
       "AvgEXP": 67,
+      "PowerLevel": 67,
       "Header": "5E0B1700060103070000",
       "Contents": [
         {
@@ -6527,6 +6601,7 @@
       "AvgWIS": 0,
       "AvgBST": 80.375,
       "AvgEXP": 85.8333333333,
+      "PowerLevel": 85.8333333333,
       "Header": "86031600060303100000",
       "Contents": [
         {
@@ -6615,6 +6690,7 @@
       "AvgWIS": 0,
       "AvgBST": 86.625,
       "AvgEXP": 98.25,
+      "PowerLevel": 98.25,
       "Header": "87031600050503100000",
       "Contents": [
         {
@@ -6703,6 +6779,7 @@
       "AvgWIS": 0,
       "AvgBST": 92,
       "AvgEXP": 97.8,
+      "PowerLevel": 97.8,
       "Header": "88031600060401100000",
       "Contents": [
         {
@@ -6791,6 +6868,7 @@
       "AvgWIS": 0,
       "AvgBST": 76.9,
       "AvgEXP": 85,
+      "PowerLevel": 85,
       "Header": "88031700060602100000",
       "Contents": [
         {
@@ -6879,6 +6957,7 @@
       "AvgWIS": 0,
       "AvgBST": 83.5,
       "AvgEXP": 94,
+      "PowerLevel": 94,
       "Header": "89031700060501100000",
       "Contents": [
         {
@@ -6967,6 +7046,7 @@
       "AvgWIS": 0,
       "AvgBST": 81.15,
       "AvgEXP": 88.2,
+      "PowerLevel": 88.2,
       "Header": "89031700060602100000",
       "Contents": [
         {
@@ -7055,6 +7135,7 @@
       "AvgWIS": 0,
       "AvgBST": 83.35,
       "AvgEXP": 90,
+      "PowerLevel": 90,
       "Header": "8A031700040603070000",
       "Contents": [
         {
@@ -7143,6 +7224,7 @@
       "AvgWIS": 0,
       "AvgBST": 78.9,
       "AvgEXP": 88,
+      "PowerLevel": 88,
       "Header": "41061800060603100000",
       "Contents": [
         {
@@ -7231,6 +7313,7 @@
       "AvgWIS": 0,
       "AvgBST": 88.5,
       "AvgEXP": 98,
+      "PowerLevel": 98,
       "Header": "6D071800040603060000",
       "Contents": [
         {
@@ -7319,6 +7402,7 @@
       "AvgWIS": 0,
       "AvgBST": 76.5,
       "AvgEXP": 80.8,
+      "PowerLevel": 80.8,
       "Header": "6E071A00050203060000",
       "Contents": [
         {
@@ -7407,6 +7491,7 @@
       "AvgWIS": 0,
       "AvgBST": 94.6,
       "AvgEXP": 94.4,
+      "PowerLevel": 94.4,
       "Header": "6F071C00070503060000",
       "Contents": [
         {
@@ -7495,6 +7580,7 @@
       "AvgWIS": 0,
       "AvgBST": 87.25,
       "AvgEXP": 91.6,
+      "PowerLevel": 91.6,
       "Header": "70071E00030503060000",
       "Contents": [
         {
@@ -7583,6 +7669,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.125,
       "AvgEXP": 53.25,
+      "PowerLevel": 53.25,
       "Header": "71072000060303100000",
       "Contents": [
         {
@@ -7671,6 +7758,7 @@
       "AvgWIS": 0,
       "AvgBST": 91.45,
       "AvgEXP": 85,
+      "PowerLevel": 85,
       "Header": "DD051800050301060000",
       "Contents": [
         {
@@ -7759,6 +7847,7 @@
       "AvgWIS": 0,
       "AvgBST": 81.35,
       "AvgEXP": 85.6,
+      "PowerLevel": 85.6,
       "Header": "DD051800050502070000",
       "Contents": [
         {
@@ -7847,6 +7936,7 @@
       "AvgWIS": 0,
       "AvgBST": 85.8,
       "AvgEXP": 91,
+      "PowerLevel": 91,
       "Header": "4E041800060401060000",
       "Contents": [
         {
@@ -7935,6 +8025,7 @@
       "AvgWIS": 0,
       "AvgBST": 80.65,
       "AvgEXP": 87.2,
+      "PowerLevel": 87.2,
       "Header": "4E041800050502080000",
       "Contents": [
         {
@@ -8023,6 +8114,7 @@
       "AvgWIS": 0,
       "AvgBST": 80.6,
       "AvgEXP": 89.6,
+      "PowerLevel": 89.6,
       "Header": "4F041800040603070000",
       "Contents": [
         {
@@ -8111,6 +8203,7 @@
       "AvgWIS": 0,
       "AvgBST": 93.35,
       "AvgEXP": 102.4,
+      "PowerLevel": 102.4,
       "Header": "EA031900060603070000",
       "Contents": [
         {
@@ -8199,6 +8292,7 @@
       "AvgWIS": 0,
       "AvgBST": 93.15,
       "AvgEXP": 98.2,
+      "PowerLevel": 98.2,
       "Header": "EB031900030503070000",
       "Contents": [
         {
@@ -8287,6 +8381,7 @@
       "AvgWIS": 0,
       "AvgBST": 93.85,
       "AvgEXP": 86.6,
+      "PowerLevel": 86.6,
       "Header": "EC031900060301080000",
       "Contents": [
         {
@@ -8375,6 +8470,7 @@
       "AvgWIS": 0,
       "AvgBST": 87.85,
       "AvgEXP": 97.6,
+      "PowerLevel": 97.6,
       "Header": "EC031900060402080000",
       "Contents": [
         {
@@ -8463,6 +8559,7 @@
       "AvgWIS": 0,
       "AvgBST": 100.95,
       "AvgEXP": 105.6,
+      "PowerLevel": 105.6,
       "Header": "50041900060301100000",
       "Contents": [
         {
@@ -8551,6 +8648,7 @@
       "AvgWIS": 0,
       "AvgBST": 87.65,
       "AvgEXP": 96.8,
+      "PowerLevel": 96.8,
       "Header": "50041900060502100000",
       "Contents": [
         {
@@ -8639,6 +8737,7 @@
       "AvgWIS": 0,
       "AvgBST": 85.55,
       "AvgEXP": 96,
+      "PowerLevel": 96,
       "Header": "51041900060603100000",
       "Contents": [
         {
@@ -8727,6 +8826,7 @@
       "AvgWIS": 0,
       "AvgBST": 88.8749999999999,
       "AvgEXP": 95.8333333333,
+      "PowerLevel": 95.8333333333,
       "Header": "52041A00060201070000",
       "Contents": [
         {
@@ -8815,6 +8915,7 @@
       "AvgWIS": 0,
       "AvgBST": 84.1666666666666,
       "AvgEXP": 95.5,
+      "PowerLevel": 95.5,
       "Header": "52041A00060402080000",
       "Contents": [
         {
@@ -8903,6 +9004,7 @@
       "AvgWIS": 0,
       "AvgBST": 100.607142857143,
       "AvgEXP": 116,
+      "PowerLevel": 116,
       "Header": "53041A00060601070000",
       "Contents": [
         {
@@ -8991,6 +9093,7 @@
       "AvgWIS": 0,
       "AvgBST": 96.875,
       "AvgEXP": 104.3333333333,
+      "PowerLevel": 104.3333333333,
       "Header": "53041A00060702080000",
       "Contents": [
         {
@@ -9079,6 +9182,7 @@
       "AvgWIS": 0,
       "AvgBST": 83.55,
       "AvgEXP": 91.8,
+      "PowerLevel": 91.8,
       "Header": "54041A00040703080000",
       "Contents": [
         {
@@ -9167,6 +9271,7 @@
       "AvgWIS": 0,
       "AvgBST": 88.2142857142856,
       "AvgEXP": 113.5714285714,
+      "PowerLevel": 113.5714285714,
       "Header": "55041A00060403060000",
       "Contents": [
         {
@@ -9255,6 +9360,7 @@
       "AvgWIS": 0,
       "AvgBST": 97.35,
       "AvgEXP": 99.6,
+      "PowerLevel": 99.6,
       "Header": "09071B00050301080000",
       "Contents": [
         {
@@ -9343,6 +9449,7 @@
       "AvgWIS": 0,
       "AvgBST": 88.75,
       "AvgEXP": 97.2,
+      "PowerLevel": 97.2,
       "Header": "09071B00050402060000",
       "Contents": [
         {
@@ -9431,6 +9538,7 @@
       "AvgWIS": 0,
       "AvgBST": 92.6666666666666,
       "AvgEXP": 84.4444444444,
+      "PowerLevel": 84.4444444444,
       "Header": "BD021C00060603080000",
       "Contents": [
         {
@@ -9519,6 +9627,7 @@
       "AvgWIS": 0,
       "AvgBST": 108.7,
       "AvgEXP": 144.8,
+      "PowerLevel": 144.8,
       "Header": "E50C1C00050203060000",
       "Contents": [
         {
@@ -9607,6 +9716,7 @@
       "AvgWIS": 0,
       "AvgBST": 96.6,
       "AvgEXP": 98.6,
+      "PowerLevel": 98.6,
       "Header": "B1041C00060701080000",
       "Contents": [
         {
@@ -9695,6 +9805,7 @@
       "AvgWIS": 0,
       "AvgBST": 106.1,
       "AvgEXP": 115.8,
+      "PowerLevel": 115.8,
       "Header": "B1041C00060302080000",
       "Contents": [
         {
@@ -9783,6 +9894,7 @@
       "AvgWIS": 0,
       "AvgBST": 86.6785714285714,
       "AvgEXP": 129.7142857143,
+      "PowerLevel": 129.7142857143,
       "Header": "591B1D00070303060000",
       "Contents": [
         {
@@ -9871,6 +9983,7 @@
       "AvgWIS": 0,
       "AvgBST": 101.1,
       "AvgEXP": 157.2,
+      "PowerLevel": 157.2,
       "Header": "5A1B1D00050303060000",
       "Contents": [
         {
@@ -9959,6 +10072,7 @@
       "AvgWIS": 0,
       "AvgBST": 115.5,
       "AvgEXP": 166,
+      "PowerLevel": 166,
       "Header": "5B1B1D03050403070000",
       "Contents": [
         {
@@ -10047,6 +10161,7 @@
       "AvgWIS": 0,
       "AvgBST": 126.25,
       "AvgEXP": 161.8,
+      "PowerLevel": 161.8,
       "Header": "16051E00060501050000",
       "Contents": [
         {
@@ -10135,6 +10250,7 @@
       "AvgWIS": 0,
       "AvgBST": 110.9,
       "AvgEXP": 138,
+      "PowerLevel": 138,
       "Header": "16051E00060602060000",
       "Contents": [
         {
@@ -10223,6 +10339,7 @@
       "AvgWIS": 0,
       "AvgBST": 129.916666666667,
       "AvgEXP": 159.3333333333,
+      "PowerLevel": 159.3333333333,
       "Header": "17051E00050603060000",
       "Contents": [
         {
@@ -10311,6 +10428,7 @@
       "AvgWIS": 0,
       "AvgBST": 136.458333333333,
       "AvgEXP": 169.8333333333,
+      "PowerLevel": 169.8333333333,
       "Header": "18051E00060301050000",
       "Contents": [
         {
@@ -10399,6 +10517,7 @@
       "AvgWIS": 0,
       "AvgBST": 128.2,
       "AvgEXP": 167.6,
+      "PowerLevel": 167.6,
       "Header": "18051F00060602060000",
       "Contents": [
         {
@@ -10487,6 +10606,7 @@
       "AvgWIS": 0,
       "AvgBST": 140.45,
       "AvgEXP": 170.8,
+      "PowerLevel": 170.8,
       "Header": "19051F00050603060000",
       "Contents": [
         {
@@ -10575,6 +10695,7 @@
       "AvgWIS": 0,
       "AvgBST": 108.972222222222,
       "AvgEXP": 120.5555555556,
+      "PowerLevel": 120.5555555556,
       "Header": "51141F00050503060000",
       "Contents": [
         {
@@ -10663,6 +10784,7 @@
       "AvgWIS": 0,
       "AvgBST": 131.291666666667,
       "AvgEXP": 187,
+      "PowerLevel": 187,
       "Header": "52141F00070203060000",
       "Contents": [
         {
@@ -10751,6 +10873,7 @@
       "AvgWIS": 0,
       "AvgBST": 128.9,
       "AvgEXP": 192.6,
+      "PowerLevel": 192.6,
       "Header": "53141F00070203050000",
       "Contents": [
         {
@@ -10839,6 +10962,7 @@
       "AvgWIS": 0,
       "AvgBST": 121.208333333333,
       "AvgEXP": 188.3333333333,
+      "PowerLevel": 188.3333333333,
       "Header": "79052000060301100000",
       "Contents": [
         {
@@ -10927,6 +11051,7 @@
       "AvgWIS": 0,
       "AvgBST": 129.85,
       "AvgEXP": 194.2,
+      "PowerLevel": 194.2,
       "Header": "79052000060402100000",
       "Contents": [
         {
@@ -11015,6 +11140,7 @@
       "AvgWIS": 0,
       "AvgBST": 131.75,
       "AvgEXP": 216,
+      "PowerLevel": 216,
       "Header": "7A052000060601090000",
       "Contents": [
         {
@@ -11103,6 +11229,7 @@
       "AvgWIS": 0,
       "AvgBST": 146.15,
       "AvgEXP": 250,
+      "PowerLevel": 250,
       "Header": "7A052000040602060000",
       "Contents": [
         {
@@ -11191,6 +11318,7 @@
       "AvgWIS": 0,
       "AvgBST": 131.15,
       "AvgEXP": 221.6,
+      "PowerLevel": 221.6,
       "Header": "3D0F2100040303060000",
       "Contents": [
         {
@@ -11279,6 +11407,7 @@
       "AvgWIS": 0,
       "AvgBST": 139.25,
       "AvgEXP": 233.8,
+      "PowerLevel": 233.8,
       "Header": "3E0F2100040403070000",
       "Contents": [
         {
@@ -11367,6 +11496,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.2,
       "AvgEXP": 242.8,
+      "PowerLevel": 242.8,
       "Header": "AD0D2200050303070000",
       "Contents": [
         {
@@ -11455,6 +11585,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.2,
       "AvgEXP": 242.8,
+      "PowerLevel": 242.8,
       "Header": "AE0D2200050403080000",
       "Contents": [
         {
@@ -11543,6 +11674,7 @@
       "AvgWIS": 0,
       "AvgBST": 109.625,
       "AvgEXP": 190.5,
+      "PowerLevel": 190.5,
       "Header": "110E2300060303080000",
       "Contents": [
         {
@@ -11631,6 +11763,7 @@
       "AvgWIS": 0,
       "AvgBST": 130.416666666667,
       "AvgEXP": 232,
+      "PowerLevel": 232,
       "Header": "120E2300050203060000",
       "Contents": [
         {
@@ -11719,6 +11852,7 @@
       "AvgWIS": 0,
       "AvgBST": 139.125,
       "AvgEXP": 260,
+      "PowerLevel": 260,
       "Header": "130E2303050303060000",
       "Contents": [
         {
@@ -11807,6 +11941,7 @@
       "AvgWIS": 0,
       "AvgBST": 140.857142857143,
       "AvgEXP": 284.1428571429,
+      "PowerLevel": 284.1428571429,
       "Header": "A5062400060601060000",
       "Contents": [
         {
@@ -11895,6 +12030,7 @@
       "AvgWIS": 0,
       "AvgBST": 113.333333333333,
       "AvgEXP": 192,
+      "PowerLevel": 192,
       "Header": "A5062400060602080000",
       "Contents": [
         {
@@ -11983,6 +12119,7 @@
       "AvgWIS": 0,
       "AvgBST": 153.666666666667,
       "AvgEXP": 241.6666666667,
+      "PowerLevel": 241.6666666667,
       "Header": "A6062400060603070000",
       "Contents": [
         {
@@ -12071,6 +12208,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.321428571429,
       "AvgEXP": 281.4285714286,
+      "PowerLevel": 281.4285714286,
       "Header": "A7062400060601060000",
       "Contents": [
         {
@@ -12159,6 +12297,7 @@
       "AvgWIS": 0,
       "AvgBST": 113.333333333333,
       "AvgEXP": 192,
+      "PowerLevel": 192,
       "Header": "A7062500060602080000",
       "Contents": [
         {
@@ -12247,6 +12386,7 @@
       "AvgWIS": 0,
       "AvgBST": 160.55,
       "AvgEXP": 257.4,
+      "PowerLevel": 257.4,
       "Header": "A8062500060603070000",
       "Contents": [
         {
@@ -12335,6 +12475,7 @@
       "AvgWIS": 0,
       "AvgBST": 159.583333333333,
       "AvgEXP": 300.1666666667,
+      "PowerLevel": 300.1666666667,
       "Header": "8D0A2600060403070000",
       "Contents": [
         {
@@ -12423,6 +12564,7 @@
       "AvgWIS": 0,
       "AvgBST": 157.464285714286,
       "AvgEXP": 299,
+      "PowerLevel": 299,
       "Header": "8E0A2600060403070000",
       "Contents": [
         {
@@ -12511,6 +12653,7 @@
       "AvgWIS": 0,
       "AvgBST": 155.55,
       "AvgEXP": 293,
+      "PowerLevel": 293,
       "Header": "B5142600060203060000",
       "Contents": [
         {
@@ -12599,6 +12742,7 @@
       "AvgWIS": 0,
       "AvgBST": 142.083333333334,
       "AvgEXP": 253.1666666667,
+      "PowerLevel": 253.1666666667,
       "Header": "B6142600060203060000",
       "Contents": [
         {
@@ -12687,6 +12831,7 @@
       "AvgWIS": 0,
       "AvgBST": 149.625,
       "AvgEXP": 256.8333333333,
+      "PowerLevel": 256.8333333333,
       "Header": "B7142600060303060000",
       "Contents": [
         {
@@ -12775,6 +12920,7 @@
       "AvgWIS": 0,
       "AvgBST": 168,
       "AvgEXP": 308.4,
+      "PowerLevel": 308.4,
       "Header": "B8142703060303060000",
       "Contents": [
         {
@@ -12863,6 +13009,7 @@
       "AvgWIS": 0,
       "AvgBST": 127.928571428572,
       "AvgEXP": 222.5714285714,
+      "PowerLevel": 222.5714285714,
       "Header": "ED132700060203060000",
       "Contents": [
         {
@@ -12951,6 +13098,7 @@
       "AvgWIS": 0,
       "AvgBST": 155.583333333333,
       "AvgEXP": 276.8333333333,
+      "PowerLevel": 276.8333333333,
       "Header": "EE132700060303070000",
       "Contents": [
         {
@@ -13039,6 +13187,7 @@
       "AvgWIS": 0,
       "AvgBST": 148.375,
       "AvgEXP": 232.3333333333,
+      "PowerLevel": 232.3333333333,
       "Header": "EF132703060503080000",
       "Contents": [
         {
@@ -13127,6 +13276,7 @@
       "AvgWIS": 0,
       "AvgBST": 136.375,
       "AvgEXP": 199.1666666667,
+      "PowerLevel": 199.1666666667,
       "Header": "F30A2800050401080000",
       "Contents": [
         {
@@ -13215,6 +13365,7 @@
       "AvgWIS": 0,
       "AvgBST": 120.416666666667,
       "AvgEXP": 135,
+      "PowerLevel": 135,
       "Header": "F30A2800050402080000",
       "Contents": [
         {
@@ -13303,6 +13454,7 @@
       "AvgWIS": 0,
       "AvgBST": 184.714285714286,
       "AvgEXP": 291,
+      "PowerLevel": 291,
       "Header": "21032900050503100000",
       "Contents": [
         {
@@ -13391,6 +13543,7 @@
       "AvgWIS": 0,
       "AvgBST": 184.714285714286,
       "AvgEXP": 291,
+      "PowerLevel": 291,
       "Header": "22032900050503100000",
       "Contents": [
         {
@@ -13479,6 +13632,7 @@
       "AvgWIS": 0,
       "AvgBST": 161.6,
       "AvgEXP": 310.4,
+      "PowerLevel": 310.4,
       "Header": "F10A2900040503060000",
       "Contents": [
         {
@@ -13567,6 +13721,7 @@
       "AvgWIS": 0,
       "AvgBST": 49.4285714285714,
       "AvgEXP": 50.2857142857,
+      "PowerLevel": 50.2857142857,
       "Header": "F20A2A000207030C0000",
       "Contents": [
         {
@@ -13655,6 +13810,7 @@
       "AvgWIS": 0,
       "AvgBST": 222.55,
       "AvgEXP": 361,
+      "PowerLevel": 361,
       "Header": "BD1B2B00050403060000",
       "Contents": [
         {
@@ -13743,6 +13899,7 @@
       "AvgWIS": 0,
       "AvgBST": 221.214285714286,
       "AvgEXP": 369,
+      "PowerLevel": 369,
       "Header": "BE1B2B00050403060000",
       "Contents": [
         {
@@ -13831,6 +13988,7 @@
       "AvgWIS": 0,
       "AvgBST": 228.071428571429,
       "AvgEXP": 366.1428571429,
+      "PowerLevel": 366.1428571429,
       "Header": "BF1B2B00050403070000",
       "Contents": [
         {
@@ -13919,6 +14077,7 @@
       "AvgWIS": 0,
       "AvgBST": 216,
       "AvgEXP": 376.6,
+      "PowerLevel": 376.6,
       "Header": "C01B2B00050403070000",
       "Contents": [
         {
@@ -14007,6 +14166,7 @@
       "AvgWIS": 0,
       "AvgBST": 216,
       "AvgEXP": 376.6,
+      "PowerLevel": 376.6,
       "Header": "C11B2B00030403070000",
       "Contents": [
         {
@@ -14095,6 +14255,7 @@
       "AvgWIS": 0,
       "AvgBST": 241.166666666667,
       "AvgEXP": 375,
+      "PowerLevel": 375,
       "Header": "71172D00040303080000",
       "Contents": [
         {
@@ -14183,6 +14344,7 @@
       "AvgWIS": 0,
       "AvgBST": 221.3,
       "AvgEXP": 396.8,
+      "PowerLevel": 396.8,
       "Header": "A10F2D03060203050000",
       "Contents": [
         {
@@ -14271,6 +14433,7 @@
       "AvgWIS": 0,
       "AvgBST": 232.3,
       "AvgEXP": 448.8,
+      "PowerLevel": 448.8,
       "Header": "A20F2D00060303060000",
       "Contents": [
         {
@@ -14359,6 +14522,7 @@
       "AvgWIS": 0,
       "AvgBST": 255.05,
       "AvgEXP": 487.6,
+      "PowerLevel": 487.6,
       "Header": "A30F2D00060403060000",
       "Contents": [
         {
@@ -14447,6 +14611,7 @@
       "AvgWIS": 0,
       "AvgBST": 266.55,
       "AvgEXP": 444.3,
+      "PowerLevel": 444.3,
       "Header": "05103200060303060000",
       "Contents": [
         {
@@ -14535,6 +14700,7 @@
       "AvgWIS": 0,
       "AvgBST": 295.022727272727,
       "AvgEXP": 504.6363636364,
+      "PowerLevel": 504.6363636364,
       "Header": "06103200060303070000",
       "Contents": [
         {
@@ -14623,6 +14789,7 @@
       "AvgWIS": 0,
       "AvgBST": 46.7916666666667,
       "AvgEXP": 69.6666666667,
+      "PowerLevel": 69.6666666667,
       "Header": "34002D00040201050000",
       "Contents": [
         {
@@ -14711,6 +14878,7 @@
       "AvgWIS": 0,
       "AvgBST": 78.3928571428572,
       "AvgEXP": 119.7142857143,
+      "PowerLevel": 119.7142857143,
       "Header": "34002D00040402060000",
       "Contents": [
         {
@@ -14799,6 +14967,7 @@
       "AvgWIS": 0,
       "AvgBST": 38.4,
       "AvgEXP": 64.6,
+      "PowerLevel": 64.6,
       "Header": "35002D00040303060000",
       "Contents": [
         {
@@ -14887,6 +15056,7 @@
       "AvgWIS": 0,
       "AvgBST": 91.75,
       "AvgEXP": 161.8,
+      "PowerLevel": 161.8,
       "Header": "36002D00040201050000",
       "Contents": [
         {
@@ -14975,6 +15145,7 @@
       "AvgWIS": 0,
       "AvgBST": 65.0833333333333,
       "AvgEXP": 74.8333333333,
+      "PowerLevel": 74.8333333333,
       "Header": "36002D00040602060000",
       "Contents": [
         {
@@ -15063,6 +15234,7 @@
       "AvgWIS": 0,
       "AvgBST": 82.6785714285715,
       "AvgEXP": 143.4285714286,
+      "PowerLevel": 143.4285714286,
       "Header": "37002D00040403060000",
       "Contents": [
         {
@@ -15151,6 +15323,7 @@
       "AvgWIS": 0,
       "AvgBST": 68.5714285714286,
       "AvgEXP": 108.8571428571,
+      "PowerLevel": 108.8571428571,
       "Header": "38002D00050201060000",
       "Contents": [
         {
@@ -15239,6 +15412,7 @@
       "AvgWIS": 0,
       "AvgBST": 34.5,
       "AvgEXP": 42.5714285714,
+      "PowerLevel": 42.5714285714,
       "Header": "38002D00040402070000",
       "Contents": [
         {
@@ -15327,6 +15501,7 @@
       "AvgWIS": 0,
       "AvgBST": 72.6071428571429,
       "AvgEXP": 105.4285714286,
+      "PowerLevel": 105.4285714286,
       "Header": "39002D00040303060000",
       "Contents": [
         {
@@ -15415,6 +15590,7 @@
       "AvgWIS": 0,
       "AvgBST": 83.5000000000001,
       "AvgEXP": 146.8571428571,
+      "PowerLevel": 146.8571428571,
       "Header": "98002D00050501060000",
       "Contents": [
         {
@@ -15503,6 +15679,7 @@
       "AvgWIS": 0,
       "AvgBST": 112.35,
       "AvgEXP": 156.6,
+      "PowerLevel": 156.6,
       "Header": "98002D00040602070000",
       "Contents": [
         {
@@ -15591,6 +15768,7 @@
       "AvgWIS": 0,
       "AvgBST": 80.6428571428572,
       "AvgEXP": 131.5714285714,
+      "PowerLevel": 131.5714285714,
       "Header": "99002D00040403070000",
       "Contents": [
         {
@@ -15679,6 +15857,7 @@
       "AvgWIS": 0,
       "AvgBST": 59.0833333333333,
       "AvgEXP": 65.5,
+      "PowerLevel": 65.5,
       "Header": "9A002D00050203070000",
       "Contents": [
         {
@@ -15767,6 +15946,7 @@
       "AvgWIS": 0,
       "AvgBST": 49.65,
       "AvgEXP": 77.2,
+      "PowerLevel": 77.2,
       "Header": "9B002D00060301060000",
       "Contents": [
         {
@@ -15855,6 +16035,7 @@
       "AvgWIS": 0,
       "AvgBST": 100.125,
       "AvgEXP": 181.8333333333,
+      "PowerLevel": 181.8333333333,
       "Header": "9B002D00060402070000",
       "Contents": [
         {
@@ -15943,6 +16124,7 @@
       "AvgWIS": 0,
       "AvgBST": 61.5,
       "AvgEXP": 80,
+      "PowerLevel": 80,
       "Header": "9C002D00060603070000",
       "Contents": [
         {
@@ -16031,6 +16213,7 @@
       "AvgWIS": 0,
       "AvgBST": 100.5,
       "AvgEXP": 169.2857142857,
+      "PowerLevel": 169.2857142857,
       "Header": "60012D00060301060000",
       "Contents": [
         {
@@ -16119,6 +16302,7 @@
       "AvgWIS": 0,
       "AvgBST": 65.9642857142858,
       "AvgEXP": 118,
+      "PowerLevel": 118,
       "Header": "60012D00060502070000",
       "Contents": [
         {
@@ -16207,6 +16391,7 @@
       "AvgWIS": 0,
       "AvgBST": 58.9166666666667,
       "AvgEXP": 72.1666666667,
+      "PowerLevel": 72.1666666667,
       "Header": "61012D00050403070000",
       "Contents": [
         {
@@ -16295,6 +16480,7 @@
       "AvgWIS": 0,
       "AvgBST": 80.95,
       "AvgEXP": 97,
+      "PowerLevel": 97,
       "Header": "62012D00060301070000",
       "Contents": [
         {
@@ -16383,6 +16569,7 @@
       "AvgWIS": 0,
       "AvgBST": 70.95,
       "AvgEXP": 103.8,
+      "PowerLevel": 103.8,
       "Header": "62012D00060602070000",
       "Contents": [
         {
@@ -16471,6 +16658,7 @@
       "AvgWIS": 0,
       "AvgBST": 94.05,
       "AvgEXP": 137.8,
+      "PowerLevel": 137.8,
       "Header": "63012D00040403070000",
       "Contents": [
         {
@@ -16559,6 +16747,7 @@
       "AvgWIS": 0,
       "AvgBST": 57.9166666666667,
       "AvgEXP": 78.6666666667,
+      "PowerLevel": 78.6666666667,
       "Header": "C4012D00050401060000",
       "Contents": [
         {
@@ -16647,6 +16836,7 @@
       "AvgWIS": 0,
       "AvgBST": 56.28125,
       "AvgEXP": 84.625,
+      "PowerLevel": 84.625,
       "Header": "C4012D00040502070000",
       "Contents": [
         {
@@ -16735,6 +16925,7 @@
       "AvgWIS": 0,
       "AvgBST": 58.9642857142857,
       "AvgEXP": 87.2857142857,
+      "PowerLevel": 87.2857142857,
       "Header": "C5012D00050503070000",
       "Contents": [
         {
@@ -16823,6 +17014,7 @@
       "AvgWIS": 0,
       "AvgBST": 112.142857142857,
       "AvgEXP": 168,
+      "PowerLevel": 168,
       "Header": "64012D00050603060000",
       "Contents": [
         {
@@ -16911,6 +17103,7 @@
       "AvgWIS": 0,
       "AvgBST": 101.85,
       "AvgEXP": 137.8,
+      "PowerLevel": 137.8,
       "Header": "C6012D00050501060000",
       "Contents": [
         {
@@ -16999,6 +17192,7 @@
       "AvgWIS": 0,
       "AvgBST": 114.583333333333,
       "AvgEXP": 162.6666666667,
+      "PowerLevel": 162.6666666667,
       "Header": "C6012D00040502070000",
       "Contents": [
         {
@@ -17087,6 +17281,7 @@
       "AvgWIS": 0,
       "AvgBST": 114.583333333333,
       "AvgEXP": 198,
+      "PowerLevel": 198,
       "Header": "C7012D00060503060000",
       "Contents": [
         {
@@ -17175,6 +17370,7 @@
       "AvgWIS": 0,
       "AvgBST": 89.15,
       "AvgEXP": 128.2,
+      "PowerLevel": 128.2,
       "Header": "C8012D00070303070000",
       "Contents": [
         {
@@ -17263,6 +17459,7 @@
       "AvgWIS": 0,
       "AvgBST": 105.3,
       "AvgEXP": 169.6,
+      "PowerLevel": 169.6,
       "Header": "C9012D00060301060000",
       "Contents": [
         {
@@ -17351,6 +17548,7 @@
       "AvgWIS": 0,
       "AvgBST": 76.5,
       "AvgEXP": 111.4,
+      "PowerLevel": 111.4,
       "Header": "C9012D00060402070000",
       "Contents": [
         {
@@ -17439,6 +17637,7 @@
       "AvgWIS": 0,
       "AvgBST": 82.4,
       "AvgEXP": 120.2,
+      "PowerLevel": 120.2,
       "Header": "CA012D00050503070000",
       "Contents": [
         {
@@ -17527,6 +17726,7 @@
       "AvgWIS": 0,
       "AvgBST": 82.15,
       "AvgEXP": 127.6,
+      "PowerLevel": 127.6,
       "Header": "CB012D00050503070000",
       "Contents": [
         {
@@ -17615,6 +17815,7 @@
       "AvgWIS": 0,
       "AvgBST": 77.45,
       "AvgEXP": 127.4,
+      "PowerLevel": 127.4,
       "Header": "CC012D00050403060000",
       "Contents": [
         {
@@ -17703,6 +17904,7 @@
       "AvgWIS": 0,
       "AvgBST": 96.9285714285713,
       "AvgEXP": 145.8571428571,
+      "PowerLevel": 145.8571428571,
       "Header": "CD012D00030503070000",
       "Contents": [
         {
@@ -17791,6 +17993,7 @@
       "AvgWIS": 0,
       "AvgBST": 98.0416666666666,
       "AvgEXP": 125.8333333333,
+      "PowerLevel": 125.8333333333,
       "Header": "8C022D00050301060000",
       "Contents": [
         {
@@ -17879,6 +18082,7 @@
       "AvgWIS": 0,
       "AvgBST": 115.625,
       "AvgEXP": 200,
+      "PowerLevel": 200,
       "Header": "8C022D00040302080000",
       "Contents": [
         {
@@ -17967,6 +18171,7 @@
       "AvgWIS": 0,
       "AvgBST": 93.2,
       "AvgEXP": 119.2,
+      "PowerLevel": 119.2,
       "Header": "8D022D00050503070000",
       "Contents": [
         {
@@ -18055,6 +18260,7 @@
       "AvgWIS": 0,
       "AvgBST": 64.4583333333333,
       "AvgEXP": 68.6666666667,
+      "PowerLevel": 68.6666666667,
       "Header": "8E022D00050301060000",
       "Contents": [
         {
@@ -18143,6 +18349,7 @@
       "AvgWIS": 0,
       "AvgBST": 84.34375,
       "AvgEXP": 121.5,
+      "PowerLevel": 121.5,
       "Header": "8E022D00040302080000",
       "Contents": [
         {
@@ -18231,6 +18438,7 @@
       "AvgWIS": 0,
       "AvgBST": 92.6785714285715,
       "AvgEXP": 123,
+      "PowerLevel": 123,
       "Header": "8F022D00060603070000",
       "Contents": [
         {
@@ -18319,6 +18527,7 @@
       "AvgWIS": 0,
       "AvgBST": 88.625,
       "AvgEXP": 124.5,
+      "PowerLevel": 124.5,
       "Header": "90022D00060303070000",
       "Contents": [
         {
@@ -18407,6 +18616,7 @@
       "AvgWIS": 0,
       "AvgBST": 114.416666666667,
       "AvgEXP": 163.3333333333,
+      "PowerLevel": 163.3333333333,
       "Header": "FC002D00060301060000",
       "Contents": [
         {
@@ -18495,6 +18705,7 @@
       "AvgWIS": 0,
       "AvgBST": 76.9166666666666,
       "AvgEXP": 102.3333333333,
+      "PowerLevel": 102.3333333333,
       "Header": "FC002D00060502080000",
       "Contents": [
         {
@@ -18583,6 +18794,7 @@
       "AvgWIS": 0,
       "AvgBST": 67.6071428571429,
       "AvgEXP": 85.2857142857,
+      "PowerLevel": 85.2857142857,
       "Header": "FD002D00060603070000",
       "Contents": [
         {
@@ -18671,6 +18883,7 @@
       "AvgWIS": 0,
       "AvgBST": 81.3409090909091,
       "AvgEXP": 94.2727272727,
+      "PowerLevel": 94.2727272727,
       "Header": "FE002D00050403070000",
       "Contents": [
         {
@@ -18759,6 +18972,7 @@
       "AvgWIS": 0,
       "AvgBST": 80.125,
       "AvgEXP": 94.9,
+      "PowerLevel": 94.9,
       "Header": "FF002D00020601080000",
       "Contents": [
         {
@@ -18847,6 +19061,7 @@
       "AvgWIS": 0,
       "AvgBST": 74.625,
       "AvgEXP": 98.6666666667,
+      "PowerLevel": 98.6666666667,
       "Header": "FF002D00030602080000",
       "Contents": [
         {
@@ -18935,6 +19150,7 @@
       "AvgWIS": 0,
       "AvgBST": 79.7083333333333,
       "AvgEXP": 99.6666666667,
+      "PowerLevel": 99.6666666667,
       "Header": "00012D00050503070000",
       "Contents": [
         {
@@ -19023,6 +19239,7 @@
       "AvgWIS": 0,
       "AvgBST": 93.6071428571428,
       "AvgEXP": 120.7142857143,
+      "PowerLevel": 120.7142857143,
       "Header": "27022D00060403070000",
       "Contents": [
         {
@@ -19111,6 +19328,7 @@
       "AvgWIS": 0,
       "AvgBST": 109.428571428572,
       "AvgEXP": 149.4285714286,
+      "PowerLevel": 149.4285714286,
       "Header": "B8032D00050303080000",
       "Contents": [
         {
@@ -19199,6 +19417,7 @@
       "AvgWIS": 0,
       "AvgBST": 132.666666666666,
       "AvgEXP": 201.3333333333,
+      "PowerLevel": 201.3333333333,
       "Header": "B9032D00050503080000",
       "Contents": [
         {
@@ -19287,6 +19506,7 @@
       "AvgWIS": 0,
       "AvgBST": 116.083333333333,
       "AvgEXP": 144.5,
+      "PowerLevel": 144.5,
       "Header": "BA032D00060401060000",
       "Contents": [
         {
@@ -19375,6 +19595,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.95,
       "AvgEXP": 215.4,
+      "PowerLevel": 215.4,
       "Header": "BA032D00060602080000",
       "Contents": [
         {
@@ -19463,6 +19684,7 @@
       "AvgWIS": 0,
       "AvgBST": 108.375,
       "AvgEXP": 140.3333333333,
+      "PowerLevel": 140.3333333333,
       "Header": "BB032D00060501060000",
       "Contents": [
         {
@@ -19551,6 +19773,7 @@
       "AvgWIS": 0,
       "AvgBST": 108,
       "AvgEXP": 128.5714285714,
+      "PowerLevel": 128.5714285714,
       "Header": "BB032D00060602080000",
       "Contents": [
         {
@@ -19639,6 +19862,7 @@
       "AvgWIS": 0,
       "AvgBST": 120.607142857143,
       "AvgEXP": 162.1428571429,
+      "PowerLevel": 162.1428571429,
       "Header": "BC032D00040603080000",
       "Contents": [
         {
@@ -19727,6 +19951,7 @@
       "AvgWIS": 0,
       "AvgBST": 121.392857142857,
       "AvgEXP": 174.5714285714,
+      "PowerLevel": 174.5714285714,
       "Header": "73062D00060603080000",
       "Contents": [
         {
@@ -19815,6 +20040,7 @@
       "AvgWIS": 0,
       "AvgBST": 109.1,
       "AvgEXP": 155.6,
+      "PowerLevel": 155.6,
       "Header": "9F072D00040603070000",
       "Contents": [
         {
@@ -19903,6 +20129,7 @@
       "AvgWIS": 0,
       "AvgBST": 128.25,
       "AvgEXP": 186.8333333333,
+      "PowerLevel": 186.8333333333,
       "Header": "A0072D00050203070000",
       "Contents": [
         {
@@ -19991,6 +20218,7 @@
       "AvgWIS": 0,
       "AvgBST": 109.083333333333,
       "AvgEXP": 124,
+      "PowerLevel": 124,
       "Header": "A1072D00070503070000",
       "Contents": [
         {
@@ -20079,6 +20307,7 @@
       "AvgWIS": 0,
       "AvgBST": 112.166666666667,
       "AvgEXP": 126.5,
+      "PowerLevel": 126.5,
       "Header": "A2072D00030503070000",
       "Contents": [
         {
@@ -20167,6 +20396,7 @@
       "AvgWIS": 0,
       "AvgBST": 157.392857142857,
       "AvgEXP": 272.1428571429,
+      "PowerLevel": 272.1428571429,
       "Header": "A3072D00050503080000",
       "Contents": [
         {
@@ -20255,6 +20485,7 @@
       "AvgWIS": 0,
       "AvgBST": 132.5,
       "AvgEXP": 191.8333333333,
+      "PowerLevel": 191.8333333333,
       "Header": "0F062D00050301060000",
       "Contents": [
         {
@@ -20343,6 +20574,7 @@
       "AvgWIS": 0,
       "AvgBST": 106.416666666667,
       "AvgEXP": 139.8333333333,
+      "PowerLevel": 139.8333333333,
       "Header": "0F062D00050502080000",
       "Contents": [
         {
@@ -20431,6 +20663,7 @@
       "AvgWIS": 0,
       "AvgBST": 122.321428571428,
       "AvgEXP": 163.4285714286,
+      "PowerLevel": 163.4285714286,
       "Header": "80042D00060401060000",
       "Contents": [
         {
@@ -20519,6 +20752,7 @@
       "AvgWIS": 0,
       "AvgBST": 124.357142857143,
       "AvgEXP": 176.2857142857,
+      "PowerLevel": 176.2857142857,
       "Header": "80042D00050502080000",
       "Contents": [
         {
@@ -20607,6 +20841,7 @@
       "AvgWIS": 0,
       "AvgBST": 115.892857142857,
       "AvgEXP": 157.1428571429,
+      "PowerLevel": 157.1428571429,
       "Header": "81042D00040603070000",
       "Contents": [
         {
@@ -20695,6 +20930,7 @@
       "AvgWIS": 0,
       "AvgBST": 125.333333333333,
       "AvgEXP": 188,
+      "PowerLevel": 188,
       "Header": "1C042D00060603070000",
       "Contents": [
         {
@@ -20783,6 +21019,7 @@
       "AvgWIS": 0,
       "AvgBST": 109.541666666667,
       "AvgEXP": 146.1666666667,
+      "PowerLevel": 146.1666666667,
       "Header": "1D042D00030503070000",
       "Contents": [
         {
@@ -20871,6 +21108,7 @@
       "AvgWIS": 0,
       "AvgBST": 118.6,
       "AvgEXP": 153.8,
+      "PowerLevel": 153.8,
       "Header": "1E042D00060301080000",
       "Contents": [
         {
@@ -20959,6 +21197,7 @@
       "AvgWIS": 0,
       "AvgBST": 99.9166666666667,
       "AvgEXP": 124,
+      "PowerLevel": 124,
       "Header": "1E042D00060402080000",
       "Contents": [
         {
@@ -21047,6 +21286,7 @@
       "AvgWIS": 0,
       "AvgBST": 123.958333333333,
       "AvgEXP": 142.8333333333,
+      "PowerLevel": 142.8333333333,
       "Header": "82042D00060301080000",
       "Contents": [
         {
@@ -21135,6 +21375,7 @@
       "AvgWIS": 0,
       "AvgBST": 111.666666666667,
       "AvgEXP": 149.1666666667,
+      "PowerLevel": 149.1666666667,
       "Header": "82042D00060502080000",
       "Contents": [
         {
@@ -21223,6 +21464,7 @@
       "AvgWIS": 0,
       "AvgBST": 105.166666666667,
       "AvgEXP": 142.6666666667,
+      "PowerLevel": 142.6666666667,
       "Header": "83042D00060603080000",
       "Contents": [
         {
@@ -21311,6 +21553,7 @@
       "AvgWIS": 0,
       "AvgBST": 113.892857142857,
       "AvgEXP": 142.4285714286,
+      "PowerLevel": 142.4285714286,
       "Header": "84042D00060201070000",
       "Contents": [
         {
@@ -21399,6 +21642,7 @@
       "AvgWIS": 0,
       "AvgBST": 88.9285714285714,
       "AvgEXP": 94.2857142857,
+      "PowerLevel": 94.2857142857,
       "Header": "84042D00060402080000",
       "Contents": [
         {
@@ -21487,6 +21731,7 @@
       "AvgWIS": 0,
       "AvgBST": 134.142857142857,
       "AvgEXP": 201.5714285714,
+      "PowerLevel": 201.5714285714,
       "Header": "85042D00060601070000",
       "Contents": [
         {
@@ -21575,6 +21820,7 @@
       "AvgWIS": 0,
       "AvgBST": 136.321428571429,
       "AvgEXP": 204.4285714286,
+      "PowerLevel": 204.4285714286,
       "Header": "85042D00060702080000",
       "Contents": [
         {
@@ -21663,6 +21909,7 @@
       "AvgWIS": 0,
       "AvgBST": 106.25,
       "AvgEXP": 124.5714285714,
+      "PowerLevel": 124.5714285714,
       "Header": "86042D00040703080000",
       "Contents": [
         {
@@ -21751,6 +21998,7 @@
       "AvgWIS": 0,
       "AvgBST": 106.15625,
       "AvgEXP": 150.75,
+      "PowerLevel": 150.75,
       "Header": "87042D00060403060000",
       "Contents": [
         {
@@ -21839,6 +22087,7 @@
       "AvgWIS": 0,
       "AvgBST": 99.425,
       "AvgEXP": 101.6,
+      "PowerLevel": 101.6,
       "Header": "EF022D00060603080000",
       "Contents": [
         {
@@ -21927,6 +22176,7 @@
       "AvgWIS": 0,
       "AvgBST": 110.75,
       "AvgEXP": 127.5,
+      "PowerLevel": 127.5,
       "Header": "E3042D00060701080000",
       "Contents": [
         {
@@ -22015,6 +22265,7 @@
       "AvgWIS": 0,
       "AvgBST": 139.208333333333,
       "AvgEXP": 167.5,
+      "PowerLevel": 167.5,
       "Header": "E3042D00060302080000",
       "Contents": [
         {
@@ -22103,6 +22354,7 @@
       "AvgWIS": 0,
       "AvgBST": 144,
       "AvgEXP": 196.8333333333,
+      "PowerLevel": 196.8333333333,
       "Header": "48052D00060501060000",
       "Contents": [
         {
@@ -22191,6 +22443,7 @@
       "AvgWIS": 0,
       "AvgBST": 139.25,
       "AvgEXP": 212.8571428571,
+      "PowerLevel": 212.8571428571,
       "Header": "48052D00060602070000",
       "Contents": [
         {
@@ -22279,6 +22532,7 @@
       "AvgWIS": 0,
       "AvgBST": 164.84375,
       "AvgEXP": 236.125,
+      "PowerLevel": 236.125,
       "Header": "49052D00050603070000",
       "Contents": [
         {
@@ -22367,6 +22621,7 @@
       "AvgWIS": 0,
       "AvgBST": 150.178571428572,
       "AvgEXP": 199.2857142857,
+      "PowerLevel": 199.2857142857,
       "Header": "4A052D00060301060000",
       "Contents": [
         {
@@ -22455,6 +22710,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.583333333333,
       "AvgEXP": 194,
+      "PowerLevel": 194,
       "Header": "4A052D00060602070000",
       "Contents": [
         {
@@ -22543,6 +22799,7 @@
       "AvgWIS": 0,
       "AvgBST": 142.464285714286,
       "AvgEXP": 166.7142857143,
+      "PowerLevel": 166.7142857143,
       "Header": "4B052D00050603070000",
       "Contents": [
         {
@@ -22631,6 +22888,7 @@
       "AvgWIS": 0,
       "AvgBST": 129.821428571429,
       "AvgEXP": 200.2857142857,
+      "PowerLevel": 200.2857142857,
       "Header": "AB052D00060301090000",
       "Contents": [
         {
@@ -22719,6 +22977,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.5,
       "AvgEXP": 216.1666666667,
+      "PowerLevel": 216.1666666667,
       "Header": "AB052D00060402060000",
       "Contents": [
         {
@@ -22807,6 +23066,7 @@
       "AvgWIS": 0,
       "AvgBST": 146.142857142857,
       "AvgEXP": 242.5714285714,
+      "PowerLevel": 242.5714285714,
       "Header": "AC052D00060601090000",
       "Contents": [
         {
@@ -22895,6 +23155,7 @@
       "AvgWIS": 0,
       "AvgBST": 148.5,
       "AvgEXP": 251,
+      "PowerLevel": 251,
       "Header": "AC052D00040602060000",
       "Contents": [
         {
@@ -22983,6 +23244,7 @@
       "AvgWIS": 0,
       "AvgBST": 150.392857142857,
       "AvgEXP": 243.1428571429,
+      "PowerLevel": 243.1428571429,
       "Header": "250B2D00050401060000",
       "Contents": [
         {
@@ -23071,6 +23333,7 @@
       "AvgWIS": 0,
       "AvgBST": 153.833333333333,
       "AvgEXP": 212.3333333333,
+      "PowerLevel": 212.3333333333,
       "Header": "250B2D00050402080000",
       "Contents": [
         {
@@ -23159,6 +23422,7 @@
       "AvgWIS": 0,
       "AvgBST": 179.305555555556,
       "AvgEXP": 277.7777777778,
+      "PowerLevel": 277.7777777778,
       "Header": "53032D00050603080000",
       "Contents": [
         {
@@ -23247,6 +23511,7 @@
       "AvgWIS": 0,
       "AvgBST": 190.1875,
       "AvgEXP": 313,
+      "PowerLevel": 313,
       "Header": "54032D00050603080000",
       "Contents": [
         {
@@ -23335,6 +23600,7 @@
       "AvgWIS": 0,
       "AvgBST": 166.791666666667,
       "AvgEXP": 306.8333333333,
+      "PowerLevel": 306.8333333333,
       "Header": "230B2D00040503060000",
       "Contents": [
         {
@@ -23423,6 +23689,7 @@
       "AvgWIS": 0,
       "AvgBST": 72.0416666666667,
       "AvgEXP": 70.3333333333,
+      "PowerLevel": 70.3333333333,
       "Header": "240B2D000207030C0000",
       "Contents": [
         {
@@ -23511,6 +23778,7 @@
       "AvgWIS": 0,
       "AvgBST": 221.291666666667,
       "AvgEXP": 399.6666666667,
+      "PowerLevel": 399.6666666667,
       "Header": "69102B00050403060000",
       "Contents": [
         {
@@ -23599,6 +23867,7 @@
       "AvgWIS": 0,
       "AvgBST": 204.125,
       "AvgEXP": 348.5,
+      "PowerLevel": 348.5,
       "Header": "6A102B00050403070000",
       "Contents": [
         {
@@ -23687,6 +23956,7 @@
       "AvgWIS": 0,
       "AvgBST": 232.46875,
       "AvgEXP": 382.25,
+      "PowerLevel": 382.25,
       "Header": "6B102B00050403070000",
       "Contents": [
         {
@@ -23775,6 +24045,7 @@
       "AvgWIS": 0,
       "AvgBST": 356.5,
       "AvgEXP": 600,
+      "PowerLevel": 600,
       "Header": "78237F00000003040000",
       "Contents": [
         {
@@ -23863,6 +24134,7 @@
       "AvgWIS": 0,
       "AvgBST": 735.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "79237F00000003010000",
       "Contents": [
         {
@@ -23951,6 +24223,7 @@
       "AvgWIS": 0,
       "AvgBST": 1282.5,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "7A237F00000003010000",
       "Contents": [
         {
@@ -24039,6 +24312,7 @@
       "AvgWIS": 0,
       "AvgBST": 1392.75,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "7B237F00000003030000",
       "Contents": [
         {
@@ -24127,6 +24401,7 @@
       "AvgWIS": 0,
       "AvgBST": 1615.5,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "7C237F00000003010000",
       "Contents": [
         {
@@ -24215,6 +24490,7 @@
       "AvgWIS": 0,
       "AvgBST": 1190.875,
       "AvgEXP": 27777.5,
+      "PowerLevel": 27777.5,
       "Header": "7D237F00000003050000",
       "Contents": [
         {
@@ -24303,6 +24579,7 @@
       "AvgWIS": 0,
       "AvgBST": 1969.75,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "7E237F00000003010000",
       "Contents": [
         {
@@ -24391,6 +24668,7 @@
       "AvgWIS": 0,
       "AvgBST": 1934.83333333333,
       "AvgEXP": 18518.3333333333,
+      "PowerLevel": 18518.3333333333,
       "Header": "7F237F00000003030000",
       "Contents": [
         {
@@ -24479,6 +24757,7 @@
       "AvgWIS": 0,
       "AvgBST": 3404.75,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "80237F00000003010000",
       "Contents": [
         {
@@ -24567,6 +24846,7 @@
       "AvgWIS": 0,
       "AvgBST": 2415,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "81237F00000003070000",
       "Contents": [
         {
@@ -24655,6 +24935,7 @@
       "AvgWIS": 0,
       "AvgBST": 2374.5,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "82237F00000003010000",
       "Contents": [
         {
@@ -24743,6 +25024,7 @@
       "AvgWIS": 0,
       "AvgBST": 1358.66666666667,
       "AvgEXP": 18518.3333333333,
+      "PowerLevel": 18518.3333333333,
       "Header": "83237F00000003030000",
       "Contents": [
         {
@@ -24831,6 +25113,7 @@
       "AvgWIS": 0,
       "AvgBST": 2633.75,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "84237F00000003010000",
       "Contents": [
         {
@@ -24919,6 +25202,7 @@
       "AvgWIS": 0,
       "AvgBST": 3476.5,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "85237F00000003010000",
       "Contents": [
         {
@@ -25007,6 +25291,7 @@
       "AvgWIS": 0,
       "AvgBST": 1813.5,
       "AvgEXP": 27777.5,
+      "PowerLevel": 27777.5,
       "Header": "86237F00000003030000",
       "Contents": [
         {
@@ -25095,6 +25380,7 @@
       "AvgWIS": 0,
       "AvgBST": 3578.25,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "87237F00000003010000",
       "Contents": [
         {
@@ -25183,6 +25469,7 @@
       "AvgWIS": 0,
       "AvgBST": 6797,
       "AvgEXP": 55555,
+      "PowerLevel": 55555,
       "Header": "88237F00000003010000",
       "Contents": [
         {
@@ -25271,6 +25558,7 @@
       "AvgWIS": 0,
       "AvgBST": 6.375,
       "AvgEXP": 1,
+      "PowerLevel": 1,
       "Header": "29237F00000003030000",
       "Contents": [
         {
@@ -25359,6 +25647,7 @@
       "AvgWIS": 0,
       "AvgBST": 27.25,
       "AvgEXP": 25,
+      "PowerLevel": 25,
       "Header": "2A237F00000003010000",
       "Contents": [
         {
@@ -25447,6 +25736,7 @@
       "AvgWIS": 0,
       "AvgBST": 59.75,
       "AvgEXP": 107,
+      "PowerLevel": 107,
       "Header": "2B237F00000003010000",
       "Contents": [
         {
@@ -25535,6 +25825,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "2C237F00000003020000",
       "Contents": [
         {
@@ -25623,6 +25914,7 @@
       "AvgWIS": 0,
       "AvgBST": 114,
       "AvgEXP": 311,
+      "PowerLevel": 311,
       "Header": "2D237F00000003020000",
       "Contents": [
         {
@@ -25711,6 +26003,7 @@
       "AvgWIS": 0,
       "AvgBST": 140.5,
       "AvgEXP": 680,
+      "PowerLevel": 680,
       "Header": "2E237F00000003030000",
       "Contents": [
         {
@@ -25799,6 +26092,7 @@
       "AvgWIS": 0,
       "AvgBST": 325.5,
       "AvgEXP": 1020,
+      "PowerLevel": 1020,
       "Header": "2F237F00000003010000",
       "Contents": [
         {
@@ -25887,6 +26181,7 @@
       "AvgWIS": 0,
       "AvgBST": 231.875,
       "AvgEXP": 614,
+      "PowerLevel": 614,
       "Header": "30237F00000003050000",
       "Contents": [
         {
@@ -25975,6 +26270,7 @@
       "AvgWIS": 0,
       "AvgBST": 221.25,
       "AvgEXP": 650,
+      "PowerLevel": 650,
       "Header": "31237F00000003010000",
       "Contents": [
         {
@@ -26063,6 +26359,7 @@
       "AvgWIS": 0,
       "AvgBST": 221.25,
       "AvgEXP": 650,
+      "PowerLevel": 650,
       "Header": "32237F00000003010000",
       "Contents": [
         {
@@ -26151,6 +26448,7 @@
       "AvgWIS": 0,
       "AvgBST": 221.25,
       "AvgEXP": 650,
+      "PowerLevel": 650,
       "Header": "33237F00000003010000",
       "Contents": [
         {
@@ -26239,6 +26537,7 @@
       "AvgWIS": 0,
       "AvgBST": 449.75,
       "AvgEXP": 2830,
+      "PowerLevel": 2830,
       "Header": "34237F00000003010000",
       "Contents": [
         {
@@ -26327,6 +26626,7 @@
       "AvgWIS": 0,
       "AvgBST": 98.5,
       "AvgEXP": 114,
+      "PowerLevel": 114,
       "Header": "35237F00000003010000",
       "Contents": [
         {
@@ -26415,6 +26715,7 @@
       "AvgWIS": 0,
       "AvgBST": 572,
       "AvgEXP": 3400,
+      "PowerLevel": 3400,
       "Header": "36237F00000003030000",
       "Contents": [
         {
@@ -26503,6 +26804,7 @@
       "AvgWIS": 0,
       "AvgBST": 764.75,
       "AvgEXP": 12000,
+      "PowerLevel": 12000,
       "Header": "37237F00000003010000",
       "Contents": [
         {
@@ -26591,6 +26893,7 @@
       "AvgWIS": 0,
       "AvgBST": 592.5,
       "AvgEXP": 7800,
+      "PowerLevel": 7800,
       "Header": "38237F00000003070000",
       "Contents": [
         {
@@ -26679,6 +26982,7 @@
       "AvgWIS": 0,
       "AvgBST": 151.75,
       "AvgEXP": 108,
+      "PowerLevel": 108,
       "Header": "39237F00000003080000",
       "Contents": [
         {
@@ -26767,6 +27071,7 @@
       "AvgWIS": 0,
       "AvgBST": 151.75,
       "AvgEXP": 108,
+      "PowerLevel": 108,
       "Header": "3A237F00000003080000",
       "Contents": [
         {
@@ -26855,6 +27160,7 @@
       "AvgWIS": 0,
       "AvgBST": 151.75,
       "AvgEXP": 108,
+      "PowerLevel": 108,
       "Header": "3B237F00000003080000",
       "Contents": [
         {
@@ -26943,6 +27249,7 @@
       "AvgWIS": 0,
       "AvgBST": 151.75,
       "AvgEXP": 108,
+      "PowerLevel": 108,
       "Header": "3C237F00000003080000",
       "Contents": [
         {
@@ -27031,6 +27338,7 @@
       "AvgWIS": 0,
       "AvgBST": 151.75,
       "AvgEXP": 108,
+      "PowerLevel": 108,
       "Header": "3D237F00000003080000",
       "Contents": [
         {
@@ -27119,6 +27427,7 @@
       "AvgWIS": 0,
       "AvgBST": 1044.5,
       "AvgEXP": 9750,
+      "PowerLevel": 9750,
       "Header": "3E237F00000003010000",
       "Contents": [
         {
@@ -27207,6 +27516,7 @@
       "AvgWIS": 0,
       "AvgBST": 844.75,
       "AvgEXP": 4095,
+      "PowerLevel": 4095,
       "Header": "3F237F00000003020000",
       "Contents": [
         {
@@ -27295,6 +27605,7 @@
       "AvgWIS": 0,
       "AvgBST": 798.75,
       "AvgEXP": 10150,
+      "PowerLevel": 10150,
       "Header": "40237F00000003010000",
       "Contents": [
         {
@@ -27383,6 +27694,7 @@
       "AvgWIS": 0,
       "AvgBST": 475.916666666668,
       "AvgEXP": 3044.3333333333,
+      "PowerLevel": 3044.3333333333,
       "Header": "41237F00000003030000",
       "Contents": [
         {
@@ -27471,6 +27783,7 @@
       "AvgWIS": 0,
       "AvgBST": 1226.25,
       "AvgEXP": 10200,
+      "PowerLevel": 10200,
       "Header": "42237F00000003010000",
       "Contents": [
         {
@@ -27559,6 +27872,7 @@
       "AvgWIS": 0,
       "AvgBST": 1309,
       "AvgEXP": 11020,
+      "PowerLevel": 11020,
       "Header": "43237F00000003010000",
       "Contents": [
         {
@@ -27647,6 +27961,7 @@
       "AvgWIS": 0,
       "AvgBST": 442.25,
       "AvgEXP": 570,
+      "PowerLevel": 570,
       "Header": "44237F00000003010000",
       "Contents": [
         {
@@ -27735,6 +28050,7 @@
       "AvgWIS": 0,
       "AvgBST": 495,
       "AvgEXP": 981,
+      "PowerLevel": 981,
       "Header": "45237F00000003020000",
       "Contents": [
         {
@@ -27823,6 +28139,7 @@
       "AvgWIS": 0,
       "AvgBST": 1504.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "46237F00000003010000",
       "Contents": [
         {
@@ -27911,6 +28228,7 @@
       "AvgWIS": 0,
       "AvgBST": 205.5,
       "AvgEXP": 950,
+      "PowerLevel": 950,
       "Header": "47237F00000003030000",
       "Contents": [
         {
@@ -27999,6 +28317,7 @@
       "AvgWIS": 0,
       "AvgBST": 306.125,
       "AvgEXP": 567.5,
+      "PowerLevel": 567.5,
       "Header": "48237F00000003040000",
       "Contents": [
         {
@@ -28087,6 +28406,7 @@
       "AvgWIS": 0,
       "AvgBST": 269,
       "AvgEXP": 1350,
+      "PowerLevel": 1350,
       "Header": "49237F00000003010000",
       "Contents": [
         {
@@ -28175,6 +28495,7 @@
       "AvgWIS": 0,
       "AvgBST": 1148.25,
       "AvgEXP": 2480,
+      "PowerLevel": 2480,
       "Header": "4A237F00000003010000",
       "Contents": [
         {
@@ -28263,6 +28584,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4B237F00000003010000",
       "Contents": [
         {
@@ -28351,6 +28673,7 @@
       "AvgWIS": 0,
       "AvgBST": 1816,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4C237F00000003010000",
       "Contents": [
         {
@@ -28439,6 +28762,7 @@
       "AvgWIS": 0,
       "AvgBST": 2287.25,
       "AvgEXP": 12680,
+      "PowerLevel": 12680,
       "Header": "4D237F00000003010000",
       "Contents": [
         {
@@ -28527,6 +28851,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4E237F00000003010000",
       "Contents": [
         {
@@ -28615,6 +28940,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4F237F00000003010000",
       "Contents": [
         {
@@ -28703,6 +29029,7 @@
       "AvgWIS": 0,
       "AvgBST": 50.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8C237F00000003030000",
       "Contents": [
         {
@@ -28791,6 +29118,7 @@
       "AvgWIS": 0,
       "AvgBST": 49.875,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8D237F00000003030000",
       "Contents": [
         {
@@ -28879,6 +29207,7 @@
       "AvgWIS": 0,
       "AvgBST": 50.8333333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8E237F00000003030000",
       "Contents": [
         {
@@ -28967,6 +29296,7 @@
       "AvgWIS": 0,
       "AvgBST": 72.125,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8F237F00000003030000",
       "Contents": [
         {
@@ -29055,6 +29385,7 @@
       "AvgWIS": 0,
       "AvgBST": 76.625,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "90237F00000003030000",
       "Contents": [
         {
@@ -29143,6 +29474,7 @@
       "AvgWIS": 0,
       "AvgBST": 74.1666666666666,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "91237F00000003030000",
       "Contents": [
         {
@@ -29231,6 +29563,7 @@
       "AvgWIS": 0,
       "AvgBST": 84.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "92237F00000003030000",
       "Contents": [
         {
@@ -29319,6 +29652,7 @@
       "AvgWIS": 0,
       "AvgBST": 92.5833333333334,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "93237F00000003030000",
       "Contents": [
         {
@@ -29407,6 +29741,7 @@
       "AvgWIS": 0,
       "AvgBST": 111.75,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "94237F00000003030000",
       "Contents": [
         {
@@ -29495,6 +29830,7 @@
       "AvgWIS": 0,
       "AvgBST": 108.166666666667,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "95237F00000003030000",
       "Contents": [
         {
@@ -29583,6 +29919,7 @@
       "AvgWIS": 0,
       "AvgBST": 101.083333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "96237F00000003030000",
       "Contents": [
         {
@@ -29671,6 +30008,7 @@
       "AvgWIS": 0,
       "AvgBST": 110.875,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "97237F00000003030000",
       "Contents": [
         {
@@ -29759,6 +30097,7 @@
       "AvgWIS": 0,
       "AvgBST": 94.875,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "98237F00000003030000",
       "Contents": [
         {
@@ -29847,6 +30186,7 @@
       "AvgWIS": 0,
       "AvgBST": 141.083333333334,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "99237F00000003030000",
       "Contents": [
         {
@@ -29935,6 +30275,7 @@
       "AvgWIS": 0,
       "AvgBST": 173,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9A237F00000003030000",
       "Contents": [
         {
@@ -30023,6 +30364,7 @@
       "AvgWIS": 0,
       "AvgBST": 240.333333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9B237F00000003030000",
       "Contents": [
         {
@@ -30111,6 +30453,7 @@
       "AvgWIS": 0,
       "AvgBST": 253.083333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9C237F00000003030000",
       "Contents": [
         {
@@ -30199,6 +30542,7 @@
       "AvgWIS": 0,
       "AvgBST": 205.416666666667,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9D237F00000003030000",
       "Contents": [
         {
@@ -30287,6 +30631,7 @@
       "AvgWIS": 0,
       "AvgBST": 248.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9E237F00000003030000",
       "Contents": [
         {
@@ -30375,6 +30720,7 @@
       "AvgWIS": 0,
       "AvgBST": 285.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9F237F00000003030000",
       "Contents": [
         {
@@ -30463,6 +30809,7 @@
       "AvgWIS": 0,
       "AvgBST": 220.833333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A0237F00000003030000",
       "Contents": [
         {
@@ -30551,6 +30898,7 @@
       "AvgWIS": 0,
       "AvgBST": 284.916666666667,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A1237F00000003030000",
       "Contents": [
         {
@@ -30639,6 +30987,7 @@
       "AvgWIS": 0,
       "AvgBST": 323,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A2237F00000003030000",
       "Contents": [
         {
@@ -30727,6 +31076,7 @@
       "AvgWIS": 0,
       "AvgBST": 339.75,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A3237F00000003030000",
       "Contents": [
         {
@@ -30815,6 +31165,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A4237F00000003030000",
       "Contents": [
         {
@@ -30903,6 +31254,7 @@
       "AvgWIS": 0,
       "AvgBST": 54.25,
       "AvgEXP": 76,
+      "PowerLevel": 76,
       "Header": "F0237F00000003010000",
       "Contents": [
         {
@@ -30991,6 +31343,7 @@
       "AvgWIS": 0,
       "AvgBST": 117.25,
       "AvgEXP": 128,
+      "PowerLevel": 128,
       "Header": "F1237F00000003010000",
       "Contents": [
         {
@@ -31079,6 +31432,7 @@
       "AvgWIS": 0,
       "AvgBST": 278.5,
       "AvgEXP": 560,
+      "PowerLevel": 560,
       "Header": "F2237F00000003010000",
       "Contents": [
         {
@@ -31167,6 +31521,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "AD262F000000030C0000",
       "Contents": [
         {
@@ -31255,6 +31610,7 @@
       "AvgWIS": 0,
       "AvgBST": 2287.25,
       "AvgEXP": 12680,
+      "PowerLevel": 12680,
       "Header": "5A237F00000003010000",
       "Contents": [
         {
@@ -31343,6 +31699,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5B237F00000003010000",
       "Contents": [
         {
@@ -31431,6 +31788,7 @@
       "AvgWIS": 0,
       "AvgBST": 1497,
       "AvgEXP": 13500,
+      "PowerLevel": 13500,
       "Header": "5C237F00000003010000",
       "Contents": [
         {
@@ -31519,6 +31877,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5D237F00000003010000",
       "Contents": [
         {
@@ -31607,6 +31966,7 @@
       "AvgWIS": 0,
       "AvgBST": 2368.75,
       "AvgEXP": 14800,
+      "PowerLevel": 14800,
       "Header": "5E237F00000003010000",
       "Contents": [
         {
@@ -31695,6 +32055,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5F237F00000003010000",
       "Contents": [
         {
@@ -31783,6 +32144,7 @@
       "AvgWIS": 0,
       "AvgBST": 1549.5,
       "AvgEXP": 15900,
+      "PowerLevel": 15900,
       "Header": "60237F00000003010000",
       "Contents": [
         {
@@ -31871,6 +32233,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "61237F00000003010000",
       "Contents": [
         {
@@ -31959,6 +32322,7 @@
       "AvgWIS": 0,
       "AvgBST": 1714.5,
       "AvgEXP": 16350,
+      "PowerLevel": 16350,
       "Header": "62237F00000003010000",
       "Contents": [
         {
@@ -32047,6 +32411,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "63237F00000003010000",
       "Contents": [
         {
@@ -32135,6 +32500,7 @@
       "AvgWIS": 0,
       "AvgBST": 864.25,
       "AvgEXP": 18010,
+      "PowerLevel": 18010,
       "Header": "64237F00000003010000",
       "Contents": [
         {
@@ -32223,6 +32589,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "65237F00000003010000",
       "Contents": [
         {
@@ -32311,6 +32678,7 @@
       "AvgWIS": 0,
       "AvgBST": 2656.25,
       "AvgEXP": 19040,
+      "PowerLevel": 19040,
       "Header": "66237F00000003010000",
       "Contents": [
         {
@@ -32399,6 +32767,7 @@
       "AvgWIS": 0,
       "AvgBST": 945.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "67237F00000003010000",
       "Contents": [
         {
@@ -32487,6 +32856,7 @@
       "AvgWIS": 0,
       "AvgBST": 859.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "68237F00000003010000",
       "Contents": [
         {
@@ -32575,6 +32945,7 @@
       "AvgWIS": 0,
       "AvgBST": 1361.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "69237F00000003010000",
       "Contents": [
         {
@@ -32663,6 +33034,7 @@
       "AvgWIS": 0,
       "AvgBST": 922,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6A237F00000003010000",
       "Contents": [
         {
@@ -32751,6 +33123,7 @@
       "AvgWIS": 0,
       "AvgBST": 1019.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6B237F00000003010000",
       "Contents": [
         {
@@ -32839,6 +33212,7 @@
       "AvgWIS": 0,
       "AvgBST": 625.5,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6C237F00000003010000",
       "Contents": [
         {
@@ -32927,6 +33301,7 @@
       "AvgWIS": 0,
       "AvgBST": 1471.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6D237F00000003010000",
       "Contents": [
         {
@@ -33015,6 +33390,7 @@
       "AvgWIS": 0,
       "AvgBST": 2184.5,
       "AvgEXP": 77777,
+      "PowerLevel": 77777,
       "Header": "6E237F00000003010000",
       "Contents": [
         {
@@ -33103,6 +33479,7 @@
       "AvgWIS": 0,
       "AvgBST": 150,
       "AvgEXP": 309,
+      "PowerLevel": 309,
       "Header": "B7267F00000003010000",
       "Contents": [
         {
@@ -33191,6 +33568,7 @@
       "AvgWIS": 0,
       "AvgBST": 254.25,
       "AvgEXP": 318,
+      "PowerLevel": 318,
       "Header": "B8267F00000003010000",
       "Contents": [
         {
@@ -33279,6 +33657,7 @@
       "AvgWIS": 0,
       "AvgBST": 254.25,
       "AvgEXP": 318,
+      "PowerLevel": 318,
       "Header": "B9267F00000003010000",
       "Contents": [
         {
@@ -33367,6 +33746,7 @@
       "AvgWIS": 0,
       "AvgBST": 552.75,
       "AvgEXP": 1830,
+      "PowerLevel": 1830,
       "Header": "BA267F00000003010000",
       "Contents": [
         {
@@ -33455,6 +33835,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "BB267F00000003010000",
       "Contents": [
         {
@@ -33543,6 +33924,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "BC267F00000003010000",
       "Contents": [
         {
@@ -33631,6 +34013,7 @@
       "AvgWIS": 0,
       "AvgBST": 602,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7B237F00000003010000",
       "Contents": [
         {
@@ -33719,6 +34102,7 @@
       "AvgWIS": 0,
       "AvgBST": 620.75,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "81237F00000003010000",
       "Contents": [
         {
@@ -33807,6 +34191,7 @@
       "AvgWIS": 0,
       "AvgBST": 75,
       "AvgEXP": 200,
+      "PowerLevel": 200,
       "Header": "E4250100000003010000",
       "Contents": [
         {
@@ -33895,6 +34280,7 @@
       "AvgWIS": 0,
       "AvgBST": 100,
       "AvgEXP": 300,
+      "PowerLevel": 300,
       "Header": "E5250100000003010000",
       "Contents": [
         {
@@ -33983,6 +34369,7 @@
       "AvgWIS": 0,
       "AvgBST": 121.5,
       "AvgEXP": 400,
+      "PowerLevel": 400,
       "Header": "E6250100000003010000",
       "Contents": [
         {
@@ -34071,6 +34458,7 @@
       "AvgWIS": 0,
       "AvgBST": 160.75,
       "AvgEXP": 150,
+      "PowerLevel": 150,
       "Header": "E7250100000003010000",
       "Contents": [
         {
@@ -34159,6 +34547,7 @@
       "AvgWIS": 0,
       "AvgBST": 184.75,
       "AvgEXP": 600,
+      "PowerLevel": 600,
       "Header": "E8250100000003010000",
       "Contents": [
         {
@@ -34247,6 +34636,7 @@
       "AvgWIS": 0,
       "AvgBST": 220.25,
       "AvgEXP": 800,
+      "PowerLevel": 800,
       "Header": "E9250100000003010000",
       "Contents": [
         {
@@ -34335,6 +34725,7 @@
       "AvgWIS": 0,
       "AvgBST": 310.25,
       "AvgEXP": 1000,
+      "PowerLevel": 1000,
       "Header": "EA250100000003010000",
       "Contents": [
         {
@@ -34423,6 +34814,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "48260100000003000000",
       "Contents": [
         {
@@ -34511,6 +34903,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "49260100000003000000",
       "Contents": [
         {
@@ -34599,6 +34992,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4A260100000003010000",
       "Contents": [
         {
@@ -34687,6 +35081,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4B260100000003010000",
       "Contents": [
         {
@@ -34775,6 +35170,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4C260100000003010000",
       "Contents": [
         {
@@ -34863,6 +35259,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4D260100000003010000",
       "Contents": [
         {
@@ -34951,6 +35348,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4E260100000003010000",
       "Contents": [
         {
@@ -35039,6 +35437,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "4F260100000003010000",
       "Contents": [
         {
@@ -35127,6 +35526,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "50260100000003000000",
       "Contents": [
         {
@@ -35215,6 +35615,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "51260100000003000000",
       "Contents": [
         {
@@ -35303,6 +35704,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "52260100000003000000",
       "Contents": [
         {
@@ -35391,6 +35793,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "53260100000003000000",
       "Contents": [
         {
@@ -35479,6 +35882,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "54260100000003000000",
       "Contents": [
         {
@@ -35567,6 +35971,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "55260100000003000000",
       "Contents": [
         {
@@ -35655,6 +36060,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "56260100000003000000",
       "Contents": [
         {
@@ -35743,6 +36149,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "57260100000003000000",
       "Contents": [
         {
@@ -35831,6 +36238,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "58260100000003000000",
       "Contents": [
         {
@@ -35919,6 +36327,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "59260100000003000000",
       "Contents": [
         {
@@ -36007,6 +36416,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5A260100000003010000",
       "Contents": [
         {
@@ -36095,6 +36505,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5B260100000003010000",
       "Contents": [
         {
@@ -36183,6 +36594,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5C260100000003010000",
       "Contents": [
         {
@@ -36271,6 +36683,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5D260100000003010000",
       "Contents": [
         {
@@ -36359,6 +36772,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5E260100000003010000",
       "Contents": [
         {
@@ -36447,6 +36861,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "5F260100000003010000",
       "Contents": [
         {
@@ -36535,6 +36950,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "60260100000003000000",
       "Contents": [
         {
@@ -36623,6 +37039,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "61260100000003000000",
       "Contents": [
         {
@@ -36711,6 +37128,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "62260100000003000000",
       "Contents": [
         {
@@ -36799,6 +37217,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "63260100000003000000",
       "Contents": [
         {
@@ -36887,6 +37306,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "64260100000003000000",
       "Contents": [
         {
@@ -36975,6 +37395,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "65260100000003000000",
       "Contents": [
         {
@@ -37063,6 +37484,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "66260100000003000000",
       "Contents": [
         {
@@ -37151,6 +37573,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "67260100000003000000",
       "Contents": [
         {
@@ -37239,6 +37662,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "68260100000003000000",
       "Contents": [
         {
@@ -37327,6 +37751,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "69260100000003000000",
       "Contents": [
         {
@@ -37415,6 +37840,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6A260100000003010000",
       "Contents": [
         {
@@ -37503,6 +37929,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6B260100000003010000",
       "Contents": [
         {
@@ -37591,6 +38018,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6C260100000003010000",
       "Contents": [
         {
@@ -37679,6 +38107,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6D260100000003010000",
       "Contents": [
         {
@@ -37767,6 +38196,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6E260100000003010000",
       "Contents": [
         {
@@ -37855,6 +38285,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "6F260100000003010000",
       "Contents": [
         {
@@ -37943,6 +38374,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "70260100000003000000",
       "Contents": [
         {
@@ -38031,6 +38463,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "71260100000003000000",
       "Contents": [
         {
@@ -38119,6 +38552,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "72260100000003000000",
       "Contents": [
         {
@@ -38207,6 +38641,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "73260100000003000000",
       "Contents": [
         {
@@ -38295,6 +38730,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "74260100000003000000",
       "Contents": [
         {
@@ -38383,6 +38819,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "75260100000003000000",
       "Contents": [
         {
@@ -38471,6 +38908,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "76260100000003000000",
       "Contents": [
         {
@@ -38559,6 +38997,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "77260100000003000000",
       "Contents": [
         {
@@ -38647,6 +39086,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "78260100000003000000",
       "Contents": [
         {
@@ -38735,6 +39175,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "79260100000003000000",
       "Contents": [
         {
@@ -38823,6 +39264,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7A260100000003010000",
       "Contents": [
         {
@@ -38911,6 +39353,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7B260100000003010000",
       "Contents": [
         {
@@ -38999,6 +39442,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7C260100000003010000",
       "Contents": [
         {
@@ -39087,6 +39531,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7D260100000003010000",
       "Contents": [
         {
@@ -39175,6 +39620,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7E260100000003010000",
       "Contents": [
         {
@@ -39263,6 +39709,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "7F260100000003010000",
       "Contents": [
         {
@@ -39351,6 +39798,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "80260100000003000000",
       "Contents": [
         {
@@ -39439,6 +39887,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "81260100000003000000",
       "Contents": [
         {
@@ -39527,6 +39976,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "82260100000003000000",
       "Contents": [
         {
@@ -39615,6 +40065,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "83260100000003000000",
       "Contents": [
         {
@@ -39703,6 +40154,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "84260100000003000000",
       "Contents": [
         {
@@ -39791,6 +40243,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "85260100000003000000",
       "Contents": [
         {
@@ -39879,6 +40332,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "86260100000003000000",
       "Contents": [
         {
@@ -39967,6 +40421,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "87260100000003000000",
       "Contents": [
         {
@@ -40055,6 +40510,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "88260100000003000000",
       "Contents": [
         {
@@ -40143,6 +40599,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "89260100000003000000",
       "Contents": [
         {
@@ -40231,6 +40688,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8A260100000003010000",
       "Contents": [
         {
@@ -40319,6 +40777,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8B260100000003010000",
       "Contents": [
         {
@@ -40407,6 +40866,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8C260100000003010000",
       "Contents": [
         {
@@ -40495,6 +40955,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8D260100000003010000",
       "Contents": [
         {
@@ -40583,6 +41044,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8E260100000003010000",
       "Contents": [
         {
@@ -40671,6 +41133,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "8F260100000003010000",
       "Contents": [
         {
@@ -40759,6 +41222,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "90260100000003000000",
       "Contents": [
         {
@@ -40847,6 +41311,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "91260100000003000000",
       "Contents": [
         {
@@ -40935,6 +41400,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "92260100000003000000",
       "Contents": [
         {
@@ -41023,6 +41489,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "93260100000003000000",
       "Contents": [
         {
@@ -41111,6 +41578,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "94260100000003000000",
       "Contents": [
         {
@@ -41199,6 +41667,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "95260100000003000000",
       "Contents": [
         {
@@ -41287,6 +41756,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "96260100000003000000",
       "Contents": [
         {
@@ -41375,6 +41845,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "97260100000003000000",
       "Contents": [
         {
@@ -41463,6 +41934,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "98260100000003000000",
       "Contents": [
         {
@@ -41551,6 +42023,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "99260100000003000000",
       "Contents": [
         {
@@ -41639,6 +42112,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9A260100000003010000",
       "Contents": [
         {
@@ -41727,6 +42201,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9B260100000003010000",
       "Contents": [
         {
@@ -41815,6 +42290,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9C260100000003010000",
       "Contents": [
         {
@@ -41903,6 +42379,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9D260100000003010000",
       "Contents": [
         {
@@ -41991,6 +42468,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9E260100000003010000",
       "Contents": [
         {
@@ -42079,6 +42557,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "9F260100000003010000",
       "Contents": [
         {
@@ -42167,6 +42646,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A0260100000003010000",
       "Contents": [
         {
@@ -42255,6 +42735,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A1260100000003010000",
       "Contents": [
         {
@@ -42343,6 +42824,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A2260100000003010000",
       "Contents": [
         {
@@ -42431,6 +42913,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A3260100000003010000",
       "Contents": [
         {
@@ -42519,6 +43002,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A4260100000003010000",
       "Contents": [
         {
@@ -42607,6 +43091,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A5260100000003010000",
       "Contents": [
         {
@@ -42695,6 +43180,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A6260100000003010000",
       "Contents": [
         {
@@ -42783,6 +43269,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A7260100000003010000",
       "Contents": [
         {
@@ -42871,6 +43358,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A8260100000003010000",
       "Contents": [
         {
@@ -42959,6 +43447,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A9260100000003010000",
       "Contents": [
         {
@@ -43047,6 +43536,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "AA260100000003010000",
       "Contents": [
         {
@@ -43135,6 +43625,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "AB260100000003010000",
       "Contents": [
         {
@@ -43223,6 +43714,7 @@
       "AvgWIS": 0,
       "AvgBST": 1362.5,
       "AvgEXP": 18000,
+      "PowerLevel": 18000,
       "Header": "89237F00000003010000",
       "Contents": [
         {
@@ -43311,6 +43803,7 @@
       "AvgWIS": 0,
       "AvgBST": 261,
       "AvgEXP": 512,
+      "PowerLevel": 512,
       "Header": "F3237F00000003010000",
       "Contents": [
         {
@@ -43399,6 +43892,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "22017F00000003000000",
       "Contents": [
         {
@@ -43487,6 +43981,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "B2027F00000003000000",
       "Contents": [
         {
@@ -43575,6 +44070,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "DE037F00000003000000",
       "Contents": [
         {
@@ -43663,6 +44159,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A6047F00000003000000",
       "Contents": [
         {
@@ -43751,6 +44248,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "CD102D00020703070000",
       "Contents": [
         {
@@ -43839,6 +44337,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "CE103C00050403030000",
       "Contents": [
         {
@@ -43927,6 +44426,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A51F7F00000003000000",
       "Contents": [
         {
@@ -44015,6 +44515,7 @@
       "AvgWIS": 0,
       "AvgBST": 0,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "09207F00000003000000",
       "Contents": [
         {
@@ -44103,6 +44604,7 @@
       "AvgWIS": 0,
       "AvgBST": 343.25,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A5237F00000003030000",
       "Contents": [
         {
@@ -44191,6 +44693,7 @@
       "AvgWIS": 0,
       "AvgBST": 379.333333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A6237F00000003030000",
       "Contents": [
         {
@@ -44279,6 +44782,7 @@
       "AvgWIS": 0,
       "AvgBST": 362.083333333333,
       "AvgEXP": 0,
+      "PowerLevel": 0,
       "Header": "A7237F00000003030000",
       "Contents": [
         {

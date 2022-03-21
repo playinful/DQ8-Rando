@@ -200,6 +200,12 @@
     <None Include="Data\Actions.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="Data\ElementList.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Options_Legacy.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Data\ScoutMonster.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
