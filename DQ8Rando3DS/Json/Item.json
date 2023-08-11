@@ -1,0 +1,2167 @@
+{
+  "0": {
+    "ID": 0,
+    "Type": 0,
+    "Name": "nothing"
+  },
+  "1": {
+    "ID": 1,
+    "Type": 1,
+    "Name": "cypress stick"
+  },
+  "2": {
+    "ID": 2,
+    "Type": 1,
+    "Name": "soldier's sword"
+  },
+  "3": {
+    "ID": 3,
+    "Type": 1,
+    "Name": "copper sword"
+  },
+  "4": {
+    "ID": 4,
+    "Type": 1,
+    "Name": "steel broadsword"
+  },
+  "5": {
+    "ID": 5,
+    "Type": 1,
+    "Name": "platinum sword"
+  },
+  "6": {
+    "ID": 6,
+    "Type": 1,
+    "Name": "dream blade"
+  },
+  "7": {
+    "ID": 7,
+    "Type": 1,
+    "Name": "falcon blade"
+  },
+  "8": {
+    "ID": 8,
+    "Type": 1,
+    "Name": "über falcon blade"
+  },
+  "9": {
+    "ID": 9,
+    "Type": 1,
+    "Name": "zombiesbane"
+  },
+  "10": {
+    "ID": 10,
+    "Type": 1,
+    "Name": "zombie slayer"
+  },
+  "11": {
+    "ID": 11,
+    "Type": 1,
+    "Name": "dragonsbane"
+  },
+  "12": {
+    "ID": 12,
+    "Type": 1,
+    "Name": "dragon slayer"
+  },
+  "13": {
+    "ID": 13,
+    "Type": 1,
+    "Name": "blizzard blade"
+  },
+  "14": {
+    "ID": 14,
+    "Type": 1,
+    "Name": "miracle sword"
+  },
+  "15": {
+    "ID": 15,
+    "Type": 1,
+    "Name": "über miracle sword"
+  },
+  "16": {
+    "ID": 16,
+    "Type": 1,
+    "Name": "bastard sword"
+  },
+  "17": {
+    "ID": 17,
+    "Type": 1,
+    "Name": "liquid metal sword"
+  },
+  "18": {
+    "ID": 18,
+    "Type": 1,
+    "Name": "double-edged sword"
+  },
+  "19": {
+    "ID": 19,
+    "Type": 1,
+    "Name": "über double-edge"
+  },
+  "20": {
+    "ID": 20,
+    "Type": 1,
+    "Name": "rusty old sword"
+  },
+  "21": {
+    "ID": 21,
+    "Type": 1,
+    "Name": "Dragovian sword"
+  },
+  "22": {
+    "ID": 22,
+    "Type": 1,
+    "Name": "Dragovian King sword"
+  },
+  "23": {
+    "ID": 23,
+    "Type": 1,
+    "Name": "rapier"
+  },
+  "24": {
+    "ID": 24,
+    "Type": 1,
+    "Name": "templar's sword"
+  },
+  "25": {
+    "ID": 25,
+    "Type": 1,
+    "Name": "hell sabre"
+  },
+  "26": {
+    "ID": 26,
+    "Type": 1,
+    "Name": "holy silver rapier"
+  },
+  "27": {
+    "ID": 27,
+    "Type": 1,
+    "Name": "fallen angel rapier"
+  },
+  "28": {
+    "ID": 28,
+    "Type": 1,
+    "Name": "shamshir of light"
+  },
+  "29": {
+    "ID": 29,
+    "Type": 1,
+    "Name": "Mercury's rapier"
+  },
+  "30": {
+    "ID": 30,
+    "Type": 1,
+    "Name": "bronze knife"
+  },
+  "31": {
+    "ID": 31,
+    "Type": 1,
+    "Name": "dagger"
+  },
+  "32": {
+    "ID": 32,
+    "Type": 1,
+    "Name": "poison moth knife"
+  },
+  "33": {
+    "ID": 33,
+    "Type": 1,
+    "Name": "assassin's dagger"
+  },
+  "34": {
+    "ID": 34,
+    "Type": 1,
+    "Name": "icicle dirk"
+  },
+  "35": {
+    "ID": 35,
+    "Type": 1,
+    "Name": "poison needle"
+  },
+  "36": {
+    "ID": 36,
+    "Type": 1,
+    "Name": "falcon knife"
+  },
+  "37": {
+    "ID": 37,
+    "Type": 1,
+    "Name": "imp knife"
+  },
+  "38": {
+    "ID": 38,
+    "Type": 1,
+    "Name": "sword breaker"
+  },
+  "39": {
+    "ID": 39,
+    "Type": 1,
+    "Name": "eagle dagger"
+  },
+  "40": {
+    "ID": 40,
+    "Type": 1,
+    "Name": "iron lance"
+  },
+  "41": {
+    "ID": 41,
+    "Type": 1,
+    "Name": "holy lance"
+  },
+  "42": {
+    "ID": 42,
+    "Type": 1,
+    "Name": "long spear"
+  },
+  "43": {
+    "ID": 43,
+    "Type": 1,
+    "Name": "partisan"
+  },
+  "44": {
+    "ID": 44,
+    "Type": 1,
+    "Name": "battle fork"
+  },
+  "45": {
+    "ID": 45,
+    "Type": 1,
+    "Name": "sandstorm spear"
+  },
+  "46": {
+    "ID": 46,
+    "Type": 1,
+    "Name": "demon spear"
+  },
+  "47": {
+    "ID": 47,
+    "Type": 1,
+    "Name": "hero spear"
+  },
+  "48": {
+    "ID": 48,
+    "Type": 1,
+    "Name": "metal king spear"
+  },
+  "49": {
+    "ID": 49,
+    "Type": 1,
+    "Name": "boomerang"
+  },
+  "50": {
+    "ID": 50,
+    "Type": 1,
+    "Name": "reinforced boomerang"
+  },
+  "51": {
+    "ID": 51,
+    "Type": 1,
+    "Name": "edged boomerang"
+  },
+  "52": {
+    "ID": 52,
+    "Type": 1,
+    "Name": "metal wing boomerang"
+  },
+  "53": {
+    "ID": 53,
+    "Type": 1,
+    "Name": "razor wing boomerang"
+  },
+  "54": {
+    "ID": 54,
+    "Type": 1,
+    "Name": "swallowtail"
+  },
+  "55": {
+    "ID": 55,
+    "Type": 1,
+    "Name": "flametang boomerang"
+  },
+  "56": {
+    "ID": 56,
+    "Type": 1,
+    "Name": "stone axe"
+  },
+  "57": {
+    "ID": 57,
+    "Type": 1,
+    "Name": "iron axe"
+  },
+  "58": {
+    "ID": 58,
+    "Type": 1,
+    "Name": "king axe"
+  },
+  "59": {
+    "ID": 59,
+    "Type": 1,
+    "Name": "moon axe"
+  },
+  "60": {
+    "ID": 60,
+    "Type": 1,
+    "Name": "bandit axe"
+  },
+  "61": {
+    "ID": 61,
+    "Type": 1,
+    "Name": "golden axe"
+  },
+  "62": {
+    "ID": 62,
+    "Type": 1,
+    "Name": "battle-axe"
+  },
+  "63": {
+    "ID": 63,
+    "Type": 1,
+    "Name": "conqueror's axe"
+  },
+  "64": {
+    "ID": 64,
+    "Type": 1,
+    "Name": "oaken club"
+  },
+  "65": {
+    "ID": 65,
+    "Type": 1,
+    "Name": "giant mallet"
+  },
+  "66": {
+    "ID": 66,
+    "Type": 1,
+    "Name": "sledgehammer"
+  },
+  "67": {
+    "ID": 67,
+    "Type": 1,
+    "Name": "war hammer"
+  },
+  "68": {
+    "ID": 68,
+    "Type": 1,
+    "Name": "über war hammer"
+  },
+  "69": {
+    "ID": 69,
+    "Type": 1,
+    "Name": "megaton hammer"
+  },
+  "70": {
+    "ID": 70,
+    "Type": 1,
+    "Name": "flail of fury"
+  },
+  "71": {
+    "ID": 71,
+    "Type": 1,
+    "Name": "flail of destruction"
+  },
+  "72": {
+    "ID": 72,
+    "Type": 1,
+    "Name": "thorn whip"
+  },
+  "73": {
+    "ID": 73,
+    "Type": 1,
+    "Name": "leather whip"
+  },
+  "74": {
+    "ID": 74,
+    "Type": 1,
+    "Name": "snakeskin whip"
+  },
+  "75": {
+    "ID": 75,
+    "Type": 1,
+    "Name": "chain whip"
+  },
+  "76": {
+    "ID": 76,
+    "Type": 1,
+    "Name": "dragontail whip"
+  },
+  "77": {
+    "ID": 77,
+    "Type": 1,
+    "Name": "spiked steel whip"
+  },
+  "78": {
+    "ID": 78,
+    "Type": 1,
+    "Name": "demon whip"
+  },
+  "79": {
+    "ID": 79,
+    "Type": 1,
+    "Name": "scourge whip"
+  },
+  "80": {
+    "ID": 80,
+    "Type": 1,
+    "Name": "Gringham whip"
+  },
+  "81": {
+    "ID": 81,
+    "Type": 1,
+    "Name": "farmer's scythe"
+  },
+  "82": {
+    "ID": 82,
+    "Type": 1,
+    "Name": "heavy hatchet"
+  },
+  "83": {
+    "ID": 83,
+    "Type": 1,
+    "Name": "bardiche of binding"
+  },
+  "84": {
+    "ID": 84,
+    "Type": 1,
+    "Name": "hell scythe"
+  },
+  "85": {
+    "ID": 85,
+    "Type": 1,
+    "Name": "steel scythe"
+  },
+  "86": {
+    "ID": 86,
+    "Type": 1,
+    "Name": "wizard's staff"
+  },
+  "87": {
+    "ID": 87,
+    "Type": 1,
+    "Name": "lightning staff"
+  },
+  "88": {
+    "ID": 88,
+    "Type": 1,
+    "Name": "staff of divine wrath"
+  },
+  "89": {
+    "ID": 89,
+    "Type": 1,
+    "Name": "magma staff"
+  },
+  "90": {
+    "ID": 90,
+    "Type": 1,
+    "Name": "staff of antimagic"
+  },
+  "91": {
+    "ID": 91,
+    "Type": 1,
+    "Name": "rune staff"
+  },
+  "92": {
+    "ID": 92,
+    "Type": 1,
+    "Name": "staff of resurrection"
+  },
+  "93": {
+    "ID": 93,
+    "Type": 1,
+    "Name": "magical mace"
+  },
+  "94": {
+    "ID": 94,
+    "Type": 1,
+    "Name": "hunter's bow"
+  },
+  "95": {
+    "ID": 95,
+    "Type": 1,
+    "Name": "great bow"
+  },
+  "96": {
+    "ID": 96,
+    "Type": 1,
+    "Name": "short bow"
+  },
+  "97": {
+    "ID": 97,
+    "Type": 1,
+    "Name": "Odin's bow"
+  },
+  "98": {
+    "ID": 98,
+    "Type": 1,
+    "Name": "Cheiron's bow"
+  },
+  "99": {
+    "ID": 99,
+    "Type": 1,
+    "Name": "Eros' bow"
+  },
+  "100": {
+    "ID": 100,
+    "Type": 1,
+    "Name": "plain clothes"
+  },
+  "101": {
+    "ID": 101,
+    "Type": 1,
+    "Name": "bandit's grass skirt"
+  },
+  "102": {
+    "ID": 102,
+    "Type": 1,
+    "Name": "wayfarer's clothes"
+  },
+  "103": {
+    "ID": 103,
+    "Type": 1,
+    "Name": "boxer shorts"
+  },
+  "104": {
+    "ID": 104,
+    "Type": 1,
+    "Name": "dancer's costume"
+  },
+  "105": {
+    "ID": 105,
+    "Type": 1,
+    "Name": "leather kilt"
+  },
+  "106": {
+    "ID": 106,
+    "Type": 1,
+    "Name": "leather dress"
+  },
+  "107": {
+    "ID": 107,
+    "Type": 1,
+    "Name": "templar's uniform"
+  },
+  "108": {
+    "ID": 108,
+    "Type": 1,
+    "Name": "fur poncho"
+  },
+  "109": {
+    "ID": 109,
+    "Type": 1,
+    "Name": "cloak of evasion"
+  },
+  "110": {
+    "ID": 110,
+    "Type": 1,
+    "Name": "bunny suit"
+  },
+  "111": {
+    "ID": 111,
+    "Type": 1,
+    "Name": "silk bustier"
+  },
+  "112": {
+    "ID": 112,
+    "Type": 1,
+    "Name": "magic bikini"
+  },
+  "113": {
+    "ID": 113,
+    "Type": 1,
+    "Name": "spangled dress"
+  },
+  "114": {
+    "ID": 114,
+    "Type": 1,
+    "Name": "posh waistcoat"
+  },
+  "115": {
+    "ID": 115,
+    "Type": 1,
+    "Name": "magical skirt"
+  },
+  "116": {
+    "ID": 116,
+    "Type": 1,
+    "Name": "shimmering dress"
+  },
+  "117": {
+    "ID": 117,
+    "Type": 1,
+    "Name": "dark robe"
+  },
+  "118": {
+    "ID": 118,
+    "Type": 1,
+    "Name": "dangerous bustier"
+  },
+  "119": {
+    "ID": 119,
+    "Type": 1,
+    "Name": "divine bustier"
+  },
+  "120": {
+    "ID": 120,
+    "Type": 1,
+    "Name": "Jessica's outfit"
+  },
+  "121": {
+    "ID": 121,
+    "Type": 1,
+    "Name": "leather armour"
+  },
+  "122": {
+    "ID": 122,
+    "Type": 1,
+    "Name": "scale armour"
+  },
+  "123": {
+    "ID": 123,
+    "Type": 1,
+    "Name": "chain mail"
+  },
+  "124": {
+    "ID": 124,
+    "Type": 1,
+    "Name": "bronze armour"
+  },
+  "125": {
+    "ID": 125,
+    "Type": 1,
+    "Name": "iron cuirass"
+  },
+  "126": {
+    "ID": 126,
+    "Type": 1,
+    "Name": "iron armour"
+  },
+  "127": {
+    "ID": 127,
+    "Type": 1,
+    "Name": "tortoise shell"
+  },
+  "128": {
+    "ID": 128,
+    "Type": 1,
+    "Name": "full plate armour"
+  },
+  "129": {
+    "ID": 129,
+    "Type": 1,
+    "Name": "silver cuirass"
+  },
+  "130": {
+    "ID": 130,
+    "Type": 1,
+    "Name": "dancer's mail"
+  },
+  "131": {
+    "ID": 131,
+    "Type": 1,
+    "Name": "silver mail"
+  },
+  "132": {
+    "ID": 132,
+    "Type": 1,
+    "Name": "dragon mail"
+  },
+  "133": {
+    "ID": 133,
+    "Type": 1,
+    "Name": "magic armour"
+  },
+  "134": {
+    "ID": 134,
+    "Type": 1,
+    "Name": "zombie mail"
+  },
+  "135": {
+    "ID": 135,
+    "Type": 1,
+    "Name": "heavy armour"
+  },
+  "136": {
+    "ID": 136,
+    "Type": 1,
+    "Name": "spiked armour"
+  },
+  "137": {
+    "ID": 137,
+    "Type": 1,
+    "Name": "platinum mail"
+  },
+  "138": {
+    "ID": 138,
+    "Type": 1,
+    "Name": "bandit mail"
+  },
+  "139": {
+    "ID": 139,
+    "Type": 1,
+    "Name": "sacred armour"
+  },
+  "140": {
+    "ID": 140,
+    "Type": 1,
+    "Name": "gigant armour"
+  },
+  "141": {
+    "ID": 141,
+    "Type": 1,
+    "Name": "mirror armour"
+  },
+  "142": {
+    "ID": 142,
+    "Type": 1,
+    "Name": "liquid metal armour"
+  },
+  "143": {
+    "ID": 143,
+    "Type": 1,
+    "Name": "Dragovian armour"
+  },
+  "144": {
+    "ID": 144,
+    "Type": 1,
+    "Name": "metal king armour"
+  },
+  "145": {
+    "ID": 145,
+    "Type": 1,
+    "Name": "silk robe"
+  },
+  "146": {
+    "ID": 146,
+    "Type": 1,
+    "Name": "leather cape"
+  },
+  "147": {
+    "ID": 147,
+    "Type": 1,
+    "Name": "robe of serenity"
+  },
+  "148": {
+    "ID": 148,
+    "Type": 1,
+    "Name": "magic vestment"
+  },
+  "149": {
+    "ID": 149,
+    "Type": 1,
+    "Name": "flowing dress"
+  },
+  "150": {
+    "ID": 150,
+    "Type": 1,
+    "Name": "sage's robe"
+  },
+  "151": {
+    "ID": 151,
+    "Type": 1,
+    "Name": "angel's robe"
+  },
+  "152": {
+    "ID": 152,
+    "Type": 1,
+    "Name": "velvet cape"
+  },
+  "153": {
+    "ID": 153,
+    "Type": 1,
+    "Name": "crimson robe"
+  },
+  "154": {
+    "ID": 154,
+    "Type": 1,
+    "Name": "princess's robe"
+  },
+  "155": {
+    "ID": 155,
+    "Type": 1,
+    "Name": "dragon robe"
+  },
+  "156": {
+    "ID": 156,
+    "Type": 1,
+    "Name": "pot lid"
+  },
+  "157": {
+    "ID": 157,
+    "Type": 1,
+    "Name": "leather shield"
+  },
+  "158": {
+    "ID": 158,
+    "Type": 1,
+    "Name": "scale shield"
+  },
+  "159": {
+    "ID": 159,
+    "Type": 1,
+    "Name": "silver platter"
+  },
+  "160": {
+    "ID": 160,
+    "Type": 1,
+    "Name": "kitty shield"
+  },
+  "161": {
+    "ID": 161,
+    "Type": 1,
+    "Name": "bronze shield"
+  },
+  "162": {
+    "ID": 162,
+    "Type": 1,
+    "Name": "templar's shield"
+  },
+  "163": {
+    "ID": 163,
+    "Type": 1,
+    "Name": "iron shield"
+  },
+  "164": {
+    "ID": 164,
+    "Type": 1,
+    "Name": "light shield"
+  },
+  "165": {
+    "ID": 165,
+    "Type": 1,
+    "Name": "white shield"
+  },
+  "166": {
+    "ID": 166,
+    "Type": 1,
+    "Name": "steel shield"
+  },
+  "167": {
+    "ID": 167,
+    "Type": 1,
+    "Name": "magic shield"
+  },
+  "168": {
+    "ID": 168,
+    "Type": 1,
+    "Name": "dragon shield"
+  },
+  "169": {
+    "ID": 169,
+    "Type": 1,
+    "Name": "power shield"
+  },
+  "170": {
+    "ID": 170,
+    "Type": 1,
+    "Name": "saintess shield"
+  },
+  "171": {
+    "ID": 171,
+    "Type": 1,
+    "Name": "bone shield"
+  },
+  "172": {
+    "ID": 172,
+    "Type": 1,
+    "Name": "mirror shield"
+  },
+  "173": {
+    "ID": 173,
+    "Type": 1,
+    "Name": "ogre shield"
+  },
+  "174": {
+    "ID": 174,
+    "Type": 1,
+    "Name": "silver shield"
+  },
+  "175": {
+    "ID": 175,
+    "Type": 1,
+    "Name": "big boss shield"
+  },
+  "176": {
+    "ID": 176,
+    "Type": 1,
+    "Name": "ruinous shield"
+  },
+  "177": {
+    "ID": 177,
+    "Type": 1,
+    "Name": "Thanatos' shield"
+  },
+  "178": {
+    "ID": 178,
+    "Type": 1,
+    "Name": "goddess shield"
+  },
+  "179": {
+    "ID": 179,
+    "Type": 1,
+    "Name": "Dragovian shield"
+  },
+  "180": {
+    "ID": 180,
+    "Type": 1,
+    "Name": "metal king shield"
+  },
+  "181": {
+    "ID": 181,
+    "Type": 1,
+    "Name": "bandana"
+  },
+  "182": {
+    "ID": 182,
+    "Type": 1,
+    "Name": "leather hat"
+  },
+  "183": {
+    "ID": 183,
+    "Type": 1,
+    "Name": "hairband"
+  },
+  "184": {
+    "ID": 184,
+    "Type": 1,
+    "Name": "pointy hat"
+  },
+  "185": {
+    "ID": 185,
+    "Type": 1,
+    "Name": "feathered cap"
+  },
+  "186": {
+    "ID": 186,
+    "Type": 1,
+    "Name": "turban"
+  },
+  "187": {
+    "ID": 187,
+    "Type": 1,
+    "Name": "silver tiara"
+  },
+  "188": {
+    "ID": 188,
+    "Type": 1,
+    "Name": "bunny ears"
+  },
+  "189": {
+    "ID": 189,
+    "Type": 1,
+    "Name": "stone hardhat"
+  },
+  "190": {
+    "ID": 190,
+    "Type": 1,
+    "Name": "iron helmet"
+  },
+  "191": {
+    "ID": 191,
+    "Type": 1,
+    "Name": "fur hood"
+  },
+  "192": {
+    "ID": 192,
+    "Type": 1,
+    "Name": "bronze helmet"
+  },
+  "193": {
+    "ID": 193,
+    "Type": 1,
+    "Name": "coral hairpin"
+  },
+  "194": {
+    "ID": 194,
+    "Type": 1,
+    "Name": "pirate's hat"
+  },
+  "195": {
+    "ID": 195,
+    "Type": 1,
+    "Name": "iron mask"
+  },
+  "196": {
+    "ID": 196,
+    "Type": 1,
+    "Name": "Hermes' hat"
+  },
+  "197": {
+    "ID": 197,
+    "Type": 1,
+    "Name": "platinum headgear"
+  },
+  "198": {
+    "ID": 198,
+    "Type": 1,
+    "Name": "magical hat"
+  },
+  "199": {
+    "ID": 199,
+    "Type": 1,
+    "Name": "happy hat"
+  },
+  "200": {
+    "ID": 200,
+    "Type": 1,
+    "Name": "Hades' helm"
+  },
+  "201": {
+    "ID": 201,
+    "Type": 1,
+    "Name": "slime crown"
+  },
+  "202": {
+    "ID": 202,
+    "Type": 1,
+    "Name": "mythril helm"
+  },
+  "203": {
+    "ID": 203,
+    "Type": 1,
+    "Name": "Mercury's bandana"
+  },
+  "204": {
+    "ID": 204,
+    "Type": 1,
+    "Name": "scholar's cap"
+  },
+  "205": {
+    "ID": 205,
+    "Type": 1,
+    "Name": "thinking cap"
+  },
+  "206": {
+    "ID": 206,
+    "Type": 1,
+    "Name": "iron headgear"
+  },
+  "207": {
+    "ID": 207,
+    "Type": 1,
+    "Name": "raging bull helm"
+  },
+  "208": {
+    "ID": 208,
+    "Type": 1,
+    "Name": "golden tiara"
+  },
+  "209": {
+    "ID": 209,
+    "Type": 1,
+    "Name": "great helm"
+  },
+  "210": {
+    "ID": 210,
+    "Type": 1,
+    "Name": "phantom mask"
+  },
+  "211": {
+    "ID": 211,
+    "Type": 1,
+    "Name": "skull helm"
+  },
+  "212": {
+    "ID": 212,
+    "Type": 1,
+    "Name": "Dragovian helm"
+  },
+  "213": {
+    "ID": 213,
+    "Type": 1,
+    "Name": "sun crown"
+  },
+  "214": {
+    "ID": 214,
+    "Type": 1,
+    "Name": "metal king helm"
+  },
+  "215": {
+    "ID": 215,
+    "Type": 1,
+    "Name": "agility ring"
+  },
+  "216": {
+    "ID": 216,
+    "Type": 1,
+    "Name": "meteorite bracer"
+  },
+  "217": {
+    "ID": 217,
+    "Type": 1,
+    "Name": "strength ring"
+  },
+  "218": {
+    "ID": 218,
+    "Type": 1,
+    "Name": "gold ring"
+  },
+  "219": {
+    "ID": 219,
+    "Type": 1,
+    "Name": "prayer ring"
+  },
+  "220": {
+    "ID": 220,
+    "Type": 1,
+    "Name": "recovery ring"
+  },
+  "221": {
+    "ID": 221,
+    "Type": 1,
+    "Name": "goddess ring"
+  },
+  "222": {
+    "ID": 222,
+    "Type": 1,
+    "Name": "gospel ring"
+  },
+  "223": {
+    "ID": 223,
+    "Type": 1,
+    "Name": "life bracer"
+  },
+  "224": {
+    "ID": 224,
+    "Type": 1,
+    "Name": "mighty armlet"
+  },
+  "225": {
+    "ID": 225,
+    "Type": 1,
+    "Name": "gold bracer"
+  },
+  "226": {
+    "ID": 226,
+    "Type": 1,
+    "Name": "ruby of protection"
+  },
+  "227": {
+    "ID": 227,
+    "Type": 1,
+    "Name": "titan belt"
+  },
+  "228": {
+    "ID": 228,
+    "Type": 1,
+    "Name": "scholar's specs"
+  },
+  "229": {
+    "ID": 229,
+    "Type": 1,
+    "Name": "tough guy tattoo"
+  },
+  "230": {
+    "ID": 230,
+    "Type": 1,
+    "Name": "slime earrings"
+  },
+  "231": {
+    "ID": 231,
+    "Type": 1,
+    "Name": "devil's tail"
+  },
+  "232": {
+    "ID": 232,
+    "Type": 1,
+    "Name": "fishnet stockings"
+  },
+  "233": {
+    "ID": 233,
+    "Type": 1,
+    "Name": "garter"
+  },
+  "234": {
+    "ID": 234,
+    "Type": 1,
+    "Name": "lady's ring"
+  },
+  "235": {
+    "ID": 235,
+    "Type": 1,
+    "Name": "gold rosary"
+  },
+  "236": {
+    "ID": 236,
+    "Type": 1,
+    "Name": "sorcerer's ring"
+  },
+  "237": {
+    "ID": 237,
+    "Type": 1,
+    "Name": "skull ring"
+  },
+  "238": {
+    "ID": 238,
+    "Type": 1,
+    "Name": "holy talisman"
+  },
+  "239": {
+    "ID": 239,
+    "Type": 1,
+    "Name": "ring of awakening"
+  },
+  "240": {
+    "ID": 240,
+    "Type": 1,
+    "Name": "full moon ring"
+  },
+  "241": {
+    "ID": 241,
+    "Type": 1,
+    "Name": "ring of clarity"
+  },
+  "242": {
+    "ID": 242,
+    "Type": 1,
+    "Name": "ring of truth"
+  },
+  "243": {
+    "ID": 243,
+    "Type": 1,
+    "Name": "ring of immunity"
+  },
+  "244": {
+    "ID": 244,
+    "Type": 1,
+    "Name": "catholicon ring"
+  },
+  "245": {
+    "ID": 245,
+    "Type": 1,
+    "Name": "dragon scale"
+  },
+  "246": {
+    "ID": 246,
+    "Type": 1,
+    "Name": "elevating shoes"
+  },
+  "247": {
+    "ID": 247,
+    "Type": 1,
+    "Name": "medicinal herb"
+  },
+  "248": {
+    "ID": 248,
+    "Type": 1,
+    "Name": "antidotal herb"
+  },
+  "249": {
+    "ID": 249,
+    "Type": 1,
+    "Name": "moonwort bulb"
+  },
+  "250": {
+    "ID": 250,
+    "Type": 1,
+    "Name": "strong medicine"
+  },
+  "251": {
+    "ID": 251,
+    "Type": 1,
+    "Name": "special medicine"
+  },
+  "252": {
+    "ID": 252,
+    "Type": 1,
+    "Name": "lesser panacea"
+  },
+  "253": {
+    "ID": 253,
+    "Type": 1,
+    "Name": "greater panacea"
+  },
+  "254": {
+    "ID": 254,
+    "Type": 1,
+    "Name": "rose-root"
+  },
+  "255": {
+    "ID": 255,
+    "Type": 1,
+    "Name": "rose-wort"
+  },
+  "256": {
+    "ID": 256,
+    "Type": 1,
+    "Name": "strong antidote"
+  },
+  "257": {
+    "ID": 257,
+    "Type": 1,
+    "Name": "special antidote"
+  },
+  "258": {
+    "ID": 258,
+    "Type": 1,
+    "Name": "moon's mercy"
+  },
+  "259": {
+    "ID": 259,
+    "Type": 1,
+    "Name": "mystifying mixture"
+  },
+  "260": {
+    "ID": 260,
+    "Type": 1,
+    "Name": "Yggdrasil leaf"
+  },
+  "261": {
+    "ID": 261,
+    "Type": 1,
+    "Name": "Yggdrasil dew"
+  },
+  "262": {
+    "ID": 262,
+    "Type": 1,
+    "Name": "Amor seco essence"
+  },
+  "263": {
+    "ID": 263,
+    "Type": 1,
+    "Name": "chimaera wing"
+  },
+  "264": {
+    "ID": 264,
+    "Type": 1,
+    "Name": "holy water"
+  },
+  "265": {
+    "ID": 265,
+    "Type": 1,
+    "Name": "magic water"
+  },
+  "266": {
+    "ID": 266,
+    "Type": 1,
+    "Name": "elfin elixir"
+  },
+  "267": {
+    "ID": 267,
+    "Type": 1,
+    "Name": "rockbomb shard"
+  },
+  "268": {
+    "ID": 268,
+    "Type": 1,
+    "Name": "sage's stone"
+  },
+  "269": {
+    "ID": 269,
+    "Type": 1,
+    "Name": "seed of strength"
+  },
+  "270": {
+    "ID": 270,
+    "Type": 1,
+    "Name": "seed of agility"
+  },
+  "271": {
+    "ID": 271,
+    "Type": 1,
+    "Name": "seed of defence"
+  },
+  "272": {
+    "ID": 272,
+    "Type": 1,
+    "Name": "seed of wisdom"
+  },
+  "273": {
+    "ID": 273,
+    "Type": 1,
+    "Name": "seed of skill"
+  },
+  "274": {
+    "ID": 274,
+    "Type": 1,
+    "Name": "seed of life"
+  },
+  "275": {
+    "ID": 275,
+    "Type": 1,
+    "Name": "seed of magic"
+  },
+  "276": {
+    "ID": 276,
+    "Type": 1,
+    "Name": "mini medal"
+  },
+  "277": {
+    "ID": 277,
+    "Type": 1,
+    "Name": "thief's key"
+  },
+  "278": {
+    "ID": 278,
+    "Type": 1,
+    "Name": "magic key"
+  },
+  "279": {
+    "ID": 279,
+    "Type": 2,
+    "Name": "ultimate key"
+  },
+  "280": {
+    "ID": 280,
+    "Type": 1,
+    "Name": "orichalcum"
+  },
+  "281": {
+    "ID": 281,
+    "Type": 1,
+    "Name": "bunny tail"
+  },
+  "282": {
+    "ID": 282,
+    "Type": 1,
+    "Name": "timbrel of tension"
+  },
+  "283": {
+    "ID": 283,
+    "Type": 1,
+    "Name": "Baumren's bell"
+  },
+  "284": {
+    "ID": 284,
+    "Type": 1,
+    "Name": "gold nugget"
+  },
+  "285": {
+    "ID": 285,
+    "Type": 1,
+    "Name": "iron nail"
+  },
+  "286": {
+    "ID": 286,
+    "Type": 1,
+    "Name": "cowpat"
+  },
+  "287": {
+    "ID": 287,
+    "Type": 1,
+    "Name": "dragon dung"
+  },
+  "288": {
+    "ID": 288,
+    "Type": 1,
+    "Name": "rock salt"
+  },
+  "289": {
+    "ID": 289,
+    "Type": 1,
+    "Name": "saint's ashes"
+  },
+  "290": {
+    "ID": 290,
+    "Type": 1,
+    "Name": "wing of bat"
+  },
+  "291": {
+    "ID": 291,
+    "Type": 1,
+    "Name": "magic beast hide"
+  },
+  "292": {
+    "ID": 292,
+    "Type": 1,
+    "Name": "fresh milk"
+  },
+  "293": {
+    "ID": 293,
+    "Type": 1,
+    "Name": "rennet powder"
+  },
+  "294": {
+    "ID": 294,
+    "Type": 1,
+    "Name": "red mould"
+  },
+  "295": {
+    "ID": 295,
+    "Type": 1,
+    "Name": "waterweed mould"
+  },
+  "296": {
+    "ID": 296,
+    "Type": 1,
+    "Name": "premium mould"
+  },
+  "297": {
+    "ID": 297,
+    "Type": 1,
+    "Name": "plain cheese"
+  },
+  "298": {
+    "ID": 298,
+    "Type": 1,
+    "Name": "spicy cheese"
+  },
+  "299": {
+    "ID": 299,
+    "Type": 1,
+    "Name": "super spicy cheese"
+  },
+  "300": {
+    "ID": 300,
+    "Type": 1,
+    "Name": "scorching cheese"
+  },
+  "301": {
+    "ID": 301,
+    "Type": 1,
+    "Name": "cool cheese"
+  },
+  "302": {
+    "ID": 302,
+    "Type": 1,
+    "Name": "chilly cheese"
+  },
+  "303": {
+    "ID": 303,
+    "Type": 1,
+    "Name": "cold cheese"
+  },
+  "304": {
+    "ID": 304,
+    "Type": 1,
+    "Name": "c-c-cold cheese"
+  },
+  "305": {
+    "ID": 305,
+    "Type": 1,
+    "Name": "double bubble"
+  },
+  "306": {
+    "ID": 306,
+    "Type": 1,
+    "Name": "eau de monster"
+  },
+  "307": {
+    "ID": 307,
+    "Type": 1,
+    "Name": "super seed of skill"
+  },
+  "308": {
+    "ID": 308,
+    "Type": 1,
+    "Name": "mild cheese"
+  },
+  "309": {
+    "ID": 309,
+    "Type": 1,
+    "Name": "cured cheese"
+  },
+  "310": {
+    "ID": 310,
+    "Type": 1,
+    "Name": "angel cheese"
+  },
+  "311": {
+    "ID": 311,
+    "Type": 1,
+    "Name": "hard cheese"
+  },
+  "312": {
+    "ID": 312,
+    "Type": 1,
+    "Name": "soft cheese"
+  },
+  "313": {
+    "ID": 313,
+    "Type": 1,
+    "Name": "chunky cheese"
+  },
+  "314": {
+    "ID": 314,
+    "Type": 1,
+    "Name": "highly-strung cheese"
+  },
+  "315": {
+    "ID": 315,
+    "Type": 2,
+    "Name": "crystal ball"
+  },
+  "316": {
+    "ID": 316,
+    "Type": 2,
+    "Name": "tool bag"
+  },
+  "317": {
+    "ID": 317,
+    "Type": 2,
+    "Name": "Jessica's letter"
+  },
+  "318": {
+    "ID": 318,
+    "Type": 2,
+    "Name": "templar's ring"
+  },
+  "319": {
+    "ID": 319,
+    "Type": 2,
+    "Name": "world map"
+  },
+  "320": {
+    "ID": 320,
+    "Type": 2,
+    "Name": "Venus' tear"
+  },
+  "321": {
+    "ID": 321,
+    "Type": 2,
+    "Name": "Moonshadow harp"
+  },
+  "322": {
+    "ID": 322,
+    "Type": 2,
+    "Name": "sand of serenity"
+  },
+  "323": {
+    "ID": 323,
+    "Type": 2,
+    "Name": "lizard humour"
+  },
+  "324": {
+    "ID": 324,
+    "Type": 2,
+    "Name": "Argon heart"
+  },
+  "325": {
+    "ID": 325,
+    "Type": 2,
+    "Name": "great big Argon heart"
+  },
+  "326": {
+    "ID": 326,
+    "Type": 2,
+    "Name": "magic mirror"
+  },
+  "327": {
+    "ID": 327,
+    "Type": 2,
+    "Name": "sun mirror"
+  },
+  "328": {
+    "ID": 328,
+    "Type": 2,
+    "Name": "stone sword"
+  },
+  "329": {
+    "ID": 329,
+    "Type": 2,
+    "Name": "Kran Spinels"
+  },
+  "330": {
+    "ID": 330,
+    "Type": 2,
+    "Name": "the Big Book of Barriers'"
+  },
+  "331": {
+    "ID": 331,
+    "Type": 2,
+    "Name": "Marta's bag"
+  },
+  "332": {
+    "ID": 332,
+    "Type": 2,
+    "Name": "illuminated sea chart"
+  },
+  "333": {
+    "ID": 333,
+    "Type": 2,
+    "Name": "nook grass"
+  },
+  "334": {
+    "ID": 334,
+    "Type": 2,
+    "Name": "Godbird's soulstone"
+  },
+  "335": {
+    "ID": 335,
+    "Type": 2,
+    "Name": "darktree leaf"
+  },
+  "336": {
+    "ID": 336,
+    "Type": 2,
+    "Name": "templar captain's ring"
+  },
+  "337": {
+    "ID": 337,
+    "Type": 2,
+    "Name": "Argon ring"
+  },
+  "338": {
+    "ID": 338,
+    "Type": 2,
+    "Name": "echo flute"
+  },
+  "339": {
+    "ID": 339,
+    "Type": 1,
+    "Name": "Eros' bow recipe"
+  },
+  "340": {
+    "ID": 340,
+    "Type": 1,
+    "Name": "imp knife recipe"
+  },
+  "341": {
+    "ID": 341,
+    "Type": 1,
+    "Name": "dragon slayer recipe"
+  },
+  "342": {
+    "ID": 342,
+    "Type": 1,
+    "Name": "thief's key recipe"
+  },
+  "343": {
+    "ID": 343,
+    "Type": 2,
+    "Name": "Morrie's memo #1"
+  },
+  "344": {
+    "ID": 344,
+    "Type": 2,
+    "Name": "Morrie's memo #2"
+  },
+  "345": {
+    "ID": 345,
+    "Type": 2,
+    "Name": "Morrie's memo #3"
+  },
+  "346": {
+    "ID": 346,
+    "Type": 2,
+    "Name": "monster arena key"
+  },
+  "347": {
+    "ID": 347,
+    "Type": 2,
+    "Name": "Godbird sceptre"
+  },
+  "348": {
+    "ID": 348,
+    "Type": 2,
+    "Name": "gold orb"
+  },
+  "349": {
+    "ID": 349,
+    "Type": 2,
+    "Name": "silver orb"
+  },
+  "350": {
+    "ID": 350,
+    "Type": 2,
+    "Name": "red orb"
+  },
+  "351": {
+    "ID": 351,
+    "Type": 2,
+    "Name": "blue orb"
+  },
+  "352": {
+    "ID": 352,
+    "Type": 2,
+    "Name": "green orb"
+  },
+  "353": {
+    "ID": 353,
+    "Type": 2,
+    "Name": "yellow orb"
+  },
+  "354": {
+    "ID": 354,
+    "Type": 2,
+    "Name": "purple orb"
+  },
+  "355": {
+    "ID": 355,
+    "Type": 1,
+    "Name": "copper monster coin"
+  },
+  "356": {
+    "ID": 356,
+    "Type": 1,
+    "Name": "silver monster coin"
+  },
+  "357": {
+    "ID": 357,
+    "Type": 1,
+    "Name": "gold monster coin"
+  },
+  "358": {
+    "ID": 358,
+    "Type": 1,
+    "Name": "flame shield"
+  },
+  "359": {
+    "ID": 359,
+    "Type": 1,
+    "Name": "ice shield"
+  },
+  "360": {
+    "ID": 360,
+    "Type": 1,
+    "Name": "Erdrick's sword"
+  },
+  "361": {
+    "ID": 361,
+    "Type": 1,
+    "Name": "demonsbane"
+  },
+  "362": {
+    "ID": 362,
+    "Type": 1,
+    "Name": "dread dagger"
+  },
+  "363": {
+    "ID": 363,
+    "Type": 1,
+    "Name": "golden gar"
+  },
+  "364": {
+    "ID": 364,
+    "Type": 1,
+    "Name": "black buzzard"
+  },
+  "365": {
+    "ID": 365,
+    "Type": 1,
+    "Name": "bad axe"
+  },
+  "366": {
+    "ID": 366,
+    "Type": 1,
+    "Name": "candy cane"
+  },
+  "367": {
+    "ID": 367,
+    "Type": 1,
+    "Name": "honking hammer"
+  },
+  "368": {
+    "ID": 368,
+    "Type": 1,
+    "Name": "wizardly whip"
+  },
+  "369": {
+    "ID": 369,
+    "Type": 1,
+    "Name": "slime stick"
+  },
+  "370": {
+    "ID": 370,
+    "Type": 1,
+    "Name": "night sniper"
+  },
+  "371": {
+    "ID": 371,
+    "Type": 1,
+    "Name": "iron claw"
+  },
+  "372": {
+    "ID": 372,
+    "Type": 1,
+    "Name": "fire claw"
+  },
+  "373": {
+    "ID": 373,
+    "Type": 1,
+    "Name": "cobra claw"
+  },
+  "374": {
+    "ID": 374,
+    "Type": 1,
+    "Name": "king cobra claw"
+  },
+  "375": {
+    "ID": 375,
+    "Type": 1,
+    "Name": "beast claw"
+  },
+  "376": {
+    "ID": 376,
+    "Type": 1,
+    "Name": "beast talon"
+  },
+  "377": {
+    "ID": 377,
+    "Type": 1,
+    "Name": "dragon claw"
+  },
+  "378": {
+    "ID": 378,
+    "Type": 1,
+    "Name": "Dragonlord claw"
+  },
+  "379": {
+    "ID": 379,
+    "Type": 1,
+    "Name": "orichalcum claw"
+  },
+  "380": {
+    "ID": 380,
+    "Type": 1,
+    "Name": "gryphon talon"
+  },
+  "381": {
+    "ID": 381,
+    "Type": 1,
+    "Name": "iron fan"
+  },
+  "382": {
+    "ID": 382,
+    "Type": 1,
+    "Name": "peacock fan"
+  },
+  "383": {
+    "ID": 383,
+    "Type": 1,
+    "Name": "rainbow fan"
+  },
+  "384": {
+    "ID": 384,
+    "Type": 1,
+    "Name": "stellar fan"
+  },
+  "385": {
+    "ID": 385,
+    "Type": 1,
+    "Name": "lunar fan"
+  },
+  "386": {
+    "ID": 386,
+    "Type": 1,
+    "Name": "solar fan"
+  },
+  "387": {
+    "ID": 387,
+    "Type": 1,
+    "Name": "dryspell fan"
+  },
+  "388": {
+    "ID": 388,
+    "Type": 1,
+    "Name": "kaleidoscope"
+  },
+  "389": {
+    "ID": 389,
+    "Type": 1,
+    "Name": "fan of peace"
+  },
+  "390": {
+    "ID": 390,
+    "Type": 1,
+    "Name": "big bad boss shield"
+  },
+  "391": {
+    "ID": 391,
+    "Type": 1,
+    "Name": "gothic mitre"
+  },
+  "392": {
+    "ID": 392,
+    "Type": 1,
+    "Name": "dogsbody's hood"
+  },
+  "393": {
+    "ID": 393,
+    "Type": 1,
+    "Name": "hexlet's hat"
+  },
+  "394": {
+    "ID": 394,
+    "Type": 1,
+    "Name": "kunoichi headband"
+  },
+  "395": {
+    "ID": 395,
+    "Type": 1,
+    "Name": "mad cap"
+  },
+  "396": {
+    "ID": 396,
+    "Type": 1,
+    "Name": "gothic vestment"
+  },
+  "397": {
+    "ID": 397,
+    "Type": 1,
+    "Name": "dogsbody's vest"
+  },
+  "398": {
+    "ID": 398,
+    "Type": 1,
+    "Name": "nitid tutu"
+  },
+  "399": {
+    "ID": 399,
+    "Type": 1,
+    "Name": "hexlet's skirt"
+  },
+  "400": {
+    "ID": 400,
+    "Type": 1,
+    "Name": "abiding blazer"
+  },
+  "401": {
+    "ID": 401,
+    "Type": 1,
+    "Name": "oriental warrior wear"
+  },
+  "402": {
+    "ID": 402,
+    "Type": 1,
+    "Name": "butler's best"
+  },
+  "403": {
+    "ID": 403,
+    "Type": 1,
+    "Name": "jester's outfit"
+  },
+  "404": {
+    "ID": 404,
+    "Type": 1,
+    "Name": "cap'n's clothes"
+  },
+  "405": {
+    "ID": 405,
+    "Type": 1,
+    "Name": "Mandarin dress"
+  },
+  "406": {
+    "ID": 406,
+    "Type": 1,
+    "Name": "kunoichi costume"
+  },
+  "407": {
+    "ID": 407,
+    "Type": 1,
+    "Name": "über sacred armour"
+  },
+  "408": {
+    "ID": 408,
+    "Type": 1,
+    "Name": "white gold bell"
+  },
+  "409": {
+    "ID": 409,
+    "Type": 1,
+    "Name": "darksteel bell"
+  },
+  "410": {
+    "ID": 410,
+    "Type": 1,
+    "Name": "ethereal stone"
+  },
+  "411": {
+    "ID": 411,
+    "Type": 1,
+    "Name": "Alistair's armour"
+  },
+  "412": {
+    "ID": 412,
+    "Type": 1,
+    "Name": "metal slime earrings"
+  },
+  "413": {
+    "ID": 413,
+    "Type": 1,
+    "Name": "fire dragon charm"
+  },
+  "414": {
+    "ID": 414,
+    "Type": 1,
+    "Name": "light dragon charm"
+  },
+  "415": {
+    "ID": 415,
+    "Type": 1,
+    "Name": "lord's bracer"
+  },
+  "416": {
+    "ID": 416,
+    "Type": 1,
+    "Name": "super double bubble"
+  },
+  "417": {
+    "ID": 417,
+    "Type": 1,
+    "Name": "super seed of agility"
+  },
+  "418": {
+    "ID": 418,
+    "Type": 1,
+    "Name": "super seed of defence"
+  },
+  "419": {
+    "ID": 419,
+    "Type": 1,
+    "Name": "super seed of strength"
+  },
+  "420": {
+    "ID": 420,
+    "Type": 1,
+    "Name": "super seed of wisdom"
+  },
+  "421": {
+    "ID": 421,
+    "Type": 1,
+    "Name": "super seed of magic"
+  },
+  "422": {
+    "ID": 422,
+    "Type": 1,
+    "Name": "super seed of life"
+  },
+  "423": {
+    "ID": 423,
+    "Type": 1,
+    "Name": "metal slime platter"
+  },
+  "424": {
+    "ID": 424,
+    "Type": 1,
+    "Name": "Healie hat"
+  },
+  "425": {
+    "ID": 425,
+    "Type": 1,
+    "Name": "Healie t-shirt"
+  },
+  "426": {
+    "ID": 426,
+    "Type": 1,
+    "Name": "hearty ring"
+  },
+  "427": {
+    "ID": 427,
+    "Type": 1,
+    "Name": "lucky pendant"
+  },
+  "428": {
+    "ID": 428,
+    "Type": 1,
+    "Name": "golden slippers"
+  },
+  "429": {
+    "ID": 429,
+    "Type": 1,
+    "Name": "Ye Olde Sword of Erdrick"
+  },
+  "430": {
+    "ID": 430,
+    "Type": 3,
+    "Name": "DUMMY 7"
+  },
+  "431": {
+    "ID": 431,
+    "Type": 3,
+    "Name": "DUMMY 8"
+  },
+  "432": {
+    "ID": 432,
+    "Type": 3,
+    "Name": "DUMMY 9"
+  }
+}

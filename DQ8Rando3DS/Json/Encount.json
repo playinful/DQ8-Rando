@@ -1,0 +1,4289 @@
+{
+  "3": {
+    "ID": 3,
+    "SortIndex": 100,
+    "Name": "Farebury Region - central plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 2.5
+  },
+  "4": {
+    "ID": 4,
+    "SortIndex": 100,
+    "Name": "Farebury Region - central plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 3.75
+  },
+  "5": {
+    "ID": 5,
+    "SortIndex": 100,
+    "Name": "Farebury Region - central woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 3.5
+  },
+  "6": {
+    "ID": 6,
+    "SortIndex": 100,
+    "Name": "Farebury Region - west plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 3.2
+  },
+  "7": {
+    "ID": 7,
+    "SortIndex": 100,
+    "Name": "Farebury Region - west plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 4.8333333333
+  },
+  "8": {
+    "ID": 8,
+    "SortIndex": 100,
+    "Name": "Farebury Region - west woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 3.8
+  },
+  "9": {
+    "ID": 9,
+    "SortIndex": 110,
+    "Name": "Waterfall Cave - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 5.5
+  },
+  "10": {
+    "ID": 10,
+    "SortIndex": 110,
+    "Name": "Waterfall Cave - level 2, 3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 7.2857142857
+  },
+  "11": {
+    "ID": 11,
+    "SortIndex": 100,
+    "Name": "Farebury Region - east plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 4
+  },
+  "12": {
+    "ID": 12,
+    "SortIndex": 100,
+    "Name": "Farebury Region - east plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 7
+  },
+  "13": {
+    "ID": 13,
+    "SortIndex": 100,
+    "Name": "Farebury Region - east woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 6.8333333333
+  },
+  "16": {
+    "ID": 16,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - north plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 16.8333333333
+  },
+  "17": {
+    "ID": 17,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - north plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 13.6
+  },
+  "18": {
+    "ID": 18,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - north woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 20.2
+  },
+  "19": {
+    "ID": 19,
+    "SortIndex": 130,
+    "Name": "Tower of Alexandra - outside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 14.6666666667
+  },
+  "20": {
+    "ID": 20,
+    "SortIndex": 130,
+    "Name": "Tower of Alexandra - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 15.2
+  },
+  "21": {
+    "ID": 21,
+    "SortIndex": 130,
+    "Name": "Tower of Alexandra - level 3-6",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 15.6666666667
+  },
+  "22": {
+    "ID": 22,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - beach (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 22.2
+  },
+  "23": {
+    "ID": 23,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - south plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 23.4
+  },
+  "24": {
+    "ID": 24,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - south plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 19.8
+  },
+  "25": {
+    "ID": 25,
+    "SortIndex": 120,
+    "Name": "Alexandria Region - south woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 20.2
+  },
+  "28": {
+    "ID": 28,
+    "SortIndex": 140,
+    "Name": "Maella Region - north plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 27.8
+  },
+  "29": {
+    "ID": 29,
+    "SortIndex": 140,
+    "Name": "Maella Region - north plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 29.2
+  },
+  "30": {
+    "ID": 30,
+    "SortIndex": 140,
+    "Name": "Maella Region - north woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 34.8
+  },
+  "31": {
+    "ID": 31,
+    "SortIndex": 140,
+    "Name": "Maella Region - south plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 33.4
+  },
+  "32": {
+    "ID": 32,
+    "SortIndex": 140,
+    "Name": "Maella Region - south plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 35.6
+  },
+  "33": {
+    "ID": 33,
+    "SortIndex": 140,
+    "Name": "Maella Region - south woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 41.4
+  },
+  "34": {
+    "ID": 34,
+    "SortIndex": 150,
+    "Name": "Ruined Abbey - outside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 34.25
+  },
+  "35": {
+    "ID": 35,
+    "SortIndex": 150,
+    "Name": "Ruined Abbey - level 1-3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 40.6
+  },
+  "36": {
+    "ID": 36,
+    "SortIndex": 150,
+    "Name": "Ruined Abbey - level 4, 3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 43.6666666667
+  },
+  "39": {
+    "ID": 39,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - west side plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 41.8333333333
+  },
+  "40": {
+    "ID": 40,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - west side plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 43
+  },
+  "41": {
+    "ID": 41,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - west side woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 45.7142857143
+  },
+  "42": {
+    "ID": 42,
+    "SortIndex": 140,
+    "Name": "Maella Region - northeast plains (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 48.6
+  },
+  "43": {
+    "ID": 43,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - northeast plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 47.5
+  },
+  "44": {
+    "ID": 44,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - northeast plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 46.6
+  },
+  "45": {
+    "ID": 45,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - northeast woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 52.2
+  },
+  "46": {
+    "ID": 46,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - coast (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 37.6
+  },
+  "47": {
+    "ID": 47,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - south plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 46.6666666667
+  },
+  "48": {
+    "ID": 48,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - south plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 47.2
+  },
+  "49": {
+    "ID": 49,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - south woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 47.8
+  },
+  "50": {
+    "ID": 50,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - riverbank (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 42.5
+  },
+  "51": {
+    "ID": 51,
+    "SortIndex": 170,
+    "Name": "Wishers' Peak - inside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 49.6
+  },
+  "52": {
+    "ID": 52,
+    "SortIndex": 170,
+    "Name": "Wishers' Peak - outside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 56
+  },
+  "53": {
+    "ID": 53,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - northwest plains (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 60.8
+  },
+  "54": {
+    "ID": 54,
+    "SortIndex": 160,
+    "Name": "Kingdom of Ascantha - northwest woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 61.2
+  },
+  "57": {
+    "ID": 57,
+    "SortIndex": 180,
+    "Name": "Pickham Region - east plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 61.5
+  },
+  "58": {
+    "ID": 58,
+    "SortIndex": 180,
+    "Name": "Pickham Region - east plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 60.75
+  },
+  "59": {
+    "ID": 59,
+    "SortIndex": 180,
+    "Name": "Pickham Region - east woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 61
+  },
+  "60": {
+    "ID": 60,
+    "SortIndex": 180,
+    "Name": "Pickham Region - west plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 65
+  },
+  "61": {
+    "ID": 61,
+    "SortIndex": 180,
+    "Name": "Pickham Region - west plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 63.8
+  },
+  "62": {
+    "ID": 62,
+    "SortIndex": 180,
+    "Name": "Pickham Region - west woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 61.8
+  },
+  "63": {
+    "ID": 63,
+    "SortIndex": 180,
+    "Name": "Pickham Region - beach (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 49
+  },
+  "64": {
+    "ID": 64,
+    "SortIndex": 190,
+    "Name": "Swordsman's Labyrinth - level 1, 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 59.6666666667
+  },
+  "65": {
+    "ID": 65,
+    "SortIndex": 190,
+    "Name": "Swordsman's Labyrinth - level 3, 4",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 62
+  },
+  "68": {
+    "ID": 68,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - south plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 47.6666666667
+  },
+  "69": {
+    "ID": 69,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - south plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 42.4
+  },
+  "70": {
+    "ID": 70,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - south woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 50.875
+  },
+  "71": {
+    "ID": 71,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - west cape (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 65.7
+  },
+  "72": {
+    "ID": 72,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - north plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 52.1111111111
+  },
+  "73": {
+    "ID": 73,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - north plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 51.7777777778
+  },
+  "74": {
+    "ID": 74,
+    "SortIndex": 200,
+    "Name": "Kingdom of Trodain - north woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 57
+  },
+  "75": {
+    "ID": 75,
+    "SortIndex": 210,
+    "Name": "Castle Trodain - courtyard",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 79.2857142857
+  },
+  "76": {
+    "ID": 76,
+    "SortIndex": 210,
+    "Name": "Castle Trodain - interior",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 82
+  },
+  "77": {
+    "ID": 77,
+    "SortIndex": 220,
+    "Name": "Beneath Ascantha",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 41.2
+  },
+  "78": {
+    "ID": 78,
+    "SortIndex": 230,
+    "Name": "Land of the Moles (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 58.6
+  },
+  "79": {
+    "ID": 79,
+    "SortIndex": 240,
+    "Name": "Mole Hole - level 1, 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 54.8
+  },
+  "80": {
+    "ID": 80,
+    "SortIndex": 240,
+    "Name": "Mole Hole - level 2, 3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 49.8
+  },
+  "81": {
+    "ID": 81,
+    "SortIndex": 250,
+    "Name": "Ocean - central ocean",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 73.25
+  },
+  "82": {
+    "ID": 82,
+    "SortIndex": 250,
+    "Name": "Ocean - Arcadia canal",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 78.75
+  },
+  "83": {
+    "ID": 83,
+    "SortIndex": 250,
+    "Name": "Ocean - outer ocean",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 94
+  },
+  "84": {
+    "ID": 84,
+    "SortIndex": 250,
+    "Name": "Ocean - distant ocean",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 121
+  },
+  "85": {
+    "ID": 85,
+    "SortIndex": 250,
+    "Name": "Ocean - map's edge",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 138.75
+  },
+  "86": {
+    "ID": 86,
+    "SortIndex": 250,
+    "Name": "Ocean - ?",
+    "DoEdit": false,
+    "Parent": 81,
+    "PowerLevel": 67
+  },
+  "87": {
+    "ID": 87,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - north plains (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 85.8333333333
+  },
+  "88": {
+    "ID": 88,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - north woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 98.25
+  },
+  "89": {
+    "ID": 89,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - south, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 97.8
+  },
+  "90": {
+    "ID": 90,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - south, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 85
+  },
+  "91": {
+    "ID": 91,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - plains near tree, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 94
+  },
+  "92": {
+    "ID": 92,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - plains near tree, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 88.2
+  },
+  "93": {
+    "ID": 93,
+    "SortIndex": 260,
+    "Name": "Baccarat Region - woods near tree (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 90
+  },
+  "94": {
+    "ID": 94,
+    "SortIndex": 270,
+    "Name": "Northwest Isle (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 88
+  },
+  "95": {
+    "ID": 95,
+    "SortIndex": 280,
+    "Name": "Isle North of Farebury (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 98
+  },
+  "96": {
+    "ID": 96,
+    "SortIndex": 290,
+    "Name": "Princess Minnie's Island/Maella isle (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 80.8
+  },
+  "97": {
+    "ID": 97,
+    "SortIndex": 300,
+    "Name": "Southern isles woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 94.4
+  },
+  "98": {
+    "ID": 98,
+    "SortIndex": 300,
+    "Name": "Southern isles plains (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 91.6
+  },
+  "99": {
+    "ID": 99,
+    "SortIndex": 310,
+    "Name": "Uncharted Island (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 53.25
+  },
+  "100": {
+    "ID": 100,
+    "SortIndex": 320,
+    "Name": "Holy Isle of Neos - day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 85
+  },
+  "101": {
+    "ID": 101,
+    "SortIndex": 320,
+    "Name": "Holy Isle of Neos - night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 85.6
+  },
+  "105": {
+    "ID": 105,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - west plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 91
+  },
+  "106": {
+    "ID": 106,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - west plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 87.2
+  },
+  "107": {
+    "ID": 107,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - west woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 89.6
+  },
+  "108": {
+    "ID": 108,
+    "SortIndex": 340,
+    "Name": "Western Argonia - east plains (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 102.4
+  },
+  "109": {
+    "ID": 109,
+    "SortIndex": 340,
+    "Name": "Western Argonia - west plains (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 98.2
+  },
+  "110": {
+    "ID": 110,
+    "SortIndex": 340,
+    "Name": "Western Argonia - south plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 86.6
+  },
+  "111": {
+    "ID": 111,
+    "SortIndex": 340,
+    "Name": "Western Argonia - south plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 97.6
+  },
+  "112": {
+    "ID": 112,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - east plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 105.6
+  },
+  "113": {
+    "ID": 113,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - east plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 96.8
+  },
+  "114": {
+    "ID": 114,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - east woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 96
+  },
+  "115": {
+    "ID": 115,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - beach, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 95.8333333333
+  },
+  "116": {
+    "ID": 116,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - beach, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 95.5
+  },
+  "117": {
+    "ID": 117,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - north plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 116
+  },
+  "118": {
+    "ID": 118,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - north plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 104.3333333333
+  },
+  "119": {
+    "ID": 119,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - north woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 91.8
+  },
+  "120": {
+    "ID": 120,
+    "SortIndex": 330,
+    "Name": "Eastern Argonia - beach coastline (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 113.5714285714
+  },
+  "121": {
+    "ID": 121,
+    "SortIndex": 350,
+    "Name": "Savella Area - day",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 99.6
+  },
+  "122": {
+    "ID": 122,
+    "SortIndex": 350,
+    "Name": "Savella Area - night",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 97.2
+  },
+  "123": {
+    "ID": 123,
+    "SortIndex": 360,
+    "Name": "Cape West of Pickham - (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 84.4444444444
+  },
+  "124": {
+    "ID": 124,
+    "SortIndex": 370,
+    "Name": "Royal Hunting Ground",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 144.8
+  },
+  "125": {
+    "ID": 125,
+    "SortIndex": 380,
+    "Name": "Desert - day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 98.6
+  },
+  "126": {
+    "ID": 126,
+    "SortIndex": 380,
+    "Name": "Desert - night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 115.8
+  },
+  "127": {
+    "ID": 127,
+    "SortIndex": 390,
+    "Name": "Dark Ruins - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 129.7142857143
+  },
+  "128": {
+    "ID": 128,
+    "SortIndex": 390,
+    "Name": "Dark Ruins - basement level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 157.2
+  },
+  "129": {
+    "ID": 129,
+    "SortIndex": 390,
+    "Name": "Dark Ruins - basement level 2, 4",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 166
+  },
+  "131": {
+    "ID": 131,
+    "SortIndex": 400,
+    "Name": "Arcadia Region - south plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 161.8
+  },
+  "132": {
+    "ID": 132,
+    "SortIndex": 400,
+    "Name": "Arcadia Region - south plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 138
+  },
+  "133": {
+    "ID": 133,
+    "SortIndex": 400,
+    "Name": "Arcadia Region - south woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 159.3333333333
+  },
+  "134": {
+    "ID": 134,
+    "SortIndex": 400,
+    "Name": "Arcadia Region - north plains, day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 169.8333333333
+  },
+  "135": {
+    "ID": 135,
+    "SortIndex": 400,
+    "Name": "Arcadia Region - north plains, night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 167.6
+  },
+  "136": {
+    "ID": 136,
+    "SortIndex": 400,
+    "Name": "Arcadia Region - north woods (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 170.8
+  },
+  "137": {
+    "ID": 137,
+    "SortIndex": 410,
+    "Name": "Rydon's Tower - outside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 120.5555555556
+  },
+  "138": {
+    "ID": 138,
+    "SortIndex": 410,
+    "Name": "Rydon's Tower - level 1-3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 187
+  },
+  "139": {
+    "ID": 139,
+    "SortIndex": 410,
+    "Name": "Rydon's Tower - level 7-10",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 192.6
+  },
+  "140": {
+    "ID": 140,
+    "SortIndex": 420,
+    "Name": "Blizzard Peaks - ?",
+    "DoEdit": false,
+    "Parent": 142,
+    "PowerLevel": 188.3333333333
+  },
+  "141": {
+    "ID": 141,
+    "SortIndex": 420,
+    "Name": "Blizzard Peaks - ?",
+    "DoEdit": false,
+    "Parent": 143,
+    "PowerLevel": 194.2
+  },
+  "142": {
+    "ID": 142,
+    "SortIndex": 420,
+    "Name": "Blizzard Peaks - day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 216
+  },
+  "143": {
+    "ID": 143,
+    "SortIndex": 420,
+    "Name": "Blizzard Peaks - night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 250
+  },
+  "144": {
+    "ID": 144,
+    "SortIndex": 430,
+    "Name": "Herb Grotto - level 1, 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 221.6
+  },
+  "145": {
+    "ID": 145,
+    "SortIndex": 430,
+    "Name": "Herb Grotto - level 3, 4",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 233.8
+  },
+  "146": {
+    "ID": 146,
+    "SortIndex": 440,
+    "Name": "Dragon Graveyard - level 1 west",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 242.8
+  },
+  "147": {
+    "ID": 147,
+    "SortIndex": 440,
+    "Name": "Dragon Graveyard - level 1 east",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 242.8
+  },
+  "148": {
+    "ID": 148,
+    "SortIndex": 450,
+    "Name": "Pirate's Cove - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 190.5
+  },
+  "149": {
+    "ID": 149,
+    "SortIndex": 450,
+    "Name": "Pirate's Cove - level 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 232
+  },
+  "150": {
+    "ID": 150,
+    "SortIndex": 450,
+    "Name": "Pirate's Cove - level 3, 4",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 260
+  },
+  "151": {
+    "ID": 151,
+    "SortIndex": 460,
+    "Name": "Isolated Plateau - west plains, day",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 284.1428571429
+  },
+  "152": {
+    "ID": 152,
+    "SortIndex": 460,
+    "Name": "Isolated Plateau - west plains, night",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 192
+  },
+  "153": {
+    "ID": 153,
+    "SortIndex": 460,
+    "Name": "Isolated Plateau - near lake",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 241.6666666667
+  },
+  "154": {
+    "ID": 154,
+    "SortIndex": 460,
+    "Name": "Isolated Plateau - east plains, day",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 281.4285714286
+  },
+  "155": {
+    "ID": 155,
+    "SortIndex": 460,
+    "Name": "Isolated Plateau - east plains, night",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 192
+  },
+  "156": {
+    "ID": 156,
+    "SortIndex": 460,
+    "Name": "Isolated Plateau - woods",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 257.4
+  },
+  "157": {
+    "ID": 157,
+    "SortIndex": 470,
+    "Name": "World of Darkness - west plains",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 300.1666666667
+  },
+  "158": {
+    "ID": 158,
+    "SortIndex": 470,
+    "Name": "World of Darkness - east plains",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 299
+  },
+  "159": {
+    "ID": 159,
+    "SortIndex": 480,
+    "Name": "Godbird's Eyrie (Dark) - outside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 293
+  },
+  "160": {
+    "ID": 160,
+    "SortIndex": 480,
+    "Name": "Godbird's Eyrie (Dark) - level 1, 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 253.1666666667
+  },
+  "161": {
+    "ID": 161,
+    "SortIndex": 480,
+    "Name": "Godbird's Eyrie (Dark) - level 3, 4",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 256.8333333333
+  },
+  "162": {
+    "ID": 162,
+    "SortIndex": 480,
+    "Name": "Godbird's Eyrie (Dark) - level 5",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 308.4
+  },
+  "163": {
+    "ID": 163,
+    "SortIndex": 490,
+    "Name": "Godbird's Eyrie - outside",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 222.5714285714
+  },
+  "164": {
+    "ID": 164,
+    "SortIndex": 490,
+    "Name": "Godbird's Eyrie - level 1-3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 276.8333333333
+  },
+  "165": {
+    "ID": 165,
+    "SortIndex": 490,
+    "Name": "Godbird's Eyrie - level 4, 5",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 232.3333333333
+  },
+  "166": {
+    "ID": 166,
+    "SortIndex": 500,
+    "Name": "Areas Accessible by Air - day (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 199.1666666667
+  },
+  "167": {
+    "ID": 167,
+    "SortIndex": 500,
+    "Name": "Areas Accessible by Air - night (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 135
+  },
+  "168": {
+    "ID": 168,
+    "SortIndex": 510,
+    "Name": "Untrodden Groves - ?",
+    "DoEdit": false,
+    "Parent": 169,
+    "PowerLevel": 291
+  },
+  "169": {
+    "ID": 169,
+    "SortIndex": 510,
+    "Name": "Untrodden Groves (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 291
+  },
+  "170": {
+    "ID": 170,
+    "SortIndex": 505,
+    "Name": "Egeus' Tablet (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 310.4
+  },
+  "171": {
+    "ID": 171,
+    "SortIndex": 507,
+    "Name": "Howlwind Hill (Act 1)",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 50.2857142857
+  },
+  "172": {
+    "ID": 172,
+    "SortIndex": 520,
+    "Name": "Black Citadel - outside",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 361
+  },
+  "173": {
+    "ID": 173,
+    "SortIndex": 520,
+    "Name": "Black Citadel - inside building",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 369
+  },
+  "174": {
+    "ID": 174,
+    "SortIndex": 520,
+    "Name": "Black Citadel - inside citadel",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 366.1428571429
+  },
+  "175": {
+    "ID": 175,
+    "SortIndex": 520,
+    "Name": "Black Citadel - fake town, loop 2",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 376.6
+  },
+  "176": {
+    "ID": 176,
+    "SortIndex": 520,
+    "Name": "Black Citadel - fake town, loop 3",
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 376.6
+  },
+  "177": {
+    "ID": 177,
+    "SortIndex": 530,
+    "Name": "Trolls' Maze",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 375
+  },
+  "178": {
+    "ID": 178,
+    "SortIndex": 540,
+    "Name": "Dragovian Path - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 396.8
+  },
+  "179": {
+    "ID": 179,
+    "SortIndex": 540,
+    "Name": "Dragovian Path - level 2, 3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 448.8
+  },
+  "180": {
+    "ID": 180,
+    "SortIndex": 540,
+    "Name": "Dragovian Path - level 4",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 487.6
+  },
+  "181": {
+    "ID": 181,
+    "SortIndex": 550,
+    "Name": "Heavenly Dais - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 444.3
+  },
+  "182": {
+    "ID": 182,
+    "SortIndex": 550,
+    "Name": "Heavenly Dais - level 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 504.6363636364
+  },
+  "185": {
+    "ID": 185,
+    "SortIndex": 105,
+    "Name": "Farebury Region - east plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 69.6666666667
+  },
+  "186": {
+    "ID": 186,
+    "SortIndex": 105,
+    "Name": "Farebury Region - east plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 119.7142857143
+  },
+  "187": {
+    "ID": 187,
+    "SortIndex": 105,
+    "Name": "Farebury Region - east woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 64.6
+  },
+  "188": {
+    "ID": 188,
+    "SortIndex": 105,
+    "Name": "Farebury Region - west plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 161.8
+  },
+  "189": {
+    "ID": 189,
+    "SortIndex": 105,
+    "Name": "Farebury Region - west plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 74.8333333333
+  },
+  "190": {
+    "ID": 190,
+    "SortIndex": 105,
+    "Name": "Farebury Region - west woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 143.4285714286
+  },
+  "191": {
+    "ID": 191,
+    "SortIndex": 105,
+    "Name": "Farebury Region - plains near egeus' tablet, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 108.8571428571
+  },
+  "192": {
+    "ID": 192,
+    "SortIndex": 105,
+    "Name": "Farebury Region - plains near egeus' tablet, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 42.5714285714
+  },
+  "193": {
+    "ID": 193,
+    "SortIndex": 105,
+    "Name": "Farebury Region - woods near egeus' tablet (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 105.4285714286
+  },
+  "196": {
+    "ID": 196,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - north plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 146.8571428571
+  },
+  "197": {
+    "ID": 197,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - north plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 156.6
+  },
+  "198": {
+    "ID": 198,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - north woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 131.5714285714
+  },
+  "199": {
+    "ID": 199,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - beach (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 65.5
+  },
+  "200": {
+    "ID": 200,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - south plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 77.2
+  },
+  "201": {
+    "ID": 201,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - south plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 181.8333333333
+  },
+  "202": {
+    "ID": 202,
+    "SortIndex": 125,
+    "Name": "Alexandria Region - south woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 80
+  },
+  "205": {
+    "ID": 205,
+    "SortIndex": 145,
+    "Name": "Maella Region - north plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 169.2857142857
+  },
+  "206": {
+    "ID": 206,
+    "SortIndex": 145,
+    "Name": "Maella Region - north plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 118
+  },
+  "207": {
+    "ID": 207,
+    "SortIndex": 145,
+    "Name": "Maella Region - north woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 72.1666666667
+  },
+  "208": {
+    "ID": 208,
+    "SortIndex": 145,
+    "Name": "Maella Region - south plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 97
+  },
+  "209": {
+    "ID": 209,
+    "SortIndex": 145,
+    "Name": "Maella Region - south plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 103.8
+  },
+  "210": {
+    "ID": 210,
+    "SortIndex": 145,
+    "Name": "Maella Region - south woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 137.8
+  },
+  "213": {
+    "ID": 213,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - west side plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 78.6666666667
+  },
+  "214": {
+    "ID": 214,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - west side plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 84.625
+  },
+  "215": {
+    "ID": 215,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - west side woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 87.2857142857
+  },
+  "216": {
+    "ID": 216,
+    "SortIndex": 145,
+    "Name": "Maella Region - northeast plains (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 168
+  },
+  "217": {
+    "ID": 217,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - northeast plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 137.8
+  },
+  "218": {
+    "ID": 218,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - northeast plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 162.6666666667
+  },
+  "219": {
+    "ID": 219,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - northeast woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 198
+  },
+  "220": {
+    "ID": 220,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - coast (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 128.2
+  },
+  "221": {
+    "ID": 221,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - south plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 169.6
+  },
+  "222": {
+    "ID": 222,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - south plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 111.4
+  },
+  "223": {
+    "ID": 223,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - south woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 120.2
+  },
+  "224": {
+    "ID": 224,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - riverbank (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 127.6
+  },
+  "225": {
+    "ID": 225,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - northwest plains (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 127.4
+  },
+  "226": {
+    "ID": 226,
+    "SortIndex": 165,
+    "Name": "Kingdom of Ascantha - northwest woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 145.8571428571
+  },
+  "229": {
+    "ID": 229,
+    "SortIndex": 185,
+    "Name": "Pickham Region - east plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 125.8333333333
+  },
+  "230": {
+    "ID": 230,
+    "SortIndex": 185,
+    "Name": "Pickham Region - east plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 200
+  },
+  "231": {
+    "ID": 231,
+    "SortIndex": 185,
+    "Name": "Pickham Region - east woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 119.2
+  },
+  "232": {
+    "ID": 232,
+    "SortIndex": 185,
+    "Name": "Pickham Region - west plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 68.6666666667
+  },
+  "233": {
+    "ID": 233,
+    "SortIndex": 185,
+    "Name": "Pickham Region - west plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 121.5
+  },
+  "234": {
+    "ID": 234,
+    "SortIndex": 185,
+    "Name": "Pickham Region - west woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 123
+  },
+  "235": {
+    "ID": 235,
+    "SortIndex": 185,
+    "Name": "Pickham Region - beach (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 124.5
+  },
+  "238": {
+    "ID": 238,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - south plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 163.3333333333
+  },
+  "239": {
+    "ID": 239,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - south plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 102.3333333333
+  },
+  "240": {
+    "ID": 240,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - south woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 85.2857142857
+  },
+  "241": {
+    "ID": 241,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - west cape (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 94.2727272727
+  },
+  "242": {
+    "ID": 242,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - north plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 94.9
+  },
+  "243": {
+    "ID": 243,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - north plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 98.6666666667
+  },
+  "244": {
+    "ID": 244,
+    "SortIndex": 205,
+    "Name": "Kingdom of Trodain - north woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 99.6666666667
+  },
+  "245": {
+    "ID": 245,
+    "SortIndex": 235,
+    "Name": "Land of the Moles (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 120.7142857143
+  },
+  "247": {
+    "ID": 247,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - north plains (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 149.4285714286
+  },
+  "248": {
+    "ID": 248,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - north woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 201.3333333333
+  },
+  "249": {
+    "ID": 249,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - south, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 144.5
+  },
+  "250": {
+    "ID": 250,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - south, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 215.4
+  },
+  "251": {
+    "ID": 251,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - plains near tree, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 140.3333333333
+  },
+  "252": {
+    "ID": 252,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - plains near tree, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 128.5714285714
+  },
+  "253": {
+    "ID": 253,
+    "SortIndex": 265,
+    "Name": "Baccarat Region - woods near tree (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 162.1428571429
+  },
+  "254": {
+    "ID": 254,
+    "SortIndex": 275,
+    "Name": "Northwest Isle (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 174.5714285714
+  },
+  "255": {
+    "ID": 255,
+    "SortIndex": 285,
+    "Name": "Isle North of Farebury (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 155.6
+  },
+  "256": {
+    "ID": 256,
+    "SortIndex": 295,
+    "Name": "Princess Minnie's Island/Maella isle (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 186.8333333333
+  },
+  "257": {
+    "ID": 257,
+    "SortIndex": 305,
+    "Name": "Southern Isles woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 124
+  },
+  "258": {
+    "ID": 258,
+    "SortIndex": 305,
+    "Name": "Southern Isles plains (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 126.5
+  },
+  "259": {
+    "ID": 259,
+    "SortIndex": 315,
+    "Name": "Uncharted Island (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 272.1428571429
+  },
+  "260": {
+    "ID": 260,
+    "SortIndex": 325,
+    "Name": "Holy Isle of Neos - day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 191.8333333333
+  },
+  "261": {
+    "ID": 261,
+    "SortIndex": 325,
+    "Name": "Holy Isle of Neos - night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 139.8333333333
+  },
+  "265": {
+    "ID": 265,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - west plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 163.4285714286
+  },
+  "266": {
+    "ID": 266,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - west plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 176.2857142857
+  },
+  "267": {
+    "ID": 267,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - west woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 157.1428571429
+  },
+  "268": {
+    "ID": 268,
+    "SortIndex": 345,
+    "Name": "Western Argonia - east plains (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 188
+  },
+  "269": {
+    "ID": 269,
+    "SortIndex": 345,
+    "Name": "Western Argonia - west plains (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 146.1666666667
+  },
+  "270": {
+    "ID": 270,
+    "SortIndex": 345,
+    "Name": "Western Argonia - south plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 153.8
+  },
+  "271": {
+    "ID": 271,
+    "SortIndex": 345,
+    "Name": "Western Argonia - south plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 124
+  },
+  "272": {
+    "ID": 272,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - east plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 142.8333333333
+  },
+  "273": {
+    "ID": 273,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - east plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 149.1666666667
+  },
+  "274": {
+    "ID": 274,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - east woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 142.6666666667
+  },
+  "275": {
+    "ID": 275,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - beach, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 142.4285714286
+  },
+  "276": {
+    "ID": 276,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - beach, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 94.2857142857
+  },
+  "277": {
+    "ID": 277,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - north plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 201.5714285714
+  },
+  "278": {
+    "ID": 278,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - north plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 204.4285714286
+  },
+  "279": {
+    "ID": 279,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - north woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 124.5714285714
+  },
+  "280": {
+    "ID": 280,
+    "SortIndex": 335,
+    "Name": "Eastern Argonia - beach coastline (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 150.75
+  },
+  "281": {
+    "ID": 281,
+    "SortIndex": 365,
+    "Name": "Cape West of Pickham - (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 101.6
+  },
+  "282": {
+    "ID": 282,
+    "SortIndex": 385,
+    "Name": "Desert - day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 127.5
+  },
+  "283": {
+    "ID": 283,
+    "SortIndex": 385,
+    "Name": "Desert - night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 167.5
+  },
+  "285": {
+    "ID": 285,
+    "SortIndex": 405,
+    "Name": "Arcadia Region - south plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 196.8333333333
+  },
+  "286": {
+    "ID": 286,
+    "SortIndex": 405,
+    "Name": "Arcadia Region - south plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 212.8571428571
+  },
+  "287": {
+    "ID": 287,
+    "SortIndex": 405,
+    "Name": "Arcadia Region - south woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 236.125
+  },
+  "288": {
+    "ID": 288,
+    "SortIndex": 405,
+    "Name": "Arcadia Region - north plains, day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 199.2857142857
+  },
+  "289": {
+    "ID": 289,
+    "SortIndex": 405,
+    "Name": "Arcadia Region - north plains, night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 194
+  },
+  "290": {
+    "ID": 290,
+    "SortIndex": 405,
+    "Name": "Arcadia Region - north woods (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 166.7142857143
+  },
+  "291": {
+    "ID": 291,
+    "SortIndex": 425,
+    "Name": "Blizzard Peaks - ?",
+    "DoEdit": false,
+    "Parent": 293,
+    "PowerLevel": 200.2857142857
+  },
+  "292": {
+    "ID": 292,
+    "SortIndex": 425,
+    "Name": "Blizzard Peaks - ?",
+    "DoEdit": false,
+    "Parent": 294,
+    "PowerLevel": 216.1666666667
+  },
+  "293": {
+    "ID": 293,
+    "SortIndex": 425,
+    "Name": "Blizzard Peaks - day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 242.5714285714
+  },
+  "294": {
+    "ID": 294,
+    "SortIndex": 425,
+    "Name": "Blizzard Peaks - night (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 251
+  },
+  "295": {
+    "ID": 295,
+    "SortIndex": 505,
+    "Name": "Areas Accessible by Air - day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 243.1428571429
+  },
+  "296": {
+    "ID": 296,
+    "SortIndex": 505,
+    "Name": "Areas Accessible by Air - day (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 212.3333333333
+  },
+  "297": {
+    "ID": 297,
+    "SortIndex": 515,
+    "Name": "Untrodden Groves - ?",
+    "DoEdit": false,
+    "Parent": 298,
+    "PowerLevel": 277.7777777778
+  },
+  "298": {
+    "ID": 298,
+    "SortIndex": 515,
+    "Name": "Untrodden Groves (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 313
+  },
+  "299": {
+    "ID": 299,
+    "SortIndex": 506,
+    "Name": "Egeus' Tablet (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 306.8333333333
+  },
+  "300": {
+    "ID": 300,
+    "SortIndex": 508,
+    "Name": "Areas Accessible by Air - Howlwind Hill (Act 2)",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 70.3333333333
+  },
+  "351": {
+    "ID": 351,
+    "SortIndex": 600,
+    "Name": "Altar of Wroth - level 1",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 399.6666666667
+  },
+  "352": {
+    "ID": 352,
+    "SortIndex": 600,
+    "Name": "Altar of Wroth - level 2",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 348.5
+  },
+  "353": {
+    "ID": 353,
+    "SortIndex": 600,
+    "Name": "Altar of Wroth - level 3",
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 382.25
+  },
+  "354": {
+    "ID": 354,
+    "SortIndex": 600,
+    "Name": "Altar of Wroth - miniboss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 600
+  },
+  "355": {
+    "ID": 355,
+    "SortIndex": 600,
+    "Name": "Altar of Wroth - boss (Phase 1)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "356": {
+    "ID": 356,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Geyzer in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "357": {
+    "ID": 357,
+    "SortIndex": 700,
+    "Name": "Memories Lane - tortured soul in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "358": {
+    "ID": 358,
+    "SortIndex": 700,
+    "Name": "Memories Lane - trap box in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "359": {
+    "ID": 359,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Don Mole in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 27777.5
+  },
+  "360": {
+    "ID": 360,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Argon lizard in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "361": {
+    "ID": 361,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Dhoulmagus in Memoriam (1st form)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 18518.3333333333
+  },
+  "362": {
+    "ID": 362,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Dhoulmagus in Memoriam (2nd form)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "363": {
+    "ID": 363,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Evil Jessica in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "364": {
+    "ID": 364,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Captain Crow in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "365": {
+    "ID": 365,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Gemon in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 18518.3333333333
+  },
+  "366": {
+    "ID": 366,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Sir Leopold in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "367": {
+    "ID": 367,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Marcello in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "368": {
+    "ID": 368,
+    "SortIndex": 700,
+    "Name": "Memories Lane - dark servant in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 27777.5
+  },
+  "369": {
+    "ID": 369,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Ruin in Memoriam",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "370": {
+    "ID": 370,
+    "SortIndex": 700,
+    "Name": "Memories Lane - Estark",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsMemoriam": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 55555
+  },
+  "401": {
+    "ID": 401,
+    "SortIndex": 1,
+    "Name": "Farebury Region - wooded opening",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 1
+  },
+  "402": {
+    "ID": 402,
+    "SortIndex": 115,
+    "Name": "Waterfall Cave - miniboss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 25
+  },
+  "403": {
+    "ID": 403,
+    "SortIndex": 115,
+    "Name": "Waterfall Cave - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 107
+  },
+  "404": {
+    "ID": 404,
+    "SortIndex": 126,
+    "Name": "Alexandria - gatekeepers",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "405": {
+    "ID": 405,
+    "SortIndex": 139,
+    "Name": "Port Prospect - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 311
+  },
+  "406": {
+    "ID": 406,
+    "SortIndex": 155,
+    "Name": "Ruined Abbey - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 680
+  },
+  "407": {
+    "ID": 407,
+    "SortIndex": 195,
+    "Name": "Swordsman's Labyrinth - boss",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 1020
+  },
+  "408": {
+    "ID": 408,
+    "SortIndex": 245,
+    "Name": "Mole Hole - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 614
+  },
+  "409": {
+    "ID": 409,
+    "SortIndex": 375,
+    "Name": "Royal Hunting Ground - miniboss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 650
+  },
+  "410": {
+    "ID": 410,
+    "SortIndex": 375,
+    "Name": "Royal Hunting Ground - Argon lizard #2",
+    "DoEdit": false,
+    "Parent": 409,
+    "PowerLevel": 650
+  },
+  "411": {
+    "ID": 411,
+    "SortIndex": 375,
+    "Name": "Royal Hunting Ground - Argon lizard #3",
+    "DoEdit": false,
+    "Parent": 409,
+    "PowerLevel": 650
+  },
+  "412": {
+    "ID": 412,
+    "SortIndex": 375,
+    "Name": "Royal Hunting Ground - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 2830
+  },
+  "413": {
+    "ID": 413,
+    "SortIndex": 250,
+    "Name": "Ocean - Arcadia underpass",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 114
+  },
+  "414": {
+    "ID": 414,
+    "SortIndex": 395,
+    "Name": "Dark Ruins - boss (Phase 1)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 3400
+  },
+  "415": {
+    "ID": 415,
+    "SortIndex": 395,
+    "Name": "Dark Ruins - boss (Phase 2)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 12000
+  },
+  "416": {
+    "ID": 416,
+    "SortIndex": 409,
+    "Name": "Arcadia - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 7800
+  },
+  "417": {
+    "ID": 417,
+    "SortIndex": 429,
+    "Name": "Blizzard Peaks - miniboss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 108
+  },
+  "418": {
+    "ID": 418,
+    "SortIndex": 439,
+    "Name": "Marta's Cottage - ground floor",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 108
+  },
+  "419": {
+    "ID": 419,
+    "SortIndex": 439,
+    "Name": "Marta's Cottage - basement",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 108
+  },
+  "420": {
+    "ID": 420,
+    "SortIndex": 439,
+    "Name": "Marta's Cottage - basement",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 108
+  },
+  "421": {
+    "ID": 421,
+    "SortIndex": 439,
+    "Name": "Marta's Cottage - miniboss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 108
+  },
+  "422": {
+    "ID": 422,
+    "SortIndex": 455,
+    "Name": "Pirate's Cove - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 9750
+  },
+  "423": {
+    "ID": 423,
+    "SortIndex": 445,
+    "Name": "Dragon Graveyard - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Missable": true,
+    "Parent": null,
+    "PowerLevel": 4095
+  },
+  "424": {
+    "ID": 424,
+    "SortIndex": 475,
+    "Name": "World of Darkness - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 10150
+  },
+  "425": {
+    "ID": 425,
+    "SortIndex": 485,
+    "Name": "Godbird's Eyrie (Dark) - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 3044.3333333333
+  },
+  "426": {
+    "ID": 426,
+    "SortIndex": 486,
+    "Name": "Savella Area - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 10200
+  },
+  "427": {
+    "ID": 427,
+    "SortIndex": 487,
+    "Name": "Holy Isle of Neos - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 11020
+  },
+  "428": {
+    "ID": 428,
+    "SortIndex": 269,
+    "Name": "Baccarat - miniboss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 570
+  },
+  "429": {
+    "ID": 429,
+    "SortIndex": 535,
+    "Name": "Trolls' Maze - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 981
+  },
+  "430": {
+    "ID": 430,
+    "SortIndex": 525,
+    "Name": "Black Citadel - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "431": {
+    "ID": 431,
+    "SortIndex": 525,
+    "Name": "Black Citadel - miniboss #1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 950
+  },
+  "432": {
+    "ID": 432,
+    "SortIndex": 525,
+    "Name": "Black Citadel - miniboss #2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 567.5
+  },
+  "433": {
+    "ID": 433,
+    "SortIndex": 525,
+    "Name": "Black Citadel - miniboss #3",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 1350
+  },
+  "434": {
+    "ID": 434,
+    "SortIndex": 525,
+    "Name": "Black Citadel - miniboss #4",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 2480
+  },
+  "435": {
+    "ID": 435,
+    "SortIndex": 529,
+    "Name": "Final Boss (Phase 1)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "436": {
+    "ID": 436,
+    "SortIndex": 529,
+    "Name": "Final Boss (Phase 1)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "437": {
+    "ID": 437,
+    "SortIndex": 555,
+    "Name": "Heavenly Dais - boss (dragon)",
+    "DoEdit": false,
+    "Parent": 469,
+    "PowerLevel": 12680
+  },
+  "438": {
+    "ID": 438,
+    "SortIndex": 555,
+    "Name": "Heavenly Dais - boss (human)",
+    "DoEdit": false,
+    "Parent": 470,
+    "PowerLevel": 0
+  },
+  "439": {
+    "ID": 439,
+    "SortIndex": 555,
+    "Name": "Heavenly Dais - boss (human)",
+    "DoEdit": false,
+    "Parent": 470,
+    "PowerLevel": 0
+  },
+  "440": {
+    "ID": 440,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank G-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "441": {
+    "ID": 441,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank G-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "442": {
+    "ID": 442,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank G-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "443": {
+    "ID": 443,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank F-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "444": {
+    "ID": 444,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank F-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "445": {
+    "ID": 445,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank F-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "446": {
+    "ID": 446,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank E-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "447": {
+    "ID": 447,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank E-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "448": {
+    "ID": 448,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank E-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "449": {
+    "ID": 449,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank D-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "450": {
+    "ID": 450,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank D-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "451": {
+    "ID": 451,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank D-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "452": {
+    "ID": 452,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank C-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "453": {
+    "ID": 453,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank C-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "454": {
+    "ID": 454,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank C-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "455": {
+    "ID": 455,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank B-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "456": {
+    "ID": 456,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank B-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "457": {
+    "ID": 457,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank B-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "458": {
+    "ID": 458,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank A-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "459": {
+    "ID": 459,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank A-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "460": {
+    "ID": 460,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank A-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "461": {
+    "ID": 461,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank S-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "462": {
+    "ID": 462,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank S-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "463": {
+    "ID": 463,
+    "SortIndex": 1000,
+    "Name": "Monster Arena - Rank S-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "464": {
+    "ID": 464,
+    "SortIndex": 9999,
+    "Name": "Monster Arena - Team Battle",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "465": {
+    "ID": 465,
+    "SortIndex": 996,
+    "Name": "Treasure Chest - weak",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 76
+  },
+  "466": {
+    "ID": 466,
+    "SortIndex": 997,
+    "Name": "Treasure Chest - medium",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 128
+  },
+  "467": {
+    "ID": 467,
+    "SortIndex": 998,
+    "Name": "Treasure Chest - strong",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 560
+  },
+  "468": {
+    "ID": 468,
+    "Name": "empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "469": {
+    "ID": 469,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - boss",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 12680
+  },
+  "470": {
+    "ID": 470,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #1-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "471": {
+    "ID": 471,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #1-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 13500
+  },
+  "472": {
+    "ID": 472,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #2-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "473": {
+    "ID": 473,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #2-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 14800
+  },
+  "474": {
+    "ID": 474,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #3-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "475": {
+    "ID": 475,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #3-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 15900
+  },
+  "476": {
+    "ID": 476,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #4-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "477": {
+    "ID": 477,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #4-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 16350
+  },
+  "478": {
+    "ID": 478,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #5-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "479": {
+    "ID": 479,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #5-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 18010
+  },
+  "480": {
+    "ID": 480,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #6-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "481": {
+    "ID": 481,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #6-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 19040
+  },
+  "482": {
+    "ID": 482,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-1",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "483": {
+    "ID": 483,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-2",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "484": {
+    "ID": 484,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-3",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "485": {
+    "ID": 485,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-4",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "486": {
+    "ID": 486,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-5",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "487": {
+    "ID": 487,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-6",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "488": {
+    "ID": 488,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-7",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "489": {
+    "ID": 489,
+    "SortIndex": 558,
+    "Name": "Heavenly Dais - Trial #7-8",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "IsPostgame": true,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 77777
+  },
+  "490": {
+    "ID": 490,
+    "Name": "Kingdom of Trodain - Mumbuh-jumboe",
+    "DoEdit": false,
+    "Parent": 600,
+    "PowerLevel": 309
+  },
+  "491": {
+    "ID": 491,
+    "Name": "Cape West of Pickham - Jabberwockee",
+    "DoEdit": false,
+    "Parent": 600,
+    "PowerLevel": 318
+  },
+  "492": {
+    "ID": 492,
+    "Name": "Rydon's Tower - Jabberwockee",
+    "DoEdit": false,
+    "Parent": 600,
+    "PowerLevel": 318
+  },
+  "493": {
+    "ID": 493,
+    "Name": "Heavenly Dais - Democrobot",
+    "DoEdit": false,
+    "Parent": 600,
+    "PowerLevel": 1830
+  },
+  "494": {
+    "ID": 494,
+    "Name": "Baccarat Region - empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "495": {
+    "ID": 495,
+    "Name": "Unnamed Isle - empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "496": {
+    "ID": 496,
+    "Name": "Memories Lane - Tortured Soul goons",
+    "DoEdit": false,
+    "Parent": 600,
+    "PowerLevel": 0
+  },
+  "497": {
+    "ID": 497,
+    "Name": "Memories Lane - Evil Jessica goons",
+    "DoEdit": false,
+    "Parent": 600,
+    "PowerLevel": 0
+  },
+  "500": {
+    "ID": 500,
+    "SortIndex": 109,
+    "Name": "Farebury Region - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 801,
+    "Parent": null,
+    "PowerLevel": 200
+  },
+  "501": {
+    "ID": 501,
+    "SortIndex": 169,
+    "Name": "Kingdom of Ascantha - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 801,
+    "Parent": null,
+    "PowerLevel": 300
+  },
+  "502": {
+    "ID": 502,
+    "SortIndex": 189,
+    "Name": "Pickham Region - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 803,
+    "Parent": null,
+    "PowerLevel": 400
+  },
+  "503": {
+    "ID": 503,
+    "SortIndex": 209,
+    "Name": "Kingdom of Trodain - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 804,
+    "Parent": null,
+    "PowerLevel": 150
+  },
+  "504": {
+    "ID": 504,
+    "SortIndex": 269,
+    "Name": "Baccarat Region - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 805,
+    "Parent": null,
+    "PowerLevel": 600
+  },
+  "505": {
+    "ID": 505,
+    "SortIndex": 428,
+    "Name": "Blizzard Peaks - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 806,
+    "Parent": null,
+    "PowerLevel": 800
+  },
+  "506": {
+    "ID": 506,
+    "SortIndex": 319,
+    "Name": "Uncharted Isle - special",
+    "DoEdit": true,
+    "IsSpecial": true,
+    "SpecialSymbol": 807,
+    "Parent": null,
+    "PowerLevel": 1000
+  },
+  "600": {
+    "ID": 600,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "601": {
+    "ID": 601,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "602": {
+    "ID": 602,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "603": {
+    "ID": 603,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "604": {
+    "ID": 604,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "605": {
+    "ID": 605,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "606": {
+    "ID": 606,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "607": {
+    "ID": 607,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "608": {
+    "ID": 608,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "609": {
+    "ID": 609,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "610": {
+    "ID": 610,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "611": {
+    "ID": 611,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "612": {
+    "ID": 612,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "613": {
+    "ID": 613,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "614": {
+    "ID": 614,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "615": {
+    "ID": 615,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "616": {
+    "ID": 616,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "617": {
+    "ID": 617,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "618": {
+    "ID": 618,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "619": {
+    "ID": 619,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "620": {
+    "ID": 620,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "621": {
+    "ID": 621,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "622": {
+    "ID": 622,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "623": {
+    "ID": 623,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "624": {
+    "ID": 624,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "625": {
+    "ID": 625,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "626": {
+    "ID": 626,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "627": {
+    "ID": 627,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "628": {
+    "ID": 628,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "629": {
+    "ID": 629,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "630": {
+    "ID": 630,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "631": {
+    "ID": 631,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "632": {
+    "ID": 632,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "633": {
+    "ID": 633,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "634": {
+    "ID": 634,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "635": {
+    "ID": 635,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "636": {
+    "ID": 636,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "637": {
+    "ID": 637,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "638": {
+    "ID": 638,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "639": {
+    "ID": 639,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "640": {
+    "ID": 640,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "641": {
+    "ID": 641,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "642": {
+    "ID": 642,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "643": {
+    "ID": 643,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "644": {
+    "ID": 644,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "645": {
+    "ID": 645,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "646": {
+    "ID": 646,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "647": {
+    "ID": 647,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "648": {
+    "ID": 648,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "649": {
+    "ID": 649,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "650": {
+    "ID": 650,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "651": {
+    "ID": 651,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "652": {
+    "ID": 652,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "653": {
+    "ID": 653,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "654": {
+    "ID": 654,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "655": {
+    "ID": 655,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "656": {
+    "ID": 656,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "657": {
+    "ID": 657,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "658": {
+    "ID": 658,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "659": {
+    "ID": 659,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "660": {
+    "ID": 660,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "661": {
+    "ID": 661,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "662": {
+    "ID": 662,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "663": {
+    "ID": 663,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "664": {
+    "ID": 664,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "665": {
+    "ID": 665,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "666": {
+    "ID": 666,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "667": {
+    "ID": 667,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "668": {
+    "ID": 668,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "669": {
+    "ID": 669,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "670": {
+    "ID": 670,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "671": {
+    "ID": 671,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "672": {
+    "ID": 672,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "673": {
+    "ID": 673,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "674": {
+    "ID": 674,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "675": {
+    "ID": 675,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "676": {
+    "ID": 676,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "677": {
+    "ID": 677,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "678": {
+    "ID": 678,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "679": {
+    "ID": 679,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "680": {
+    "ID": 680,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "681": {
+    "ID": 681,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "682": {
+    "ID": 682,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "683": {
+    "ID": 683,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "684": {
+    "ID": 684,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "685": {
+    "ID": 685,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "686": {
+    "ID": 686,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "687": {
+    "ID": 687,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "688": {
+    "ID": 688,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "689": {
+    "ID": 689,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "690": {
+    "ID": 690,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "691": {
+    "ID": 691,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "692": {
+    "ID": 692,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "693": {
+    "ID": 693,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "694": {
+    "ID": 694,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "695": {
+    "ID": 695,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "696": {
+    "ID": 696,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "697": {
+    "ID": 697,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "698": {
+    "ID": 698,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "699": {
+    "ID": 699,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "371": {
+    "ID": 371,
+    "SortIndex": 609,
+    "Name": "Altar of Wroth - boss (Phase 2)",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 18000
+  },
+  "372": {
+    "ID": 372,
+    "SortIndex": 999,
+    "Name": "Treasure Chest - very strong",
+    "IsBoss": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 512
+  },
+  "301": {
+    "ID": 301,
+    "Name": "Kingdom of Trodain - empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "302": {
+    "ID": 302,
+    "Name": "Pickham Region - empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "303": {
+    "ID": 303,
+    "Name": "Baccarat Region - empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "304": {
+    "ID": 304,
+    "Name": "Eastern Argonia - empty",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "373": {
+    "ID": 373,
+    "SortIndex": 699,
+    "Name": "Memories Lane - shortcut 1",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "374": {
+    "ID": 374,
+    "SortIndex": 699,
+    "Name": "Memories Lane - shortcut 2",
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "305": {
+    "ID": 305,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "306": {
+    "ID": 306,
+    "Name": "",
+    "DoEdit": false,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "375": {
+    "ID": 375,
+    "SortIndex": 1001,
+    "Name": "Monster Arena - Rank X-1",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "376": {
+    "ID": 376,
+    "SortIndex": 1001,
+    "Name": "Monster Arena - Rank X-2",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  },
+  "377": {
+    "ID": 377,
+    "SortIndex": 1001,
+    "Name": "Monster Arena - Rank X-3",
+    "IsArena": true,
+    "NeedsModel": false,
+    "DoEdit": true,
+    "Parent": null,
+    "PowerLevel": 0
+  }
+}

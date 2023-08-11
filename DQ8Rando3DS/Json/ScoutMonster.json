@@ -1,0 +1,502 @@
+{
+  "0": {
+    "ID": 0,
+    "Encounter": 501,
+    "DoShuffle": true
+  },
+  "1": {
+    "ID": 1,
+    "Encounter": 502,
+    "DoShuffle": true
+  },
+  "2": {
+    "ID": 2,
+    "Encounter": 503,
+    "DoShuffle": true
+  },
+  "3": {
+    "ID": 3,
+    "Encounter": 504,
+    "DoShuffle": true
+  },
+  "4": {
+    "ID": 4,
+    "Encounter": 505,
+    "DoShuffle": true
+  },
+  "5": {
+    "ID": 5,
+    "Encounter": 506,
+    "DoShuffle": true
+  },
+  "6": {
+    "ID": 6,
+    "Encounter": 507,
+    "DoShuffle": true
+  },
+  "7": {
+    "ID": 7,
+    "Encounter": 508,
+    "DoShuffle": false
+  },
+  "8": {
+    "ID": 8,
+    "Encounter": 509,
+    "DoShuffle": true
+  },
+  "9": {
+    "ID": 9,
+    "Encounter": 510,
+    "DoShuffle": true
+  },
+  "10": {
+    "ID": 10,
+    "Encounter": 511,
+    "DoShuffle": true
+  },
+  "11": {
+    "ID": 11,
+    "Encounter": 512,
+    "DoShuffle": true
+  },
+  "12": {
+    "ID": 12,
+    "Encounter": 513,
+    "DoShuffle": false
+  },
+  "13": {
+    "ID": 13,
+    "Encounter": 514,
+    "DoShuffle": true
+  },
+  "14": {
+    "ID": 14,
+    "Encounter": 515,
+    "DoShuffle": true
+  },
+  "15": {
+    "ID": 15,
+    "Encounter": 516,
+    "DoShuffle": false
+  },
+  "16": {
+    "ID": 16,
+    "Encounter": 517,
+    "DoShuffle": true
+  },
+  "17": {
+    "ID": 17,
+    "Encounter": 518,
+    "DoShuffle": true
+  },
+  "18": {
+    "ID": 18,
+    "Encounter": 519,
+    "DoShuffle": true
+  },
+  "19": {
+    "ID": 19,
+    "Encounter": 520,
+    "DoShuffle": true
+  },
+  "20": {
+    "ID": 20,
+    "Encounter": 521,
+    "DoShuffle": true
+  },
+  "21": {
+    "ID": 21,
+    "Encounter": 522,
+    "DoShuffle": true
+  },
+  "22": {
+    "ID": 22,
+    "Encounter": 523,
+    "DoShuffle": true
+  },
+  "23": {
+    "ID": 23,
+    "Encounter": 524,
+    "DoShuffle": true
+  },
+  "24": {
+    "ID": 24,
+    "Encounter": 525,
+    "DoShuffle": true
+  },
+  "25": {
+    "ID": 25,
+    "Encounter": 526,
+    "DoShuffle": true
+  },
+  "26": {
+    "ID": 26,
+    "Encounter": 527,
+    "DoShuffle": true
+  },
+  "27": {
+    "ID": 27,
+    "Encounter": 528,
+    "DoShuffle": true
+  },
+  "28": {
+    "ID": 28,
+    "Encounter": 529,
+    "DoShuffle": true
+  },
+  "29": {
+    "ID": 29,
+    "Encounter": 530,
+    "DoShuffle": true
+  },
+  "30": {
+    "ID": 30,
+    "Encounter": 531,
+    "DoShuffle": true
+  },
+  "31": {
+    "ID": 31,
+    "Encounter": 532,
+    "DoShuffle": true
+  },
+  "32": {
+    "ID": 32,
+    "Encounter": 533,
+    "DoShuffle": true
+  },
+  "33": {
+    "ID": 33,
+    "Encounter": 534,
+    "DoShuffle": true
+  },
+  "34": {
+    "ID": 34,
+    "Encounter": 535,
+    "DoShuffle": true
+  },
+  "35": {
+    "ID": 35,
+    "Encounter": 536,
+    "DoShuffle": true
+  },
+  "36": {
+    "ID": 36,
+    "Encounter": 537,
+    "DoShuffle": true
+  },
+  "37": {
+    "ID": 37,
+    "Encounter": 538,
+    "DoShuffle": true
+  },
+  "38": {
+    "ID": 38,
+    "Encounter": 539,
+    "DoShuffle": true
+  },
+  "39": {
+    "ID": 39,
+    "Encounter": 540,
+    "DoShuffle": true
+  },
+  "40": {
+    "ID": 40,
+    "Encounter": 541,
+    "DoShuffle": true
+  },
+  "41": {
+    "ID": 41,
+    "Encounter": 542,
+    "DoShuffle": true
+  },
+  "42": {
+    "ID": 42,
+    "Encounter": 543,
+    "DoShuffle": true
+  },
+  "43": {
+    "ID": 43,
+    "Encounter": 544,
+    "DoShuffle": true
+  },
+  "44": {
+    "ID": 44,
+    "Encounter": 545,
+    "DoShuffle": true
+  },
+  "45": {
+    "ID": 45,
+    "Encounter": 546,
+    "DoShuffle": true
+  },
+  "46": {
+    "ID": 46,
+    "Encounter": 547,
+    "DoShuffle": true
+  },
+  "47": {
+    "ID": 47,
+    "Encounter": 548,
+    "DoShuffle": true
+  },
+  "48": {
+    "ID": 48,
+    "Encounter": 549,
+    "DoShuffle": true
+  },
+  "49": {
+    "ID": 49,
+    "Encounter": 550,
+    "DoShuffle": true
+  },
+  "50": {
+    "ID": 50,
+    "Encounter": 551,
+    "DoShuffle": true
+  },
+  "51": {
+    "ID": 51,
+    "Encounter": 552,
+    "DoShuffle": true
+  },
+  "52": {
+    "ID": 52,
+    "Encounter": 553,
+    "DoShuffle": true
+  },
+  "53": {
+    "ID": 53,
+    "Encounter": 554,
+    "DoShuffle": true
+  },
+  "54": {
+    "ID": 54,
+    "Encounter": 555,
+    "DoShuffle": true
+  },
+  "55": {
+    "ID": 55,
+    "Encounter": 556,
+    "DoShuffle": true
+  },
+  "56": {
+    "ID": 56,
+    "Encounter": 557,
+    "DoShuffle": true
+  },
+  "57": {
+    "ID": 57,
+    "Encounter": 558,
+    "DoShuffle": true
+  },
+  "58": {
+    "ID": 58,
+    "Encounter": 559,
+    "DoShuffle": true
+  },
+  "59": {
+    "ID": 59,
+    "Encounter": 560,
+    "DoShuffle": true
+  },
+  "60": {
+    "ID": 60,
+    "Encounter": 561,
+    "DoShuffle": true
+  },
+  "61": {
+    "ID": 61,
+    "Encounter": 562,
+    "DoShuffle": true
+  },
+  "62": {
+    "ID": 62,
+    "Encounter": 563,
+    "DoShuffle": true
+  },
+  "63": {
+    "ID": 63,
+    "Encounter": 564,
+    "DoShuffle": true
+  },
+  "64": {
+    "ID": 64,
+    "Encounter": 565,
+    "DoShuffle": true
+  },
+  "65": {
+    "ID": 65,
+    "Encounter": 566,
+    "DoShuffle": true
+  },
+  "66": {
+    "ID": 66,
+    "Encounter": 567,
+    "DoShuffle": true
+  },
+  "67": {
+    "ID": 67,
+    "Encounter": 568,
+    "DoShuffle": true
+  },
+  "68": {
+    "ID": 68,
+    "Encounter": 569,
+    "DoShuffle": true
+  },
+  "69": {
+    "ID": 69,
+    "Encounter": 570,
+    "DoShuffle": true
+  },
+  "70": {
+    "ID": 70,
+    "Encounter": 571,
+    "DoShuffle": true
+  },
+  "71": {
+    "ID": 71,
+    "Encounter": 572,
+    "DoShuffle": true
+  },
+  "72": {
+    "ID": 72,
+    "Encounter": 573,
+    "DoShuffle": true
+  },
+  "73": {
+    "ID": 73,
+    "Encounter": 574,
+    "DoShuffle": true
+  },
+  "74": {
+    "ID": 74,
+    "Encounter": 575,
+    "DoShuffle": true
+  },
+  "75": {
+    "ID": 75,
+    "Encounter": 576,
+    "DoShuffle": true
+  },
+  "76": {
+    "ID": 76,
+    "Encounter": 577,
+    "DoShuffle": true
+  },
+  "77": {
+    "ID": 77,
+    "Encounter": 580,
+    "DoShuffle": true
+  },
+  "78": {
+    "ID": 78,
+    "Encounter": 581,
+    "DoShuffle": true
+  },
+  "79": {
+    "ID": 79,
+    "Encounter": 582,
+    "DoShuffle": true
+  },
+  "80": {
+    "ID": 80,
+    "Encounter": 583,
+    "DoShuffle": true
+  },
+  "81": {
+    "ID": 81,
+    "Encounter": 584,
+    "DoShuffle": true
+  },
+  "82": {
+    "ID": 82,
+    "Encounter": 585,
+    "DoShuffle": true
+  },
+  "83": {
+    "ID": 83,
+    "Encounter": 586,
+    "DoShuffle": true
+  },
+  "84": {
+    "ID": 84,
+    "Encounter": 587,
+    "DoShuffle": true
+  },
+  "85": {
+    "ID": 85,
+    "Encounter": 588,
+    "DoShuffle": true
+  },
+  "86": {
+    "ID": 86,
+    "Encounter": 589,
+    "DoShuffle": true
+  },
+  "87": {
+    "ID": 87,
+    "Encounter": 590,
+    "DoShuffle": true
+  },
+  "88": {
+    "ID": 88,
+    "Encounter": 591,
+    "DoShuffle": true
+  },
+  "89": {
+    "ID": 89,
+    "Encounter": 592,
+    "DoShuffle": true
+  },
+  "90": {
+    "ID": 90,
+    "Encounter": 593,
+    "DoShuffle": true
+  },
+  "91": {
+    "ID": 91,
+    "Encounter": 594,
+    "DoShuffle": true
+  },
+  "92": {
+    "ID": 92,
+    "Encounter": 595,
+    "DoShuffle": true
+  },
+  "93": {
+    "ID": 93,
+    "Encounter": 596,
+    "DoShuffle": true
+  },
+  "94": {
+    "ID": 94,
+    "Encounter": 597,
+    "DoShuffle": true
+  },
+  "95": {
+    "ID": 95,
+    "Encounter": 598,
+    "DoShuffle": true
+  },
+  "96": {
+    "ID": 96,
+    "Encounter": 599,
+    "DoShuffle": true
+  },
+  "97": {
+    "ID": 97,
+    "Encounter": 600,
+    "DoShuffle": true
+  },
+  "98": {
+    "ID": 98,
+    "Encounter": 601,
+    "DoShuffle": true
+  },
+  "99": {
+    "ID": 99,
+    "Encounter": 602,
+    "DoShuffle": true
+  }
+}

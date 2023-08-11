@@ -1,0 +1,427 @@
+﻿<Window x:Class="DQ8Rando3DS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DQ8Rando3DS"
+        xmlns:wpfTool="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="Dragon Quest VIII Randomizer 3DS" Height="457" Width="519" MinHeight="0" MinWidth="260" Closing="Window_Closing">
+    <Grid>
+        <DockPanel>
+            <Menu x:Name="TopMenu" DockPanel.Dock="Top" Height="25">
+                <MenuItem x:Name="Menu_Presets" Header="Presets" Height="25">
+                    <MenuItem x:Name="Menu_Presets_Save"         Header="Save Settings Preset..." Click="Menu_Presets_Save_Click"/>
+                    <MenuItem x:Name="Menu_Presets_Load"         Header="Load Settings Preset..." Click="Menu_Presets_Load_Click"/>
+                    <MenuItem x:Name="Menu_Presets_SetDefault"   Header="Set Current Preset as Default" Click="Menu_Presets_SetDefault_Click"/>
+                    <MenuItem x:Name="Menu_Presets_ClearDefault" Header="Clear Default Settings" Click="Menu_Presets_ClearDefault_Click"/>
+                </MenuItem>
+            </Menu>
+            <StatusBar DockPanel.Dock="Bottom" Height="22">
+                <StatusBarItem>
+                    <TextBlock x:Name="StatusBarText" Text=""/>
+                </StatusBarItem>
+            </StatusBar>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+
+                <TabControl Grid.Row="0" x:Name="MainTabControl" Margin="0,0,0,0">
+                    <TabItem x:Name="Tab_Monsters" Header="Monsters">
+                        <Grid>
+                            <StackPanel>
+                                <Grid x:Name="Grid_EncountersTop">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <StackPanel x:Name="EncountersLeft" Grid.Column="0">
+                                        <Label Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Overworld encounters"/>
+                                        <ComboBox Margin="25,0,10,0" ToolTip="Choose how enemies encountered on the overworld will be changed.">
+                                            <ComboBoxItem Content="Don't change"         ToolTip="Monsters encountered in the overworld will not be changed."       IsSelected="{Binding Monsters.OverworldNoChange}"/>
+                                            <ComboBoxItem Content="Random enemy"         ToolTip="Any normal enemy can be encountered in the overworld."            IsSelected="{Binding Monsters.OverworldRandomEnemy}"/>
+                                            <ComboBoxItem Content="Random enemy or boss" ToolTip="Any enemy can be encountered in the overworld, including bosses." IsSelected="{Binding Monsters.OverworldRandomEnemyOrBoss}"/>
+                                            <ComboBoxItem Content="Shuffle"              ToolTip="Monsters in the overworld will be shuffled to a random area."     IsSelected="{Binding Monsters.OverworldShuffle}"/>
+                                            <ComboBoxItem Content="Shuffle by area"      ToolTip="Encounter tables will be shuffled between regions."               IsSelected="{Binding Monsters.OverworldShuffleByArea}"/>
+                                        </ComboBox>
+                                        <Label Content="Monster Arena" Margin="0,5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <ComboBox Margin="25,0,10,0" ToolTip="Choose how teams fought in the Monster Arena will be modified.">
+                                            <ComboBoxItem Content="Don't change"         ToolTip="Battles in the Monster Arena will not be changed."                                 IsSelected="{Binding Monsters.ArenaNoChange}"/>
+                                            <ComboBoxItem Content="Random enemy"         ToolTip="Battles in the Monster Arena will be against a team of random monsters."           IsSelected="{Binding Monsters.ArenaRandomEnemy}"/>
+                                            <ComboBoxItem Content="Random enemy or boss" ToolTip="Battles in the Monster Arena will be against a team of random monsters or a boss." IsSelected="{Binding Monsters.ArenaRandomEnemyOrBoss}"/>
+                                            <ComboBoxItem Content="Shuffle teams"        ToolTip="Battles in the Monster Arena will be fought in a random order."                    IsSelected="{Binding Monsters.ArenaShuffle}"/>
+                                        </ComboBox>
+                                    </StackPanel>
+                                    <StackPanel x:Name="EncountersRight" Grid.Column="1">
+                                        <Label Content="Scripted encounters" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <ComboBox Margin="25,0,10,0" ToolTip="Choose how scripted encountrs, such as bosses, will be modified." Grid.ColumnSpan="2">
+                                            <ComboBoxItem Content="Don't change"        ToolTip="Scripted encounters will not be changed."                       IsSelected="{Binding Monsters.BossNoChange}"/>
+                                            <ComboBoxItem Content="Random single enemy" ToolTip="Scripted encounters will be against any random enemy."          IsSelected="{Binding Monsters.BossRandomEnemy}"/>
+                                            <ComboBoxItem Content="Random enemy group"  ToolTip="Scripted encounters will be against a group of random enemies." IsSelected="{Binding Monsters.BossRandomGroup}"/>
+                                            <ComboBoxItem Content="Shuffle"             ToolTip="Scripted encounters will be against any random boss."           IsSelected="{Binding Monsters.BossShuffle}"/>
+                                        </ComboBox>
+                                        <Label Content="Special monsters" Margin="0,5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                                        <ComboBox Margin="25,0,10,0" ToolTip="Choose how Special monsters (rare monsters unlocked via Cameron's Codex quests) will be modified." Grid.ColumnSpan="2">
+                                            <ComboBoxItem Content="Don't change"         ToolTip="Special monsters won't be changed."                           IsSelected="{Binding Monsters.SpecialNoChange}"/>
+                                            <ComboBoxItem Content="Random enemy"         ToolTip="Special monsters will be replaced by a random enemy."         IsSelected="{Binding Monsters.SpecialRandomEnemy}"/>
+                                            <ComboBoxItem Content="Random enemy or boss" ToolTip="Special monsters will be replaced by a random enemy or boss." IsSelected="{Binding Monsters.SpecialRandomEnemyOrBoss}"/>
+                                            <ComboBoxItem Content="Shuffle"              ToolTip="Special monsters will be shuffled by habitat."                IsSelected="{Binding Monsters.SpecialShuffle}"/>
+                                        </ComboBox>
+                                    </StackPanel>
+                                </Grid>
+                                <Grid x:Name="EncountersMiddle" Margin="5,8,5,0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <CheckBox Content="Shuffle Infamous monsters" ToolTip="Infamous Monsters will be shuffled by habitat." Grid.Column="0"/>
+                                    <CheckBox Content="Guarantee full bestiary"   ToolTip="Every monster in the Defeated Monster List will be guaranteed to be accessible, so full bestiary completion runs are possible." Grid.Column="1"/>
+                                </Grid>
+                                <Label Content="Mix-ins"/>
+                                <Grid x:Name="Grid_EncountersMixIns" Margin="5,5,5,5">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    
+                                    <StackPanel Grid.Column="0">
+                                        <CheckBox Content="Postgame bosses"      IsChecked="{Binding Monsters.MixInPostgame}" ToolTip="Postgame bosses (i.e. the Dragovian Trials) will be added to the generic encounter pool." Margin="0,0,0,5"/>
+                                        <CheckBox Content="Memories Lane bosses" IsChecked="{Binding Monsters.MixInMemoriam}" ToolTip="Memories Lane bosses (including Estark) will be added to the generic encounter pool."/>
+                                    </StackPanel>
+                                    <StackPanel Grid.Column="1">
+                                        <CheckBox Content="Monster Arena teams" IsChecked="{Binding Monsters.MixInArena}" ToolTip="Monster Arena teams will be able to spawn outside the Monster Arena." Margin="0,0,0,5"/>
+                                        <CheckBox Content="Infamous monsters"   IsChecked="{Binding Monsters.MixInInfamous}" ToolTip="Infamous Monsters will be added to the generic encounter pool."/>
+                                    </StackPanel>
+                                    <StackPanel Grid.Column="2">
+                                        <CheckBox Content="Special monsters" IsChecked="{Binding Monsters.MixInSpecial}" ToolTip="Special monsters will be added to the generic encounter pool." Margin="0,0,0,5"/>
+                                        <CheckBox Content="Extra encounters" IsChecked="{Binding Monsters.MixInExtra}" ToolTip="Enemies that are normally impossible to fight (Bangerz, Mash, Prince Charmles, Ally Marcello) will be added to the encounter pool.&#x0a;These enemies are not guaranteed to be beatable, and doing so is likely to softlock your game."/>
+                                    </StackPanel>
+                                </Grid>
+                                <Separator/>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <StackPanel Grid.Column="0">
+                                        <Label Content="Monster Attributes"/>
+                                        <ComboBox Margin="25,0,10,0">
+                                            <ComboBoxItem Content="Don't change" IsSelected="{Binding Monsters.MonsterStatsNoChange}"/>
+                                            <ComboBoxItem Content="Balanced"     IsSelected="{Binding Monsters.MonsterStatsBalanced}"/>
+                                            <ComboBoxItem Content="Chaotic"      IsSelected="{Binding Monsters.MonsterStatsChaos}"/>
+                                        </ComboBox>
+                                    </StackPanel>
+                                    <StackPanel Grid.Column="1">
+                                        <CheckBox Content="Randomize experience drops" IsChecked="{Binding Monsters.RandomizeMonsterExperience}" Margin="0,5,0,0"/>
+                                        <CheckBox Content="Randomize gold drops"       IsChecked="{Binding Monsters.RandomizeMonsterGold}" Margin="0,5,0,0"/>
+                                        <CheckBox Content="Randomize item drops"       IsChecked="{Binding Monsters.RandomizeMonsterLoot}" Margin="0,5,0,0"/>
+                                        <CheckBox Content="Randomize resistances"      IsChecked="{Binding Monsters.RandomizeMonsterResistances}" Margin="0,5,0,0"/>
+                                        <CheckBox Content="Randomize actions"          IsChecked="{Binding Monsters.RandomizeMonsterActions}" Margin="0,5,0,0"/>
+                                    </StackPanel>
+                                </Grid>
+                            </StackPanel>
+                        </Grid>
+                    </TabItem>
+                    <TabItem x:Name="Tab_Treasure" Header="Treasure">
+                        <Grid>
+                            <StackPanel>
+                                <Label Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top">Treasure Box Contents</Label>
+                                <ComboBox HorizontalAlignment="Left" Margin="25,0,0,0" VerticalAlignment="Top" MinWidth="200" ToolTip="Choose how treasure boxes (chests, barrels, etc.) will be modified.">
+                                    <ComboBoxItem Content="Don't change" ToolTip="Contents of treasure boxes will remain unchanged."               IsSelected="{Binding Treasure.NoChange}"/>
+                                    <ComboBoxItem Content="Randomize"    ToolTip="Contents of treasure boxes will be assigned randomly."           IsSelected="{Binding Treasure.Randomize}"/>
+                                    <ComboBoxItem Content="Shuffle"      ToolTip="Contents of treasure boxes will be shuffled amongst themselves." IsSelected="{Binding Treasure.Shuffle}"/>
+                                </ComboBox>
+                                <Grid Width="225" HorizontalAlignment="Left">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="1*"/>
+                                        <ColumnDefinition Width="1*"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <StackPanel Grid.Column="0">
+                                        <Label Content="Item Ratio" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <wpfTool:DoubleUpDown Value="{Binding Treasure.ItemAmount}" Margin="25,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70"/>
+                                        <Label Content="Trap Ratio" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <wpfTool:DoubleUpDown Value="{Binding Treasure.TrapAmount}" Margin="25,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70"/>
+                                    </StackPanel>
+                                    <StackPanel Grid.Column="1">
+                                        <Label Content="Gold Ratio" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <wpfTool:DoubleUpDown Value="{Binding Treasure.GoldAmount}" Margin="25,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70"/>
+                                        <Label Content="Empty Ratio" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <wpfTool:DoubleUpDown Value="{Binding Treasure.EmptyAmount}" Margin="25,0,0,0" HorizontalAlignment="Right" VerticalAlignment="Top" Width="70"/>
+                                    </StackPanel>
+                                </Grid>
+
+                                <Label Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Blue Chests"/>
+                                <ComboBox Margin="25,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200">
+                                    <ComboBoxItem Content="Don't change"           IsSelected="{Binding Treasure.BlueNoChange}"/>
+                                    <ComboBoxItem Content="Shuffle chests"         IsSelected="{Binding Treasure.ShuffleBlueChests}"/>
+                                    <ComboBoxItem Content="Randomize all contents" IsSelected="{Binding Treasure.RandomizeBlueChestPools}"/>
+                                    <ComboBoxItem Content="Mix with red chests"    IsSelected="{Binding Treasure.SwapBlueAndRedChests}"/>
+                                </ComboBox>
+                                <Label Content="Blue Chest Amount"/>
+                                <wpfTool:DoubleUpDown Value="{Binding Treasure.BlueAmount}" FormatString="P0" Maximum="1" Minimum="0" Increment="0.01" Margin="155,0,0,0" Width="70" HorizontalAlignment="Left"/>
+                            </StackPanel>
+                        </Grid>
+                    </TabItem>
+                    <TabItem x:Name="Tab_Shopping" Header="Shopping">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0">
+                                <Label Content="Shop Inventory"/>
+                                <ComboBox Margin="25,0,0,0">
+                                    <ComboBoxItem Content="No change"           IsSelected="{Binding Shopping.ShopNoChange}"/>
+                                    <ComboBoxItem Content="Shuffle items"       IsSelected="{Binding Shopping.ShopItemShuffle}"/>
+                                    <ComboBoxItem Content="Shuffle inventories" IsSelected="{Binding Shopping.ShopInventoryShuffle}"/>
+                                    <ComboBoxItem Content="Randomize"           IsSelected="{Binding Shopping.ShopRandom}"/>
+                                </ComboBox>
+                                <CheckBox Content="Randomize item prices" IsChecked="{Binding Shopping.RandomPrices}"/>
+                            </StackPanel>
+                            <StackPanel Grid.Column="1">
+                                <Label Content="Casino Prizes"/>
+                                <ComboBox Margin="25,0,0,0">
+                                    <ComboBoxItem Content="No change"        IsSelected="{Binding Shopping.CasinoNoChange}"/>
+                                    <ComboBoxItem Content="Shuffle prizes"   IsSelected="{Binding Shopping.CasinoShuffle}"/>
+                                    <ComboBoxItem Content="Randomize prizes" IsSelected="{Binding Shopping.CasinoRandom}"/>
+                                </ComboBox>
+                                <CheckBox Content="Randomize price costs" IsChecked="{Binding Shopping.CasinoRandomPrices}"/>
+                                <CheckBox Content="Randomize inn fares" IsChecked="{Binding Shopping.HotelRandomPrices}"/>
+                            </StackPanel>
+                        </Grid>
+                    </TabItem>
+                    <TabItem x:Name="Tab_Alchemy" Header="Alchemy">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0">
+                                <Label Content="Alchemy Recipes"/>
+                                <ComboBox>
+                                    <ComboBoxItem Content="No change"             IsSelected="{Binding Alchemy.NoChange}"/>
+                                    <ComboBoxItem Content="Shuffle recipes"       IsSelected="{Binding Alchemy.Shuffle}"/>
+                                    <ComboBoxItem Content="Randomize results"     IsSelected="{Binding Alchemy.ResultRandom}"/>
+                                    <ComboBoxItem Content="Randomize ingredients" IsSelected="{Binding Alchemy.IngredientRandom}"/>
+                                    <ComboBoxItem Content="Randomize all"         IsSelected="{Binding Alchemy.AllRandom}"/>
+                                </ComboBox>
+                                <CheckBox Content="Shuffle bookshelves" IsChecked="{Binding Alchemy.BookShuffle}"/>
+                            </StackPanel>
+                        </Grid>
+                    </TabItem>
+                    <TabItem x:Name="Tab_Cosmetics" Header="Cosmetics" Selector.Selected="Tab_Cosmetics_Selected">
+                        <ScrollViewer>
+
+                            <StackPanel Margin="5,5,5,5">
+                                <Expander Header="Hero">
+                                    <StackPanel>
+                                        <Label Content="Use Skin Pack"/>
+                                        <ComboBox x:Name="ComboBox_Cosmetics_Hero" Margin="30,0,0,5" HorizontalAlignment="Left" Width="200" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="0"/>
+                                        <StackPanel x:Name="Panel_Cosmetics_Hero">
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Default"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Hero_Costume1" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="2"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Soldier Uniform"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Hero_Costume2" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="3"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Dragovian Armour"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Hero_Costume3" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="4"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Gothic Vestment"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Hero_Costume4" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="5"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Metal King Armour"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Hero_Costume5" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="6"/>
+                                            </Grid>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Yangus">
+                                    <StackPanel>
+                                        <Label Content="Use Skin Pack"/>
+                                        <ComboBox x:Name="ComboBox_Cosmetics_Yangus" Margin="30,0,0,5" HorizontalAlignment="Left" Width="200" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="0"/>
+                                        <StackPanel x:Name="Panel_Cosmetics_Yangus">
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Default"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Yangus_Costume1" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="2"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Dogsbody's Vest"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Yangus_Costume2" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="3"/>
+                                            </Grid>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Jessica">
+                                    <StackPanel>
+                                        <Label Content="Use Skin Pack"/>
+                                        <ComboBox x:Name="ComboBox_Cosmetics_Jessica" Margin="30,0,0,5" HorizontalAlignment="Left" Width="200" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="0"/>
+                                        <StackPanel x:Name="Panel_Cosmetics_Jessica">
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Default"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume1" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="2"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Jessica's Outfit"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume2" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="3"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Magic Bikini"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume3" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="4"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Bunny Suit"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume4" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="5"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Dancer's Costume"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume5" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="6"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Dangerous Bustier"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume6" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="7"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Divine Bustier"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume7" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="8"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Hexlet's Skirt"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume8" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="9"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Abiding Blazer"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume9" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="10"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="NitidTutu"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Jessica_Costume10" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="11"/>
+                                            </Grid>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Angelo">
+                                    <StackPanel>
+                                        <Label Content="Use Skin Pack"/>
+                                        <ComboBox x:Name="ComboBox_Cosmetics_Angelo" Margin="30,0,0,5" HorizontalAlignment="Left" Width="200" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="0"/>
+                                        <StackPanel x:Name="Panel_Cosmetics_Angelo">
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Default"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Angelo_Costume1" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="2"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Oriental Warrior"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Angelo_Costume2" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="3"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Butler's Best"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Angelo_Costume3" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="4"/>
+                                            </Grid>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Red">
+                                    <StackPanel>
+                                        <Label Content="Use Skin Pack"/>
+                                        <ComboBox x:Name="ComboBox_Cosmetics_Red" Margin="30,0,0,5" HorizontalAlignment="Left" Width="200" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="0"/>
+                                        <StackPanel x:Name="Panel_Cosmetics_Red">
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Default"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Red_Costume1" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="2"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Mandarin Dress"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Red_Costume2" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="3"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Cap'n's Clothes"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Red_Costume3" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="4"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Kunoichi Costume"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Red_Costume4" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="5"/>
+                                            </Grid>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Morrie">
+                                    <StackPanel>
+                                        <Label Content="Use Skin Pack"/>
+                                        <ComboBox x:Name="ComboBox_Cosmetics_Morrie" Margin="30,0,0,5" HorizontalAlignment="Left" Width="200" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="0"/>
+                                        <StackPanel x:Name="Panel_Cosmetics_Morrie">
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Default"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Morrie_Costume1" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="2"/>
+                                            </Grid>
+                                            <Grid Margin="0,5,0,0">
+                                                <Label Content="Jester's Outfit"/>
+                                                <Label Content="→" Margin="110,0,0,0"/>
+                                                <ComboBox x:Name="ComboBox_Cosmetics_Morrie_Costume2" Margin="135,0,0,0" SelectionChanged="ComboBox_Cosmetics_SelectionChanged" DropDownClosed="ComboBox_Cosmetics_DropDownClosed" SelectedIndex="3"/>
+                                            </Grid>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                            </StackPanel>
+                        </ScrollViewer>
+                    </TabItem>
+                </TabControl>
+                <Grid x:Name="BottomMenu" Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition MinWidth="120"/>
+                        <ColumnDefinition Width="120"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label   Grid.Column="0" Content="Seed:"/>
+                    <wpfTool:WatermarkTextBox Grid.Column="0" x:Name="SeedBox" Margin="40,2,2,2" VerticalAlignment="Center" MaxLines="1"
+                        Text="{Binding Seed}"
+                        Watermark="Leave blank for a random seed"
+                        PreviewTextInput="SeedBox_PreviewTextInput"
+                        PreviewKeyDown="SeedBox_PreviewKeyDown"
+                        PreviewDragOver="SeedBox_PreviewDragOver"/>
+                    <Button  Grid.Column="1" x:Name="GenerateButton" Content="Generate" Margin="2,2,2,2" Click="GenerateButton_Click"/>
+                </Grid>
+            </Grid>
+
+        </DockPanel>
+    </Grid>
+</Window>

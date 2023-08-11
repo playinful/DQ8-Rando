@@ -1,0 +1,844 @@
+{
+  "0": {
+    "ID": 0,
+    "CanSpawn": false,
+    "DoOverwrite": false
+  },
+  "1": {
+    "ID": 1,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "2": {
+    "ID": 2,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "3": {
+    "ID": 3,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "4": {
+    "ID": 4,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "5": {
+    "ID": 5,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "6": {
+    "ID": 6,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "7": {
+    "ID": 7,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "8": {
+    "ID": 8,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "9": {
+    "ID": 9,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "10": {
+    "ID": 10,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "11": {
+    "ID": 11,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "12": {
+    "ID": 12,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "13": {
+    "ID": 13,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "14": {
+    "ID": 14,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "15": {
+    "ID": 15,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "16": {
+    "ID": 16,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "17": {
+    "ID": 17,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "18": {
+    "ID": 18,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "19": {
+    "ID": 19,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "20": {
+    "ID": 20,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "21": {
+    "ID": 21,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "22": {
+    "ID": 22,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "23": {
+    "ID": 23,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "24": {
+    "ID": 24,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "25": {
+    "ID": 25,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "26": {
+    "ID": 26,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "27": {
+    "ID": 27,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "28": {
+    "ID": 28,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "29": {
+    "ID": 29,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "30": {
+    "ID": 30,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "31": {
+    "ID": 31,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "32": {
+    "ID": 32,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "33": {
+    "ID": 33,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "34": {
+    "ID": 34,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "35": {
+    "ID": 35,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "36": {
+    "ID": 36,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "37": {
+    "ID": 37,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "38": {
+    "ID": 38,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "39": {
+    "ID": 39,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "40": {
+    "ID": 40,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "41": {
+    "ID": 41,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "42": {
+    "ID": 42,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "43": {
+    "ID": 43,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "44": {
+    "ID": 44,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "45": {
+    "ID": 45,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "46": {
+    "ID": 46,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "47": {
+    "ID": 47,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "48": {
+    "ID": 48,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "49": {
+    "ID": 49,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "50": {
+    "ID": 50,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "51": {
+    "ID": 51,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "52": {
+    "ID": 52,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "53": {
+    "ID": 53,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "54": {
+    "ID": 54,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "55": {
+    "ID": 55,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "56": {
+    "ID": 56,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "57": {
+    "ID": 57,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "58": {
+    "ID": 58,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "59": {
+    "ID": 59,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "60": {
+    "ID": 60,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "61": {
+    "ID": 61,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "62": {
+    "ID": 62,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "63": {
+    "ID": 63,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "64": {
+    "ID": 64,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "65": {
+    "ID": 65,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "66": {
+    "ID": 66,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "67": {
+    "ID": 67,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "68": {
+    "ID": 68,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "69": {
+    "ID": 69,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "70": {
+    "ID": 70,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "71": {
+    "ID": 71,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "72": {
+    "ID": 72,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "73": {
+    "ID": 73,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "74": {
+    "ID": 74,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "75": {
+    "ID": 75,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "76": {
+    "ID": 76,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Slimeys"
+  },
+  "77": {
+    "ID": 77,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Team Face Off"
+  },
+  "78": {
+    "ID": 78,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Bully Brothers"
+  },
+  "79": {
+    "ID": 79,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Fisher Kings"
+  },
+  "80": {
+    "ID": 80,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Hell's Bells"
+  },
+  "81": {
+    "ID": 81,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Red Barons"
+  },
+  "82": {
+    "ID": 82,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Prison Pussycats"
+  },
+  "83": {
+    "ID": 83,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Fiend Family"
+  },
+  "84": {
+    "ID": 84,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Dirty Dancers"
+  },
+  "85": {
+    "ID": 85,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Team Nightmare"
+  },
+  "86": {
+    "ID": 86,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Deadheads"
+  },
+  "87": {
+    "ID": 87,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Psyche-os"
+  },
+  "88": {
+    "ID": 88,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Beach Babes"
+  },
+  "89": {
+    "ID": 89,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Bad Science"
+  },
+  "90": {
+    "ID": 90,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Battle Royals"
+  },
+  "91": {
+    "ID": 91,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Drag Queens"
+  },
+  "92": {
+    "ID": 92,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Tough Nuts"
+  },
+  "93": {
+    "ID": 93,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Rock 'n' Rollers"
+  },
+  "94": {
+    "ID": 94,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Big Boys"
+  },
+  "95": {
+    "ID": 95,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Wild Cats"
+  },
+  "96": {
+    "ID": 96,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Fear Factor"
+  },
+  "97": {
+    "ID": 97,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Taloon's Treasures"
+  },
+  "98": {
+    "ID": 98,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Healie's Heelies"
+  },
+  "99": {
+    "ID": 99,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Morrie's Glories"
+  },
+  "100": {
+    "ID": 100,
+    "CanSpawn": false,
+    "DoOverwrite": false
+  },
+  "101": {
+    "ID": 101,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "102": {
+    "ID": 102,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "103": {
+    "ID": 103,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "104": {
+    "ID": 104,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "105": {
+    "ID": 105,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "106": {
+    "ID": 106,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "107": {
+    "ID": 107,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "108": {
+    "ID": 108,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "109": {
+    "ID": 109,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "110": {
+    "ID": 110,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "111": {
+    "ID": 111,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "112": {
+    "ID": 112,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "113": {
+    "ID": 113,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "114": {
+    "ID": 114,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "115": {
+    "ID": 115,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "116": {
+    "ID": 116,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "117": {
+    "ID": 117,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "118": {
+    "ID": 118,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "119": {
+    "ID": 119,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "120": {
+    "ID": 120,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "121": {
+    "ID": 121,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "122": {
+    "ID": 122,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "123": {
+    "ID": 123,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "124": {
+    "ID": 124,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "125": {
+    "ID": 125,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "126": {
+    "ID": 126,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "127": {
+    "ID": 127,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "128": {
+    "ID": 128,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "129": {
+    "ID": 129,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Bash Brigade"
+  },
+  "130": {
+    "ID": 130,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "Double or Nothing"
+  },
+  "131": {
+    "ID": 131,
+    "CanSpawn": true,
+    "DoOverwrite": false,
+    "TeamName": "The Battle Bunnies"
+  },
+  "132": {
+    "ID": 132,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "133": {
+    "ID": 133,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "134": {
+    "ID": 134,
+    "CanSpawn": false,
+    "DoOverwrite": false
+  },
+  "135": {
+    "ID": 135,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "136": {
+    "ID": 136,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "137": {
+    "ID": 137,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "138": {
+    "ID": 138,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "139": {
+    "ID": 139,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "140": {
+    "ID": 140,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "141": {
+    "ID": 141,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "142": {
+    "ID": 142,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "143": {
+    "ID": 143,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "144": {
+    "ID": 144,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "145": {
+    "ID": 145,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "146": {
+    "ID": 146,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "147": {
+    "ID": 147,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "148": {
+    "ID": 148,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "149": {
+    "ID": 149,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "150": {
+    "ID": 150,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "151": {
+    "ID": 151,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "152": {
+    "ID": 152,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "153": {
+    "ID": 153,
+    "CanSpawn": true,
+    "DoOverwrite": false
+  },
+  "154": {
+    "ID": 154,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "155": {
+    "ID": 155,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "156": {
+    "ID": 156,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "157": {
+    "ID": 157,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "158": {
+    "ID": 158,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "159": {
+    "ID": 159,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "160": {
+    "ID": 160,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "161": {
+    "ID": 161,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  },
+  "162": {
+    "ID": 162,
+    "CanSpawn": false,
+    "DoOverwrite": true
+  }
+}

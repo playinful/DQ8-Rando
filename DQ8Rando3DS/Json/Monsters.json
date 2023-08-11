@@ -1,0 +1,7624 @@
+{
+  "0": {
+    "ID": 0,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "1": {
+    "ID": 1,
+    "Name": "slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 1
+  },
+  "2": {
+    "ID": 2,
+    "Name": "candy cat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 2
+  },
+  "3": {
+    "ID": 3,
+    "Name": "lips",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 3
+  },
+  "4": {
+    "ID": 4,
+    "Name": "dracky",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 3
+  },
+  "5": {
+    "ID": 5,
+    "Name": "satyr",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 4
+  },
+  "6": {
+    "ID": 6,
+    "Name": "capsichum",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 5
+  },
+  "7": {
+    "ID": 7,
+    "Name": "bunicorn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 6
+  },
+  "8": {
+    "ID": 8,
+    "Name": "she-slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 10
+  },
+  "9": {
+    "ID": 9,
+    "Name": "mischievous mole",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 5
+  },
+  "10": {
+    "ID": 10,
+    "Name": "mecha-mynah",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 8
+  },
+  "11": {
+    "ID": 11,
+    "Name": "bubble slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 7
+  },
+  "12": {
+    "ID": 12,
+    "Name": "dancing devil",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 9
+  },
+  "13": {
+    "ID": 13,
+    "Name": "bodkin archer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 13
+  },
+  "14": {
+    "ID": 14,
+    "Name": "skipper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 14
+  },
+  "15": {
+    "ID": 15,
+    "Name": "drackmage",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 11
+  },
+  "16": {
+    "ID": 16,
+    "Name": "beetleboy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 15
+  },
+  "17": {
+    "ID": 17,
+    "Name": "imp",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 17
+  },
+  "18": {
+    "ID": 18,
+    "Name": "funghoul",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 15
+  },
+  "19": {
+    "ID": 19,
+    "Name": "fencing fox",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 23
+  },
+  "20": {
+    "ID": 20,
+    "Name": "healslime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 18
+  },
+  "21": {
+    "ID": 21,
+    "Name": "hammerhood",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 25
+  },
+  "22": {
+    "ID": 22,
+    "Name": "jailcat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 21
+  },
+  "23": {
+    "ID": 23,
+    "Name": "frogface",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 22
+  },
+  "24": {
+    "ID": 24,
+    "Name": "lump mage",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 31
+  },
+  "25": {
+    "ID": 25,
+    "Name": "winky",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 32
+  },
+  "26": {
+    "ID": 26,
+    "Name": "spiked hare",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 35
+  },
+  "27": {
+    "ID": 27,
+    "Name": "chainine",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 36
+  },
+  "28": {
+    "ID": 28,
+    "Name": "giant moth",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 37
+  },
+  "29": {
+    "ID": 29,
+    "Name": "dingaling",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 31
+  },
+  "30": {
+    "ID": 30,
+    "Name": "jargon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 64
+  },
+  "31": {
+    "ID": 31,
+    "Name": "drackyma",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 28
+  },
+  "32": {
+    "ID": 32,
+    "Name": "bullfinch",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 30
+  },
+  "33": {
+    "ID": 33,
+    "Name": "bag o' laughs",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 35
+  },
+  "34": {
+    "ID": 34,
+    "Name": "skeleton",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 41
+  },
+  "35": {
+    "ID": 35,
+    "Name": "metal slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 1350
+  },
+  "36": {
+    "ID": 36,
+    "Name": "scorpion",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 42
+  },
+  "37": {
+    "ID": 37,
+    "Name": "Morphean mushroom",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 40
+  },
+  "38": {
+    "ID": 38,
+    "Name": "brownie",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 43
+  },
+  "39": {
+    "ID": 39,
+    "Name": "flyguy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 44
+  },
+  "40": {
+    "ID": 40,
+    "Name": "puppeteer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 45
+  },
+  "41": {
+    "ID": 41,
+    "Name": "bodkin bowyer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 43
+  },
+  "42": {
+    "ID": 42,
+    "Name": "night sneaker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 52
+  },
+  "43": {
+    "ID": 43,
+    "Name": "mummy boy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 55
+  },
+  "44": {
+    "ID": 44,
+    "Name": "hell hornet",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 51
+  },
+  "45": {
+    "ID": 45,
+    "Name": "pan piper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 54
+  },
+  "46": {
+    "ID": 46,
+    "Name": "slime knight",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 55
+  },
+  "47": {
+    "ID": 47,
+    "Name": "clockwork cuckoo",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 56
+  },
+  "48": {
+    "ID": 48,
+    "Name": "treeface",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 67
+  },
+  "49": {
+    "ID": 49,
+    "Name": "kisser",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 53
+  },
+  "50": {
+    "ID": 50,
+    "Name": "diemon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 58
+  },
+  "51": {
+    "ID": 51,
+    "Name": "walking corpse",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 59
+  },
+  "52": {
+    "ID": 52,
+    "Name": "fat bat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 61
+  },
+  "53": {
+    "ID": 53,
+    "Name": "night fox",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 56
+  },
+  "54": {
+    "ID": 54,
+    "Name": "paprikan",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 47
+  },
+  "55": {
+    "ID": 55,
+    "Name": "chimaera",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 64
+  },
+  "56": {
+    "ID": 56,
+    "Name": "hood",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 66
+  },
+  "57": {
+    "ID": 57,
+    "Name": "headhunter",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 62
+  },
+  "58": {
+    "ID": 58,
+    "Name": "minidemon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 59
+  },
+  "59": {
+    "ID": 59,
+    "Name": "gorerilla",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 65
+  },
+  "60": {
+    "ID": 60,
+    "Name": "mud mannequin",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 69
+  },
+  "61": {
+    "ID": 61,
+    "Name": "cannibox",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 76
+  },
+  "62": {
+    "ID": 62,
+    "Name": "goodybag",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 32
+  },
+  "63": {
+    "ID": 63,
+    "Name": "witch",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 66
+  },
+  "64": {
+    "ID": 64,
+    "Name": "mummy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 67
+  },
+  "65": {
+    "ID": 65,
+    "Name": "cureslime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 70
+  },
+  "66": {
+    "ID": 66,
+    "Name": "restless armour",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 74
+  },
+  "67": {
+    "ID": 67,
+    "Name": "phantom fencer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 68
+  },
+  "68": {
+    "ID": 68,
+    "Name": "hipster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 69
+  },
+  "69": {
+    "ID": 69,
+    "Name": "rockbomb",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 70
+  },
+  "70": {
+    "ID": 70,
+    "Name": "dieablo",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 72
+  },
+  "71": {
+    "ID": 71,
+    "Name": "muddy hand",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 45
+  },
+  "72": {
+    "ID": 72,
+    "Name": "terror tabby",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 67
+  },
+  "73": {
+    "ID": 73,
+    "Name": "devilmoth",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 66
+  },
+  "74": {
+    "ID": 74,
+    "Name": "buffalo wing",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 62
+  },
+  "75": {
+    "ID": 75,
+    "Name": "mumboh-jumboe",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 309
+  },
+  "76": {
+    "ID": 76,
+    "Name": "hunter mech",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 76
+  },
+  "77": {
+    "ID": 77,
+    "Name": "pink pongo",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 78
+  },
+  "78": {
+    "ID": 78,
+    "Name": "liquid metal slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 10050
+  },
+  "79": {
+    "ID": 79,
+    "Name": "mad mole",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 68
+  },
+  "80": {
+    "ID": 80,
+    "Name": "wailin' weed",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 73
+  },
+  "81": {
+    "ID": 81,
+    "Name": "garuda",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 75
+  },
+  "82": {
+    "ID": 82,
+    "Name": "infernal armour",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 90
+  },
+  "83": {
+    "ID": 83,
+    "Name": "dragonthorn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 101
+  },
+  "84": {
+    "ID": 84,
+    "Name": "mars rover",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 56
+  },
+  "85": {
+    "ID": 85,
+    "Name": "peeper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 75
+  },
+  "86": {
+    "ID": 86,
+    "Name": "cockateer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 90
+  },
+  "87": {
+    "ID": 87,
+    "Name": "great sabrecat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 120
+  },
+  "88": {
+    "ID": 88,
+    "Name": "metal slime knight",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 91
+  },
+  "89": {
+    "ID": 89,
+    "Name": "puppet player",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 90
+  },
+  "90": {
+    "ID": 90,
+    "Name": "spitnik",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 92
+  },
+  "91": {
+    "ID": 91,
+    "Name": "bodkin fletcher",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 86
+  },
+  "92": {
+    "ID": 92,
+    "Name": "venom wasp",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 89
+  },
+  "93": {
+    "ID": 93,
+    "Name": "orc",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 94
+  },
+  "94": {
+    "ID": 94,
+    "Name": "night emperor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 93
+  },
+  "95": {
+    "ID": 95,
+    "Name": "treevil",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 95
+  },
+  "96": {
+    "ID": 96,
+    "Name": "battle beetle",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 96
+  },
+  "97": {
+    "ID": 97,
+    "Name": "lump shaman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 90
+  },
+  "98": {
+    "ID": 98,
+    "Name": "skeleton soldier",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 93
+  },
+  "99": {
+    "ID": 99,
+    "Name": "hawk man",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 100
+  },
+  "100": {
+    "ID": 100,
+    "Name": "tap devil",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 78
+  },
+  "101": {
+    "ID": 101,
+    "Name": "mushroom mage",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 75
+  },
+  "102": {
+    "ID": 102,
+    "Name": "redtail hipster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 92
+  },
+  "103": {
+    "ID": 103,
+    "Name": "jumping jackal",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 103
+  },
+  "104": {
+    "ID": 104,
+    "Name": "gold golem",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 54
+  },
+  "105": {
+    "ID": 105,
+    "Name": "king slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 110
+  },
+  "106": {
+    "ID": 106,
+    "Name": "iron scorpion",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 82
+  },
+  "107": {
+    "ID": 107,
+    "Name": "toxic zombie",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 75
+  },
+  "108": {
+    "ID": 108,
+    "Name": "lesser demon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 107
+  },
+  "109": {
+    "ID": 109,
+    "Name": "Volpone",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 102
+  },
+  "110": {
+    "ID": 110,
+    "Name": "bomboulder",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 111
+  },
+  "111": {
+    "ID": 111,
+    "Name": "skullrider",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 97
+  },
+  "112": {
+    "ID": 112,
+    "Name": "Hades condor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 99
+  },
+  "113": {
+    "ID": 113,
+    "Name": "frogman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 88
+  },
+  "114": {
+    "ID": 114,
+    "Name": "mimic",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 128
+  },
+  "115": {
+    "ID": 115,
+    "Name": "magic dumbbell",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 41
+  },
+  "116": {
+    "ID": 116,
+    "Name": "gargoyle",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 114
+  },
+  "117": {
+    "ID": 117,
+    "Name": "magic marionette",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 108
+  },
+  "118": {
+    "ID": 118,
+    "Name": "notso macho",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 120
+  },
+  "119": {
+    "ID": 119,
+    "Name": "lump wizard",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 112
+  },
+  "120": {
+    "ID": 120,
+    "Name": "berserker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 118
+  },
+  "121": {
+    "ID": 121,
+    "Name": "bulldozer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 117
+  },
+  "122": {
+    "ID": 122,
+    "Name": "ghoul",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 98
+  },
+  "123": {
+    "ID": 123,
+    "Name": "shade",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 78
+  },
+  "124": {
+    "ID": 124,
+    "Name": "lethal armour",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 124
+  },
+  "125": {
+    "ID": 125,
+    "Name": "king cureslime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 136
+  },
+  "126": {
+    "ID": 126,
+    "Name": "hoodlum",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 106
+  },
+  "127": {
+    "ID": 127,
+    "Name": "hocus chimaera",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 115
+  },
+  "128": {
+    "ID": 128,
+    "Name": "demonrider",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 131
+  },
+  "129": {
+    "ID": 129,
+    "Name": "killer moth",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 116
+  },
+  "130": {
+    "ID": 130,
+    "Name": "jabberwockee",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 318
+  },
+  "131": {
+    "ID": 131,
+    "Name": "Silenus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 113
+  },
+  "132": {
+    "ID": 132,
+    "Name": "robo-robin",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 96
+  },
+  "133": {
+    "ID": 133,
+    "Name": "puppet master",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 132
+  },
+  "134": {
+    "ID": 134,
+    "Name": "death scorpion",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 99
+  },
+  "135": {
+    "ID": 135,
+    "Name": "jackal ripper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 123
+  },
+  "136": {
+    "ID": 136,
+    "Name": "iron rhino",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 138
+  },
+  "137": {
+    "ID": 137,
+    "Name": "dancing flame",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 143
+  },
+  "138": {
+    "ID": 138,
+    "Name": "blood mummy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 125
+  },
+  "139": {
+    "ID": 139,
+    "Name": "phantom swordsman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 164
+  },
+  "140": {
+    "ID": 140,
+    "Name": "hacksaurus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 216
+  },
+  "141": {
+    "ID": 141,
+    "Name": "bone baron",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 176
+  },
+  "142": {
+    "ID": 142,
+    "Name": "swingin' hipster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 155
+  },
+  "143": {
+    "ID": 143,
+    "Name": "orc king",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 154
+  },
+  "144": {
+    "ID": 144,
+    "Name": "soulspawn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 138
+  },
+  "145": {
+    "ID": 145,
+    "Name": "gryphon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 167
+  },
+  "146": {
+    "ID": 146,
+    "Name": "golem",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 237
+  },
+  "147": {
+    "ID": 147,
+    "Name": "fallen priest",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 183
+  },
+  "148": {
+    "ID": 148,
+    "Name": "dead ringer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 68
+  },
+  "149": {
+    "ID": 149,
+    "Name": "living statue",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 306
+  },
+  "150": {
+    "ID": 150,
+    "Name": "freeze fly",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 160
+  },
+  "151": {
+    "ID": 151,
+    "Name": "dark slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 87
+  },
+  "152": {
+    "ID": 152,
+    "Name": "frostburn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 199
+  },
+  "153": {
+    "ID": 153,
+    "Name": "hellhound",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 108
+  },
+  "154": {
+    "ID": 154,
+    "Name": "troll",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 210
+  },
+  "155": {
+    "ID": 155,
+    "Name": "ice queen",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 186
+  },
+  "156": {
+    "ID": 156,
+    "Name": "abominape",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 202
+  },
+  "157": {
+    "ID": 157,
+    "Name": "beelzebuzz",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 165
+  },
+  "158": {
+    "ID": 158,
+    "Name": "killing machine",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 315
+  },
+  "159": {
+    "ID": 159,
+    "Name": "icikiller",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 221
+  },
+  "160": {
+    "ID": 160,
+    "Name": "shadow",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 216
+  },
+  "161": {
+    "ID": 161,
+    "Name": "metal king slime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 30010
+  },
+  "162": {
+    "ID": 162,
+    "Name": "frost wyvine",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 326
+  },
+  "163": {
+    "ID": 163,
+    "Name": "Elysium bird",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 163
+  },
+  "164": {
+    "ID": 164,
+    "Name": "dragurn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 302
+  },
+  "165": {
+    "ID": 165,
+    "Name": "smacker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 149
+  },
+  "166": {
+    "ID": 166,
+    "Name": "zombie gladiator",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 283
+  },
+  "167": {
+    "ID": 167,
+    "Name": "stone golem",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 340
+  },
+  "168": {
+    "ID": 168,
+    "Name": "dark condor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 224
+  },
+  "169": {
+    "ID": 169,
+    "Name": "mucho macho",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 318
+  },
+  "170": {
+    "ID": 170,
+    "Name": "dark skeleton",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 304
+  },
+  "171": {
+    "ID": 171,
+    "Name": "dark macarbour",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 333
+  },
+  "172": {
+    "ID": 172,
+    "Name": "tyrantosaurus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 283
+  },
+  "173": {
+    "ID": 173,
+    "Name": "demon thunderer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 250
+  },
+  "174": {
+    "ID": 174,
+    "Name": "dark star",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 301
+  },
+  "175": {
+    "ID": 175,
+    "Name": "dark minister",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 316
+  },
+  "176": {
+    "ID": 176,
+    "Name": "grim rider",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 304
+  },
+  "177": {
+    "ID": 177,
+    "Name": "dark sea-diva",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 287
+  },
+  "178": {
+    "ID": 178,
+    "Name": "war gryphon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 305
+  },
+  "179": {
+    "ID": 179,
+    "Name": "dark turkey",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 309
+  },
+  "180": {
+    "ID": 180,
+    "Name": "heligator",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 617
+  },
+  "181": {
+    "ID": 181,
+    "Name": "dark dullahan",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 326
+  },
+  "182": {
+    "ID": 182,
+    "Name": "killer croaker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 166
+  },
+  "183": {
+    "ID": 183,
+    "Name": "high roller",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 245
+  },
+  "184": {
+    "ID": 184,
+    "Name": "darkodile",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 637
+  },
+  "185": {
+    "ID": 185,
+    "Name": "cyclops",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 443
+  },
+  "186": {
+    "ID": 186,
+    "Name": "bloody hand",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 146
+  },
+  "187": {
+    "ID": 187,
+    "Name": "snapdragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 356
+  },
+  "188": {
+    "ID": 188,
+    "Name": "buffalogre",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 363
+  },
+  "189": {
+    "ID": 189,
+    "Name": "mohawker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 318
+  },
+  "190": {
+    "ID": 190,
+    "Name": "archdemon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 418
+  },
+  "191": {
+    "ID": 191,
+    "Name": "bobonga",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 376
+  },
+  "192": {
+    "ID": 192,
+    "Name": "caped caperer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 199
+  },
+  "193": {
+    "ID": 193,
+    "Name": "claws",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 386
+  },
+  "194": {
+    "ID": 194,
+    "Name": "boss troll",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 426
+  },
+  "195": {
+    "ID": 195,
+    "Name": "mimic king",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 402
+  },
+  "196": {
+    "ID": 196,
+    "Name": "fowlfighter",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 376
+  },
+  "197": {
+    "ID": 197,
+    "Name": "dullahan",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 378
+  },
+  "198": {
+    "ID": 198,
+    "Name": "gigantes",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 511
+  },
+  "199": {
+    "ID": 199,
+    "Name": "frou-frou",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 396
+  },
+  "200": {
+    "ID": 200,
+    "Name": "stone guardian",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 422
+  },
+  "201": {
+    "ID": 201,
+    "Name": "wight priest",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 398
+  },
+  "202": {
+    "ID": 202,
+    "Name": "hell gladiator",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 416
+  },
+  "203": {
+    "ID": 203,
+    "Name": "dark slime (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 151,
+    "CopyAll": true,
+    "PowerLevel": 87
+  },
+  "204": {
+    "ID": 204,
+    "Name": "shadow (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 160,
+    "CopyAll": true,
+    "PowerLevel": 256
+  },
+  "205": {
+    "ID": 205,
+    "Name": "dark skeleton (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 170,
+    "CopyAll": true,
+    "PowerLevel": 289
+  },
+  "206": {
+    "ID": 206,
+    "Name": "dark condor (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 168,
+    "CopyAll": true,
+    "PowerLevel": 272
+  },
+  "207": {
+    "ID": 207,
+    "Name": "dark macarbour (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 171,
+    "CopyAll": true,
+    "PowerLevel": 372
+  },
+  "208": {
+    "ID": 208,
+    "Name": "dark turkey (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 179,
+    "CopyAll": true,
+    "PowerLevel": 313
+  },
+  "209": {
+    "ID": 209,
+    "Name": "dark minister (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 175,
+    "CopyAll": true,
+    "PowerLevel": 316
+  },
+  "210": {
+    "ID": 210,
+    "Name": "dark dullahan (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 181,
+    "CopyAll": true,
+    "PowerLevel": 326
+  },
+  "211": {
+    "ID": 211,
+    "Name": "dark moth",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 226
+  },
+  "212": {
+    "ID": 212,
+    "Name": "dark star (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 174,
+    "CopyAll": true,
+    "PowerLevel": 326
+  },
+  "213": {
+    "ID": 213,
+    "Name": "dark gryphon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 411
+  },
+  "214": {
+    "ID": 214,
+    "Name": "darkodile (Act 2)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 184,
+    "CopyAll": true,
+    "PowerLevel": 616
+  },
+  "215": {
+    "ID": 215,
+    "Name": "dark sabrecat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 507
+  },
+  "216": {
+    "ID": 216,
+    "Name": "hell hopper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 379
+  },
+  "217": {
+    "ID": 217,
+    "Name": "dark devildog",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 398
+  },
+  "218": {
+    "ID": 218,
+    "Name": "heavy hood",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 423
+  },
+  "219": {
+    "ID": 219,
+    "Name": "hellstalker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 408
+  },
+  "220": {
+    "ID": 220,
+    "Name": "silhouette",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 376
+  },
+  "221": {
+    "ID": 221,
+    "Name": "democrobot",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 1830
+  },
+  "222": {
+    "ID": 222,
+    "Name": "Pandora's box",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 560
+  },
+  "223": {
+    "ID": 223,
+    "Name": "wight king",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 477
+  },
+  "224": {
+    "ID": 224,
+    "Name": "invisible swordsman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 502
+  },
+  "225": {
+    "ID": 225,
+    "Name": "hellspawn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 389
+  },
+  "226": {
+    "ID": 226,
+    "Name": "Belial",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 523
+  },
+  "227": {
+    "ID": 227,
+    "Name": "solaris",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 468
+  },
+  "228": {
+    "ID": 228,
+    "Name": "great troll",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 679
+  },
+  "229": {
+    "ID": 229,
+    "Name": "unholy bishop",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 619
+  },
+  "230": {
+    "ID": 230,
+    "Name": "Hell's gatekeeper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 662
+  },
+  "231": {
+    "ID": 231,
+    "Name": "crocodog",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 718
+  },
+  "232": {
+    "ID": 232,
+    "Name": "khalamari kid",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 37
+  },
+  "233": {
+    "ID": 233,
+    "Name": "see urchin",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 24
+  },
+  "234": {
+    "ID": 234,
+    "Name": "man o' war",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 23
+  },
+  "235": {
+    "ID": 235,
+    "Name": "yabby",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 31
+  },
+  "236": {
+    "ID": 236,
+    "Name": "king kelp",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 56
+  },
+  "237": {
+    "ID": 237,
+    "Name": "wild boarfish",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 60
+  },
+  "238": {
+    "ID": 238,
+    "Name": "khalamari kid (ocean)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 232,
+    "CopyAll": true,
+    "PowerLevel": 58
+  },
+  "239": {
+    "ID": 239,
+    "Name": "see urchin (ocean)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 233,
+    "CopyAll": true,
+    "PowerLevel": 41
+  },
+  "240": {
+    "ID": 240,
+    "Name": "man o' war (ocean)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 234,
+    "CopyAll": true,
+    "PowerLevel": 62
+  },
+  "241": {
+    "ID": 241,
+    "Name": "anchorman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 75
+  },
+  "242": {
+    "ID": 242,
+    "Name": "see angel",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 79
+  },
+  "243": {
+    "ID": 243,
+    "Name": "squid kid",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 74
+  },
+  "244": {
+    "ID": 244,
+    "Name": "king kelp (ocean)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 236,
+    "CopyAll": true,
+    "PowerLevel": 88
+  },
+  "245": {
+    "ID": 245,
+    "Name": "crayzee",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 94
+  },
+  "246": {
+    "ID": 246,
+    "Name": "eveel",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 92
+  },
+  "247": {
+    "ID": 247,
+    "Name": "merman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 106
+  },
+  "248": {
+    "ID": 248,
+    "Name": "king squid",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 116
+  },
+  "249": {
+    "ID": 249,
+    "Name": "octavian sentry",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 120
+  },
+  "250": {
+    "ID": 250,
+    "Name": "pigmalion",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 109
+  },
+  "251": {
+    "ID": 251,
+    "Name": "sea dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 114
+  },
+  "252": {
+    "ID": 252,
+    "Name": "foul anchor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 121
+  },
+  "253": {
+    "ID": 253,
+    "Name": "poison eveel",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 116
+  },
+  "254": {
+    "ID": 254,
+    "Name": "siren",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 123
+  },
+  "255": {
+    "ID": 255,
+    "Name": "merking",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 278
+  },
+  "256": {
+    "ID": 256,
+    "Name": "seasaur",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 194
+  },
+  "257": {
+    "ID": 257,
+    "Name": "octavian pirate",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 290
+  },
+  "258": {
+    "ID": 258,
+    "Name": "riptide",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 331
+  },
+  "259": {
+    "ID": 259,
+    "Name": "tentacular",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 303
+  },
+  "260": {
+    "ID": 260,
+    "Name": "abyss diver",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 255
+  },
+  "261": {
+    "ID": 261,
+    "Name": "slime (amalgoomated)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 1,
+    "CopyLoot": true,
+    "PowerLevel": 8
+  },
+  "262": {
+    "ID": 262,
+    "Name": "firespirit",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 5
+  },
+  "263": {
+    "ID": 263,
+    "Name": "lost soul",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 62
+  },
+  "264": {
+    "ID": 264,
+    "Name": "servant of darkness",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 682
+  },
+  "265": {
+    "ID": 265,
+    "Name": "frogface (face-up)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 23,
+    "CopyLoot": true,
+    "PowerLevel": 22
+  },
+  "266": {
+    "ID": 266,
+    "Name": "frogman (face-up)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 113,
+    "CopyLoot": true,
+    "PowerLevel": 88
+  },
+  "267": {
+    "ID": 267,
+    "Name": "killer croaker (face-up)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 182,
+    "CopyLoot": true,
+    "PowerLevel": 166
+  },
+  "268": {
+    "ID": 268,
+    "Name": "winky (red)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 25,
+    "CopyLoot": true,
+    "PowerLevel": 32
+  },
+  "269": {
+    "ID": 269,
+    "Name": "pan piper (red)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 45,
+    "CopyLoot": true,
+    "PowerLevel": 54
+  },
+  "270": {
+    "ID": 270,
+    "Name": "magic dumbbell Lv. 5",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 115,
+    "CopyLoot": true,
+    "PowerLevel": 41
+  },
+  "271": {
+    "ID": 271,
+    "Name": "dead ringer Lv. 5",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 148,
+    "CopyLoot": true,
+    "PowerLevel": 68
+  },
+  "272": {
+    "ID": 272,
+    "Name": "high roller (serious)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 183,
+    "CopyLoot": true,
+    "PowerLevel": 245
+  },
+  "273": {
+    "ID": 273,
+    "Name": "skeleton soldier 2",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 98,
+    "CopyAll": true,
+    "PowerLevel": 262
+  },
+  "274": {
+    "ID": 274,
+    "Name": "ghoul 2",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 122,
+    "CopyAll": true,
+    "PowerLevel": 284
+  },
+  "275": {
+    "ID": 275,
+    "Name": "anchorman (red)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "Parent": 241,
+    "CopyLoot": true,
+    "PowerLevel": 75
+  },
+  "276": {
+    "ID": 276,
+    "Name": "mum",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 68
+  },
+  "277": {
+    "ID": 277,
+    "Name": "boh",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 65
+  },
+  "278": {
+    "ID": 278,
+    "Name": "jum",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 60
+  },
+  "279": {
+    "ID": 279,
+    "Name": "boe",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 59
+  },
+  "280": {
+    "ID": 280,
+    "Name": "jab",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 81
+  },
+  "281": {
+    "ID": 281,
+    "Name": "ber",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 71
+  },
+  "282": {
+    "ID": 282,
+    "Name": "kee",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 61
+  },
+  "283": {
+    "ID": 283,
+    "Name": "woc",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 61
+  },
+  "284": {
+    "ID": 284,
+    "Name": "head of state",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 320
+  },
+  "285": {
+    "ID": 285,
+    "Name": "body politic",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 310
+  },
+  "286": {
+    "ID": 286,
+    "Name": "right wing",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 290
+  },
+  "287": {
+    "ID": 287,
+    "Name": "left wing",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 280
+  },
+  "288": {
+    "ID": 288,
+    "Name": "jab",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 280,
+    "CopyAll": true,
+    "PowerLevel": 81
+  },
+  "289": {
+    "ID": 289,
+    "Name": "Red Horn",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 610
+  },
+  "290": {
+    "ID": 290,
+    "Name": "Blue Fang",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 575
+  },
+  "291": {
+    "ID": 291,
+    "Name": "phoenix",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 336
+  },
+  "292": {
+    "ID": 292,
+    "Name": "night rider",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 444
+  },
+  "293": {
+    "ID": 293,
+    "Name": "corpse corporal",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 244
+  },
+  "294": {
+    "ID": 294,
+    "Name": "great keeper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 600
+  },
+  "295": {
+    "ID": 295,
+    "Name": "crème caraslime",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 200
+  },
+  "296": {
+    "ID": 296,
+    "Name": "dead bowdy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 300
+  },
+  "297": {
+    "ID": 297,
+    "Name": "Morrimp",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 400
+  },
+  "298": {
+    "ID": 298,
+    "Name": "gold nugcat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 150
+  },
+  "299": {
+    "ID": 299,
+    "Name": "cherreevil blossom",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 600
+  },
+  "300": {
+    "ID": 300,
+    "Name": "Santaclops",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 800
+  },
+  "301": {
+    "ID": 301,
+    "Name": "box of tricks",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsSpecial": true,
+    "PowerLevel": 1000
+  },
+  "302": {
+    "ID": 302,
+    "Name": "coffer of death",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "PowerLevel": 512
+  },
+  "303": {
+    "ID": 303,
+    "Name": "coffer of death",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 302,
+    "CopyAll": true,
+    "PowerLevel": 512
+  },
+  "304": {
+    "ID": 304,
+    "Name": "great keeper",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 294,
+    "CopyAll": true,
+    "PowerLevel": 600
+  },
+  "305": {
+    "ID": 305,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "306": {
+    "ID": 306,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "307": {
+    "ID": 307,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "308": {
+    "ID": 308,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "309": {
+    "ID": 309,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "310": {
+    "ID": 310,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "311": {
+    "ID": 311,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "312": {
+    "ID": 312,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "313": {
+    "ID": 313,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "314": {
+    "ID": 314,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "315": {
+    "ID": 315,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "316": {
+    "ID": 316,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "317": {
+    "ID": 317,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "318": {
+    "ID": 318,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "319": {
+    "ID": 319,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "320": {
+    "ID": 320,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "321": {
+    "ID": 321,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "322": {
+    "ID": 322,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "323": {
+    "ID": 323,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "324": {
+    "ID": 324,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "325": {
+    "ID": 325,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "326": {
+    "ID": 326,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "327": {
+    "ID": 327,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "328": {
+    "ID": 328,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "329": {
+    "ID": 329,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "330": {
+    "ID": 330,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "331": {
+    "ID": 331,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "332": {
+    "ID": 332,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "333": {
+    "ID": 333,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "334": {
+    "ID": 334,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "335": {
+    "ID": 335,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "336": {
+    "ID": 336,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "337": {
+    "ID": 337,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "338": {
+    "ID": 338,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "339": {
+    "ID": 339,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "340": {
+    "ID": 340,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "341": {
+    "ID": 341,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "342": {
+    "ID": 342,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "343": {
+    "ID": 343,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "344": {
+    "ID": 344,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "345": {
+    "ID": 345,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "346": {
+    "ID": 346,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "347": {
+    "ID": 347,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "348": {
+    "ID": 348,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "349": {
+    "ID": 349,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "350": {
+    "ID": 350,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "351": {
+    "ID": 351,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "352": {
+    "ID": 352,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "353": {
+    "ID": 353,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "354": {
+    "ID": 354,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "355": {
+    "ID": 355,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "356": {
+    "ID": 356,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "357": {
+    "ID": 357,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "358": {
+    "ID": 358,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "359": {
+    "ID": 359,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "360": {
+    "ID": 360,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "361": {
+    "ID": 361,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "362": {
+    "ID": 362,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "363": {
+    "ID": 363,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "364": {
+    "ID": 364,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "365": {
+    "ID": 365,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "366": {
+    "ID": 366,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "367": {
+    "ID": 367,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "368": {
+    "ID": 368,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "369": {
+    "ID": 369,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "370": {
+    "ID": 370,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "371": {
+    "ID": 371,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "372": {
+    "ID": 372,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "373": {
+    "ID": 373,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "374": {
+    "ID": 374,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "375": {
+    "ID": 375,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "376": {
+    "ID": 376,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "377": {
+    "ID": 377,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "378": {
+    "ID": 378,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "379": {
+    "ID": 379,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "380": {
+    "ID": 380,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "381": {
+    "ID": 381,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "382": {
+    "ID": 382,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "383": {
+    "ID": 383,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "384": {
+    "ID": 384,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "385": {
+    "ID": 385,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "386": {
+    "ID": 386,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "387": {
+    "ID": 387,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "388": {
+    "ID": 388,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "389": {
+    "ID": 389,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "390": {
+    "ID": 390,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "391": {
+    "ID": 391,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "392": {
+    "ID": 392,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "393": {
+    "ID": 393,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "394": {
+    "ID": 394,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "395": {
+    "ID": 395,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "396": {
+    "ID": 396,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "397": {
+    "ID": 397,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "398": {
+    "ID": 398,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "399": {
+    "ID": 399,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "400": {
+    "ID": 400,
+    "Name": "slime A (opening)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 1,
+    "CopyAll": true,
+    "PowerLevel": 1
+  },
+  "401": {
+    "ID": 401,
+    "Name": "slime B, C (opening)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 1,
+    "CopyAll": true,
+    "PowerLevel": 1
+  },
+  "402": {
+    "ID": 402,
+    "Name": "hammerhood (miniboss)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 21,
+    "CopyAll": true,
+    "PowerLevel": 25
+  },
+  "403": {
+    "ID": 403,
+    "Name": "Geyzer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 107
+  },
+  "404": {
+    "ID": 404,
+    "Name": "Mash",
+    "CanSpawn": true,
+    "DoEdit": false,
+    "IsExtra": true,
+    "PowerLevel": 10
+  },
+  "405": {
+    "ID": 405,
+    "Name": "Bangerz",
+    "CanSpawn": true,
+    "DoEdit": false,
+    "IsExtra": true,
+    "PowerLevel": 10
+  },
+  "406": {
+    "ID": 406,
+    "Name": "Khalamari",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 311
+  },
+  "407": {
+    "ID": 407,
+    "Name": "tortured soul",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 680
+  },
+  "408": {
+    "ID": 408,
+    "Name": "trap box",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 1020
+  },
+  "409": {
+    "ID": 409,
+    "Name": "Don Mole",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 1160
+  },
+  "410": {
+    "ID": 410,
+    "Name": "sea dragon",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "Parent": 251,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 114
+  },
+  "411": {
+    "ID": 411,
+    "Name": "Argon lizard",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 650
+  },
+  "412": {
+    "ID": 412,
+    "Name": "great Argon lizard",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 2830
+  },
+  "413": {
+    "ID": 413,
+    "Name": "Dhoulmagus (1st form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 3400
+  },
+  "414": {
+    "ID": 414,
+    "Name": "Dhoulmagus (1st form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 413,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 3400
+  },
+  "415": {
+    "ID": 415,
+    "Name": "Dhoulmagus (1st form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 413,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 3400
+  },
+  "416": {
+    "ID": 416,
+    "Name": "Dhoulmagus (clone)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 450
+  },
+  "417": {
+    "ID": 417,
+    "Name": "Dhoulmagus (2nd form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 12000
+  },
+  "418": {
+    "ID": 418,
+    "Name": "Dhoulmagus (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 417,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 12000
+  },
+  "419": {
+    "ID": 419,
+    "Name": "Dhoulmagus (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 417,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 12000
+  },
+  "420": {
+    "ID": 420,
+    "Name": "Evil Jessica",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 7800
+  },
+  "421": {
+    "ID": 421,
+    "Name": "Evil Jessica",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 420,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 7800
+  },
+  "422": {
+    "ID": 422,
+    "Name": "shadow (summoned)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 160,
+    "CopyAll": true,
+    "PowerLevel": 71
+  },
+  "423": {
+    "ID": 423,
+    "Name": "hellhound (scripted)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 153,
+    "CopyAll": true,
+    "PowerLevel": 108
+  },
+  "424": {
+    "ID": 424,
+    "Name": "Captain Crow",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 9750
+  },
+  "425": {
+    "ID": 425,
+    "Name": "Red Horn (boss)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 4200
+  },
+  "426": {
+    "ID": 426,
+    "Name": "Blue Fang (boss)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 3990
+  },
+  "427": {
+    "ID": 427,
+    "Name": "Empyrea",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 10150
+  },
+  "428": {
+    "ID": 428,
+    "Name": "Gemon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 8600
+  },
+  "429": {
+    "ID": 429,
+    "Name": "Evil Sir Leopold",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 10200
+  },
+  "430": {
+    "ID": 430,
+    "Name": "Evil Sir Leopold",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 429,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 10200
+  },
+  "431": {
+    "ID": 431,
+    "Name": "Marcello",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 11020
+  },
+  "432": {
+    "ID": 432,
+    "Name": "Marcello",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 431,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 11020
+  },
+  "433": {
+    "ID": 433,
+    "Name": "king squid (Baccarat)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 248,
+    "CopyAll": true,
+    "PowerLevel": 570
+  },
+  "434": {
+    "ID": 434,
+    "Name": "boss troll (boss)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 194,
+    "CopyAll": true,
+    "PowerLevel": 981
+  },
+  "435": {
+    "ID": 435,
+    "Name": "Rhapthorne (1st form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "436": {
+    "ID": 436,
+    "Name": "Rhapthorne (1st form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 435,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "437": {
+    "ID": 437,
+    "Name": "Rhapthorne (1st form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 435,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "438": {
+    "ID": 438,
+    "Name": "Rhapthorne (barrier)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "439": {
+    "ID": 439,
+    "Name": "Rhapthorne (barrier)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 438,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "440": {
+    "ID": 440,
+    "Name": "Rhapthorne (2nd form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "441": {
+    "ID": 441,
+    "Name": "Rhapthorne (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 440,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "442": {
+    "ID": 442,
+    "Name": "Rhapthorne (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 440,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "443": {
+    "ID": 443,
+    "Name": "Rhapthorne (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 440,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "444": {
+    "ID": 444,
+    "Name": "Lord of the Dragovians (dragon)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 12680
+  },
+  "445": {
+    "ID": 445,
+    "Name": "Lord of the Dragovians (dragon)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 444,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 12680
+  },
+  "446": {
+    "ID": 446,
+    "Name": "Lord of the Dragovians (humanoid)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "447": {
+    "ID": 447,
+    "Name": "Lord of the Dragovians (humanoid)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 446,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "448": {
+    "ID": 448,
+    "Name": "Lord of the Dragovians (humanoid)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 446,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "449": {
+    "ID": 449,
+    "Name": "vermillion dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 13500
+  },
+  "450": {
+    "ID": 450,
+    "Name": "vermillion dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 449,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 13500
+  },
+  "451": {
+    "ID": 451,
+    "Name": "servant of darkness (miniboss)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 1600
+  },
+  "452": {
+    "ID": 452,
+    "Name": "statue of Hero",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 800
+  },
+  "453": {
+    "ID": 453,
+    "Name": "statue of Yangus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 730
+  },
+  "454": {
+    "ID": 454,
+    "Name": "statue of Jessica",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 460
+  },
+  "455": {
+    "ID": 455,
+    "Name": "statue of Angelo",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 280
+  },
+  "456": {
+    "ID": 456,
+    "Name": "megalodon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 1350
+  },
+  "457": {
+    "ID": 457,
+    "Name": "Ruin",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 2480
+  },
+  "458": {
+    "ID": 458,
+    "Name": "soul mole",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 68
+  },
+  "459": {
+    "ID": 459,
+    "Name": "dancing flame (miniboss)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 300
+  },
+  "460": {
+    "ID": 460,
+    "Name": "emerald dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 14800
+  },
+  "461": {
+    "ID": 461,
+    "Name": "emerald dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 460,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 14800
+  },
+  "462": {
+    "ID": 462,
+    "Name": "emerald dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 460,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 14800
+  },
+  "463": {
+    "ID": 463,
+    "Name": "silver dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 15900
+  },
+  "464": {
+    "ID": 464,
+    "Name": "silver dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 463,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 15900
+  },
+  "465": {
+    "ID": 465,
+    "Name": "silver dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 463,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 15900
+  },
+  "466": {
+    "ID": 466,
+    "Name": "golden dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 16350
+  },
+  "467": {
+    "ID": 467,
+    "Name": "golden dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 466,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 16350
+  },
+  "468": {
+    "ID": 468,
+    "Name": "golden dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 466,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 16350
+  },
+  "469": {
+    "ID": 469,
+    "Name": "darksteel dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 18010
+  },
+  "470": {
+    "ID": 470,
+    "Name": "darksteel dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 469,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 18010
+  },
+  "471": {
+    "ID": 471,
+    "Name": "darksteel dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 469,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 18010
+  },
+  "472": {
+    "ID": 472,
+    "Name": "divine dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 19040
+  },
+  "473": {
+    "ID": 473,
+    "Name": "divine dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 472,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 19040
+  },
+  "474": {
+    "ID": 474,
+    "Name": "divine dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 472,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 19040
+  },
+  "475": {
+    "ID": 475,
+    "Name": "emerald dragon (final trial)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "476": {
+    "ID": 476,
+    "Name": "emerald dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 475,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "477": {
+    "ID": 477,
+    "Name": "emerald dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 475,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "478": {
+    "ID": 478,
+    "Name": "silver dragon (final trial)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "479": {
+    "ID": 479,
+    "Name": "silver dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 478,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "480": {
+    "ID": 480,
+    "Name": "silver dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 478,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "481": {
+    "ID": 481,
+    "Name": "golden dragon (final trial)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "482": {
+    "ID": 482,
+    "Name": "golden dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 481,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "483": {
+    "ID": 483,
+    "Name": "golden dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 481,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "484": {
+    "ID": 484,
+    "Name": "darksteel dragon (final trial)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "485": {
+    "ID": 485,
+    "Name": "darksteel dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 484,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "486": {
+    "ID": 486,
+    "Name": "darksteel dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 484,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "487": {
+    "ID": 487,
+    "Name": "divine dragon (final trial)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "488": {
+    "ID": 488,
+    "Name": "divine dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 487,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "489": {
+    "ID": 489,
+    "Name": "divine dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 487,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "490": {
+    "ID": 490,
+    "Name": "ultimate dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 77777
+  },
+  "491": {
+    "ID": 491,
+    "Name": "ultimate dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 490,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 77777
+  },
+  "492": {
+    "ID": 492,
+    "Name": "ultimate dragon",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 490,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 77777
+  },
+  "493": {
+    "ID": 493,
+    "Name": "vermillion dragon (final trial)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "494": {
+    "ID": 494,
+    "Name": "vermillion dragon (final trial)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 493,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsPostgame": true,
+    "PowerLevel": 0
+  },
+  "495": {
+    "ID": 495,
+    "Name": "Juggerwroth (1st form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 0
+  },
+  "496": {
+    "ID": 496,
+    "Name": "Juggerwroth (2nd form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "PowerLevel": 18000
+  },
+  "497": {
+    "ID": 497,
+    "Name": "Juggerwroth (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 496,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 18000
+  },
+  "498": {
+    "ID": 498,
+    "Name": "Juggerwroth (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 496,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "PowerLevel": 18000
+  },
+  "499": {
+    "ID": 499,
+    "Name": "Geyzer in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "500": {
+    "ID": 500,
+    "Name": "Tortured Soul in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "501": {
+    "ID": 501,
+    "Name": "Skeleton in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "502": {
+    "ID": 502,
+    "Name": "Walking Corpse in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "503": {
+    "ID": 503,
+    "Name": "Trap Box in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "504": {
+    "ID": 504,
+    "Name": "Don Mole in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "505": {
+    "ID": 505,
+    "Name": "Soul Mole in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "506": {
+    "ID": 506,
+    "Name": "Argon Lizard in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "507": {
+    "ID": 507,
+    "Name": "Dhoulmagus in Memoriam (1st form) B",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "508": {
+    "ID": 508,
+    "Name": "Dhoulmagus in Memoriam (1st form) B",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 507,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "509": {
+    "ID": 509,
+    "Name": "Dhoulmagus in Memoriam (1st form) B",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 507,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "510": {
+    "ID": 510,
+    "Name": "Dhoulmagus in Memoriam (1st form) A",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "511": {
+    "ID": 511,
+    "Name": "Dhoulmagus in Memoriam (1st form) C",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "512": {
+    "ID": 512,
+    "Name": "Dhoulmagus in Memoriam (2nd form)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "513": {
+    "ID": 513,
+    "Name": "Dhoulmagus in Memoriam (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 512,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "514": {
+    "ID": 514,
+    "Name": "Dhoulmagus in Memoriam (2nd form)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 512,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "515": {
+    "ID": 515,
+    "Name": "Evil Jessica in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "516": {
+    "ID": 516,
+    "Name": "Evil Jessica in Memoriam",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 515,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "517": {
+    "ID": 517,
+    "Name": "Shadow in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "518": {
+    "ID": 518,
+    "Name": "Captain Crow in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "519": {
+    "ID": 519,
+    "Name": "Gemon in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "520": {
+    "ID": 520,
+    "Name": "Darkbird in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "521": {
+    "ID": 521,
+    "Name": "Dark Turkey in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "522": {
+    "ID": 522,
+    "Name": "Sir Leopold in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "523": {
+    "ID": 523,
+    "Name": "Sir Leopold in Memoriam",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 522,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "524": {
+    "ID": 524,
+    "Name": "Marcello in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "525": {
+    "ID": 525,
+    "Name": "Marcello in Memoriam",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 524,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "526": {
+    "ID": 526,
+    "Name": "Dark Servant in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "527": {
+    "ID": 527,
+    "Name": "Dancing Flame in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 0
+  },
+  "528": {
+    "ID": 528,
+    "Name": "Ruin in Memoriam",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "529": {
+    "ID": 529,
+    "Name": "Estark",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "530": {
+    "ID": 530,
+    "Name": "Estark",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 529,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "531": {
+    "ID": 531,
+    "Name": "Estark",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 529,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "532": {
+    "ID": 532,
+    "Name": "Estark",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 529,
+    "CopyStats": true,
+    "CopyLoot": true,
+    "IsBoss": true,
+    "IsMemoriam": true,
+    "PowerLevel": 55555
+  },
+  "533": {
+    "ID": 533,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "534": {
+    "ID": 534,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "535": {
+    "ID": 535,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "536": {
+    "ID": 536,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "537": {
+    "ID": 537,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "538": {
+    "ID": 538,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "539": {
+    "ID": 539,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "540": {
+    "ID": 540,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "541": {
+    "ID": 541,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "542": {
+    "ID": 542,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "543": {
+    "ID": 543,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "544": {
+    "ID": 544,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "545": {
+    "ID": 545,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "546": {
+    "ID": 546,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "547": {
+    "ID": 547,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "548": {
+    "ID": 548,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "549": {
+    "ID": 549,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "550": {
+    "ID": 550,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "551": {
+    "ID": 551,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "552": {
+    "ID": 552,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "553": {
+    "ID": 553,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "554": {
+    "ID": 554,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "555": {
+    "ID": 555,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "556": {
+    "ID": 556,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "557": {
+    "ID": 557,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "558": {
+    "ID": 558,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "559": {
+    "ID": 559,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "560": {
+    "ID": 560,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "561": {
+    "ID": 561,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "562": {
+    "ID": 562,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "563": {
+    "ID": 563,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "564": {
+    "ID": 564,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "565": {
+    "ID": 565,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "566": {
+    "ID": 566,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "567": {
+    "ID": 567,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "568": {
+    "ID": 568,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "569": {
+    "ID": 569,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "570": {
+    "ID": 570,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "571": {
+    "ID": 571,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "572": {
+    "ID": 572,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "573": {
+    "ID": 573,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "574": {
+    "ID": 574,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "575": {
+    "ID": 575,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "576": {
+    "ID": 576,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "577": {
+    "ID": 577,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "578": {
+    "ID": 578,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "579": {
+    "ID": 579,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "580": {
+    "ID": 580,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "581": {
+    "ID": 581,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "582": {
+    "ID": 582,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "583": {
+    "ID": 583,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "584": {
+    "ID": 584,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "585": {
+    "ID": 585,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "586": {
+    "ID": 586,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "587": {
+    "ID": 587,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "588": {
+    "ID": 588,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "589": {
+    "ID": 589,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "590": {
+    "ID": 590,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "591": {
+    "ID": 591,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "592": {
+    "ID": 592,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "593": {
+    "ID": 593,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "594": {
+    "ID": 594,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "595": {
+    "ID": 595,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "596": {
+    "ID": 596,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "597": {
+    "ID": 597,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "598": {
+    "ID": 598,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "599": {
+    "ID": 599,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "600": {
+    "ID": 600,
+    "Name": "Axoraptor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 103
+  },
+  "601": {
+    "ID": 601,
+    "Name": "Shortshooter",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 36
+  },
+  "602": {
+    "ID": 602,
+    "Name": "One Knight Stand",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 28
+  },
+  "603": {
+    "ID": 603,
+    "Name": "Automaton Aviator",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 36
+  },
+  "604": {
+    "ID": 604,
+    "Name": "Pain in the Neck",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 30
+  },
+  "605": {
+    "ID": 605,
+    "Name": "Buffalo Bill",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 42
+  },
+  "606": {
+    "ID": 606,
+    "Name": "Family Doctor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 44
+  },
+  "607": {
+    "ID": 607,
+    "Name": "Hollow Knight",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 56
+  },
+  "608": {
+    "ID": 608,
+    "Name": "Mullet Mallet",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 53
+  },
+  "609": {
+    "ID": 609,
+    "Name": "Little Nipper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 64
+  },
+  "610": {
+    "ID": 610,
+    "Name": "Sharpshooter",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 46
+  },
+  "611": {
+    "ID": 611,
+    "Name": "Root of Evil",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 78
+  },
+  "612": {
+    "ID": 612,
+    "Name": "Squiggly Squiggler",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 48
+  },
+  "613": {
+    "ID": 613,
+    "Name": "Old-School Drooler",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 102
+  },
+  "614": {
+    "ID": 614,
+    "Name": "Punchin' Judy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 116
+  },
+  "615": {
+    "ID": 615,
+    "Name": "Slimy Smiley",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 40
+  },
+  "616": {
+    "ID": 616,
+    "Name": "Bushwhacker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 326
+  },
+  "617": {
+    "ID": 617,
+    "Name": "Nightstalker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 166
+  },
+  "618": {
+    "ID": 618,
+    "Name": "Goldbricker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 121
+  },
+  "619": {
+    "ID": 619,
+    "Name": "Death Tabby",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 109
+  },
+  "620": {
+    "ID": 620,
+    "Name": "Wild Spearman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 151
+  },
+  "621": {
+    "ID": 621,
+    "Name": "Fertiliser",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 136
+  },
+  "622": {
+    "ID": 622,
+    "Name": "Hooded Hacker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 213
+  },
+  "623": {
+    "ID": 623,
+    "Name": "Jewel Juggler",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 89
+  },
+  "624": {
+    "ID": 624,
+    "Name": "King of Dumbira",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 206
+  },
+  "625": {
+    "ID": 625,
+    "Name": "All Day Sucker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 138
+  },
+  "626": {
+    "ID": 626,
+    "Name": "Slime Creator",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 261
+  },
+  "627": {
+    "ID": 627,
+    "Name": "Al Gee",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 181
+  },
+  "628": {
+    "ID": 628,
+    "Name": "Old Soldier",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 173
+  },
+  "629": {
+    "ID": 629,
+    "Name": "Living Flame",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 164
+  },
+  "630": {
+    "ID": 630,
+    "Name": "Poisonous Sniper",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 83
+  },
+  "631": {
+    "ID": 631,
+    "Name": "Potty Dragon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 374
+  },
+  "632": {
+    "ID": 632,
+    "Name": "Gloopy Groupie",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 73
+  },
+  "633": {
+    "ID": 633,
+    "Name": "Angel of Curing",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 309
+  },
+  "634": {
+    "ID": 634,
+    "Name": "Abominable Ape",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 128
+  },
+  "635": {
+    "ID": 635,
+    "Name": "Fantom of Chopera",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 219
+  },
+  "636": {
+    "ID": 636,
+    "Name": "Femme Fatale",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 188
+  },
+  "637": {
+    "ID": 637,
+    "Name": "Roboster Mk I",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 351
+  },
+  "638": {
+    "ID": 638,
+    "Name": "Bricklayer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 275
+  },
+  "639": {
+    "ID": 639,
+    "Name": "Cold Fire",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 224
+  },
+  "640": {
+    "ID": 640,
+    "Name": "Terror Talons",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 227
+  },
+  "641": {
+    "ID": 641,
+    "Name": "Pelvic Thruster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 116
+  },
+  "642": {
+    "ID": 642,
+    "Name": "Slime Designer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 54
+  },
+  "643": {
+    "ID": 643,
+    "Name": "Ochre Ogre",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 261
+  },
+  "644": {
+    "ID": 644,
+    "Name": "Muscly Mohawker",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 199
+  },
+  "645": {
+    "ID": 645,
+    "Name": "Puppet Pugilist",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 173
+  },
+  "646": {
+    "ID": 646,
+    "Name": "Gigantes Guardsman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 381
+  },
+  "647": {
+    "ID": 647,
+    "Name": "Big Blue Bully",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 346
+  },
+  "648": {
+    "ID": 648,
+    "Name": "Occult Rider",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 224
+  },
+  "649": {
+    "ID": 649,
+    "Name": "Bone Racer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 169
+  },
+  "650": {
+    "ID": 650,
+    "Name": "Attack Bot Mk II",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 336
+  },
+  "651": {
+    "ID": 651,
+    "Name": "Big Blizzard",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 328
+  },
+  "652": {
+    "ID": 652,
+    "Name": "Living Torch",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 365
+  },
+  "653": {
+    "ID": 653,
+    "Name": "Raging Rooster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 181
+  },
+  "654": {
+    "ID": 654,
+    "Name": "Loopy Lupus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 216
+  },
+  "655": {
+    "ID": 655,
+    "Name": "Octavius Maximus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 289
+  },
+  "656": {
+    "ID": 656,
+    "Name": "Quick Silver",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 135
+  },
+  "657": {
+    "ID": 657,
+    "Name": "Metal Babble",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 1010
+  },
+  "658": {
+    "ID": 658,
+    "Name": "Shadow Conductor",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 345
+  },
+  "659": {
+    "ID": 659,
+    "Name": "Arch-archdemon",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 466
+  },
+  "660": {
+    "ID": 660,
+    "Name": "Gigantes Gangster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 398
+  },
+  "661": {
+    "ID": 661,
+    "Name": "Troll Patroller",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 466
+  },
+  "662": {
+    "ID": 662,
+    "Name": "Man-at-Arms",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 373
+  },
+  "663": {
+    "ID": 663,
+    "Name": "Crazed Colossus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 226
+  },
+  "664": {
+    "ID": 664,
+    "Name": "Killer Director",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 496
+  },
+  "665": {
+    "ID": 665,
+    "Name": "Stonemason",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 388
+  },
+  "666": {
+    "ID": 666,
+    "Name": "Heavy Metal",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 543
+  },
+  "667": {
+    "ID": 667,
+    "Name": "Headless Flailsman",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 362
+  },
+  "668": {
+    "ID": 668,
+    "Name": "Wight Highpriest",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 458
+  },
+  "669": {
+    "ID": 669,
+    "Name": "Jumbo Dilophosaur",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 471
+  },
+  "670": {
+    "ID": 670,
+    "Name": "Gryphon General",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 526
+  },
+  "671": {
+    "ID": 671,
+    "Name": "Greater Sabrecat",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 760
+  },
+  "672": {
+    "ID": 672,
+    "Name": "Man-eater Chest",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 110
+  },
+  "673": {
+    "ID": 673,
+    "Name": "Sand Slayer",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 100
+  },
+  "674": {
+    "ID": 674,
+    "Name": "Bundle of Joy",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 92
+  },
+  "675": {
+    "ID": 675,
+    "Name": "Mole Major",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 106
+  },
+  "676": {
+    "ID": 676,
+    "Name": "Colossal Clione",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 120
+  },
+  "677": {
+    "ID": 677,
+    "Name": "Ms. Impetuous",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 315
+  },
+  "678": {
+    "ID": 678,
+    "Name": "Mr. Bo Dangles",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 119
+  },
+  "679": {
+    "ID": 679,
+    "Name": "Caped Inspectre",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 464
+  },
+  "680": {
+    "ID": 680,
+    "Name": "Pre-curser of Death",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 350
+  },
+  "681": {
+    "ID": 681,
+    "Name": "Mr. Stalkative",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 408
+  },
+  "682": {
+    "ID": 682,
+    "Name": "King of RIP",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 477
+  },
+  "683": {
+    "ID": 683,
+    "Name": "Whizzkid",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 312
+  },
+  "684": {
+    "ID": 684,
+    "Name": "Heavenly Hunter",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 300
+  },
+  "685": {
+    "ID": 685,
+    "Name": "Sinister Minister",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 316
+  },
+  "686": {
+    "ID": 686,
+    "Name": "Cosmic Doom",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 468
+  },
+  "687": {
+    "ID": 687,
+    "Name": "Lucky Old Sun",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 392
+  },
+  "688": {
+    "ID": 688,
+    "Name": "Star Duster",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 301
+  },
+  "689": {
+    "ID": 689,
+    "Name": "Major Flavour",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 43
+  },
+  "690": {
+    "ID": 690,
+    "Name": "Snore Spore",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 80
+  },
+  "691": {
+    "ID": 691,
+    "Name": "Psychedelia",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 135
+  },
+  "692": {
+    "ID": 692,
+    "Name": "Teen Fox",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 120
+  },
+  "693": {
+    "ID": 693,
+    "Name": "Flappacinno",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 164
+  },
+  "694": {
+    "ID": 694,
+    "Name": "Famous Five",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 138
+  },
+  "695": {
+    "ID": 695,
+    "Name": "L'il Digger",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 104
+  },
+  "696": {
+    "ID": 696,
+    "Name": "Condor from Yonder",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 199
+  },
+  "697": {
+    "ID": 697,
+    "Name": "Ace of Spades",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 304
+  },
+  "698": {
+    "ID": 698,
+    "Name": "Drive-Thru",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 230
+  },
+  "699": {
+    "ID": 699,
+    "Name": "Apocalips",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 102
+  },
+  "700": {
+    "ID": 700,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "701": {
+    "ID": 701,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "702": {
+    "ID": 702,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "703": {
+    "ID": 703,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "704": {
+    "ID": 704,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "705": {
+    "ID": 705,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "706": {
+    "ID": 706,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "707": {
+    "ID": 707,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "708": {
+    "ID": 708,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "709": {
+    "ID": 709,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "710": {
+    "ID": 710,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "711": {
+    "ID": 711,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "712": {
+    "ID": 712,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "713": {
+    "ID": 713,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "714": {
+    "ID": 714,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "715": {
+    "ID": 715,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "716": {
+    "ID": 716,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "717": {
+    "ID": 717,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "718": {
+    "ID": 718,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "719": {
+    "ID": 719,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "720": {
+    "ID": 720,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "721": {
+    "ID": 721,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "722": {
+    "ID": 722,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "723": {
+    "ID": 723,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "724": {
+    "ID": 724,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "725": {
+    "ID": 725,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "726": {
+    "ID": 726,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "727": {
+    "ID": 727,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "728": {
+    "ID": 728,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "729": {
+    "ID": 729,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "730": {
+    "ID": 730,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "731": {
+    "ID": 731,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "732": {
+    "ID": 732,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "733": {
+    "ID": 733,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "734": {
+    "ID": 734,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "735": {
+    "ID": 735,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "736": {
+    "ID": 736,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "737": {
+    "ID": 737,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "738": {
+    "ID": 738,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "739": {
+    "ID": 739,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "740": {
+    "ID": 740,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "741": {
+    "ID": 741,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "742": {
+    "ID": 742,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "743": {
+    "ID": 743,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "744": {
+    "ID": 744,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "745": {
+    "ID": 745,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "746": {
+    "ID": 746,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "747": {
+    "ID": 747,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "748": {
+    "ID": 748,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "749": {
+    "ID": 749,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "750": {
+    "ID": 750,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "751": {
+    "ID": 751,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "752": {
+    "ID": 752,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "753": {
+    "ID": 753,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "754": {
+    "ID": 754,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "755": {
+    "ID": 755,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "756": {
+    "ID": 756,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "757": {
+    "ID": 757,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "758": {
+    "ID": 758,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "759": {
+    "ID": 759,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "760": {
+    "ID": 760,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "761": {
+    "ID": 761,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "762": {
+    "ID": 762,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "763": {
+    "ID": 763,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "764": {
+    "ID": 764,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "765": {
+    "ID": 765,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "766": {
+    "ID": 766,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "767": {
+    "ID": 767,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "768": {
+    "ID": 768,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "769": {
+    "ID": 769,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "770": {
+    "ID": 770,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "771": {
+    "ID": 771,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "772": {
+    "ID": 772,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "773": {
+    "ID": 773,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "774": {
+    "ID": 774,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "775": {
+    "ID": 775,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "776": {
+    "ID": 776,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "777": {
+    "ID": 777,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "778": {
+    "ID": 778,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "779": {
+    "ID": 779,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "780": {
+    "ID": 780,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "781": {
+    "ID": 781,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "782": {
+    "ID": 782,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "783": {
+    "ID": 783,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "784": {
+    "ID": 784,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "785": {
+    "ID": 785,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "786": {
+    "ID": 786,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "787": {
+    "ID": 787,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "788": {
+    "ID": 788,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "789": {
+    "ID": 789,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "790": {
+    "ID": 790,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "791": {
+    "ID": 791,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "792": {
+    "ID": 792,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "793": {
+    "ID": 793,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "794": {
+    "ID": 794,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "795": {
+    "ID": 795,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "796": {
+    "ID": 796,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "797": {
+    "ID": 797,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "798": {
+    "ID": 798,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "799": {
+    "ID": 799,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "800": {
+    "ID": 800,
+    "Name": "she-slime (Rank G, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "801": {
+    "ID": 801,
+    "Name": "slime knight (Rank G, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "802": {
+    "ID": 802,
+    "Name": "frogface (Rank G, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "803": {
+    "ID": 803,
+    "Name": "treeface (Rank G, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "804": {
+    "ID": 804,
+    "Name": "hammerhood (Rank G, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "805": {
+    "ID": 805,
+    "Name": "gorerilla (Rank G, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "806": {
+    "ID": 806,
+    "Name": "bullfinch (Rank G, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "807": {
+    "ID": 807,
+    "Name": "khalamari kid (Rank F, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "808": {
+    "ID": 808,
+    "Name": "king kelp (Rank F, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "809": {
+    "ID": 809,
+    "Name": "dingaling (Rank F, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "810": {
+    "ID": 810,
+    "Name": "jargon (Rank F, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "811": {
+    "ID": 811,
+    "Name": "dancing devil (Rank F, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "812": {
+    "ID": 812,
+    "Name": "wailin' weed (Rank F, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "813": {
+    "ID": 813,
+    "Name": "redtail hipster (Rank F, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "814": {
+    "ID": 814,
+    "Name": "jailcat (Rank E, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "815": {
+    "ID": 815,
+    "Name": "terror tabby (Rank E, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "816": {
+    "ID": 816,
+    "Name": "hipster (Rank E, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "817": {
+    "ID": 817,
+    "Name": "minidemon (Rank E, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "818": {
+    "ID": 818,
+    "Name": "witch (Rank E, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "819": {
+    "ID": 819,
+    "Name": "magic marionette (Rank E, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "820": {
+    "ID": 820,
+    "Name": "tap devil (Rank E, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "821": {
+    "ID": 821,
+    "Name": "Volpone (Rank E, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "822": {
+    "ID": 822,
+    "Name": "night fox (Rank D, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "823": {
+    "ID": 823,
+    "Name": "night emperor (Rank D, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "824": {
+    "ID": 824,
+    "Name": "night sneaker (Rank D, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "825": {
+    "ID": 825,
+    "Name": "skeleton (Rank D, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "826": {
+    "ID": 826,
+    "Name": "walking corpse (Rank D, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "827": {
+    "ID": 827,
+    "Name": "mummy (Rank D, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "828": {
+    "ID": 828,
+    "Name": "brownie (Rank D, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "829": {
+    "ID": 829,
+    "Name": "hood (Rank D, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "830": {
+    "ID": 830,
+    "Name": "see urchin (Rank C, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "831": {
+    "ID": 831,
+    "Name": "siren (Rank C, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "832": {
+    "ID": 832,
+    "Name": "mecha-mynah (Rank C, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "833": {
+    "ID": 833,
+    "Name": "hunter mech (Rank C, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "834": {
+    "ID": 834,
+    "Name": "clockwork cuckoo (Rank C, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "835": {
+    "ID": 835,
+    "Name": "fencing fox (Rank C, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "836": {
+    "ID": 836,
+    "Name": "bone baron (Rank C, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "837": {
+    "ID": 837,
+    "Name": "phantom fencer (Rank C, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "838": {
+    "ID": 838,
+    "Name": "dragurn (Rank B, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "839": {
+    "ID": 839,
+    "Name": "tyrantosaurus (Rank B, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "840": {
+    "ID": 840,
+    "Name": "snapdragon (Rank B, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "841": {
+    "ID": 841,
+    "Name": "stone guardian (Rank B, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "842": {
+    "ID": 842,
+    "Name": "golem (Rank B, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "843": {
+    "ID": 843,
+    "Name": "boss troll (Rank B, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "844": {
+    "ID": 844,
+    "Name": "rockbomb (Rank B, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "845": {
+    "ID": 845,
+    "Name": "stone golem (Rank B, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "846": {
+    "ID": 846,
+    "Name": "living statue (Rank B, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "847": {
+    "ID": 847,
+    "Name": "frou-frou (Rank A, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "848": {
+    "ID": 848,
+    "Name": "cyclops (Rank A, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "849": {
+    "ID": 849,
+    "Name": "troll (Rank A, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "850": {
+    "ID": 850,
+    "Name": "jumping jackal (Rank A, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "851": {
+    "ID": 851,
+    "Name": "great sabrecat (Rank A, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "852": {
+    "ID": 852,
+    "Name": "treevil (Rank A, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "853": {
+    "ID": 853,
+    "Name": "zombie gladiator (Rank A, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "854": {
+    "ID": 854,
+    "Name": "bomboulder (Rank A, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "855": {
+    "ID": 855,
+    "Name": "goodybag (Rank S, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "856": {
+    "ID": 856,
+    "Name": "mimic king (Rank S, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "857": {
+    "ID": 857,
+    "Name": "mimic (Rank S, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "858": {
+    "ID": 858,
+    "Name": "dullahan (Rank S, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "859": {
+    "ID": 859,
+    "Name": "healslime (Rank S, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "860": {
+    "ID": 860,
+    "Name": "gigantes (Rank S, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "861": {
+    "ID": 861,
+    "Name": "liquid metal slime (Rank S, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "862": {
+    "ID": 862,
+    "Name": "hell gladiator (Rank S, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "863": {
+    "ID": 863,
+    "Name": "cureslime (Rank S, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "864": {
+    "ID": 864,
+    "Name": "frogface (Rank G, Round 2) (face-up)",
+    "CanSpawn": false,
+    "DoEdit": true,
+    "Parent": 802,
+    "CopyLoot": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "865": {
+    "ID": 865,
+    "Name": "slime knight (Rank X, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "866": {
+    "ID": 866,
+    "Name": "fencing fox (Rank X, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "867": {
+    "ID": 867,
+    "Name": "restless armour (Rank X, Round 1)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "868": {
+    "ID": 868,
+    "Name": "goodybag (Rank X, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "869": {
+    "ID": 869,
+    "Name": "bone baron (Rank X, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "870": {
+    "ID": 870,
+    "Name": "gold golem (Rank X, Round 2)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "871": {
+    "ID": 871,
+    "Name": "treeface (Rank X, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "872": {
+    "ID": 872,
+    "Name": "Morrimp (Rank X, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "873": {
+    "ID": 873,
+    "Name": "treevil (Rank X, Round 3)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsArena": true,
+    "PowerLevel": 0
+  },
+  "874": {
+    "ID": 874,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "875": {
+    "ID": 875,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "876": {
+    "ID": 876,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "877": {
+    "ID": 877,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "878": {
+    "ID": 878,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "879": {
+    "ID": 879,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "880": {
+    "ID": 880,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "881": {
+    "ID": 881,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "882": {
+    "ID": 882,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "883": {
+    "ID": 883,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "884": {
+    "ID": 884,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "885": {
+    "ID": 885,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "886": {
+    "ID": 886,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "887": {
+    "ID": 887,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "888": {
+    "ID": 888,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "889": {
+    "ID": 889,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "890": {
+    "ID": 890,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "891": {
+    "ID": 891,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "892": {
+    "ID": 892,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "893": {
+    "ID": 893,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "894": {
+    "ID": 894,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "895": {
+    "ID": 895,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "896": {
+    "ID": 896,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "897": {
+    "ID": 897,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "898": {
+    "ID": 898,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "899": {
+    "ID": 899,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "900": {
+    "ID": 900,
+    "Name": "Ultrus",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 0
+  },
+  "901": {
+    "ID": 901,
+    "Name": "Gracky",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 0
+  },
+  "902": {
+    "ID": 902,
+    "Name": "Mazin",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 0
+  },
+  "903": {
+    "ID": 903,
+    "Name": "Guaca Mole",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsInfamous": true,
+    "PowerLevel": 0
+  },
+  "904": {
+    "ID": 904,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "905": {
+    "ID": 905,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "906": {
+    "ID": 906,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "907": {
+    "ID": 907,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "908": {
+    "ID": 908,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "909": {
+    "ID": 909,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "910": {
+    "ID": 910,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "911": {
+    "ID": 911,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "912": {
+    "ID": 912,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "913": {
+    "ID": 913,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "914": {
+    "ID": 914,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "915": {
+    "ID": 915,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "916": {
+    "ID": 916,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "917": {
+    "ID": 917,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "918": {
+    "ID": 918,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "919": {
+    "ID": 919,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "920": {
+    "ID": 920,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "921": {
+    "ID": 921,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "922": {
+    "ID": 922,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "923": {
+    "ID": 923,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "924": {
+    "ID": 924,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "925": {
+    "ID": 925,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "926": {
+    "ID": 926,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "927": {
+    "ID": 927,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "928": {
+    "ID": 928,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "929": {
+    "ID": 929,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "930": {
+    "ID": 930,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "931": {
+    "ID": 931,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "932": {
+    "ID": 932,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "933": {
+    "ID": 933,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "934": {
+    "ID": 934,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "935": {
+    "ID": 935,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "936": {
+    "ID": 936,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "937": {
+    "ID": 937,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "938": {
+    "ID": 938,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "939": {
+    "ID": 939,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "940": {
+    "ID": 940,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "941": {
+    "ID": 941,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "942": {
+    "ID": 942,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "943": {
+    "ID": 943,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "944": {
+    "ID": 944,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "945": {
+    "ID": 945,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "946": {
+    "ID": 946,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "947": {
+    "ID": 947,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "948": {
+    "ID": 948,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "949": {
+    "ID": 949,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "950": {
+    "ID": 950,
+    "Name": "Prince Charmles",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsExtra": true,
+    "PowerLevel": 0
+  },
+  "951": {
+    "ID": 951,
+    "Name": "Marcello (NPC)",
+    "CanSpawn": true,
+    "DoEdit": true,
+    "IsExtra": true,
+    "PowerLevel": 0
+  },
+  "952": {
+    "ID": 952,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "953": {
+    "ID": 953,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "954": {
+    "ID": 954,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "955": {
+    "ID": 955,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "956": {
+    "ID": 956,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "957": {
+    "ID": 957,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "958": {
+    "ID": 958,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "959": {
+    "ID": 959,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "960": {
+    "ID": 960,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "961": {
+    "ID": 961,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "962": {
+    "ID": 962,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "963": {
+    "ID": 963,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "964": {
+    "ID": 964,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "965": {
+    "ID": 965,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "966": {
+    "ID": 966,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "967": {
+    "ID": 967,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "968": {
+    "ID": 968,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "969": {
+    "ID": 969,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "970": {
+    "ID": 970,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "971": {
+    "ID": 971,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "972": {
+    "ID": 972,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "973": {
+    "ID": 973,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "974": {
+    "ID": 974,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "975": {
+    "ID": 975,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "976": {
+    "ID": 976,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "977": {
+    "ID": 977,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "978": {
+    "ID": 978,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "979": {
+    "ID": 979,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "980": {
+    "ID": 980,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "981": {
+    "ID": 981,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "982": {
+    "ID": 982,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "983": {
+    "ID": 983,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "984": {
+    "ID": 984,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "985": {
+    "ID": 985,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "986": {
+    "ID": 986,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "987": {
+    "ID": 987,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "988": {
+    "ID": 988,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "989": {
+    "ID": 989,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "990": {
+    "ID": 990,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "991": {
+    "ID": 991,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "992": {
+    "ID": 992,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "993": {
+    "ID": 993,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "994": {
+    "ID": 994,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "995": {
+    "ID": 995,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "996": {
+    "ID": 996,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "997": {
+    "ID": 997,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "998": {
+    "ID": 998,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  },
+  "999": {
+    "ID": 999,
+    "Name": "none",
+    "CanSpawn": false,
+    "DoEdit": false,
+    "PowerLevel": 0
+  }
+}

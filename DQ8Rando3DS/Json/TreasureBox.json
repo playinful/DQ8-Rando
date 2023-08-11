@@ -1,0 +1,5470 @@
+{
+  "1367": {
+    "Type": 0,
+    "Name": "Dummy"
+  },
+  "0": {
+    "Type": 1,
+    "Name": "Farebury (Barrel)"
+  },
+  "1": {
+    "Type": 1,
+    "Name": "Farebury (Barrel)"
+  },
+  "2": {
+    "Type": 1,
+    "Name": "Farebury (Barrel)"
+  },
+  "3": {
+    "Type": 1,
+    "Name": "Farebury (Barrel)"
+  },
+  "4": {
+    "Type": 1,
+    "Name": "Farebury (Barrel)"
+  },
+  "5": {
+    "Type": 1,
+    "Name": "Farebury (Pot)"
+  },
+  "6": {
+    "Type": 1,
+    "Name": "Farebury (Pot)"
+  },
+  "7": {
+    "Type": 1,
+    "Name": "Farebury (Pot)"
+  },
+  "8": {
+    "Type": 1,
+    "Name": "Farebury (Pot)"
+  },
+  "9": {
+    "Type": 1,
+    "Name": "Farebury (Pot)"
+  },
+  "10": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Pot)"
+  },
+  "11": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Pot)"
+  },
+  "12": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Sack)"
+  },
+  "13": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Sack)"
+  },
+  "14": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Sack)"
+  },
+  "15": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Cabinet)"
+  },
+  "16": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Cabinet)"
+  },
+  "17": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Cabinet)"
+  },
+  "18": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Cabinet)"
+  },
+  "19": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Bookshelf)"
+  },
+  "20": {
+    "Type": 1,
+    "Name": "Farebury - Inn (Bookshelf)"
+  },
+  "21": {
+    "Type": 1,
+    "Name": "Farebury - Inn (%c)"
+  },
+  "22": {
+    "Type": 1,
+    "Name": "Farebury - Church (Pot)"
+  },
+  "23": {
+    "Type": 1,
+    "Name": "Farebury - Church (Pot)"
+  },
+  "24": {
+    "Type": 1,
+    "Name": "Farebury - Church (Pot)"
+  },
+  "25": {
+    "Type": 1,
+    "Name": "Farebury - Church (Cabinet)"
+  },
+  "26": {
+    "Type": 1,
+    "Name": "Farebury - Church (Bookshelf)"
+  },
+  "27": {
+    "Type": 1,
+    "Name": "Farebury - Church (%c)"
+  },
+  "28": {
+    "Type": 1,
+    "Name": "Farebury - Pub (Barrel)"
+  },
+  "29": {
+    "Type": 1,
+    "Name": "Farebury - Pub (Barrel)"
+  },
+  "30": {
+    "Type": 1,
+    "Name": "Farebury - Pub (Barrel)"
+  },
+  "31": {
+    "Type": 1,
+    "Name": "Farebury - Pub (Barrel)"
+  },
+  "32": {
+    "Type": 1,
+    "Name": "Farebury - Pub (Barrel)"
+  },
+  "33": {
+    "Type": 1,
+    "Name": "Farebury - Weapon Shop (%c)"
+  },
+  "34": {
+    "Type": 1,
+    "Name": "Farebury - Weapon Shop (%c)"
+  },
+  "35": {
+    "Type": 1,
+    "Name": "Farebury - Upper Southwest House (Pot)"
+  },
+  "36": {
+    "Type": 1,
+    "Name": "Farebury - Upper Southwest House (Pot)"
+  },
+  "37": {
+    "Type": 1,
+    "Name": "Farebury - Upper Southwest House (Cabinet)"
+  },
+  "38": {
+    "Type": 1,
+    "Name": "Farebury - Upper Southwest House (Cabinet)"
+  },
+  "39": {
+    "Type": 1,
+    "Name": "Farebury - Lower Level House (Barrel)"
+  },
+  "40": {
+    "Type": 1,
+    "Name": "Farebury - Lower Level House (Barrel)"
+  },
+  "41": {
+    "Type": 1,
+    "Name": "Farebury - Lower Level House (Cabinet)"
+  },
+  "42": {
+    "Type": 1,
+    "Name": "Farebury - Lower Level House (Cabinet)"
+  },
+  "43": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Pot)"
+  },
+  "44": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Pot)"
+  },
+  "45": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Barrel)"
+  },
+  "46": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Cabinet)"
+  },
+  "47": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Cabinet)"
+  },
+  "48": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Cabinet)"
+  },
+  "49": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Cabinet)"
+  },
+  "50": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Bookshelf)"
+  },
+  "51": {
+    "Type": 1,
+    "Name": "Farebury - Kalderasha's Home (Bookshelf)"
+  },
+  "52": {
+    "Type": 1,
+    "Name": "Farebury - Upper Northeast House (Barrel)"
+  },
+  "53": {
+    "Type": 1,
+    "Name": "Farebury - Upper Northeast House (Barrel)"
+  },
+  "54": {
+    "Type": 1,
+    "Name": "Farebury - Upper Northeast House (Pot)"
+  },
+  "55": {
+    "Type": 1,
+    "Name": "Farebury - Upper Northeast House (Pot)"
+  },
+  "56": {
+    "Type": 1,
+    "Name": "Farebury - Upper Northeast House (Cabinet)"
+  },
+  "57": {
+    "Type": 1,
+    "Name": "Farebury - Upper Northeast House (Cabinet)"
+  },
+  "58": {
+    "Type": 1,
+    "Name": "Farebury - Well (%c)"
+  },
+  "59": {
+    "Type": 1,
+    "Name": "Shack on top of Waterfall (Sack)"
+  },
+  "60": {
+    "Type": 1,
+    "Name": "Shack on top of Waterfall (Sack)"
+  },
+  "61": {
+    "Type": 1,
+    "Name": "Waterfall Cave - Level 1 (%c)"
+  },
+  "62": {
+    "Type": 1,
+    "Name": "Waterfall Cave - Level 1 (%c)"
+  },
+  "63": {
+    "Type": 1,
+    "Name": "Waterfall Cave - Level 1 (%c)"
+  },
+  "64": {
+    "Type": 1,
+    "Name": "Waterfall Cave - Level 1 (%c)"
+  },
+  "65": {
+    "Type": 1,
+    "Name": "Waterfall Cave - Level 1 (%c)"
+  },
+  "66": {
+    "Type": 1,
+    "Name": "Alexandria (Pot)"
+  },
+  "67": {
+    "Type": 1,
+    "Name": "Alexandria (Pot)"
+  },
+  "68": {
+    "Type": 1,
+    "Name": "Alexandria - Inn (Bookshelf)"
+  },
+  "69": {
+    "Type": 1,
+    "Name": "Alexandria - South House (Pot)"
+  },
+  "70": {
+    "Type": 1,
+    "Name": "Alexandria - South House (Pot)"
+  },
+  "71": {
+    "Type": 1,
+    "Name": "Alexandria - South House (Cabinet)"
+  },
+  "72": {
+    "Type": 1,
+    "Name": "Alexandria - South House (Cabinet)"
+  },
+  "73": {
+    "Type": 1,
+    "Name": "Alexandria - East House (Cabinet)"
+  },
+  "74": {
+    "Type": 1,
+    "Name": "Alexandria - East House (Cabinet)"
+  },
+  "75": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 1st Floor (Cabinet)"
+  },
+  "76": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 2nd Floor (Cabinet)"
+  },
+  "77": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 2nd Floor (Cabinet)"
+  },
+  "78": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Cabinet)"
+  },
+  "79": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Cabinet)"
+  },
+  "80": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 2nd Floor (Bookshelf)"
+  },
+  "81": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 2nd Floor (Bookshelf)"
+  },
+  "82": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 1st Floor (Pot)"
+  },
+  "83": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 1st Floor (Pot)"
+  },
+  "84": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Pot)"
+  },
+  "85": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "86": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "87": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "88": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "89": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "90": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "91": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "92": {
+    "Type": 1,
+    "Name": "Alexandria - Albert Manor: 3rd Floor (Barrel)"
+  },
+  "93": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Level 4 (Pot)"
+  },
+  "94": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Level 4 (Pot)"
+  },
+  "95": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Level 4 (Barrel)"
+  },
+  "96": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Level 4 (Barrel)"
+  },
+  "97": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Level 6 (Pot)"
+  },
+  "98": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Level 6 (%c)"
+  },
+  "99": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "100": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "101": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "102": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "103": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "104": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "105": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "106": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Barrel)"
+  },
+  "107": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (Pot)"
+  },
+  "108": {
+    "Type": 1,
+    "Name": "Tower of Alexandra - Storeroom (%c)"
+  },
+  "109": {
+    "Type": 1,
+    "Name": "Port Prospect (Pot)"
+  },
+  "110": {
+    "Type": 1,
+    "Name": "Port Prospect (Pot)"
+  },
+  "111": {
+    "Type": 1,
+    "Name": "Port Prospect (Pot)"
+  },
+  "112": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "113": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "114": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "115": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "116": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "117": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "118": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "119": {
+    "Type": 1,
+    "Name": "Port Prospect (Barrel)"
+  },
+  "120": {
+    "Type": 1,
+    "Name": "Port Prospect - Inn (Bookshelf)"
+  },
+  "121": {
+    "Type": 1,
+    "Name": "Port Prospect - Inn (Bookshelf)"
+  },
+  "122": {
+    "Type": 1,
+    "Name": "Port Prospect - Inn (Cabinet)"
+  },
+  "123": {
+    "Type": 1,
+    "Name": "Ferry (Bookshelf)"
+  },
+  "124": {
+    "Type": 1,
+    "Name": "Ferry (Bookshelf)"
+  },
+  "125": {
+    "Type": 1,
+    "Name": "Ferry (%c)"
+  },
+  "126": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "127": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "128": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "129": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "130": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "131": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "132": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "133": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "134": {
+    "Type": 1,
+    "Name": "Ferry (Pot)"
+  },
+  "135": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "136": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "137": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "138": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "139": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "140": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "141": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "142": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "143": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "144": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "145": {
+    "Type": 1,
+    "Name": "Ferry (Barrel)"
+  },
+  "146": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "147": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "148": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "149": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "150": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "151": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "152": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "153": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "154": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "155": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "156": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "157": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "158": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "159": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "160": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "161": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "162": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "163": {
+    "Type": 1,
+    "Name": "Peregrin Quay (%c)"
+  },
+  "164": {
+    "Type": 1,
+    "Name": "Peregrin Quay (%c)"
+  },
+  "165": {
+    "Type": 1,
+    "Name": "Peregrin Quay (%c)"
+  },
+  "166": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "167": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "168": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "169": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "170": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "171": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "172": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "173": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Barrel)"
+  },
+  "174": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "175": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "176": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "177": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "178": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "179": {
+    "Type": 1,
+    "Name": "Peregrin Quay (Pot)"
+  },
+  "180": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Inn (Bookshelf)"
+  },
+  "181": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Inn (Bookshelf)"
+  },
+  "182": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Inn (Cabinet)"
+  },
+  "183": {
+    "Type": 1,
+    "Name": "Maella Abbey (Pot)"
+  },
+  "184": {
+    "Type": 1,
+    "Name": "Maella Abbey (Pot)"
+  },
+  "185": {
+    "Type": 1,
+    "Name": "Maella Abbey (Barrel)"
+  },
+  "186": {
+    "Type": 1,
+    "Name": "Maella Abbey (Barrel)"
+  },
+  "187": {
+    "Type": 1,
+    "Name": "Maella Abbey (Barrel)"
+  },
+  "188": {
+    "Type": 1,
+    "Name": "Maella Abbey (Barrel)"
+  },
+  "189": {
+    "Type": 1,
+    "Name": "Maella Abbey (Barrel)"
+  },
+  "190": {
+    "Type": 1,
+    "Name": "Maella Abbey (Barrel)"
+  },
+  "191": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "192": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "193": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "194": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "195": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "196": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "197": {
+    "Type": 1,
+    "Name": "Maella Abbey - Abbot's Residence (Bookshelf)"
+  },
+  "198": {
+    "Type": 1,
+    "Name": "Maella Abbey - Templar's Quarters (Barrel)"
+  },
+  "199": {
+    "Type": 1,
+    "Name": "Maella Abbey - Templar's Quarters (Barrel)"
+  },
+  "200": {
+    "Type": 1,
+    "Name": "Maella Abbey - Templar's Quarters (Bookshelf)"
+  },
+  "201": {
+    "Type": 1,
+    "Name": "Maella Abbey - Templar's Quarters (Bookshelf)"
+  },
+  "202": {
+    "Type": 1,
+    "Name": "Simpleton - Pub (Barrel)"
+  },
+  "203": {
+    "Type": 1,
+    "Name": "Simpleton - Pub (Barrel)"
+  },
+  "204": {
+    "Type": 1,
+    "Name": "Simpleton - Pub (Barrel)"
+  },
+  "205": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 2 (%c)"
+  },
+  "206": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 2 (%c)"
+  },
+  "207": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (%c)"
+  },
+  "208": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 2 (Cabinet)"
+  },
+  "209": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 2 (Cabinet)"
+  },
+  "210": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Cabinet)"
+  },
+  "211": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Cabinet)"
+  },
+  "212": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Cabinet)"
+  },
+  "213": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Pot)"
+  },
+  "214": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Pot)"
+  },
+  "215": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Pot)"
+  },
+  "216": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Pot)"
+  },
+  "217": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Barrel)"
+  },
+  "218": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Barrel)"
+  },
+  "219": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Barrel)"
+  },
+  "220": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Bookshelf)"
+  },
+  "221": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Bookshelf)"
+  },
+  "222": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Bookshelf)"
+  },
+  "223": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Bookshelf)"
+  },
+  "224": {
+    "Type": 1,
+    "Name": "Ruined Abbey - Level 3 (Bookshelf)"
+  },
+  "225": {
+    "Type": 1,
+    "Name": "Emma's House (Barrel)"
+  },
+  "226": {
+    "Type": 1,
+    "Name": "Emma's House (Barrel)"
+  },
+  "227": {
+    "Type": 1,
+    "Name": "Emma's House (Cabinet)"
+  },
+  "228": {
+    "Type": 1,
+    "Name": "Emma's House (Cabinet)"
+  },
+  "229": {
+    "Type": 1,
+    "Name": "Riverside Chapel (Cabinet)"
+  },
+  "230": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "231": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "232": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "233": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "234": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "235": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "236": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "237": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "238": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "239": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "240": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "241": {
+    "Type": 1,
+    "Name": "Ascantha - Church (Bookshelf)"
+  },
+  "242": {
+    "Type": 1,
+    "Name": "Ascantha - South House (Pot)"
+  },
+  "243": {
+    "Type": 1,
+    "Name": "Ascantha - South House (Pot)"
+  },
+  "244": {
+    "Type": 1,
+    "Name": "Ascantha - South House (Cabinet)"
+  },
+  "245": {
+    "Type": 1,
+    "Name": "Ascantha - South House (Cabinet)"
+  },
+  "246": {
+    "Type": 1,
+    "Name": "Ascantha - North House (Cabinet)"
+  },
+  "247": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 1st Floor (Cabinet)"
+  },
+  "248": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 1st Floor (Cabinet)"
+  },
+  "249": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 3rd Floor (Cabinet)"
+  },
+  "250": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 3rd Floor (Cabinet)"
+  },
+  "251": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 2nd Floor (Barrel)"
+  },
+  "252": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 2nd Floor (Barrel)"
+  },
+  "253": {
+    "Type": 1,
+    "Name": "Ascantha Castle - 2nd Floor (Pot)"
+  },
+  "254": {
+    "Type": 1,
+    "Name": "Wisher's Peak (%c)"
+  },
+  "255": {
+    "Type": 1,
+    "Name": "Wisher's Peak - Entrance (%c)"
+  },
+  "256": {
+    "Type": 1,
+    "Name": "Wisher's Peak - Well (%c)"
+  },
+  "257": {
+    "Type": 1,
+    "Name": "Pickham (Barrel)"
+  },
+  "258": {
+    "Type": 1,
+    "Name": "Pickham (Barrel)"
+  },
+  "259": {
+    "Type": 1,
+    "Name": "Pickham (Barrel)"
+  },
+  "260": {
+    "Type": 1,
+    "Name": "Pickham (Barrel)"
+  },
+  "261": {
+    "Type": 1,
+    "Name": "Pickham (Barrel)"
+  },
+  "262": {
+    "Type": 1,
+    "Name": "Pickham (Barrel)"
+  },
+  "263": {
+    "Type": 1,
+    "Name": "Pickham (Pot)"
+  },
+  "264": {
+    "Type": 1,
+    "Name": "Pickham (Pot)"
+  },
+  "265": {
+    "Type": 1,
+    "Name": "Pickham (Pot)"
+  },
+  "266": {
+    "Type": 1,
+    "Name": "Pickham (Pot)"
+  },
+  "267": {
+    "Type": 1,
+    "Name": "Pickham - Inn (Cabinet)"
+  },
+  "268": {
+    "Type": 1,
+    "Name": "Pickham - Inn (Cabinet)"
+  },
+  "269": {
+    "Type": 1,
+    "Name": "Pickham - North Pub (Barrel)"
+  },
+  "270": {
+    "Type": 1,
+    "Name": "Pickham - North Pub (Barrel)"
+  },
+  "271": {
+    "Type": 1,
+    "Name": "Pickham - North Pub (Barrel)"
+  },
+  "272": {
+    "Type": 1,
+    "Name": "Pickham - Armour Shop (Cabinet)"
+  },
+  "273": {
+    "Type": 1,
+    "Name": "Pickham - Armour Shop (Cabinet)"
+  },
+  "274": {
+    "Type": 1,
+    "Name": "Pickham - Item Shop (Sack)"
+  },
+  "275": {
+    "Type": 1,
+    "Name": "Pickham - Item Shop (Sack)"
+  },
+  "276": {
+    "Type": 1,
+    "Name": "Pickham - Item Shop (Sack)"
+  },
+  "277": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Pot)"
+  },
+  "278": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Pot)"
+  },
+  "279": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Barrel)"
+  },
+  "280": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Barrel)"
+  },
+  "281": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Bookshelf)"
+  },
+  "282": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Bookshelf)"
+  },
+  "283": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Bookshelf)"
+  },
+  "284": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Bookshelf)"
+  },
+  "285": {
+    "Type": 1,
+    "Name": "Pickham - Brains' Home (Bookshelf)"
+  },
+  "286": {
+    "Type": 1,
+    "Name": "Pickham - Fortune Teller (Bookshelf)"
+  },
+  "287": {
+    "Type": 1,
+    "Name": "Pickham - South Pub (Barrel)"
+  },
+  "288": {
+    "Type": 1,
+    "Name": "Pickham - South Pub (Barrel)"
+  },
+  "289": {
+    "Type": 1,
+    "Name": "Pickham - South Pub (Barrel)"
+  },
+  "290": {
+    "Type": 1,
+    "Name": "Pickham - South Pub (Cabinet)"
+  },
+  "291": {
+    "Type": 1,
+    "Name": "Pickham - Warehouse (Pot)"
+  },
+  "292": {
+    "Type": 1,
+    "Name": "Pickham - Warehouse (Pot)"
+  },
+  "293": {
+    "Type": 1,
+    "Name": "Pickham - Warehouse (Pot)"
+  },
+  "294": {
+    "Type": 1,
+    "Name": "Pickham - Warehouse (Pot)"
+  },
+  "295": {
+    "Type": 1,
+    "Name": "Pickham - Warehouse (Cabinet)"
+  },
+  "296": {
+    "Type": 1,
+    "Name": "Pickham - Tent (Sack)"
+  },
+  "297": {
+    "Type": 1,
+    "Name": "Pickham - Tent (Sack)"
+  },
+  "298": {
+    "Type": 1,
+    "Name": "Pickham - Tent (Pot)"
+  },
+  "299": {
+    "Type": 1,
+    "Name": "Pickham - Northwest House (Bookshelf)"
+  },
+  "300": {
+    "Type": 1,
+    "Name": "Pickham - Northwest House (Cabinet)"
+  },
+  "301": {
+    "Type": 1,
+    "Name": "Pickham - Northwest House (Pot)"
+  },
+  "302": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Cabinet)"
+  },
+  "303": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Bookshelf)"
+  },
+  "304": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Barrel)"
+  },
+  "305": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Barrel)"
+  },
+  "306": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Bookshelf)"
+  },
+  "307": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (%c)"
+  },
+  "308": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (%c)"
+  },
+  "309": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (%c)"
+  },
+  "310": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (%c)"
+  },
+  "311": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Pot)"
+  },
+  "312": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Pot)"
+  },
+  "313": {
+    "Type": 1,
+    "Name": "Pickham - Deluxe Apartments (Pot)"
+  },
+  "314": {
+    "Type": 1,
+    "Name": "Pickham - Shanty Apartments (Sack)"
+  },
+  "315": {
+    "Type": 1,
+    "Name": "Pickham - Shanty Apartments (Pot)"
+  },
+  "316": {
+    "Type": 1,
+    "Name": "Pickham - Shanty Apartments (Barrel)"
+  },
+  "317": {
+    "Type": 1,
+    "Name": "Pickham - Northeast House (Left) (Cabinet)"
+  },
+  "318": {
+    "Type": 1,
+    "Name": "Pickham - Northeast House (Right) (Cabinet)"
+  },
+  "319": {
+    "Type": 1,
+    "Name": "Pickham - Well (Pot)"
+  },
+  "320": {
+    "Type": 1,
+    "Name": "Pickham - Well (Pot)"
+  },
+  "321": {
+    "Type": 1,
+    "Name": "Pickham - Well (Pot)"
+  },
+  "322": {
+    "Type": 1,
+    "Name": "Red's Den (Bookshelf)"
+  },
+  "323": {
+    "Type": 1,
+    "Name": "Red's Den (Cabinet)"
+  },
+  "324": {
+    "Type": 1,
+    "Name": "Red's Den (Pot)"
+  },
+  "325": {
+    "Type": 1,
+    "Name": "Red's Den (Pot)"
+  },
+  "326": {
+    "Type": 1,
+    "Name": "Red's Den (%c)"
+  },
+  "327": {
+    "Type": 1,
+    "Name": "Red's Den (%c)"
+  },
+  "328": {
+    "Type": 1,
+    "Name": "Red's Den (%c)"
+  },
+  "329": {
+    "Type": 1,
+    "Name": "Red's Den (%c)"
+  },
+  "330": {
+    "Type": 1,
+    "Name": "Red's Den - Stable (Barrel)"
+  },
+  "331": {
+    "Type": 1,
+    "Name": "Red's Den - Stable (Barrel)"
+  },
+  "332": {
+    "Type": 0,
+    "Name": "Red's Den - Stable (None)"
+  },
+  "333": {
+    "Type": 0,
+    "Name": "Red's Den - Stable (None)"
+  },
+  "334": {
+    "Type": 0,
+    "Name": "Red's Den - Stable (None)"
+  },
+  "335": {
+    "Type": 2,
+    "Name": "Swordsman's Labyrinth (Trap Box)"
+  },
+  "336": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (%c)"
+  },
+  "337": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (%c)"
+  },
+  "338": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (%c)"
+  },
+  "339": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 3 (%c)"
+  },
+  "340": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "341": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "342": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "343": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "344": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "345": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "346": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "347": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "348": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "349": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "350": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "351": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "352": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "353": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 2 (Pot)"
+  },
+  "354": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 3 (Pot)"
+  },
+  "355": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 3 (Pot)"
+  },
+  "356": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 4 (Pot)"
+  },
+  "357": {
+    "Type": 1,
+    "Name": "Swordsman's Labyrinth - Level 4 (Pot)"
+  },
+  "358": {
+    "Type": 1,
+    "Name": "Hilltop Hut (Pot)"
+  },
+  "359": {
+    "Type": 1,
+    "Name": "Castle Trodain - Outside (%c)"
+  },
+  "360": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Pot)"
+  },
+  "361": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Pot)"
+  },
+  "362": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Pot)"
+  },
+  "363": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Pot)"
+  },
+  "364": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Pot)"
+  },
+  "365": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Barrel)"
+  },
+  "366": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Barrel)"
+  },
+  "367": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Barrel)"
+  },
+  "368": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Barrel)"
+  },
+  "369": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor (Barrel)"
+  },
+  "370": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Barrel)"
+  },
+  "371": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Barrel)"
+  },
+  "372": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Barrel)"
+  },
+  "373": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Barrel)"
+  },
+  "374": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Barrel)"
+  },
+  "375": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Pot)"
+  },
+  "376": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Pot)"
+  },
+  "377": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Sack)"
+  },
+  "378": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Sack)"
+  },
+  "379": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Bookshelf)"
+  },
+  "380": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Bookshelf)"
+  },
+  "381": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Cabinet)"
+  },
+  "382": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (Bookshelf)"
+  },
+  "383": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor (%c)"
+  },
+  "384": {
+    "Type": 3,
+    "Name": "Castle Trodain - 2nd Floor (%c)"
+  },
+  "385": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Bookshelf)"
+  },
+  "386": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Bookshelf)"
+  },
+  "387": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Bookshelf)"
+  },
+  "388": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Cabinet)"
+  },
+  "389": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Cabinet)"
+  },
+  "390": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Cabinet)"
+  },
+  "391": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Cabinet)"
+  },
+  "392": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Cabinet)"
+  },
+  "393": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Barrel)"
+  },
+  "394": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Barrel)"
+  },
+  "395": {
+    "Type": 1,
+    "Name": "Castle Trodain - 3rd Floor (Barrel)"
+  },
+  "396": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor, East Wing (Barrel)"
+  },
+  "397": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor, East Wing (Barrel)"
+  },
+  "398": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor, East Wing (Pot)"
+  },
+  "399": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor, East Wing (Pot)"
+  },
+  "400": {
+    "Type": 1,
+    "Name": "Castle Trodain - 1st Floor, East Wing (Pot)"
+  },
+  "401": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor, East Wing (%c)"
+  },
+  "402": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor, East Wing (%c)"
+  },
+  "403": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor, East Wing (%c)"
+  },
+  "404": {
+    "Type": 1,
+    "Name": "Castle Trodain - 2nd Floor, East Wing (%c)"
+  },
+  "405": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "406": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "407": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "408": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "409": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "410": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "411": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "412": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "413": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "414": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "415": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "416": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "417": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "418": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "419": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "420": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "421": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "422": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "423": {
+    "Type": 1,
+    "Name": "Castle Trodain - Library (Bookshelf)"
+  },
+  "424": {
+    "Type": 1,
+    "Name": "Mole Hole - Level 2 (Pot)"
+  },
+  "425": {
+    "Type": 1,
+    "Name": "Mole Hole - Level 2 (Pot)"
+  },
+  "426": {
+    "Type": 1,
+    "Name": "Mole Hole - Level 2 (%c)"
+  },
+  "427": {
+    "Type": 1,
+    "Name": "Mole Hole - Level 1 (%c)"
+  },
+  "428": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 1st Floor (Pot)"
+  },
+  "429": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 1st Floor (Pot)"
+  },
+  "430": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 1st Floor (%c)"
+  },
+  "431": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 1st Floor (%c)"
+  },
+  "432": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 1st Floor (%c)"
+  },
+  "433": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 1st Floor (%c)"
+  },
+  "434": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 2nd Floor (Bookshelf)"
+  },
+  "435": {
+    "Type": 1,
+    "Name": "Princess Minnie's Castle - 2nd Floor (Bookshelf)"
+  },
+  "436": {
+    "Type": 1,
+    "Name": "Neos - Inn (Barrel)"
+  },
+  "437": {
+    "Type": 1,
+    "Name": "Neos - Inn (Barrel)"
+  },
+  "438": {
+    "Type": 1,
+    "Name": "Neos - Residence (Barrel)"
+  },
+  "439": {
+    "Type": 1,
+    "Name": "Neos - Residence (Barrel)"
+  },
+  "440": {
+    "Type": 1,
+    "Name": "Neos - Residence (Pot)"
+  },
+  "441": {
+    "Type": 1,
+    "Name": "Neos - Residence (Pot)"
+  },
+  "442": {
+    "Type": 1,
+    "Name": "Neos - Residence (Pot)"
+  },
+  "443": {
+    "Type": 1,
+    "Name": "Neos - Residence (Bookshelf)"
+  },
+  "444": {
+    "Type": 1,
+    "Name": "Neos - Residence (Sack)"
+  },
+  "445": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Barrel)"
+  },
+  "446": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Barrel)"
+  },
+  "447": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Barrel)"
+  },
+  "448": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Pot)"
+  },
+  "449": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Pot)"
+  },
+  "450": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Pot)"
+  },
+  "451": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Sack)"
+  },
+  "452": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (Sack)"
+  },
+  "453": {
+    "Type": 1,
+    "Name": "Neos - Storehouse (%c)"
+  },
+  "454": {
+    "Type": 1,
+    "Name": "Neos - Templar's Quarters (Barrel)"
+  },
+  "455": {
+    "Type": 1,
+    "Name": "Neos - Templar's Quarters (Pot)"
+  },
+  "456": {
+    "Type": 1,
+    "Name": "Neos - Templar's Quarters (Sack)"
+  },
+  "457": {
+    "Type": 1,
+    "Name": "Neos - Templar's Quarters (Sack)"
+  },
+  "458": {
+    "Type": 1,
+    "Name": "Neos - Templar's Quarters (Sack)"
+  },
+  "459": {
+    "Type": 1,
+    "Name": "Neos - Clergy Quarters (Bookshelf)"
+  },
+  "460": {
+    "Type": 1,
+    "Name": "Neos - Clergy Quarters (Bookshelf)"
+  },
+  "461": {
+    "Type": 1,
+    "Name": "Neos - Clergy Quarters (Bookshelf)"
+  },
+  "462": {
+    "Type": 1,
+    "Name": "Neos - Clergy Quarters (Cabinet)"
+  },
+  "463": {
+    "Type": 1,
+    "Name": "Neos - Clergy Quarters (Cabinet)"
+  },
+  "464": {
+    "Type": 1,
+    "Name": "Savella Cathedral (%c)"
+  },
+  "465": {
+    "Type": 1,
+    "Name": "Savella Cathedral (%c)"
+  },
+  "466": {
+    "Type": 1,
+    "Name": "Seaview Church (Cabinet)"
+  },
+  "467": {
+    "Type": 1,
+    "Name": "Seaview Church (Cabinet)"
+  },
+  "468": {
+    "Type": 1,
+    "Name": "Seaview Church (Bookshelf)"
+  },
+  "469": {
+    "Type": 1,
+    "Name": "Baccarat (Barrel)"
+  },
+  "470": {
+    "Type": 1,
+    "Name": "Baccarat (Barrel)"
+  },
+  "471": {
+    "Type": 1,
+    "Name": "Baccarat (Barrel)"
+  },
+  "472": {
+    "Type": 1,
+    "Name": "Baccarat (Barrel)"
+  },
+  "473": {
+    "Type": 1,
+    "Name": "Baccarat (Barrel)"
+  },
+  "474": {
+    "Type": 1,
+    "Name": "Baccarat (Barrel)"
+  },
+  "475": {
+    "Type": 1,
+    "Name": "Baccarat (Pot)"
+  },
+  "476": {
+    "Type": 1,
+    "Name": "Baccarat (Pot)"
+  },
+  "477": {
+    "Type": 1,
+    "Name": "Baccarat (Pot)"
+  },
+  "478": {
+    "Type": 1,
+    "Name": "Baccarat - Inn (%c)"
+  },
+  "479": {
+    "Type": 1,
+    "Name": "Baccarat - Inn (Bookshelf)"
+  },
+  "480": {
+    "Type": 1,
+    "Name": "Baccarat - Inn (Cabinet)"
+  },
+  "481": {
+    "Type": 1,
+    "Name": "Baccarat - Inn (Cabinet)"
+  },
+  "482": {
+    "Type": 1,
+    "Name": "Baccarat - Inn (Cabinet)"
+  },
+  "483": {
+    "Type": 1,
+    "Name": "Baccarat - Restaurant (Barrel)"
+  },
+  "484": {
+    "Type": 1,
+    "Name": "Baccarat - Restaurant (Barrel)"
+  },
+  "485": {
+    "Type": 1,
+    "Name": "Baccarat - Restaurant (Barrel)"
+  },
+  "486": {
+    "Type": 1,
+    "Name": "Baccarat - Southeast House (Barrel)"
+  },
+  "487": {
+    "Type": 1,
+    "Name": "Baccarat - Southeast House (Barrel)"
+  },
+  "488": {
+    "Type": 1,
+    "Name": "Baccarat - Southeast House (Bookshelf)"
+  },
+  "489": {
+    "Type": 1,
+    "Name": "Baccarat - Southeast House (Cabinet)"
+  },
+  "490": {
+    "Type": 1,
+    "Name": "Baccarat - Northeast House (Barrel)"
+  },
+  "491": {
+    "Type": 1,
+    "Name": "Baccarat - Northeast House (Barrel)"
+  },
+  "492": {
+    "Type": 1,
+    "Name": "Baccarat - Northeast House (Bookshelf)"
+  },
+  "493": {
+    "Type": 1,
+    "Name": "Baccarat - Northeast House (Cabinet)"
+  },
+  "494": {
+    "Type": 1,
+    "Name": "Baccarat - Guardhouse (Barrel)"
+  },
+  "495": {
+    "Type": 1,
+    "Name": "Baccarat - Guardhouse (Barrel)"
+  },
+  "496": {
+    "Type": 1,
+    "Name": "Baccarat - Guardhouse (Cabinet)"
+  },
+  "497": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 1st Floor (Barrel)"
+  },
+  "498": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 1st Floor (Barrel)"
+  },
+  "499": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 1st Floor (Pot)"
+  },
+  "500": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Pot)"
+  },
+  "501": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Cabinet)"
+  },
+  "502": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Cabinet)"
+  },
+  "503": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Cabinet)"
+  },
+  "504": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Cabinet)"
+  },
+  "505": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Cabinet)"
+  },
+  "506": {
+    "Type": 1,
+    "Name": "Baccarat - Golding Manor, 2nd Floor (Cabinet)"
+  },
+  "507": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Barrel)"
+  },
+  "508": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Barrel)"
+  },
+  "509": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Barrel)"
+  },
+  "510": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Pot)"
+  },
+  "511": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Pot)"
+  },
+  "512": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Cabinet)"
+  },
+  "513": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Cabinet)"
+  },
+  "514": {
+    "Type": 1,
+    "Name": "Baccarat - Pub (Cabinet)"
+  },
+  "515": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Barrel)"
+  },
+  "516": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Pot)"
+  },
+  "517": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Pot)"
+  },
+  "518": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 2nd Floor (Cabinet)"
+  },
+  "519": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 2nd Floor (Cabinet)"
+  },
+  "520": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Bookshelf)"
+  },
+  "521": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Bookshelf)"
+  },
+  "522": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Bookshelf)"
+  },
+  "523": {
+    "Type": 1,
+    "Name": "Seer's Retreat - 1st Floor (Bookshelf)"
+  },
+  "524": {
+    "Type": 1,
+    "Name": "Argonia (Barrel)"
+  },
+  "525": {
+    "Type": 1,
+    "Name": "Argonia (Barrel)"
+  },
+  "526": {
+    "Type": 1,
+    "Name": "Argonia (Barrel)"
+  },
+  "527": {
+    "Type": 1,
+    "Name": "Argonia (Pot)"
+  },
+  "528": {
+    "Type": 1,
+    "Name": "Argonia (Cabinet)"
+  },
+  "529": {
+    "Type": 1,
+    "Name": "Argonia (Cabinet)"
+  },
+  "530": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Barrel)"
+  },
+  "531": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Barrel)"
+  },
+  "532": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Barrel)"
+  },
+  "533": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Pot)"
+  },
+  "534": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Cabinet)"
+  },
+  "535": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Cabinet)"
+  },
+  "536": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Cabinet)"
+  },
+  "537": {
+    "Type": 1,
+    "Name": "Argonia - Inn (Cabinet)"
+  },
+  "538": {
+    "Type": 1,
+    "Name": "Argonia - Southeast House (Pot)"
+  },
+  "539": {
+    "Type": 1,
+    "Name": "Argonia - Southeast House (Barrel)"
+  },
+  "540": {
+    "Type": 1,
+    "Name": "Argonia - Southeast House (Barrel)"
+  },
+  "541": {
+    "Type": 1,
+    "Name": "Argonia - Southeast House (Barrel)"
+  },
+  "542": {
+    "Type": 1,
+    "Name": "Argonia - Southeast House (Cabinet)"
+  },
+  "543": {
+    "Type": 1,
+    "Name": "Argonia - Southwest House (Barrel)"
+  },
+  "544": {
+    "Type": 1,
+    "Name": "Argonia - Southwest House (Barrel)"
+  },
+  "545": {
+    "Type": 1,
+    "Name": "Argonia - Southwest House (Cabinet)"
+  },
+  "546": {
+    "Type": 1,
+    "Name": "Argonia - Southwest House (Cabinet)"
+  },
+  "547": {
+    "Type": 1,
+    "Name": "Argonia - Southwest House (Cabinet)"
+  },
+  "548": {
+    "Type": 1,
+    "Name": "Argonia - Chancellor's House (Barrel)"
+  },
+  "549": {
+    "Type": 1,
+    "Name": "Argonia - Chancellor's House (Barrel)"
+  },
+  "550": {
+    "Type": 1,
+    "Name": "Argonia - Chancellor's House (Barrel)"
+  },
+  "551": {
+    "Type": 1,
+    "Name": "Argonia - Chancellor's House (Bookshelf)"
+  },
+  "552": {
+    "Type": 1,
+    "Name": "Argonia - Chancellor's House (Cabinet)"
+  },
+  "553": {
+    "Type": 1,
+    "Name": "Argonia - North House (Pot)"
+  },
+  "554": {
+    "Type": 1,
+    "Name": "Argonia - North House (Cabinet)"
+  },
+  "555": {
+    "Type": 1,
+    "Name": "Argonia - North House (Bookshelf)"
+  },
+  "556": {
+    "Type": 1,
+    "Name": "Argonia - North House (Bookshelf)"
+  },
+  "557": {
+    "Type": 1,
+    "Name": "Argonia - Bazaar House (Cabinet)"
+  },
+  "558": {
+    "Type": 1,
+    "Name": "Argonia - Bazaar House (Cabinet)"
+  },
+  "559": {
+    "Type": 1,
+    "Name": "Argonia - Bazaar House (Pot)"
+  },
+  "560": {
+    "Type": 1,
+    "Name": "Argonia - Bazaar House (Barrel)"
+  },
+  "561": {
+    "Type": 1,
+    "Name": "Argonia - Bazaar House (Barrel)"
+  },
+  "562": {
+    "Type": 1,
+    "Name": "Argonia - Bazaar House (Barrel)"
+  },
+  "563": {
+    "Type": 1,
+    "Name": "Argonia Castle - 1st Floor (Barrel)"
+  },
+  "564": {
+    "Type": 1,
+    "Name": "Argonia Castle - 1st Floor (Cabinet)"
+  },
+  "565": {
+    "Type": 1,
+    "Name": "Argonia Castle - 1st Floor (Cabinet)"
+  },
+  "566": {
+    "Type": 1,
+    "Name": "Argonia Castle - 2nd Floor (Bookshelf)"
+  },
+  "567": {
+    "Type": 1,
+    "Name": "Argonia Castle - 2nd Floor (Bookshelf)"
+  },
+  "568": {
+    "Type": 1,
+    "Name": "Argonia Castle - 2nd Floor (Bookshelf)"
+  },
+  "569": {
+    "Type": 1,
+    "Name": "Argonia Castle - 2nd Floor (Bookshelf)"
+  },
+  "570": {
+    "Type": 1,
+    "Name": "Argonia Castle - 1st Floor, North (%c)"
+  },
+  "571": {
+    "Type": 1,
+    "Name": "Argonia Castle - 1st Floor, North (%c)"
+  },
+  "572": {
+    "Type": 1,
+    "Name": "Argonia Castle - 1st Floor, North (%c)"
+  },
+  "573": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, West Wing (Pot)"
+  },
+  "574": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, West Wing (Pot)"
+  },
+  "575": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, West Wing (Cabinet)"
+  },
+  "576": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, West Wing (Cabinet)"
+  },
+  "577": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, West Wing (Cabinet)"
+  },
+  "578": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, West Wing (Cabinet)"
+  },
+  "579": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, West Wing (Pot)"
+  },
+  "580": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, West Wing (Pot)"
+  },
+  "581": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, West Wing (Bookshelf)"
+  },
+  "582": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, West Wing (Bookshelf)"
+  },
+  "583": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, West Wing (%c)"
+  },
+  "584": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, East Wing (Cabinet)"
+  },
+  "585": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, East Wing (Cabinet)"
+  },
+  "586": {
+    "Type": 1,
+    "Name": "Argonia Castle - 3rd Floor, East Wing (Bookshelf)"
+  },
+  "587": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, East Wing (%c)"
+  },
+  "588": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, East Wing (%c)"
+  },
+  "589": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, East Wing (%c)"
+  },
+  "590": {
+    "Type": 1,
+    "Name": "Argonia Castle - 4th Floor, East Wing (%c)"
+  },
+  "591": {
+    "Type": 1,
+    "Name": "Argonia Castle - 5th Floor, East Wing (Cabinet)"
+  },
+  "592": {
+    "Type": 1,
+    "Name": "Argonia Castle - 5th Floor, East Wing (Cabinet)"
+  },
+  "593": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground (%c)"
+  },
+  "594": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground (Sack)"
+  },
+  "595": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground - Cabin (Barrel)"
+  },
+  "596": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground - Cabin (Pot)"
+  },
+  "597": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground - Cabin (Pot)"
+  },
+  "598": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground - Cabin (Cabinet)"
+  },
+  "599": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground - Cabin (Cabinet)"
+  },
+  "600": {
+    "Type": 1,
+    "Name": "Royal Hunting Ground - Cabin (Cabinet)"
+  },
+  "601": {
+    "Type": 1,
+    "Name": "Dark Ruins (Barrel)"
+  },
+  "602": {
+    "Type": 1,
+    "Name": "Dark Ruins (Barrel)"
+  },
+  "603": {
+    "Type": 1,
+    "Name": "Dark Ruins - Level 2 (%c)"
+  },
+  "604": {
+    "Type": 1,
+    "Name": "Dark Ruins - Basement Level 1 (%c)"
+  },
+  "605": {
+    "Type": 1,
+    "Name": "Dark Ruins - Basement Level 1 (%c)"
+  },
+  "606": {
+    "Type": 1,
+    "Name": "Dark Ruins - Basement Level 2 (%c)"
+  },
+  "607": {
+    "Type": 1,
+    "Name": "Dark Ruins - Basement Level 2 (%c)"
+  },
+  "608": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Barrel)"
+  },
+  "609": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Barrel)"
+  },
+  "610": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Pot)"
+  },
+  "611": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Pot)"
+  },
+  "612": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Bookshelf)"
+  },
+  "613": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Bookshelf)"
+  },
+  "614": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Cabinet)"
+  },
+  "615": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Cabinet)"
+  },
+  "616": {
+    "Type": 1,
+    "Name": "Arcadia - Inn (Cabinet)"
+  },
+  "617": {
+    "Type": 1,
+    "Name": "Arcadia - Pub (Barrel)"
+  },
+  "618": {
+    "Type": 1,
+    "Name": "Arcadia - Pub (Barrel)"
+  },
+  "619": {
+    "Type": 1,
+    "Name": "Arcadia - Pub (Barrel)"
+  },
+  "620": {
+    "Type": 1,
+    "Name": "Arcadia - Pub (Barrel)"
+  },
+  "621": {
+    "Type": 1,
+    "Name": "Arcadia - Pub (Barrel)"
+  },
+  "622": {
+    "Type": 1,
+    "Name": "Arcadia - Pub (Barrel)"
+  },
+  "623": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Barrel)"
+  },
+  "624": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Barrel)"
+  },
+  "625": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Barrel)"
+  },
+  "626": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Barrel)"
+  },
+  "627": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Pot)"
+  },
+  "628": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Cabinet)"
+  },
+  "629": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Bookshelf)"
+  },
+  "630": {
+    "Type": 1,
+    "Name": "Arcadia - Equipment Shop (Bookshelf)"
+  },
+  "631": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (Barrel)"
+  },
+  "632": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (Barrel)"
+  },
+  "633": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (Pot)"
+  },
+  "634": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (Pot)"
+  },
+  "635": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (Cabinet)"
+  },
+  "636": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (Cabinet)"
+  },
+  "637": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (%c)"
+  },
+  "638": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (%c)"
+  },
+  "639": {
+    "Type": 1,
+    "Name": "Arcadia - Item Shop (%c)"
+  },
+  "640": {
+    "Type": 1,
+    "Name": "Arcadia - Secret Shop (Pot)"
+  },
+  "641": {
+    "Type": 1,
+    "Name": "Arcadia - Secret Shop (Pot)"
+  },
+  "642": {
+    "Type": 0,
+    "Name": "Arcadia - Secret Shop (%c)"
+  },
+  "643": {
+    "Type": 0,
+    "Name": "Arcadia - Secret Shop (%c)"
+  },
+  "644": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Pot)"
+  },
+  "645": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Pot)"
+  },
+  "646": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Pot)"
+  },
+  "647": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Pot)"
+  },
+  "648": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Pot)"
+  },
+  "649": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Pot)"
+  },
+  "650": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Cabinet)"
+  },
+  "651": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 2nd Floor (Cabinet)"
+  },
+  "652": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 2nd Floor (Cabinet)"
+  },
+  "653": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Bookshelf)"
+  },
+  "654": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 1st Floor (Bookshelf)"
+  },
+  "655": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 2nd Floor (Bookshelf)"
+  },
+  "656": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, 2nd Floor (Bookshelf)"
+  },
+  "657": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, Hidden Room (Bookshelf)"
+  },
+  "658": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, Hidden Room (Bookshelf)"
+  },
+  "659": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, Hidden Room (Bookshelf)"
+  },
+  "660": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, Hidden Room (%c)"
+  },
+  "661": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, Hidden Room (%c)"
+  },
+  "662": {
+    "Type": 1,
+    "Name": "Arcadia - Chateau Dominico, Hidden Room (%c)"
+  },
+  "663": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Barrel)"
+  },
+  "664": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Barrel)"
+  },
+  "665": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Barrel)"
+  },
+  "666": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Barrel)"
+  },
+  "667": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Barrel)"
+  },
+  "668": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Barrel)"
+  },
+  "669": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Pot)"
+  },
+  "670": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Pot)"
+  },
+  "671": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Cabinet)"
+  },
+  "672": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Bookshelf)"
+  },
+  "673": {
+    "Type": 1,
+    "Name": "Arcadia - Lowermost House (Bookshelf)"
+  },
+  "674": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Pot)"
+  },
+  "675": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Barrel)"
+  },
+  "676": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Cabinet)"
+  },
+  "677": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "678": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "679": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "680": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "681": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "682": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "683": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "684": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Right (Bookshelf)"
+  },
+  "685": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Pot)"
+  },
+  "686": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Pot)"
+  },
+  "687": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Pot)"
+  },
+  "688": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Pot)"
+  },
+  "689": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Pot)"
+  },
+  "690": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Pot)"
+  },
+  "691": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Barrel)"
+  },
+  "692": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Barrel)"
+  },
+  "693": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Barrel)"
+  },
+  "694": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Cabinet)"
+  },
+  "695": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Cabinet)"
+  },
+  "696": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Cabinet)"
+  },
+  "697": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Bookshelf)"
+  },
+  "698": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Bookshelf)"
+  },
+  "699": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Bookshelf)"
+  },
+  "700": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Bookshelf)"
+  },
+  "701": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (Bookshelf)"
+  },
+  "702": {
+    "Type": 1,
+    "Name": "Arcadia - Southwest Building, Left (%c)"
+  },
+  "703": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Barrel)"
+  },
+  "704": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Pot)"
+  },
+  "705": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Bookshelf)"
+  },
+  "706": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Bookshelf)"
+  },
+  "707": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Bookshelf)"
+  },
+  "708": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Bookshelf)"
+  },
+  "709": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Left (Cabinet)"
+  },
+  "710": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Pot)"
+  },
+  "711": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Barrel)"
+  },
+  "712": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Barrel)"
+  },
+  "713": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Barrel)"
+  },
+  "714": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Bookshelf)"
+  },
+  "715": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Bookshelf)"
+  },
+  "716": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Bookshelf)"
+  },
+  "717": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Bookshelf)"
+  },
+  "718": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Cabinet)"
+  },
+  "719": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Cabinet)"
+  },
+  "720": {
+    "Type": 1,
+    "Name": "Arcadia - Southeast Building, Right (Cabinet)"
+  },
+  "721": {
+    "Type": 1,
+    "Name": "Arcadia - Kranbartle Household (Bookshelf)"
+  },
+  "722": {
+    "Type": 1,
+    "Name": "Arcadia - Kranbartle Household (Cabinet)"
+  },
+  "723": {
+    "Type": 1,
+    "Name": "Arcadia - Kranbartle Household (Cabinet)"
+  },
+  "724": {
+    "Type": 1,
+    "Name": "Arcadia - Northeast House (Barrel)"
+  },
+  "725": {
+    "Type": 1,
+    "Name": "Arcadia - Northeast House (Cabinet)"
+  },
+  "726": {
+    "Type": 1,
+    "Name": "Arcadia - Northeast House (Bookshelf)"
+  },
+  "727": {
+    "Type": 1,
+    "Name": "Arcadia - Uppermost Studio (Pot)"
+  },
+  "728": {
+    "Type": 1,
+    "Name": "Rydon's Tower (%c)"
+  },
+  "729": {
+    "Type": 1,
+    "Name": "Rydon's Tower - Level 9 (%c)"
+  },
+  "730": {
+    "Type": 1,
+    "Name": "Rydon's Tower - Level 11 (%c)"
+  },
+  "731": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Outside (Barrel)"
+  },
+  "732": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Outside (Barrel)"
+  },
+  "733": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Outside (Sparkly Spot)"
+  },
+  "734": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Outside (Sparkly Spot)"
+  },
+  "735": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Pot)"
+  },
+  "736": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Pot)"
+  },
+  "737": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Pot)"
+  },
+  "738": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Pot)"
+  },
+  "739": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Pot)"
+  },
+  "740": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Cabinet)"
+  },
+  "741": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Cabinet)"
+  },
+  "742": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Bookshelf)"
+  },
+  "743": {
+    "Type": 1,
+    "Name": "Marta's Cottage - Inside (Bookshelf)"
+  },
+  "744": {
+    "Type": 1,
+    "Name": "Orkutsk - Item Shop (Pot)"
+  },
+  "745": {
+    "Type": 1,
+    "Name": "Orkutsk - Item Shop (Pot)"
+  },
+  "746": {
+    "Type": 1,
+    "Name": "Orkutsk - Item Shop (Pot)"
+  },
+  "747": {
+    "Type": 1,
+    "Name": "Orkutsk - Item Shop (Pot)"
+  },
+  "748": {
+    "Type": 1,
+    "Name": "Orkutsk - Item Shop (Pot)"
+  },
+  "749": {
+    "Type": 1,
+    "Name": "Orkutsk - Item Shop (Pot)"
+  },
+  "750": {
+    "Type": 1,
+    "Name": "Orkutsk - Pub (Barrel)"
+  },
+  "751": {
+    "Type": 1,
+    "Name": "Orkutsk - Pub (Barrel)"
+  },
+  "752": {
+    "Type": 1,
+    "Name": "Orkutsk - Equipment Shop Basement (Barrel)"
+  },
+  "753": {
+    "Type": 1,
+    "Name": "Orkutsk - Equipment Shop Basement (Barrel)"
+  },
+  "754": {
+    "Type": 1,
+    "Name": "Orkutsk - Equipment Shop (%c)"
+  },
+  "755": {
+    "Type": 1,
+    "Name": "Orkutsk - Church (Bookshelf)"
+  },
+  "756": {
+    "Type": 1,
+    "Name": "Orkutsk - Mayor's House (Pot)"
+  },
+  "757": {
+    "Type": 1,
+    "Name": "Orkutsk - Mayor's House (Pot)"
+  },
+  "758": {
+    "Type": 1,
+    "Name": "Orkutsk - Mayor's House (Pot)"
+  },
+  "759": {
+    "Type": 1,
+    "Name": "Orkutsk - Mayor's House (Cabinet)"
+  },
+  "760": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Pot)"
+  },
+  "761": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Pot)"
+  },
+  "762": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Pot)"
+  },
+  "763": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Pot)"
+  },
+  "764": {
+    "Type": 1,
+    "Name": "Orkutsk - Basement (Barrel)"
+  },
+  "765": {
+    "Type": 1,
+    "Name": "Orkutsk - Basement (Barrel)"
+  },
+  "766": {
+    "Type": 1,
+    "Name": "Orkutsk - Storeroom (Barrel)"
+  },
+  "767": {
+    "Type": 1,
+    "Name": "Orkutsk - Storeroom (Barrel)"
+  },
+  "768": {
+    "Type": 1,
+    "Name": "Orkutsk - Basement (Cabinet)"
+  },
+  "769": {
+    "Type": 1,
+    "Name": "Orkutsk - Basement (Bookshelf)"
+  },
+  "770": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Bookshelf)"
+  },
+  "771": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Bookshelf)"
+  },
+  "772": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Bookshelf)"
+  },
+  "773": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Sack)"
+  },
+  "774": {
+    "Type": 1,
+    "Name": "Orkutsk - Marek's Room (Sack)"
+  },
+  "775": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 1 (Pot)"
+  },
+  "776": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 1 (Pot)"
+  },
+  "777": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 1 (Pot)"
+  },
+  "778": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 1 (Pot)"
+  },
+  "779": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 1 (%c)"
+  },
+  "780": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 1 (%c)"
+  },
+  "781": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (Pot)"
+  },
+  "782": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (Pot)"
+  },
+  "783": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (Pot)"
+  },
+  "784": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (Pot)"
+  },
+  "785": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (Pot)"
+  },
+  "786": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (Pot)"
+  },
+  "787": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 2 (%c)"
+  },
+  "788": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 3 (Pot)"
+  },
+  "789": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 3 (Pot)"
+  },
+  "790": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 3 (%c)"
+  },
+  "791": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 3 (%c)"
+  },
+  "792": {
+    "Type": 1,
+    "Name": "Herb Grotto - Level 4 (%c)"
+  },
+  "793": {
+    "Type": 1,
+    "Name": "Dragon Graveyard - Level 1 (%c)"
+  },
+  "794": {
+    "Type": 1,
+    "Name": "Dragon Graveyard - Level 1 (%c)"
+  },
+  "795": {
+    "Type": 1,
+    "Name": "Dragon Graveyard - Level 1 (Sack)"
+  },
+  "796": {
+    "Type": 1,
+    "Name": "Dragon Graveyard - Level 1 (%c)"
+  },
+  "797": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Pot)"
+  },
+  "798": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (Pot)"
+  },
+  "799": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (Pot)"
+  },
+  "800": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (Pot)"
+  },
+  "801": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Barrel)"
+  },
+  "802": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Barrel)"
+  },
+  "803": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Barrel)"
+  },
+  "804": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (%c)"
+  },
+  "805": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (%c)"
+  },
+  "806": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (%c)"
+  },
+  "807": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 4 (%c)"
+  },
+  "808": {
+    "Type": 2,
+    "Name": "Pirate's Cove - Boss (%c)"
+  },
+  "809": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Bookshelf)"
+  },
+  "810": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Bookshelf)"
+  },
+  "811": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Bookshelf)"
+  },
+  "812": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 2 (Bookshelf)"
+  },
+  "813": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (Barrel)"
+  },
+  "814": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 3 (Barrel)"
+  },
+  "815": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Pot)"
+  },
+  "816": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Pot)"
+  },
+  "817": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Pot)"
+  },
+  "818": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Pot)"
+  },
+  "819": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Barrel)"
+  },
+  "820": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Barrel)"
+  },
+  "821": {
+    "Type": 1,
+    "Name": "Pirate's Cove - Level 1 (Barrel)"
+  },
+  "822": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "823": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "824": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "825": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "826": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "827": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "828": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "829": {
+    "Type": 1,
+    "Name": "Empycchu (Pot)"
+  },
+  "830": {
+    "Type": 1,
+    "Name": "Empycchu - Item Shop (Pot)"
+  },
+  "831": {
+    "Type": 1,
+    "Name": "Empycchu - Item Shop (Pot)"
+  },
+  "832": {
+    "Type": 1,
+    "Name": "Empycchu - Item Shop (%c)"
+  },
+  "833": {
+    "Type": 1,
+    "Name": "Empycchu - Kitchen (Pot)"
+  },
+  "834": {
+    "Type": 1,
+    "Name": "Empycchu - Kitchen (Pot)"
+  },
+  "835": {
+    "Type": 1,
+    "Name": "Empycchu - Town Hall (Pot)"
+  },
+  "836": {
+    "Type": 1,
+    "Name": "Empycchu - Town Hall (Pot)"
+  },
+  "837": {
+    "Type": 1,
+    "Name": "Empycchu - Town Hall (Pot)"
+  },
+  "838": {
+    "Type": 1,
+    "Name": "Empycchu - Town Hall (Pot)"
+  },
+  "839": {
+    "Type": 1,
+    "Name": "Empycchu - Town Hall (Cabinet)"
+  },
+  "840": {
+    "Type": 1,
+    "Name": "Empycchu - Residence (Pot)"
+  },
+  "841": {
+    "Type": 1,
+    "Name": "Empycchu - Residence (Pot)"
+  },
+  "842": {
+    "Type": 1,
+    "Name": "Empycchu - Residence (Pot)"
+  },
+  "843": {
+    "Type": 1,
+    "Name": "Empycchu - Residence (Sack)"
+  },
+  "844": {
+    "Type": 1,
+    "Name": "Empycchu - Smithy (Pot)"
+  },
+  "845": {
+    "Type": 1,
+    "Name": "Empycchu - Smithy (Pot)"
+  },
+  "846": {
+    "Type": 1,
+    "Name": "Empycchu - Smithy (Pot)"
+  },
+  "847": {
+    "Type": 1,
+    "Name": "Empycchu - Smithy (Sack)"
+  },
+  "848": {
+    "Type": 1,
+    "Name": "Empycchu - Smithy (Sack)"
+  },
+  "849": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "850": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "851": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "852": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "853": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "854": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "855": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "856": {
+    "Type": 1,
+    "Name": "Dark Empycchu (Pot)"
+  },
+  "857": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Item Shop (Pot)"
+  },
+  "858": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Item Shop (Pot)"
+  },
+  "859": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Item Shop (%c)"
+  },
+  "860": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Kitchen (Pot)"
+  },
+  "861": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Kitchen (Pot)"
+  },
+  "862": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Town Hall (Pot)"
+  },
+  "863": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Town Hall (Pot)"
+  },
+  "864": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Town Hall (Pot)"
+  },
+  "865": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Town Hall (Pot)"
+  },
+  "866": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Town Hall (Cabinet)"
+  },
+  "867": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Residence (Pot)"
+  },
+  "868": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Residence (Pot)"
+  },
+  "869": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Residence (Pot)"
+  },
+  "870": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Residence (Sack)"
+  },
+  "871": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Smithy (Pot)"
+  },
+  "872": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Smithy (Pot)"
+  },
+  "873": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Smithy (Pot)"
+  },
+  "874": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Smithy (Sack)"
+  },
+  "875": {
+    "Type": 1,
+    "Name": "Dark Empycchu - Smithy (Sack)"
+  },
+  "876": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie (%c)"
+  },
+  "877": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie (%c)"
+  },
+  "878": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie (%c)"
+  },
+  "879": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie (%c)"
+  },
+  "880": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie (%c)"
+  },
+  "881": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie - Level 4 Outside (%c)"
+  },
+  "882": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie - Level 1 (%c)"
+  },
+  "883": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie - Level 2 (%c)"
+  },
+  "884": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie - Level 3 (%c)"
+  },
+  "885": {
+    "Type": 1,
+    "Name": "Godbird's Eyrie - Level 5 (%c)"
+  },
+  "886": {
+    "Type": 1,
+    "Name": "Le Club Puff-Puff (Cabinet)"
+  },
+  "887": {
+    "Type": 1,
+    "Name": "Le Club Puff-Puff (Barrel)"
+  },
+  "888": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Barrel)"
+  },
+  "889": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Barrel)"
+  },
+  "890": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Barrel)"
+  },
+  "891": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Barrel)"
+  },
+  "892": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Barrel)"
+  },
+  "893": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Bookshelf)"
+  },
+  "894": {
+    "Type": 1,
+    "Name": "Tryan Gully - Main Building (Bookshelf)"
+  },
+  "895": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Pot)"
+  },
+  "896": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Pot)"
+  },
+  "897": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Pot)"
+  },
+  "898": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Pot)"
+  },
+  "899": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Barrel)"
+  },
+  "900": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Barrel)"
+  },
+  "901": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (Barrel)"
+  },
+  "902": {
+    "Type": 2,
+    "Name": "Tryan Gully - Treasury (%c)"
+  },
+  "903": {
+    "Type": 1,
+    "Name": "Tryan Gully - Treasury (%c)"
+  },
+  "904": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 1st Floor (Pot)"
+  },
+  "905": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 1st Floor (Pot)"
+  },
+  "906": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 1st Floor (Barrel)"
+  },
+  "907": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 1st Floor (Barrel)"
+  },
+  "908": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 1st Floor (Cabinet)"
+  },
+  "909": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 1st Floor (Cabinet)"
+  },
+  "910": {
+    "Type": 1,
+    "Name": "Lord High Priest's Residence - 2nd Floor (Cabinet)"
+  },
+  "911": {
+    "Type": 1,
+    "Name": "Egeus' Tablet (Pot)"
+  },
+  "912": {
+    "Type": 1,
+    "Name": "Egeus' Tablet (Pot)"
+  },
+  "913": {
+    "Type": 1,
+    "Name": "Egeus' Tablet (Barrel)"
+  },
+  "914": {
+    "Type": 1,
+    "Name": "Howlwind Hill (%c)"
+  },
+  "915": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "916": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "917": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "918": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "919": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "920": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "921": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "922": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "923": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "924": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "925": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "926": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "927": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "928": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "929": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "930": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "931": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "932": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "933": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "934": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "935": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "936": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "937": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "938": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "939": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "940": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "941": {
+    "Type": 1,
+    "Name": "Black Citadel - Storage (Barrel)"
+  },
+  "942": {
+    "Type": 1,
+    "Name": "Black Citadel - Stairwell (Pot)"
+  },
+  "943": {
+    "Type": 1,
+    "Name": "Black Citadel - Stairwell (Pot)"
+  },
+  "944": {
+    "Type": 1,
+    "Name": "Black Citadel - Inn (Pot)"
+  },
+  "945": {
+    "Type": 1,
+    "Name": "Black Citadel - Inn (Pot)"
+  },
+  "946": {
+    "Type": 1,
+    "Name": "Black Citadel - Cemetery (Cabinet)"
+  },
+  "947": {
+    "Type": 1,
+    "Name": "Black Citadel - Inn (Cabinet)"
+  },
+  "948": {
+    "Type": 1,
+    "Name": "Black Citadel - Apartment (Cabinet)"
+  },
+  "949": {
+    "Type": 1,
+    "Name": "Black Citadel - Inn (Bookshelf)"
+  },
+  "950": {
+    "Type": 1,
+    "Name": "Black Citadel - Inn (Bookshelf)"
+  },
+  "951": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "952": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "953": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "954": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "955": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "956": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "957": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "958": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "959": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "960": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "961": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "962": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "963": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "964": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "965": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "966": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "967": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "968": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "969": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "970": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "971": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "972": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "973": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "974": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "975": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "976": {
+    "Type": 1,
+    "Name": "Black Citadel - Library (Bookshelf)"
+  },
+  "977": {
+    "Type": 1,
+    "Name": "Black Citadel - Apartment (Bookshelf)"
+  },
+  "978": {
+    "Type": 1,
+    "Name": "Black Citadel - Apartment (Pot)"
+  },
+  "979": {
+    "Type": 1,
+    "Name": "Black Citadel - Southwest Corner (%c)"
+  },
+  "980": {
+    "Type": 1,
+    "Name": "Black Citadel - East Tower (%c)"
+  },
+  "981": {
+    "Type": 1,
+    "Name": "Black Citadel - Northwest Corner (%c)"
+  },
+  "982": {
+    "Type": 0,
+    "Name": "UNKNOWN (%c)"
+  },
+  "983": {
+    "Type": 0,
+    "Name": "UNKNOWN (%c)"
+  },
+  "984": {
+    "Type": 0,
+    "Name": "UNKNOWN (%c)"
+  },
+  "985": {
+    "Type": 0,
+    "Name": "UNKNOWN (%c)"
+  },
+  "986": {
+    "Type": 1,
+    "Name": "Trolls' Maze (%c)"
+  },
+  "987": {
+    "Type": 1,
+    "Name": "Trolls' Maze (%c)"
+  },
+  "988": {
+    "Type": 1,
+    "Name": "Trolls' Maze (%c)"
+  },
+  "989": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 2 (%c)"
+  },
+  "990": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 2 (%c)"
+  },
+  "991": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 2 (%c)"
+  },
+  "992": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 3 (%c)"
+  },
+  "993": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 3 (%c)"
+  },
+  "994": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 3 (%c)"
+  },
+  "995": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 3 (%c)"
+  },
+  "996": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary (Pot)"
+  },
+  "997": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary (Pot)"
+  },
+  "998": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary (Pot)"
+  },
+  "999": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary (Pot)"
+  },
+  "1000": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Pot)"
+  },
+  "1001": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Pot)"
+  },
+  "1002": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Pot)"
+  },
+  "1003": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Pot)"
+  },
+  "1004": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Pot)"
+  },
+  "1005": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Cabinet)"
+  },
+  "1006": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Cabinet)"
+  },
+  "1007": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (%c)"
+  },
+  "1008": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Chen Mui's House (Bookshelf)"
+  },
+  "1009": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Item Shop (Pot)"
+  },
+  "1010": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Item Shop (Sack)"
+  },
+  "1011": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Item Shop (Sack)"
+  },
+  "1012": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Item Shop (Sack)"
+  },
+  "1013": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Southwest House (Pot)"
+  },
+  "1014": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Southwest House (Pot)"
+  },
+  "1015": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Southwest House (Pot)"
+  },
+  "1016": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Southwest House (Pot)"
+  },
+  "1017": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Southwest House (Sack)"
+  },
+  "1018": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Southwest House (Sack)"
+  },
+  "1019": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Church (Pot)"
+  },
+  "1020": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Church (Pot)"
+  },
+  "1021": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Church (Sack)"
+  },
+  "1022": {
+    "Type": 1,
+    "Name": "Dragovian Sanctuary - Church (Sack)"
+  },
+  "1023": {
+    "Type": 1,
+    "Name": "Heavenly Dais - Level 1 (%c)"
+  },
+  "1024": {
+    "Type": 1,
+    "Name": "Heavenly Dais - Level 1 (%c)"
+  },
+  "1025": {
+    "Type": 1,
+    "Name": "Heavenly Dais - Level 2 (%c)"
+  },
+  "1026": {
+    "Type": 1,
+    "Name": "Heavenly Dais - Level 2 (%c)"
+  },
+  "1027": {
+    "Type": 1,
+    "Name": "Heavenly Dais - Level 2 (%c)"
+  },
+  "1028": {
+    "Type": 1,
+    "Name": "Heavenly Dais - Level 2 (%c)"
+  },
+  "1029": {
+    "Type": 1,
+    "Name": "Black Citadel - Town Loop (%c)"
+  },
+  "1030": {
+    "Type": 1,
+    "Name": "Black Citadel - Town Loop (Pot)"
+  },
+  "1031": {
+    "Type": 1,
+    "Name": "Black Citadel - Town Loop (Pot)"
+  },
+  "1032": {
+    "Type": 1,
+    "Name": "High place South of Empyrea (%c)"
+  },
+  "1033": {
+    "Type": 1,
+    "Name": "High place on Northwest Isle (%c)"
+  },
+  "1034": {
+    "Type": 1,
+    "Name": "High place on Northwest Isle (%c)"
+  },
+  "1035": {
+    "Type": 1,
+    "Name": "Hill on Argonia's Western Border (%c)"
+  },
+  "1036": {
+    "Type": 1,
+    "Name": "Hill on Argonia's Western Border (%c)"
+  },
+  "1037": {
+    "Type": 1,
+    "Name": "Mountain Overlooking Desert (%c)"
+  },
+  "1038": {
+    "Type": 1,
+    "Name": "Mountain Overlooking Desert (%c)"
+  },
+  "1039": {
+    "Type": 1,
+    "Name": "Mountain Overlooking Desert (%c)"
+  },
+  "1040": {
+    "Type": 1,
+    "Name": "Tower of Alexandra (%c)"
+  },
+  "1041": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Bookshelf)"
+  },
+  "1042": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Bookshelf)"
+  },
+  "1043": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (%c)"
+  },
+  "1044": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1045": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1046": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1047": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1048": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1049": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1050": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1051": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1052": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Pot)"
+  },
+  "1053": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1054": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1055": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1056": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1057": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1058": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1059": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1060": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1061": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1062": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1063": {
+    "Type": 1,
+    "Name": "Port Prospect - Ferry (Barrel)"
+  },
+  "1064": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Bookshelf)"
+  },
+  "1065": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Bookshelf)"
+  },
+  "1066": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (%c)"
+  },
+  "1067": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1068": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1069": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1070": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1071": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1072": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1073": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1074": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1075": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Pot)"
+  },
+  "1076": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1077": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1078": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1079": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1080": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1081": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1082": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1083": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1084": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1085": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1086": {
+    "Type": 1,
+    "Name": "Peregrin Quay - Ferry (Barrel)"
+  },
+  "1087": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (%c)"
+  },
+  "1088": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (%c)"
+  },
+  "1089": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (%c)"
+  },
+  "1090": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1091": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1092": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1093": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1094": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1095": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1096": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1097": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1098": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1099": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1100": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1101": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Barrel)"
+  },
+  "1102": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Cabinet)"
+  },
+  "1103": {
+    "Type": 1,
+    "Name": "Neos - Destroyed (Pot)"
+  },
+  "1104": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 1 (%c)"
+  },
+  "1105": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 1 (Pot)"
+  },
+  "1106": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 1 (Pot)"
+  },
+  "1107": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 1 (Pot)"
+  },
+  "1108": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 1 (Pot)"
+  },
+  "1109": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (%c)"
+  },
+  "1110": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (%c)"
+  },
+  "1111": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (%c)"
+  },
+  "1112": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1113": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1114": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1115": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1116": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1117": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1118": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 2 (Pot)"
+  },
+  "1119": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (%c)"
+  },
+  "1120": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (%c)"
+  },
+  "1121": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (%c)"
+  },
+  "1122": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (%c)"
+  },
+  "1123": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (%c)"
+  },
+  "1124": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (%c)"
+  },
+  "1125": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1126": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1127": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1128": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1129": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1130": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1131": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1132": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1133": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1134": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1135": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1136": {
+    "Type": 1,
+    "Name": "Altar of Wroth - Level 3 (Pot)"
+  },
+  "1137": {
+    "Type": 1,
+    "Name": "Lakeside Cabin (Bookshelf)"
+  },
+  "1138": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 1 (%c)"
+  },
+  "1139": {
+    "Type": 1,
+    "Name": "Dragovian Path - Level 4 (%c)"
+  },
+  "1140": {
+    "Type": 1,
+    "Name": "Tryan Gully - Shrine (Pot)"
+  },
+  "1141": {
+    "Type": 1,
+    "Name": "Black Citadel - Town Loop (%c)"
+  },
+  "1142": {
+    "Type": 1,
+    "Name": "Black Citadel - Town Loop (Duplicate) (Pot)"
+  },
+  "1143": {
+    "Type": 1,
+    "Name": "Black Citadel - Town Loop (Duplicate) (Pot)"
+  },
+  "1144": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1145": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1146": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1147": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1148": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1149": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1150": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1151": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1152": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1153": {
+    "Type": 0,
+    "Name": "Royal Hunting Ground (Salamango)"
+  },
+  "1154": {
+    "Type": 0,
+    "Name": "UNKNOWN (Salamango)"
+  },
+  "1155": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1156": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1157": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1158": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1159": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1160": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1161": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1162": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1163": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1164": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1165": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1166": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1167": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1168": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1169": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1170": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1171": {
+    "Type": 1,
+    "Name": "Maella Region - Island (%c)"
+  },
+  "1172": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1173": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1174": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1175": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1176": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1177": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1178": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1179": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1180": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1181": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1182": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1183": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1184": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1185": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1186": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1187": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1188": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1189": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1190": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1191": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1192": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1193": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1194": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1195": {
+    "Type": 1,
+    "Name": "Land of the Moles (%c)"
+  },
+  "1196": {
+    "Type": 1,
+    "Name": "Land of the Moles (%c)"
+  },
+  "1197": {
+    "Type": 1,
+    "Name": "Cape West of Pickham - Island (%c)"
+  },
+  "1198": {
+    "Type": 1,
+    "Name": "Princess Minnie's Island (%c)"
+  },
+  "1199": {
+    "Type": 1,
+    "Name": "Uncharted Isle (%c)"
+  },
+  "1200": {
+    "Type": 1,
+    "Name": "Uncharted Isle (%c)"
+  },
+  "1201": {
+    "Type": 1,
+    "Name": "Maella Region - Island (%c)"
+  },
+  "1202": {
+    "Type": 1,
+    "Name": "Holy Isle of Neos (%c)"
+  },
+  "1203": {
+    "Type": 1,
+    "Name": "Holy Isle of Neos (%c)"
+  },
+  "1204": {
+    "Type": 1,
+    "Name": "Savella Area (%c)"
+  },
+  "1205": {
+    "Type": 1,
+    "Name": "Savella Area (%c)"
+  },
+  "1206": {
+    "Type": 1,
+    "Name": "Cape West of Pickham (%c)"
+  },
+  "1207": {
+    "Type": 1,
+    "Name": "Cape West of Pickham (%c)"
+  },
+  "1208": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1209": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1210": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1211": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1212": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1213": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1214": {
+    "Type": 1,
+    "Name": "Western Argonia (%c)"
+  },
+  "1215": {
+    "Type": 1,
+    "Name": "Western Argonia (%c)"
+  },
+  "1216": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1217": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1218": {
+    "Type": 1,
+    "Name": "Western Argonia (%c)"
+  },
+  "1219": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1220": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1221": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1222": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1223": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1224": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1225": {
+    "Type": 1,
+    "Name": "Eastern Argonia - Beach (%c)"
+  },
+  "1226": {
+    "Type": 1,
+    "Name": "Eastern Argonia - Beach (%c)"
+  },
+  "1227": {
+    "Type": 1,
+    "Name": "Northwest Isle (%c)"
+  },
+  "1228": {
+    "Type": 1,
+    "Name": "Northwest Isle (%c)"
+  },
+  "1229": {
+    "Type": 1,
+    "Name": "Desert (%c)"
+  },
+  "1230": {
+    "Type": 1,
+    "Name": "Desert (%c)"
+  },
+  "1231": {
+    "Type": 1,
+    "Name": "Arcadia Region (%c)"
+  },
+  "1232": {
+    "Type": 1,
+    "Name": "Arcadia Region (%c)"
+  },
+  "1233": {
+    "Type": 1,
+    "Name": "Arcadia Region (%c)"
+  },
+  "1234": {
+    "Type": 1,
+    "Name": "Arcadia Region (%c)"
+  },
+  "1235": {
+    "Type": 1,
+    "Name": "Blizzard Peaks (%c)"
+  },
+  "1236": {
+    "Type": 1,
+    "Name": "Blizzard Peaks (%c)"
+  },
+  "1237": {
+    "Type": 1,
+    "Name": "Blizzard Peaks (%c)"
+  },
+  "1238": {
+    "Type": 1,
+    "Name": "Blizzard Peaks (%c)"
+  },
+  "1239": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1240": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1241": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1242": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1243": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1244": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1245": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1246": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1247": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1248": {
+    "Type": 1,
+    "Name": "Untrodden Groves (%c)"
+  },
+  "1249": {
+    "Type": 1,
+    "Name": "Untrodden Groves (%c)"
+  },
+  "1250": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1251": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1252": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1253": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha - Inlet (%c)"
+  },
+  "1254": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha - Inlet (%c)"
+  },
+  "1255": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1256": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1257": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1258": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1259": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1260": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1261": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1262": {
+    "Type": 1,
+    "Name": "Kingdom of Trodain (%c)"
+  },
+  "1263": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1264": {
+    "Type": 1,
+    "Name": "Farebury Region (%c)"
+  },
+  "1265": {
+    "Type": 1,
+    "Name": "Alexandria Region (%c)"
+  },
+  "1266": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1267": {
+    "Type": 1,
+    "Name": "Maella Region (%c)"
+  },
+  "1268": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1269": {
+    "Type": 1,
+    "Name": "Kingdom of Ascantha (%c)"
+  },
+  "1270": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1271": {
+    "Type": 1,
+    "Name": "Pickham Region (%c)"
+  },
+  "1272": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1273": {
+    "Type": 1,
+    "Name": "Baccarat Region (%c)"
+  },
+  "1274": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1275": {
+    "Type": 1,
+    "Name": "Eastern Argonia (%c)"
+  },
+  "1276": {
+    "Type": 1,
+    "Name": "Western Argonia (%c)"
+  },
+  "1277": {
+    "Type": 1,
+    "Name": "Desert (%c)"
+  },
+  "1278": {
+    "Type": 1,
+    "Name": "Desert (%c)"
+  },
+  "1279": {
+    "Type": 1,
+    "Name": "Arcadia Region (%c)"
+  },
+  "1280": {
+    "Type": 1,
+    "Name": "Arcadia Region (%c)"
+  },
+  "1281": {
+    "Type": 1,
+    "Name": "Blizzard Peaks (%c)"
+  },
+  "1282": {
+    "Type": 1,
+    "Name": "Holy Isle of Neos (%c)"
+  },
+  "1283": {
+    "Type": 1,
+    "Name": "Northwest Isle (%c)"
+  },
+  "1284": {
+    "Type": 1,
+    "Name": "Isolated Plateau (%c)"
+  },
+  "1285": {
+    "Type": 1,
+    "Name": "Savella Area (%c)"
+  },
+  "1286": {
+    "Type": 1,
+    "Name": "Untrodden Groves (%c)"
+  },
+  "1287": {
+    "Type": 1,
+    "Name": "World of Darkness (%c)"
+  },
+  "1288": {
+    "Type": 1,
+    "Name": "Princess Minnie's Island (%c)"
+  },
+  "1289": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1290": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1291": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1292": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1293": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1294": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Pot)"
+  },
+  "1295": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Pot)"
+  },
+  "1296": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Sack)"
+  },
+  "1297": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Sack)"
+  },
+  "1298": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Bookshelf)"
+  },
+  "1299": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Bookshelf)"
+  },
+  "1300": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Cabinet)"
+  },
+  "1301": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Bookshelf)"
+  },
+  "1302": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (%c)"
+  },
+  "1303": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (%c)"
+  },
+  "1304": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Bookshelf)"
+  },
+  "1305": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Bookshelf)"
+  },
+  "1306": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Bookshelf)"
+  },
+  "1307": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Cabinet)"
+  },
+  "1308": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Cabinet)"
+  },
+  "1309": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Cabinet)"
+  },
+  "1310": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Cabinet)"
+  },
+  "1311": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Cabinet)"
+  },
+  "1312": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1313": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1314": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1315": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1316": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Barrel)"
+  },
+  "1317": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Pot)"
+  },
+  "1318": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Pot)"
+  },
+  "1319": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (Pot)"
+  },
+  "1320": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (%c)"
+  },
+  "1321": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (%c)"
+  },
+  "1322": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (%c)"
+  },
+  "1323": {
+    "Type": 1,
+    "Name": "Castle Trodain - Restored (%c)"
+  },
+  "1324": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 2 (%c)"
+  },
+  "1325": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 2 (%c)"
+  },
+  "1326": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 3 (%c)"
+  },
+  "1327": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 3 (%c)"
+  },
+  "1328": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 4 (%c)"
+  },
+  "1329": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 4 (%c)"
+  },
+  "1330": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 6 (%c)"
+  },
+  "1331": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 6 (%c)"
+  },
+  "1332": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 5 (%c)"
+  },
+  "1333": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 5 (%c)"
+  },
+  "1334": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 7 (%c)"
+  },
+  "1335": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 7 (%c)"
+  },
+  "1336": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 8 (%c)"
+  },
+  "1337": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 8 (%c)"
+  },
+  "1338": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 10 (%c)"
+  },
+  "1339": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 10 (%c)"
+  },
+  "1340": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 11 (%c)"
+  },
+  "1341": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 11 (%c)"
+  },
+  "1342": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 9 (%c)"
+  },
+  "1343": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 9 (%c)"
+  },
+  "1344": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 12 (%c)"
+  },
+  "1345": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 12 (%c)"
+  },
+  "1346": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 14 (%c)"
+  },
+  "1347": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 14 (%c)"
+  },
+  "1348": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 13 (%c)"
+  },
+  "1349": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 13 (%c)"
+  },
+  "1350": {
+    "Type": 1,
+    "Name": "Memories Lane - Final Corridor (%c)"
+  },
+  "1351": {
+    "Type": 1,
+    "Name": "Memories Lane - Final Corridor (%c)"
+  },
+  "1352": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 2 (%c)"
+  },
+  "1353": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 3 (%c)"
+  },
+  "1354": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 5 (%c)"
+  },
+  "1355": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 6 (%c)"
+  },
+  "1356": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 7 (%c)"
+  },
+  "1357": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 9 (%c)"
+  },
+  "1358": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 10 (%c)"
+  },
+  "1359": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 11 (%c)"
+  },
+  "1360": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 13 (%c)"
+  },
+  "1361": {
+    "Type": 1,
+    "Name": "Memories Lane - Corridor 14 (%c)"
+  },
+  "1362": {
+    "Type": 1,
+    "Name": "Memories Lane - Shortcut 1 (%c)"
+  },
+  "1363": {
+    "Type": 1,
+    "Name": "Memories Lane - Shortcut 2 (%c)"
+  },
+  "1364": {
+    "Type": 1,
+    "Name": "Wooded Opening (Barrel)"
+  },
+  "1365": {
+    "Type": 1,
+    "Name": "Wooded Opening (Barrel)"
+  }
+}

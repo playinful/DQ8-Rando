@@ -1,0 +1,326 @@
+{
+  "0": {
+    "ID": 0,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Farebury Item Shop"
+  },
+  "1": {
+    "ID": 1,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Farebury Weapon Shop"
+  },
+  "2": {
+    "ID": 2,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Farebury Armour Shop"
+  },
+  "3": {
+    "ID": 3,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Alexandria Weapon Shop"
+  },
+  "4": {
+    "ID": 4,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Alexandria Armour Shop"
+  },
+  "5": {
+    "ID": 5,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Port Prospect Item Shop"
+  },
+  "6": {
+    "ID": 6,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Port Prospect Equipment Shop"
+  },
+  "7": {
+    "ID": 7,
+    "DoEdit": false,
+    "Parent": null,
+    "Name": "Empty Empty"
+  },
+  "8": {
+    "ID": 8,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Peregrin Quay Item Shop (NW)"
+  },
+  "9": {
+    "ID": 9,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Peregrin Quay Weapon Shop"
+  },
+  "10": {
+    "ID": 10,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Peregrin Quay Armour Shop"
+  },
+  "11": {
+    "ID": 11,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Simpleton Item Shop"
+  },
+  "12": {
+    "ID": 12,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Simpleton Weapon Shop"
+  },
+  "13": {
+    "ID": 13,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Ascantha Item Shop"
+  },
+  "14": {
+    "ID": 14,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Ascantha Weapon Shop"
+  },
+  "15": {
+    "ID": 15,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Ascantha Armour Shop"
+  },
+  "16": {
+    "ID": 16,
+    "DoEdit": false,
+    "Parent": null,
+    "Name": "Unused Unused"
+  },
+  "17": {
+    "ID": 17,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Pickham Armour Shop"
+  },
+  "18": {
+    "ID": 18,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Pickham Weapon Shop"
+  },
+  "19": {
+    "ID": 19,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Pickham Item Shop"
+  },
+  "20": {
+    "ID": 20,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Baccarat Equipment Shop"
+  },
+  "21": {
+    "ID": 21,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Baccarat Item Shop"
+  },
+  "22": {
+    "ID": 22,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Princess Minnie's Castle Item Shop"
+  },
+  "23": {
+    "ID": 23,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Neos Item Shop"
+  },
+  "24": {
+    "ID": 24,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Neos Weapon Shop"
+  },
+  "25": {
+    "ID": 25,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Neos Armour Shop"
+  },
+  "26": {
+    "ID": 26,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Equipment Shop"
+  },
+  "27": {
+    "ID": 27,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Item Shop"
+  },
+  "28": {
+    "ID": 28,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Bazaar: Accessory Shop"
+  },
+  "29": {
+    "ID": 29,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Bazaar: Weapon Shop"
+  },
+  "30": {
+    "ID": 30,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Bazaar: Armour Shop"
+  },
+  "31": {
+    "ID": 31,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Bazaar: Shady Shop"
+  },
+  "32": {
+    "ID": 32,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Argonia Bazaar: Cheese Shop"
+  },
+  "33": {
+    "ID": 33,
+    "DoEdit": true,
+    "Parent": 52,
+    "Name": "Orkutsk Item Shop (before Baumren's bell)"
+  },
+  "34": {
+    "ID": 34,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Orkutsk Armour Shop"
+  },
+  "35": {
+    "ID": 35,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Orkutsk Weapon Shop"
+  },
+  "36": {
+    "ID": 36,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Arcadia Item Shop"
+  },
+  "37": {
+    "ID": 37,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Arcadia Armour Shop"
+  },
+  "38": {
+    "ID": 38,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Arcadia Weapon Shop"
+  },
+  "39": {
+    "ID": 39,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Empycchu Item Shop"
+  },
+  "40": {
+    "ID": 40,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Dark Empycchu Item Shop"
+  },
+  "41": {
+    "ID": 41,
+    "DoEdit": true,
+    "Parent": 53,
+    "Name": "Tryan Gully Item Shop (before Baumren's bell)"
+  },
+  "42": {
+    "ID": 42,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Tryan Gully Weapon Shop"
+  },
+  "43": {
+    "ID": 43,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Tryan Gully Armour Shop"
+  },
+  "44": {
+    "ID": 44,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Peregrin Quay Item Shop (SE)"
+  },
+  "45": {
+    "ID": 45,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Church to the west of Trodain Item Shop"
+  },
+  "46": {
+    "ID": 46,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Desert Chapel Item Shop"
+  },
+  "47": {
+    "ID": 47,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Savella Cathedral Weapon Shop"
+  },
+  "48": {
+    "ID": 48,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Savella Cathedral Item Shop"
+  },
+  "49": {
+    "ID": 49,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Savella Cathedral Armour Shop"
+  },
+  "50": {
+    "ID": 50,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Dragovian Sanctuary Item Shop"
+  },
+  "51": {
+    "ID": 51,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Peddlers' Tent Item Shop"
+  },
+  "52": {
+    "ID": 52,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Orkutsk Item Shop"
+  },
+  "53": {
+    "ID": 53,
+    "DoEdit": true,
+    "Parent": null,
+    "Name": "Tryan Gully Item Shop"
+  }
+}

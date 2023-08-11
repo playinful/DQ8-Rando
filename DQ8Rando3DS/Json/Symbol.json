@@ -1,0 +1,2678 @@
+{
+  "0": {
+    "ID": 0,
+    "CanSpawn": false
+  },
+  "1": {
+    "ID": 1,
+    "CanSpawn": true
+  },
+  "2": {
+    "ID": 2,
+    "CanSpawn": true
+  },
+  "3": {
+    "ID": 3,
+    "CanSpawn": true
+  },
+  "4": {
+    "ID": 4,
+    "CanSpawn": true
+  },
+  "5": {
+    "ID": 5,
+    "CanSpawn": true
+  },
+  "6": {
+    "ID": 6,
+    "CanSpawn": true
+  },
+  "7": {
+    "ID": 7,
+    "CanSpawn": true
+  },
+  "8": {
+    "ID": 8,
+    "CanSpawn": true
+  },
+  "9": {
+    "ID": 9,
+    "CanSpawn": true
+  },
+  "10": {
+    "ID": 10,
+    "CanSpawn": true
+  },
+  "11": {
+    "ID": 11,
+    "CanSpawn": true
+  },
+  "12": {
+    "ID": 12,
+    "CanSpawn": true
+  },
+  "13": {
+    "ID": 13,
+    "CanSpawn": true
+  },
+  "14": {
+    "ID": 14,
+    "CanSpawn": true
+  },
+  "15": {
+    "ID": 15,
+    "CanSpawn": true
+  },
+  "16": {
+    "ID": 16,
+    "CanSpawn": true
+  },
+  "17": {
+    "ID": 17,
+    "CanSpawn": true
+  },
+  "18": {
+    "ID": 18,
+    "CanSpawn": true
+  },
+  "19": {
+    "ID": 19,
+    "CanSpawn": true
+  },
+  "20": {
+    "ID": 20,
+    "CanSpawn": true
+  },
+  "21": {
+    "ID": 21,
+    "CanSpawn": true
+  },
+  "22": {
+    "ID": 22,
+    "CanSpawn": true
+  },
+  "23": {
+    "ID": 23,
+    "CanSpawn": true
+  },
+  "24": {
+    "ID": 24,
+    "CanSpawn": true
+  },
+  "25": {
+    "ID": 25,
+    "CanSpawn": true
+  },
+  "26": {
+    "ID": 26,
+    "CanSpawn": true
+  },
+  "27": {
+    "ID": 27,
+    "CanSpawn": true
+  },
+  "28": {
+    "ID": 28,
+    "CanSpawn": true
+  },
+  "29": {
+    "ID": 29,
+    "CanSpawn": true
+  },
+  "30": {
+    "ID": 30,
+    "CanSpawn": true
+  },
+  "31": {
+    "ID": 31,
+    "CanSpawn": true
+  },
+  "32": {
+    "ID": 32,
+    "CanSpawn": true
+  },
+  "33": {
+    "ID": 33,
+    "CanSpawn": true
+  },
+  "34": {
+    "ID": 34,
+    "CanSpawn": true
+  },
+  "35": {
+    "ID": 35,
+    "CanSpawn": true
+  },
+  "36": {
+    "ID": 36,
+    "CanSpawn": true
+  },
+  "37": {
+    "ID": 37,
+    "CanSpawn": true
+  },
+  "38": {
+    "ID": 38,
+    "CanSpawn": true
+  },
+  "39": {
+    "ID": 39,
+    "CanSpawn": true
+  },
+  "40": {
+    "ID": 40,
+    "CanSpawn": true
+  },
+  "41": {
+    "ID": 41,
+    "CanSpawn": true
+  },
+  "42": {
+    "ID": 42,
+    "CanSpawn": true
+  },
+  "43": {
+    "ID": 43,
+    "CanSpawn": true
+  },
+  "44": {
+    "ID": 44,
+    "CanSpawn": true
+  },
+  "45": {
+    "ID": 45,
+    "CanSpawn": true
+  },
+  "46": {
+    "ID": 46,
+    "CanSpawn": true
+  },
+  "47": {
+    "ID": 47,
+    "CanSpawn": true
+  },
+  "48": {
+    "ID": 48,
+    "CanSpawn": true
+  },
+  "49": {
+    "ID": 49,
+    "CanSpawn": true
+  },
+  "50": {
+    "ID": 50,
+    "CanSpawn": true
+  },
+  "51": {
+    "ID": 51,
+    "CanSpawn": true
+  },
+  "52": {
+    "ID": 52,
+    "CanSpawn": true
+  },
+  "53": {
+    "ID": 53,
+    "CanSpawn": true
+  },
+  "54": {
+    "ID": 54,
+    "CanSpawn": true
+  },
+  "55": {
+    "ID": 55,
+    "CanSpawn": true
+  },
+  "56": {
+    "ID": 56,
+    "CanSpawn": true
+  },
+  "57": {
+    "ID": 57,
+    "CanSpawn": true
+  },
+  "58": {
+    "ID": 58,
+    "CanSpawn": true
+  },
+  "59": {
+    "ID": 59,
+    "CanSpawn": true
+  },
+  "60": {
+    "ID": 60,
+    "CanSpawn": true
+  },
+  "61": {
+    "ID": 61,
+    "CanSpawn": true
+  },
+  "62": {
+    "ID": 62,
+    "CanSpawn": true
+  },
+  "63": {
+    "ID": 63,
+    "CanSpawn": true
+  },
+  "64": {
+    "ID": 64,
+    "CanSpawn": true
+  },
+  "65": {
+    "ID": 65,
+    "CanSpawn": true
+  },
+  "66": {
+    "ID": 66,
+    "CanSpawn": true
+  },
+  "67": {
+    "ID": 67,
+    "CanSpawn": true
+  },
+  "68": {
+    "ID": 68,
+    "CanSpawn": true
+  },
+  "69": {
+    "ID": 69,
+    "CanSpawn": true
+  },
+  "70": {
+    "ID": 70,
+    "CanSpawn": true
+  },
+  "71": {
+    "ID": 71,
+    "CanSpawn": true
+  },
+  "72": {
+    "ID": 72,
+    "CanSpawn": true
+  },
+  "73": {
+    "ID": 73,
+    "CanSpawn": true
+  },
+  "74": {
+    "ID": 74,
+    "CanSpawn": true
+  },
+  "75": {
+    "ID": 75,
+    "CanSpawn": true
+  },
+  "76": {
+    "ID": 76,
+    "CanSpawn": true
+  },
+  "77": {
+    "ID": 77,
+    "CanSpawn": true
+  },
+  "78": {
+    "ID": 78,
+    "CanSpawn": true
+  },
+  "79": {
+    "ID": 79,
+    "CanSpawn": true
+  },
+  "80": {
+    "ID": 80,
+    "CanSpawn": true
+  },
+  "81": {
+    "ID": 81,
+    "CanSpawn": true
+  },
+  "82": {
+    "ID": 82,
+    "CanSpawn": true
+  },
+  "83": {
+    "ID": 83,
+    "CanSpawn": true
+  },
+  "84": {
+    "ID": 84,
+    "CanSpawn": true
+  },
+  "85": {
+    "ID": 85,
+    "CanSpawn": true
+  },
+  "86": {
+    "ID": 86,
+    "CanSpawn": true
+  },
+  "87": {
+    "ID": 87,
+    "CanSpawn": true
+  },
+  "88": {
+    "ID": 88,
+    "CanSpawn": true
+  },
+  "89": {
+    "ID": 89,
+    "CanSpawn": true
+  },
+  "90": {
+    "ID": 90,
+    "CanSpawn": true
+  },
+  "91": {
+    "ID": 91,
+    "CanSpawn": true
+  },
+  "92": {
+    "ID": 92,
+    "CanSpawn": true
+  },
+  "93": {
+    "ID": 93,
+    "CanSpawn": true
+  },
+  "94": {
+    "ID": 94,
+    "CanSpawn": true
+  },
+  "95": {
+    "ID": 95,
+    "CanSpawn": true
+  },
+  "96": {
+    "ID": 96,
+    "CanSpawn": true
+  },
+  "97": {
+    "ID": 97,
+    "CanSpawn": true
+  },
+  "98": {
+    "ID": 98,
+    "CanSpawn": true
+  },
+  "99": {
+    "ID": 99,
+    "CanSpawn": true
+  },
+  "100": {
+    "ID": 100,
+    "CanSpawn": true
+  },
+  "101": {
+    "ID": 101,
+    "CanSpawn": true
+  },
+  "102": {
+    "ID": 102,
+    "CanSpawn": true
+  },
+  "103": {
+    "ID": 103,
+    "CanSpawn": true
+  },
+  "104": {
+    "ID": 104,
+    "CanSpawn": true
+  },
+  "105": {
+    "ID": 105,
+    "CanSpawn": true
+  },
+  "106": {
+    "ID": 106,
+    "CanSpawn": true
+  },
+  "107": {
+    "ID": 107,
+    "CanSpawn": true
+  },
+  "108": {
+    "ID": 108,
+    "CanSpawn": true
+  },
+  "109": {
+    "ID": 109,
+    "CanSpawn": true
+  },
+  "110": {
+    "ID": 110,
+    "CanSpawn": true
+  },
+  "111": {
+    "ID": 111,
+    "CanSpawn": true
+  },
+  "112": {
+    "ID": 112,
+    "CanSpawn": true
+  },
+  "113": {
+    "ID": 113,
+    "CanSpawn": true
+  },
+  "114": {
+    "ID": 114,
+    "CanSpawn": true
+  },
+  "115": {
+    "ID": 115,
+    "CanSpawn": true
+  },
+  "116": {
+    "ID": 116,
+    "CanSpawn": true
+  },
+  "117": {
+    "ID": 117,
+    "CanSpawn": true
+  },
+  "118": {
+    "ID": 118,
+    "CanSpawn": true
+  },
+  "119": {
+    "ID": 119,
+    "CanSpawn": true
+  },
+  "120": {
+    "ID": 120,
+    "CanSpawn": true
+  },
+  "121": {
+    "ID": 121,
+    "CanSpawn": true
+  },
+  "122": {
+    "ID": 122,
+    "CanSpawn": true
+  },
+  "123": {
+    "ID": 123,
+    "CanSpawn": true
+  },
+  "124": {
+    "ID": 124,
+    "CanSpawn": true
+  },
+  "125": {
+    "ID": 125,
+    "CanSpawn": true
+  },
+  "126": {
+    "ID": 126,
+    "CanSpawn": true
+  },
+  "127": {
+    "ID": 127,
+    "CanSpawn": true
+  },
+  "128": {
+    "ID": 128,
+    "CanSpawn": true
+  },
+  "129": {
+    "ID": 129,
+    "CanSpawn": true
+  },
+  "130": {
+    "ID": 130,
+    "CanSpawn": true
+  },
+  "131": {
+    "ID": 131,
+    "CanSpawn": true
+  },
+  "132": {
+    "ID": 132,
+    "CanSpawn": true
+  },
+  "133": {
+    "ID": 133,
+    "CanSpawn": true
+  },
+  "134": {
+    "ID": 134,
+    "CanSpawn": true
+  },
+  "135": {
+    "ID": 135,
+    "CanSpawn": true
+  },
+  "136": {
+    "ID": 136,
+    "CanSpawn": true
+  },
+  "137": {
+    "ID": 137,
+    "CanSpawn": true
+  },
+  "138": {
+    "ID": 138,
+    "CanSpawn": true
+  },
+  "139": {
+    "ID": 139,
+    "CanSpawn": true
+  },
+  "140": {
+    "ID": 140,
+    "CanSpawn": true
+  },
+  "141": {
+    "ID": 141,
+    "CanSpawn": true
+  },
+  "142": {
+    "ID": 142,
+    "CanSpawn": true
+  },
+  "143": {
+    "ID": 143,
+    "CanSpawn": true
+  },
+  "144": {
+    "ID": 144,
+    "CanSpawn": true
+  },
+  "145": {
+    "ID": 145,
+    "CanSpawn": true
+  },
+  "146": {
+    "ID": 146,
+    "CanSpawn": true
+  },
+  "147": {
+    "ID": 147,
+    "CanSpawn": true
+  },
+  "148": {
+    "ID": 148,
+    "CanSpawn": true
+  },
+  "149": {
+    "ID": 149,
+    "CanSpawn": true
+  },
+  "150": {
+    "ID": 150,
+    "CanSpawn": true
+  },
+  "151": {
+    "ID": 151,
+    "CanSpawn": true
+  },
+  "152": {
+    "ID": 152,
+    "CanSpawn": true
+  },
+  "153": {
+    "ID": 153,
+    "CanSpawn": true
+  },
+  "154": {
+    "ID": 154,
+    "CanSpawn": true
+  },
+  "155": {
+    "ID": 155,
+    "CanSpawn": true
+  },
+  "156": {
+    "ID": 156,
+    "CanSpawn": true
+  },
+  "157": {
+    "ID": 157,
+    "CanSpawn": true
+  },
+  "158": {
+    "ID": 158,
+    "CanSpawn": true
+  },
+  "159": {
+    "ID": 159,
+    "CanSpawn": true
+  },
+  "160": {
+    "ID": 160,
+    "CanSpawn": true
+  },
+  "161": {
+    "ID": 161,
+    "CanSpawn": true
+  },
+  "162": {
+    "ID": 162,
+    "CanSpawn": true
+  },
+  "163": {
+    "ID": 163,
+    "CanSpawn": true
+  },
+  "164": {
+    "ID": 164,
+    "CanSpawn": true
+  },
+  "165": {
+    "ID": 165,
+    "CanSpawn": true
+  },
+  "166": {
+    "ID": 166,
+    "CanSpawn": true
+  },
+  "167": {
+    "ID": 167,
+    "CanSpawn": true
+  },
+  "168": {
+    "ID": 168,
+    "CanSpawn": true
+  },
+  "169": {
+    "ID": 169,
+    "CanSpawn": true
+  },
+  "170": {
+    "ID": 170,
+    "CanSpawn": true
+  },
+  "171": {
+    "ID": 171,
+    "CanSpawn": true
+  },
+  "172": {
+    "ID": 172,
+    "CanSpawn": true
+  },
+  "173": {
+    "ID": 173,
+    "CanSpawn": true
+  },
+  "174": {
+    "ID": 174,
+    "CanSpawn": true
+  },
+  "175": {
+    "ID": 175,
+    "CanSpawn": true
+  },
+  "176": {
+    "ID": 176,
+    "CanSpawn": true
+  },
+  "177": {
+    "ID": 177,
+    "CanSpawn": true
+  },
+  "178": {
+    "ID": 178,
+    "CanSpawn": true
+  },
+  "179": {
+    "ID": 179,
+    "CanSpawn": true
+  },
+  "180": {
+    "ID": 180,
+    "CanSpawn": true
+  },
+  "181": {
+    "ID": 181,
+    "CanSpawn": true
+  },
+  "182": {
+    "ID": 182,
+    "CanSpawn": true
+  },
+  "183": {
+    "ID": 183,
+    "CanSpawn": true
+  },
+  "184": {
+    "ID": 184,
+    "CanSpawn": true
+  },
+  "185": {
+    "ID": 185,
+    "CanSpawn": true
+  },
+  "186": {
+    "ID": 186,
+    "CanSpawn": true
+  },
+  "187": {
+    "ID": 187,
+    "CanSpawn": true
+  },
+  "188": {
+    "ID": 188,
+    "CanSpawn": true
+  },
+  "189": {
+    "ID": 189,
+    "CanSpawn": true
+  },
+  "190": {
+    "ID": 190,
+    "CanSpawn": true
+  },
+  "191": {
+    "ID": 191,
+    "CanSpawn": true
+  },
+  "192": {
+    "ID": 192,
+    "CanSpawn": true
+  },
+  "193": {
+    "ID": 193,
+    "CanSpawn": true
+  },
+  "194": {
+    "ID": 194,
+    "CanSpawn": true
+  },
+  "195": {
+    "ID": 195,
+    "CanSpawn": true
+  },
+  "196": {
+    "ID": 196,
+    "CanSpawn": true
+  },
+  "197": {
+    "ID": 197,
+    "CanSpawn": true
+  },
+  "198": {
+    "ID": 198,
+    "CanSpawn": true
+  },
+  "199": {
+    "ID": 199,
+    "CanSpawn": true
+  },
+  "200": {
+    "ID": 200,
+    "CanSpawn": true
+  },
+  "201": {
+    "ID": 201,
+    "CanSpawn": true
+  },
+  "202": {
+    "ID": 202,
+    "CanSpawn": true
+  },
+  "203": {
+    "ID": 203,
+    "CanSpawn": false
+  },
+  "204": {
+    "ID": 204,
+    "CanSpawn": false
+  },
+  "205": {
+    "ID": 205,
+    "CanSpawn": false
+  },
+  "206": {
+    "ID": 206,
+    "CanSpawn": false
+  },
+  "207": {
+    "ID": 207,
+    "CanSpawn": false
+  },
+  "208": {
+    "ID": 208,
+    "CanSpawn": false
+  },
+  "209": {
+    "ID": 209,
+    "CanSpawn": false
+  },
+  "210": {
+    "ID": 210,
+    "CanSpawn": false
+  },
+  "211": {
+    "ID": 211,
+    "CanSpawn": true
+  },
+  "212": {
+    "ID": 212,
+    "CanSpawn": false
+  },
+  "213": {
+    "ID": 213,
+    "CanSpawn": true
+  },
+  "214": {
+    "ID": 214,
+    "CanSpawn": false
+  },
+  "215": {
+    "ID": 215,
+    "CanSpawn": true
+  },
+  "216": {
+    "ID": 216,
+    "CanSpawn": true
+  },
+  "217": {
+    "ID": 217,
+    "CanSpawn": true
+  },
+  "218": {
+    "ID": 218,
+    "CanSpawn": true
+  },
+  "219": {
+    "ID": 219,
+    "CanSpawn": true
+  },
+  "220": {
+    "ID": 220,
+    "CanSpawn": true
+  },
+  "221": {
+    "ID": 221,
+    "CanSpawn": true
+  },
+  "222": {
+    "ID": 222,
+    "CanSpawn": true
+  },
+  "223": {
+    "ID": 223,
+    "CanSpawn": true
+  },
+  "224": {
+    "ID": 224,
+    "CanSpawn": true
+  },
+  "225": {
+    "ID": 225,
+    "CanSpawn": true
+  },
+  "226": {
+    "ID": 226,
+    "CanSpawn": true
+  },
+  "227": {
+    "ID": 227,
+    "CanSpawn": true
+  },
+  "228": {
+    "ID": 228,
+    "CanSpawn": true
+  },
+  "229": {
+    "ID": 229,
+    "CanSpawn": true
+  },
+  "230": {
+    "ID": 230,
+    "CanSpawn": true
+  },
+  "231": {
+    "ID": 231,
+    "CanSpawn": true
+  },
+  "232": {
+    "ID": 232,
+    "CanSpawn": true
+  },
+  "233": {
+    "ID": 233,
+    "CanSpawn": true
+  },
+  "234": {
+    "ID": 234,
+    "CanSpawn": true
+  },
+  "235": {
+    "ID": 235,
+    "CanSpawn": true
+  },
+  "236": {
+    "ID": 236,
+    "CanSpawn": true
+  },
+  "237": {
+    "ID": 237,
+    "CanSpawn": true
+  },
+  "238": {
+    "ID": 238,
+    "CanSpawn": false
+  },
+  "239": {
+    "ID": 239,
+    "CanSpawn": false
+  },
+  "240": {
+    "ID": 240,
+    "CanSpawn": false
+  },
+  "241": {
+    "ID": 241,
+    "CanSpawn": true
+  },
+  "242": {
+    "ID": 242,
+    "CanSpawn": true
+  },
+  "243": {
+    "ID": 243,
+    "CanSpawn": true
+  },
+  "244": {
+    "ID": 244,
+    "CanSpawn": false
+  },
+  "245": {
+    "ID": 245,
+    "CanSpawn": true
+  },
+  "246": {
+    "ID": 246,
+    "CanSpawn": true
+  },
+  "247": {
+    "ID": 247,
+    "CanSpawn": true
+  },
+  "248": {
+    "ID": 248,
+    "CanSpawn": true
+  },
+  "249": {
+    "ID": 249,
+    "CanSpawn": true
+  },
+  "250": {
+    "ID": 250,
+    "CanSpawn": true
+  },
+  "251": {
+    "ID": 251,
+    "CanSpawn": true
+  },
+  "252": {
+    "ID": 252,
+    "CanSpawn": true
+  },
+  "253": {
+    "ID": 253,
+    "CanSpawn": true
+  },
+  "254": {
+    "ID": 254,
+    "CanSpawn": true
+  },
+  "255": {
+    "ID": 255,
+    "CanSpawn": true
+  },
+  "256": {
+    "ID": 256,
+    "CanSpawn": true
+  },
+  "257": {
+    "ID": 257,
+    "CanSpawn": true
+  },
+  "258": {
+    "ID": 258,
+    "CanSpawn": true
+  },
+  "259": {
+    "ID": 259,
+    "CanSpawn": true
+  },
+  "260": {
+    "ID": 260,
+    "CanSpawn": true
+  },
+  "261": {
+    "ID": 261,
+    "CanSpawn": true
+  },
+  "262": {
+    "ID": 262,
+    "CanSpawn": true
+  },
+  "263": {
+    "ID": 263,
+    "CanSpawn": true
+  },
+  "264": {
+    "ID": 264,
+    "CanSpawn": true
+  },
+  "265": {
+    "ID": 265,
+    "CanSpawn": false
+  },
+  "266": {
+    "ID": 266,
+    "CanSpawn": false
+  },
+  "267": {
+    "ID": 267,
+    "CanSpawn": false
+  },
+  "268": {
+    "ID": 268,
+    "CanSpawn": false
+  },
+  "269": {
+    "ID": 269,
+    "CanSpawn": false
+  },
+  "270": {
+    "ID": 270,
+    "CanSpawn": false
+  },
+  "271": {
+    "ID": 271,
+    "CanSpawn": true
+  },
+  "272": {
+    "ID": 272,
+    "CanSpawn": false
+  },
+  "273": {
+    "ID": 273,
+    "CanSpawn": true
+  },
+  "274": {
+    "ID": 274,
+    "CanSpawn": true
+  },
+  "275": {
+    "ID": 275,
+    "CanSpawn": true
+  },
+  "276": {
+    "ID": 276,
+    "CanSpawn": true
+  },
+  "277": {
+    "ID": 277,
+    "CanSpawn": false
+  },
+  "278": {
+    "ID": 278,
+    "CanSpawn": false
+  },
+  "279": {
+    "ID": 279,
+    "CanSpawn": true
+  },
+  "280": {
+    "ID": 280,
+    "CanSpawn": false
+  },
+  "281": {
+    "ID": 281,
+    "CanSpawn": true
+  },
+  "282": {
+    "ID": 282,
+    "CanSpawn": true
+  },
+  "283": {
+    "ID": 283,
+    "CanSpawn": true
+  },
+  "284": {
+    "ID": 284,
+    "CanSpawn": true
+  },
+  "285": {
+    "ID": 285,
+    "CanSpawn": true
+  },
+  "286": {
+    "ID": 286,
+    "CanSpawn": true
+  },
+  "287": {
+    "ID": 287,
+    "CanSpawn": true
+  },
+  "288": {
+    "ID": 288,
+    "CanSpawn": true
+  },
+  "289": {
+    "ID": 289,
+    "CanSpawn": true
+  },
+  "290": {
+    "ID": 290,
+    "CanSpawn": true
+  },
+  "291": {
+    "ID": 291,
+    "CanSpawn": true
+  },
+  "292": {
+    "ID": 292,
+    "CanSpawn": true
+  },
+  "293": {
+    "ID": 293,
+    "CanSpawn": false
+  },
+  "294": {
+    "ID": 294,
+    "CanSpawn": false
+  },
+  "295": {
+    "ID": 295,
+    "CanSpawn": false
+  },
+  "296": {
+    "ID": 296,
+    "CanSpawn": false
+  },
+  "297": {
+    "ID": 297,
+    "CanSpawn": false
+  },
+  "298": {
+    "ID": 298,
+    "CanSpawn": false
+  },
+  "299": {
+    "ID": 299,
+    "CanSpawn": false
+  },
+  "300": {
+    "ID": 300,
+    "CanSpawn": false
+  },
+  "301": {
+    "ID": 301,
+    "CanSpawn": false
+  },
+  "302": {
+    "ID": 302,
+    "CanSpawn": false
+  },
+  "303": {
+    "ID": 303,
+    "CanSpawn": true
+  },
+  "304": {
+    "ID": 304,
+    "CanSpawn": true
+  },
+  "305": {
+    "ID": 305,
+    "CanSpawn": false
+  },
+  "306": {
+    "ID": 306,
+    "CanSpawn": true
+  },
+  "307": {
+    "ID": 307,
+    "CanSpawn": true
+  },
+  "308": {
+    "ID": 308,
+    "CanSpawn": true
+  },
+  "309": {
+    "ID": 309,
+    "CanSpawn": true
+  },
+  "310": {
+    "ID": 310,
+    "CanSpawn": true
+  },
+  "311": {
+    "ID": 311,
+    "CanSpawn": true
+  },
+  "312": {
+    "ID": 312,
+    "CanSpawn": true
+  },
+  "313": {
+    "ID": 313,
+    "CanSpawn": true
+  },
+  "314": {
+    "ID": 314,
+    "CanSpawn": false
+  },
+  "315": {
+    "ID": 315,
+    "CanSpawn": true
+  },
+  "316": {
+    "ID": 316,
+    "CanSpawn": false
+  },
+  "317": {
+    "ID": 317,
+    "CanSpawn": true
+  },
+  "318": {
+    "ID": 318,
+    "CanSpawn": false
+  },
+  "319": {
+    "ID": 319,
+    "CanSpawn": true
+  },
+  "320": {
+    "ID": 320,
+    "CanSpawn": true
+  },
+  "321": {
+    "ID": 321,
+    "CanSpawn": true
+  },
+  "322": {
+    "ID": 322,
+    "CanSpawn": true
+  },
+  "323": {
+    "ID": 323,
+    "CanSpawn": true
+  },
+  "324": {
+    "ID": 324,
+    "CanSpawn": true
+  },
+  "325": {
+    "ID": 325,
+    "CanSpawn": true
+  },
+  "326": {
+    "ID": 326,
+    "CanSpawn": false
+  },
+  "327": {
+    "ID": 327,
+    "CanSpawn": false
+  },
+  "328": {
+    "ID": 328,
+    "CanSpawn": true
+  },
+  "329": {
+    "ID": 329,
+    "CanSpawn": false
+  },
+  "330": {
+    "ID": 330,
+    "CanSpawn": true
+  },
+  "331": {
+    "ID": 331,
+    "CanSpawn": false
+  },
+  "332": {
+    "ID": 332,
+    "CanSpawn": true
+  },
+  "333": {
+    "ID": 333,
+    "CanSpawn": false
+  },
+  "334": {
+    "ID": 334,
+    "CanSpawn": true
+  },
+  "335": {
+    "ID": 335,
+    "CanSpawn": false
+  },
+  "336": {
+    "ID": 336,
+    "CanSpawn": true
+  },
+  "337": {
+    "ID": 337,
+    "CanSpawn": false
+  },
+  "338": {
+    "ID": 338,
+    "CanSpawn": true
+  },
+  "339": {
+    "ID": 339,
+    "CanSpawn": true
+  },
+  "340": {
+    "ID": 340,
+    "CanSpawn": true
+  },
+  "341": {
+    "ID": 341,
+    "CanSpawn": true
+  },
+  "342": {
+    "ID": 342,
+    "CanSpawn": true
+  },
+  "343": {
+    "ID": 343,
+    "CanSpawn": true
+  },
+  "344": {
+    "ID": 344,
+    "CanSpawn": true
+  },
+  "345": {
+    "ID": 345,
+    "CanSpawn": true
+  },
+  "346": {
+    "ID": 346,
+    "CanSpawn": true
+  },
+  "347": {
+    "ID": 347,
+    "CanSpawn": false
+  },
+  "348": {
+    "ID": 348,
+    "CanSpawn": false
+  },
+  "349": {
+    "ID": 349,
+    "CanSpawn": false
+  },
+  "350": {
+    "ID": 350,
+    "CanSpawn": false
+  },
+  "351": {
+    "ID": 351,
+    "CanSpawn": false
+  },
+  "352": {
+    "ID": 352,
+    "CanSpawn": true
+  },
+  "353": {
+    "ID": 353,
+    "CanSpawn": false
+  },
+  "354": {
+    "ID": 354,
+    "CanSpawn": false
+  },
+  "355": {
+    "ID": 355,
+    "CanSpawn": false
+  },
+  "356": {
+    "ID": 356,
+    "CanSpawn": true
+  },
+  "357": {
+    "ID": 357,
+    "CanSpawn": true
+  },
+  "358": {
+    "ID": 358,
+    "CanSpawn": false
+  },
+  "359": {
+    "ID": 359,
+    "CanSpawn": false
+  },
+  "360": {
+    "ID": 360,
+    "CanSpawn": false
+  },
+  "363": {
+    "ID": 363,
+    "CanSpawn": false
+  },
+  "366": {
+    "ID": 366,
+    "CanSpawn": false
+  },
+  "369": {
+    "ID": 369,
+    "CanSpawn": false
+  },
+  "372": {
+    "ID": 372,
+    "CanSpawn": false
+  },
+  "375": {
+    "ID": 375,
+    "CanSpawn": true
+  },
+  "378": {
+    "ID": 378,
+    "CanSpawn": true
+  },
+  "381": {
+    "ID": 381,
+    "CanSpawn": true
+  },
+  "384": {
+    "ID": 384,
+    "CanSpawn": true
+  },
+  "387": {
+    "ID": 387,
+    "CanSpawn": true
+  },
+  "390": {
+    "ID": 390,
+    "CanSpawn": true
+  },
+  "393": {
+    "ID": 393,
+    "CanSpawn": true
+  },
+  "395": {
+    "ID": 395,
+    "CanSpawn": true
+  },
+  "396": {
+    "ID": 396,
+    "CanSpawn": true
+  },
+  "401": {
+    "ID": 401,
+    "CanSpawn": true
+  },
+  "501": {
+    "ID": 501,
+    "CanSpawn": true
+  },
+  "502": {
+    "ID": 502,
+    "CanSpawn": true
+  },
+  "503": {
+    "ID": 503,
+    "CanSpawn": true
+  },
+  "504": {
+    "ID": 504,
+    "CanSpawn": true
+  },
+  "505": {
+    "ID": 505,
+    "CanSpawn": true
+  },
+  "506": {
+    "ID": 506,
+    "CanSpawn": true
+  },
+  "507": {
+    "ID": 507,
+    "CanSpawn": true
+  },
+  "508": {
+    "ID": 508,
+    "CanSpawn": true
+  },
+  "509": {
+    "ID": 509,
+    "CanSpawn": true
+  },
+  "510": {
+    "ID": 510,
+    "CanSpawn": true
+  },
+  "511": {
+    "ID": 511,
+    "CanSpawn": true
+  },
+  "512": {
+    "ID": 512,
+    "CanSpawn": true
+  },
+  "513": {
+    "ID": 513,
+    "CanSpawn": true
+  },
+  "514": {
+    "ID": 514,
+    "CanSpawn": true
+  },
+  "515": {
+    "ID": 515,
+    "CanSpawn": true
+  },
+  "516": {
+    "ID": 516,
+    "CanSpawn": true
+  },
+  "517": {
+    "ID": 517,
+    "CanSpawn": true
+  },
+  "518": {
+    "ID": 518,
+    "CanSpawn": true
+  },
+  "519": {
+    "ID": 519,
+    "CanSpawn": true
+  },
+  "520": {
+    "ID": 520,
+    "CanSpawn": true
+  },
+  "521": {
+    "ID": 521,
+    "CanSpawn": true
+  },
+  "522": {
+    "ID": 522,
+    "CanSpawn": true
+  },
+  "523": {
+    "ID": 523,
+    "CanSpawn": true
+  },
+  "524": {
+    "ID": 524,
+    "CanSpawn": true
+  },
+  "525": {
+    "ID": 525,
+    "CanSpawn": true
+  },
+  "526": {
+    "ID": 526,
+    "CanSpawn": true
+  },
+  "527": {
+    "ID": 527,
+    "CanSpawn": true
+  },
+  "528": {
+    "ID": 528,
+    "CanSpawn": true
+  },
+  "529": {
+    "ID": 529,
+    "CanSpawn": true
+  },
+  "530": {
+    "ID": 530,
+    "CanSpawn": true
+  },
+  "531": {
+    "ID": 531,
+    "CanSpawn": true
+  },
+  "532": {
+    "ID": 532,
+    "CanSpawn": true
+  },
+  "533": {
+    "ID": 533,
+    "CanSpawn": true
+  },
+  "534": {
+    "ID": 534,
+    "CanSpawn": true
+  },
+  "535": {
+    "ID": 535,
+    "CanSpawn": true
+  },
+  "536": {
+    "ID": 536,
+    "CanSpawn": true
+  },
+  "537": {
+    "ID": 537,
+    "CanSpawn": true
+  },
+  "538": {
+    "ID": 538,
+    "CanSpawn": true
+  },
+  "539": {
+    "ID": 539,
+    "CanSpawn": true
+  },
+  "540": {
+    "ID": 540,
+    "CanSpawn": true
+  },
+  "541": {
+    "ID": 541,
+    "CanSpawn": true
+  },
+  "542": {
+    "ID": 542,
+    "CanSpawn": true
+  },
+  "543": {
+    "ID": 543,
+    "CanSpawn": true
+  },
+  "544": {
+    "ID": 544,
+    "CanSpawn": true
+  },
+  "545": {
+    "ID": 545,
+    "CanSpawn": true
+  },
+  "546": {
+    "ID": 546,
+    "CanSpawn": true
+  },
+  "547": {
+    "ID": 547,
+    "CanSpawn": true
+  },
+  "548": {
+    "ID": 548,
+    "CanSpawn": true
+  },
+  "549": {
+    "ID": 549,
+    "CanSpawn": true
+  },
+  "550": {
+    "ID": 550,
+    "CanSpawn": true
+  },
+  "551": {
+    "ID": 551,
+    "CanSpawn": true
+  },
+  "552": {
+    "ID": 552,
+    "CanSpawn": true
+  },
+  "553": {
+    "ID": 553,
+    "CanSpawn": true
+  },
+  "554": {
+    "ID": 554,
+    "CanSpawn": true
+  },
+  "555": {
+    "ID": 555,
+    "CanSpawn": true
+  },
+  "556": {
+    "ID": 556,
+    "CanSpawn": true
+  },
+  "557": {
+    "ID": 557,
+    "CanSpawn": true
+  },
+  "558": {
+    "ID": 558,
+    "CanSpawn": true
+  },
+  "559": {
+    "ID": 559,
+    "CanSpawn": true
+  },
+  "560": {
+    "ID": 560,
+    "CanSpawn": true
+  },
+  "561": {
+    "ID": 561,
+    "CanSpawn": true
+  },
+  "562": {
+    "ID": 562,
+    "CanSpawn": true
+  },
+  "563": {
+    "ID": 563,
+    "CanSpawn": true
+  },
+  "564": {
+    "ID": 564,
+    "CanSpawn": true
+  },
+  "565": {
+    "ID": 565,
+    "CanSpawn": true
+  },
+  "566": {
+    "ID": 566,
+    "CanSpawn": true
+  },
+  "567": {
+    "ID": 567,
+    "CanSpawn": true
+  },
+  "568": {
+    "ID": 568,
+    "CanSpawn": true
+  },
+  "569": {
+    "ID": 569,
+    "CanSpawn": true
+  },
+  "570": {
+    "ID": 570,
+    "CanSpawn": true
+  },
+  "571": {
+    "ID": 571,
+    "CanSpawn": true
+  },
+  "572": {
+    "ID": 572,
+    "CanSpawn": true
+  },
+  "573": {
+    "ID": 573,
+    "CanSpawn": true
+  },
+  "574": {
+    "ID": 574,
+    "CanSpawn": true
+  },
+  "575": {
+    "ID": 575,
+    "CanSpawn": true
+  },
+  "576": {
+    "ID": 576,
+    "CanSpawn": true
+  },
+  "577": {
+    "ID": 577,
+    "CanSpawn": true
+  },
+  "578": {
+    "ID": 578,
+    "CanSpawn": false
+  },
+  "579": {
+    "ID": 579,
+    "CanSpawn": false
+  },
+  "580": {
+    "ID": 580,
+    "CanSpawn": true
+  },
+  "581": {
+    "ID": 581,
+    "CanSpawn": true
+  },
+  "582": {
+    "ID": 582,
+    "CanSpawn": true
+  },
+  "583": {
+    "ID": 583,
+    "CanSpawn": true
+  },
+  "584": {
+    "ID": 584,
+    "CanSpawn": true
+  },
+  "585": {
+    "ID": 585,
+    "CanSpawn": true
+  },
+  "586": {
+    "ID": 586,
+    "CanSpawn": true
+  },
+  "587": {
+    "ID": 587,
+    "CanSpawn": true
+  },
+  "588": {
+    "ID": 588,
+    "CanSpawn": true
+  },
+  "589": {
+    "ID": 589,
+    "CanSpawn": true
+  },
+  "590": {
+    "ID": 590,
+    "CanSpawn": true
+  },
+  "591": {
+    "ID": 591,
+    "CanSpawn": true
+  },
+  "592": {
+    "ID": 592,
+    "CanSpawn": true
+  },
+  "593": {
+    "ID": 593,
+    "CanSpawn": true
+  },
+  "594": {
+    "ID": 594,
+    "CanSpawn": true
+  },
+  "595": {
+    "ID": 595,
+    "CanSpawn": true
+  },
+  "596": {
+    "ID": 596,
+    "CanSpawn": true
+  },
+  "597": {
+    "ID": 597,
+    "CanSpawn": true
+  },
+  "598": {
+    "ID": 598,
+    "CanSpawn": true
+  },
+  "599": {
+    "ID": 599,
+    "CanSpawn": true
+  },
+  "600": {
+    "ID": 600,
+    "CanSpawn": true
+  },
+  "601": {
+    "ID": 601,
+    "CanSpawn": true
+  },
+  "602": {
+    "ID": 602,
+    "CanSpawn": true
+  },
+  "603": {
+    "ID": 603,
+    "CanSpawn": false
+  },
+  "604": {
+    "ID": 604,
+    "CanSpawn": false
+  },
+  "801": {
+    "ID": 801,
+    "CanSpawn": false
+  },
+  "802": {
+    "ID": 802,
+    "CanSpawn": false
+  },
+  "803": {
+    "ID": 803,
+    "CanSpawn": false
+  },
+  "804": {
+    "ID": 804,
+    "CanSpawn": false
+  },
+  "805": {
+    "ID": 805,
+    "CanSpawn": false
+  },
+  "806": {
+    "ID": 806,
+    "CanSpawn": false
+  },
+  "807": {
+    "ID": 807,
+    "CanSpawn": false
+  },
+  "808": {
+    "ID": 808,
+    "CanSpawn": false
+  },
+  "809": {
+    "ID": 809,
+    "CanSpawn": false
+  },
+  "810": {
+    "ID": 810,
+    "CanSpawn": true
+  },
+  "811": {
+    "ID": 811,
+    "CanSpawn": true
+  },
+  "812": {
+    "ID": 812,
+    "CanSpawn": true
+  },
+  "813": {
+    "ID": 813,
+    "CanSpawn": true
+  },
+  "814": {
+    "ID": 814,
+    "CanSpawn": true
+  },
+  "815": {
+    "ID": 815,
+    "CanSpawn": false
+  },
+  "816": {
+    "ID": 816,
+    "CanSpawn": true
+  },
+  "817": {
+    "ID": 817,
+    "CanSpawn": true
+  },
+  "818": {
+    "ID": 818,
+    "CanSpawn": false
+  },
+  "819": {
+    "ID": 819,
+    "CanSpawn": false
+  },
+  "820": {
+    "ID": 820,
+    "CanSpawn": false
+  },
+  "821": {
+    "ID": 821,
+    "CanSpawn": false
+  },
+  "822": {
+    "ID": 822,
+    "CanSpawn": false
+  },
+  "823": {
+    "ID": 823,
+    "CanSpawn": false
+  },
+  "824": {
+    "ID": 824,
+    "CanSpawn": false
+  },
+  "825": {
+    "ID": 825,
+    "CanSpawn": true
+  },
+  "826": {
+    "ID": 826,
+    "CanSpawn": true
+  },
+  "827": {
+    "ID": 827,
+    "CanSpawn": true
+  },
+  "828": {
+    "ID": 828,
+    "CanSpawn": false
+  },
+  "829": {
+    "ID": 829,
+    "CanSpawn": false
+  },
+  "830": {
+    "ID": 830,
+    "CanSpawn": false
+  },
+  "831": {
+    "ID": 831,
+    "CanSpawn": false
+  },
+  "832": {
+    "ID": 832,
+    "CanSpawn": false
+  },
+  "833": {
+    "ID": 833,
+    "CanSpawn": false
+  },
+  "834": {
+    "ID": 834,
+    "CanSpawn": false
+  },
+  "835": {
+    "ID": 835,
+    "CanSpawn": true
+  },
+  "836": {
+    "ID": 836,
+    "CanSpawn": true
+  },
+  "837": {
+    "ID": 837,
+    "CanSpawn": true
+  },
+  "838": {
+    "ID": 838,
+    "CanSpawn": true
+  },
+  "839": {
+    "ID": 839,
+    "CanSpawn": true
+  },
+  "840": {
+    "ID": 840,
+    "CanSpawn": true
+  },
+  "841": {
+    "ID": 841,
+    "CanSpawn": true
+  },
+  "842": {
+    "ID": 842,
+    "CanSpawn": true
+  },
+  "843": {
+    "ID": 843,
+    "CanSpawn": true
+  },
+  "844": {
+    "ID": 844,
+    "CanSpawn": false
+  },
+  "845": {
+    "ID": 845,
+    "CanSpawn": false
+  },
+  "846": {
+    "ID": 846,
+    "CanSpawn": true
+  },
+  "847": {
+    "ID": 847,
+    "CanSpawn": true
+  },
+  "848": {
+    "ID": 848,
+    "CanSpawn": true
+  },
+  "849": {
+    "ID": 849,
+    "CanSpawn": false
+  },
+  "850": {
+    "ID": 850,
+    "CanSpawn": false
+  },
+  "851": {
+    "ID": 851,
+    "CanSpawn": true
+  },
+  "852": {
+    "ID": 852,
+    "CanSpawn": false
+  },
+  "853": {
+    "ID": 853,
+    "CanSpawn": true
+  },
+  "854": {
+    "ID": 854,
+    "CanSpawn": true
+  },
+  "855": {
+    "ID": 855,
+    "CanSpawn": true
+  },
+  "856": {
+    "ID": 856,
+    "CanSpawn": true
+  },
+  "857": {
+    "ID": 857,
+    "CanSpawn": true
+  },
+  "858": {
+    "ID": 858,
+    "CanSpawn": true
+  },
+  "859": {
+    "ID": 859,
+    "CanSpawn": false
+  },
+  "860": {
+    "ID": 860,
+    "CanSpawn": true
+  },
+  "861": {
+    "ID": 861,
+    "CanSpawn": false
+  },
+  "862": {
+    "ID": 862,
+    "CanSpawn": true
+  },
+  "863": {
+    "ID": 863,
+    "CanSpawn": true
+  },
+  "864": {
+    "ID": 864,
+    "CanSpawn": true
+  },
+  "865": {
+    "ID": 865,
+    "CanSpawn": true
+  },
+  "866": {
+    "ID": 866,
+    "CanSpawn": false
+  },
+  "867": {
+    "ID": 867,
+    "CanSpawn": false
+  },
+  "868": {
+    "ID": 868,
+    "CanSpawn": false
+  },
+  "869": {
+    "ID": 869,
+    "CanSpawn": false
+  },
+  "870": {
+    "ID": 870,
+    "CanSpawn": false
+  },
+  "871": {
+    "ID": 871,
+    "CanSpawn": false
+  },
+  "872": {
+    "ID": 872,
+    "CanSpawn": false
+  },
+  "873": {
+    "ID": 873,
+    "CanSpawn": false
+  },
+  "874": {
+    "ID": 874,
+    "CanSpawn": false
+  },
+  "875": {
+    "ID": 875,
+    "CanSpawn": false
+  },
+  "876": {
+    "ID": 876,
+    "CanSpawn": false
+  },
+  "877": {
+    "ID": 877,
+    "CanSpawn": false
+  },
+  "878": {
+    "ID": 878,
+    "CanSpawn": false
+  },
+  "879": {
+    "ID": 879,
+    "CanSpawn": false
+  },
+  "880": {
+    "ID": 880,
+    "CanSpawn": false
+  },
+  "881": {
+    "ID": 881,
+    "CanSpawn": false
+  },
+  "882": {
+    "ID": 882,
+    "CanSpawn": false
+  },
+  "883": {
+    "ID": 883,
+    "CanSpawn": false
+  },
+  "884": {
+    "ID": 884,
+    "CanSpawn": false
+  },
+  "885": {
+    "ID": 885,
+    "CanSpawn": false
+  },
+  "886": {
+    "ID": 886,
+    "CanSpawn": false
+  },
+  "887": {
+    "ID": 887,
+    "CanSpawn": false
+  },
+  "888": {
+    "ID": 888,
+    "CanSpawn": false
+  },
+  "889": {
+    "ID": 889,
+    "CanSpawn": false
+  },
+  "890": {
+    "ID": 890,
+    "CanSpawn": false
+  },
+  "891": {
+    "ID": 891,
+    "CanSpawn": false
+  },
+  "892": {
+    "ID": 892,
+    "CanSpawn": false
+  },
+  "893": {
+    "ID": 893,
+    "CanSpawn": false
+  },
+  "894": {
+    "ID": 894,
+    "CanSpawn": false
+  },
+  "895": {
+    "ID": 895,
+    "CanSpawn": false
+  },
+  "896": {
+    "ID": 896,
+    "CanSpawn": false
+  },
+  "897": {
+    "ID": 897,
+    "CanSpawn": false
+  },
+  "898": {
+    "ID": 898,
+    "CanSpawn": false
+  },
+  "899": {
+    "ID": 899,
+    "CanSpawn": false
+  },
+  "900": {
+    "ID": 900,
+    "CanSpawn": false
+  },
+  "901": {
+    "ID": 901,
+    "CanSpawn": false
+  },
+  "902": {
+    "ID": 902,
+    "CanSpawn": false
+  },
+  "903": {
+    "ID": 903,
+    "CanSpawn": false
+  },
+  "904": {
+    "ID": 904,
+    "CanSpawn": false
+  },
+  "905": {
+    "ID": 905,
+    "CanSpawn": true
+  },
+  "906": {
+    "ID": 906,
+    "CanSpawn": true
+  },
+  "907": {
+    "ID": 907,
+    "CanSpawn": true
+  },
+  "908": {
+    "ID": 908,
+    "CanSpawn": true
+  },
+  "909": {
+    "ID": 909,
+    "CanSpawn": true
+  },
+  "910": {
+    "ID": 910,
+    "CanSpawn": true
+  },
+  "911": {
+    "ID": 911,
+    "CanSpawn": true
+  },
+  "912": {
+    "ID": 912,
+    "CanSpawn": true
+  },
+  "913": {
+    "ID": 913,
+    "CanSpawn": true
+  },
+  "914": {
+    "ID": 914,
+    "CanSpawn": true
+  },
+  "915": {
+    "ID": 915,
+    "CanSpawn": true
+  },
+  "916": {
+    "ID": 916,
+    "CanSpawn": true
+  },
+  "917": {
+    "ID": 917,
+    "CanSpawn": true
+  },
+  "918": {
+    "ID": 918,
+    "CanSpawn": true
+  },
+  "919": {
+    "ID": 919,
+    "CanSpawn": true
+  },
+  "920": {
+    "ID": 920,
+    "CanSpawn": true
+  },
+  "921": {
+    "ID": 921,
+    "CanSpawn": true
+  },
+  "922": {
+    "ID": 922,
+    "CanSpawn": true
+  },
+  "923": {
+    "ID": 923,
+    "CanSpawn": true
+  },
+  "924": {
+    "ID": 924,
+    "CanSpawn": true
+  },
+  "925": {
+    "ID": 925,
+    "CanSpawn": true
+  },
+  "926": {
+    "ID": 926,
+    "CanSpawn": true
+  },
+  "927": {
+    "ID": 927,
+    "CanSpawn": true
+  },
+  "928": {
+    "ID": 928,
+    "CanSpawn": true
+  },
+  "929": {
+    "ID": 929,
+    "CanSpawn": true
+  },
+  "930": {
+    "ID": 930,
+    "CanSpawn": true
+  },
+  "931": {
+    "ID": 931,
+    "CanSpawn": true
+  },
+  "932": {
+    "ID": 932,
+    "CanSpawn": true
+  },
+  "933": {
+    "ID": 933,
+    "CanSpawn": true
+  },
+  "934": {
+    "ID": 934,
+    "CanSpawn": true
+  },
+  "935": {
+    "ID": 935,
+    "CanSpawn": true
+  },
+  "936": {
+    "ID": 936,
+    "CanSpawn": true
+  },
+  "937": {
+    "ID": 937,
+    "CanSpawn": true
+  },
+  "938": {
+    "ID": 938,
+    "CanSpawn": true
+  },
+  "939": {
+    "ID": 939,
+    "CanSpawn": true
+  },
+  "940": {
+    "ID": 940,
+    "CanSpawn": true
+  },
+  "941": {
+    "ID": 941,
+    "CanSpawn": true
+  },
+  "942": {
+    "ID": 942,
+    "CanSpawn": true
+  },
+  "943": {
+    "ID": 943,
+    "CanSpawn": true
+  },
+  "944": {
+    "ID": 944,
+    "CanSpawn": true
+  },
+  "945": {
+    "ID": 945,
+    "CanSpawn": true
+  },
+  "946": {
+    "ID": 946,
+    "CanSpawn": true
+  },
+  "947": {
+    "ID": 947,
+    "CanSpawn": true
+  },
+  "948": {
+    "ID": 948,
+    "CanSpawn": true
+  },
+  "949": {
+    "ID": 949,
+    "CanSpawn": true
+  },
+  "950": {
+    "ID": 950,
+    "CanSpawn": true
+  },
+  "951": {
+    "ID": 951,
+    "CanSpawn": true
+  },
+  "952": {
+    "ID": 952,
+    "CanSpawn": true
+  },
+  "953": {
+    "ID": 953,
+    "CanSpawn": true
+  },
+  "954": {
+    "ID": 954,
+    "CanSpawn": true
+  },
+  "955": {
+    "ID": 955,
+    "CanSpawn": true
+  },
+  "956": {
+    "ID": 956,
+    "CanSpawn": true
+  },
+  "957": {
+    "ID": 957,
+    "CanSpawn": true
+  },
+  "958": {
+    "ID": 958,
+    "CanSpawn": true
+  },
+  "959": {
+    "ID": 959,
+    "CanSpawn": true
+  },
+  "960": {
+    "ID": 960,
+    "CanSpawn": true
+  },
+  "961": {
+    "ID": 961,
+    "CanSpawn": true
+  },
+  "962": {
+    "ID": 962,
+    "CanSpawn": true
+  },
+  "963": {
+    "ID": 963,
+    "CanSpawn": true
+  },
+  "964": {
+    "ID": 964,
+    "CanSpawn": true
+  },
+  "965": {
+    "ID": 965,
+    "CanSpawn": true
+  },
+  "966": {
+    "ID": 966,
+    "CanSpawn": true
+  },
+  "967": {
+    "ID": 967,
+    "CanSpawn": true
+  },
+  "968": {
+    "ID": 968,
+    "CanSpawn": true
+  },
+  "969": {
+    "ID": 969,
+    "CanSpawn": false
+  },
+  "970": {
+    "ID": 970,
+    "CanSpawn": true
+  },
+  "971": {
+    "ID": 971,
+    "CanSpawn": true
+  },
+  "972": {
+    "ID": 972,
+    "CanSpawn": true
+  },
+  "973": {
+    "ID": 973,
+    "CanSpawn": true
+  },
+  "974": {
+    "ID": 974,
+    "CanSpawn": true
+  },
+  "975": {
+    "ID": 975,
+    "CanSpawn": true
+  },
+  "976": {
+    "ID": 976,
+    "CanSpawn": true
+  },
+  "977": {
+    "ID": 977,
+    "CanSpawn": true
+  },
+  "978": {
+    "ID": 978,
+    "CanSpawn": true
+  },
+  "979": {
+    "ID": 979,
+    "CanSpawn": true
+  },
+  "980": {
+    "ID": 980,
+    "CanSpawn": true
+  },
+  "982": {
+    "ID": 982,
+    "CanSpawn": true
+  },
+  "983": {
+    "ID": 983,
+    "CanSpawn": true
+  },
+  "981": {
+    "ID": 981,
+    "CanSpawn": true
+  },
+  "984": {
+    "ID": 984,
+    "CanSpawn": true
+  },
+  "985": {
+    "ID": 985,
+    "CanSpawn": true
+  },
+  "986": {
+    "ID": 986,
+    "CanSpawn": true
+  },
+  "987": {
+    "ID": 987,
+    "CanSpawn": true
+  },
+  "988": {
+    "ID": 988,
+    "CanSpawn": true
+  },
+  "989": {
+    "ID": 989,
+    "CanSpawn": true
+  },
+  "990": {
+    "ID": 990,
+    "CanSpawn": true
+  }
+}

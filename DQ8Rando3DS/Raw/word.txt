@@ -1,0 +1,2199 @@
+﻿[[Items	430	
+		0	0	0	0	2	0
+cypress stick	cypress sticks	1	1	1	1	2	0
+soldier's sword	soldier's swords	1	1	1	1	2	0
+copper sword	copper swords	1	1	1	1	2	0
+steel broadsword	steel broadswords	1	1	1	1	2	0
+platinum sword	platinum swords	1	1	1	1	2	0
+dream blade	dream blades	1	1	1	1	2	0
+falcon blade	falcon blades	1	1	1	1	2	0
+über falcon blade	über falcon blades	1	2	1	1	2	0
+zombiesbane	zombiesbanes	1	1	1	1	2	0
+zombie slayer	zombie slayers	1	1	1	1	2	0
+dragonsbane	dragonsbanes	1	1	1	1	2	0
+dragon slayer	dragon slayers	1	1	1	1	2	0
+blizzard blade	blizzard blades	1	1	1	1	2	0
+miracle sword	miracle swords	1	1	1	1	2	0
+über miracle sword	über miracle swords	1	2	1	1	2	0
+bastard sword	bastard swords	1	1	1	1	2	0
+liquid metal sword	liquid metal swords	1	1	1	1	2	0
+double<->edged sword	double<->edged swords	1	1	1	1	2	0
+über double<->edge	über double<->edges	1	2	1	1	2	0
+rusty old sword	rusty old swords	1	1	1	1	2	0
+Dragovian sword	Dragovian swords	1	1	1	1	2	0
+Dragovian king sword	Dragovian king swords	1	1	1	1	2	0
+rapier	rapiers	1	1	1	1	2	0
+Templar's sword	Templar's swords	1	1	1	1	2	0
+hell sabre	hell sabres	1	1	1	1	2	0
+holy silver rapier	holy silver rapiers	1	1	1	1	2	0
+fallen angel rapier	fallen angel rapiers	1	1	1	1	2	0
+shamshir of light	shamshirs of light	1	1	1	1	2	0
+Mercury's rapier	Mercury's rapiers	1	1	1	1	2	0
+bronze knife	bronze knives	1	1	1	1	2	0
+dagger	daggers	1	1	1	1	2	0
+poison moth knife	poison moth knives	1	1	1	1	2	0
+assassin's dagger	assassin's daggers	1	2	1	1	2	0
+icicle dirk	icicle dirks	1	2	1	1	2	0
+poison needle	poison needles	1	1	1	1	2	0
+falcon knife	falcon knives	1	1	1	1	2	0
+imp knife	imp knives	1	2	1	1	2	0
+sword breaker	sword breakers	1	1	1	1	2	0
+eagle dagger	eagle daggers	1	2	1	1	2	0
+iron lance	iron lances	1	2	1	1	2	0
+holy lance	holy lances	1	1	1	1	2	0
+long spear	long spears	1	1	1	1	2	0
+partisan	partisans	1	1	1	1	2	0
+battle fork	battle forks	1	1	1	1	2	0
+sandstorm spear	sandstorm spears	1	1	1	1	2	0
+demon spear	demon spears	1	1	1	1	2	0
+hero spear	hero spears	1	1	1	1	2	0
+metal king spear	metal king spears	1	1	1	1	2	0
+boomerang	boomerangs	1	1	1	1	2	0
+reinforced boomerang	reinforced boomerangs	1	1	1	1	2	0
+edged boomerang	edged boomerangs	1	2	1	1	2	0
+metal wing boomerang	metal wing boomerangs	1	1	1	1	2	0
+razor wing boomerang	razor wing boomerangs	1	1	1	1	2	0
+swallowtail	swallowtails	1	1	1	1	2	0
+flametang boomerang	flametang boomerangs	1	1	1	1	2	0
+stone axe	stone axes	1	1	1	1	2	0
+iron axe	iron axes	1	2	1	1	2	0
+king axe	king axes	1	1	1	1	2	0
+moon axe	moon axes	1	1	1	1	2	0
+bandit axe	bandit axes	1	1	1	1	2	0
+golden axe	golden axes	1	1	1	1	2	0
+battle<->axe	battle<->axes	1	1	1	1	2	0
+conqueror's axe	conqueror's axes	1	1	1	1	2	0
+oaken club	oaken clubs	1	2	1	1	2	0
+giant mallet	giant mallets	1	1	1	1	2	0
+sledgehammer	sledgehammers	1	1	1	1	2	0
+war hammer	war hammers	1	1	1	1	2	0
+über war hammer	über war hammers	1	2	1	1	2	0
+megaton hammer	megaton hammers	1	1	1	1	2	0
+flail of fury	flails of fury	1	1	1	1	2	0
+flail of destruction	flails of destruction	1	1	1	1	2	0
+thorn whip	thorn whips	1	1	1	1	2	0
+leather whip	leather whips	1	1	1	1	2	0
+snakeskin whip	snakeskin whips	1	1	1	1	2	0
+chain whip	chain whips	1	1	1	1	2	0
+dragontail whip	dragontail whips	1	1	1	1	2	0
+spiked steel whip	spiked steel whips	1	1	1	1	2	0
+demon whip	demon whips	1	1	1	1	2	0
+scourge whip	scourge whips	1	1	1	1	2	0
+Gringham whip	Gringham whips	1	1	1	1	2	0
+farmer's scythe	farmer's scythes	1	1	1	1	2	0
+heavy hatchet	heavy hatchets	1	1	1	1	2	0
+bardiche of binding	bardiches of binding	1	1	1	1	2	0
+hell scythe	hell scythes	1	1	1	1	2	0
+steel scythe	steel scythes	1	1	1	1	2	0
+wizard's staff	wizard's staves	1	1	1	1	2	0
+lightning staff	lightning staves	1	1	1	1	2	0
+staff of divine wrath	staves of divine wrath	1	1	1	1	2	0
+magma staff	magma staves	1	1	1	1	2	0
+staff of antimagic	staves of antimagic	1	1	1	1	2	0
+rune staff	rune staves	1	1	1	1	2	0
+staff of resurrection	staves of resurrection	1	1	1	1	2	0
+magical mace	magical maces	1	1	1	1	2	0
+hunter's bow	hunter's bows	1	1	1	1	2	0
+great bow	great bows	1	1	1	1	2	0
+short bow	short bows	1	1	1	1	2	0
+Odin's bow	Odin's bows	1	2	1	1	2	0
+Cheiron's bow	Cheiron's bows	1	1	1	1	2	0
+Eros' bow	Eros' bows	1	2	1	1	2	0
+plain clothes	sets of plain clothes	1	3	1	1	2	1
+bandit's grass skirt	bandit's grass skirts	1	1	1	1	2	0
+wayfarer's clothes	sets of wayfarer's clothes	1	3	1	1	2	1
+boxer shorts	pairs of boxer shorts	1	4	1	1	2	1
+dancer's costume	dancer's costumes	1	1	1	1	2	0
+leather kilt	leather kilts	1	1	1	1	2	0
+leather dress	leather dresses	1	1	1	1	2	0
+Templar's uniform	Templar's uniforms	1	1	1	1	2	0
+fur poncho	fur ponchos	1	1	1	1	2	0
+cloak of evasion	cloaks of evasion	1	1	1	1	2	0
+bunny suit	bunny suits	1	1	1	1	2	0
+silk bustier	silk bustiers	1	1	1	1	2	0
+magic bikini	magic bikinis	1	1	1	1	2	0
+spangled dress	spangled dresses	1	1	1	1	2	0
+posh waistcoat	posh waistcoats	1	1	1	1	2	0
+magical skirt	magical skirts	1	1	1	1	2	0
+shimmering dress	shimmering dresses	1	1	1	1	2	0
+dark robe	dark robes	1	1	1	1	2	0
+dangerous bustier	dangerous bustiers	1	1	1	1	2	0
+divine bustier	divine bustiers	1	1	1	1	2	0
+Jessica's outfit	Jessica's outfits	0	0	1	1	2	0
+leather armour	suits of leather armour	2	5	1	1	2	0
+scale armour	suits of scale armour	2	5	1	1	2	0
+chain mail	suits of chain mail	2	5	1	1	2	0
+bronze armour	suits of bronze armour	2	5	1	1	2	0
+iron cuirass	iron cuirasses	1	2	1	1	2	0
+iron armour	suits of iron armour	2	5	1	1	2	0
+tortoise shell	tortoise shells	1	1	1	1	2	0
+full plate armour	suits of full plate armour	2	5	1	1	2	0
+silver cuirass	silver cuirasses	1	1	1	1	2	0
+dancer's mail	suits of dancer's mail	2	5	1	1	2	0
+silver mail	suits of silver mail	2	5	1	1	2	0
+dragon mail	suits of dragon mail	2	5	1	1	2	0
+magic armour	suits of magic armour	2	5	1	1	2	0
+zombie mail	suits of zombie mail	2	5	1	1	2	0
+heavy armour	suits of heavy armour	2	5	1	1	2	0
+spiked armour	suits of spiked armour	2	5	1	1	2	0
+platinum mail	suits of platinum mail	2	5	1	1	2	0
+bandit mail	suits of bandit mail	2	5	1	1	2	0
+sacred armour	suits of sacred armour	2	5	1	1	2	0
+gigant armour	suits of gigant armour	2	5	1	1	2	0
+mirror armour	suits of mirror armour	2	5	1	1	2	0
+liquid metal armour	suits of liquid metal armour	2	5	1	1	2	0
+Dragovian armour	suits of Dragovian armour	2	5	1	1	2	0
+metal king armour	suits of metal king armour	2	5	1	1	2	0
+silk robe	silk robes	1	1	1	1	2	0
+leather cape	leather capes	1	1	1	1	2	0
+robe of serenity	robes of serenity	1	1	1	1	2	0
+magic vestment	magic vestments	1	1	1	1	2	0
+flowing dress	flowing dresses	1	1	1	1	2	0
+sage's robe	sage's robes	1	1	1	1	2	0
+angel's robe	angel's robes	1	2	1	1	2	0
+velvet cape	velvet capes	1	1	1	1	2	0
+crimson robe	crimson robes	1	1	1	1	2	0
+princess's robe	princess's robes	1	1	1	1	2	0
+dragon robe	dragon robes	1	1	1	1	2	0
+pot lid	pot lids	1	1	1	1	2	0
+leather shield	leather shields	1	1	1	1	2	0
+scale shield	scale shields	1	1	1	1	2	0
+silver platter	silver platters	1	1	1	1	2	0
+kitty shield	kitty shields	1	1	1	1	2	0
+bronze shield	bronze shields	1	1	1	1	2	0
+Templar's shield	Templar's shields	1	1	1	1	2	0
+iron shield	iron shields	1	2	1	1	2	0
+light shield	light shields	1	1	1	1	2	0
+white shield	white shields	1	1	1	1	2	0
+steel shield	steel shields	1	1	1	1	2	0
+magic shield	magic shields	1	1	1	1	2	0
+dragon shield	dragon shields	1	1	1	1	2	0
+power shield	power shields	1	1	1	1	2	0
+saintess shield	saintess shields	1	1	1	1	2	0
+bone shield	bone shields	1	1	1	1	2	0
+mirror shield	mirror shields	1	1	1	1	2	0
+ogre shield	ogre shields	1	2	1	1	2	0
+silver shield	silver shields	1	1	1	1	2	0
+big boss shield	big boss shields	1	1	1	1	2	0
+ruinous shield	ruinous shields	1	1	1	1	2	0
+Thanatos' shield	Thanatos' shields	1	1	1	1	2	0
+goddess shield	goddess shields	1	1	1	1	2	0
+Dragovian shield	Dragovian shields	1	1	1	1	2	0
+metal king shield	metal king shields	1	1	1	1	2	0
+bandana	bandanas	1	1	1	1	2	0
+leather hat	leather hats	1	1	1	1	2	0
+hairband	hairbands	1	1	1	1	2	0
+pointy hat	pointy hats	1	1	1	1	2	0
+feathered cap	feathered caps	1	1	1	1	2	0
+turban	turbans	1	1	1	1	2	0
+silver tiara	silver tiaras	1	1	1	1	2	0
+bunny ears	sets of bunny ears	1	3	1	1	2	1
+stone hardhat	stone hardhats	1	1	1	1	2	0
+iron helmet	iron helmets	1	2	1	1	2	0
+fur hood	fur hoods	1	1	1	1	2	0
+bronze helmet	bronze helmets	1	1	1	1	2	0
+coral hairpin	coral hairpins	1	1	1	1	2	0
+pirate's hat	pirate's hats	1	1	1	1	2	0
+iron mask	iron masks	1	2	1	1	2	0
+Hermes' hat	Hermes' hats	1	1	1	1	2	0
+platinum headgear	sets of platinum headgear	1	1	1	1	2	0
+magical hat	magical hats	1	1	1	1	2	0
+happy hat	happy hats	1	1	1	1	2	0
+Hades' helm	Hades' helms	1	1	1	1	2	0
+slime crown	slime crowns	1	1	1	1	2	0
+mythril helm	mythril helms	1	1	1	1	2	0
+Mercury's bandana	Mercury's bandanas	1	1	1	1	2	0
+scholar's cap	scholar's caps	1	1	1	1	2	0
+thinking cap	thinking caps	1	1	1	1	2	0
+iron headgear	sets of iron headgear	1	2	1	1	2	0
+raging bull helm	raging bull helms	1	1	1	1	2	0
+golden tiara	golden tiaras	1	1	1	1	2	0
+great helm	great helms	1	1	1	1	2	0
+phantom mask	phantom masks	1	1	1	1	2	0
+skull helm	skull helms	1	1	1	1	2	0
+Dragovian helm	Dragovian helms	1	1	1	1	2	0
+sun crown	sun crowns	1	1	1	1	2	0
+metal king helm	metal king helms	1	1	1	1	2	0
+agility ring	agility rings	1	2	1	1	2	0
+meteorite bracer	meteorite bracers	1	1	1	1	2	0
+strength ring	strength rings	1	1	1	1	2	0
+gold ring	gold rings	1	1	1	1	2	0
+prayer ring	prayer rings	1	1	1	1	2	0
+recovery ring	recovery rings	1	1	1	1	2	0
+goddess ring	goddess rings	1	1	1	1	2	0
+gospel ring	gospel rings	1	1	1	1	2	0
+life bracer	life bracers	1	1	1	1	2	0
+mighty armlet	mighty armlets	1	1	1	1	2	0
+gold bracer	gold bracers	1	1	1	1	2	0
+ruby of protection	rubies of protection	1	1	1	1	2	0
+titan belt	titan belts	1	1	1	1	2	0
+scholar's specs	pairs of scholar's specs	3	4	1	1	2	1
+tough guy tattoo	tough guy tattoos	1	1	1	1	2	0
+slime earrings	pairs of slime earrings	3	4	1	1	2	1
+devil's tail	devil's tails	1	1	1	1	2	0
+fishnet stockings	pairs of fishnet stockings	3	4	1	1	2	1
+garter	garters	1	1	1	1	2	0
+lady's ring	lady's rings	1	1	1	1	2	0
+gold rosary	gold rosaries	1	1	1	1	2	0
+sorcerer's ring	sorcerer's rings	1	1	1	1	2	0
+skull ring	skull rings	1	1	1	1	2	0
+holy talisman	holy talismans	1	1	1	1	2	0
+ring of awakening	rings of awakening	1	1	1	1	2	0
+full moon ring	full moon rings	1	1	1	1	2	0
+ring of clarity	rings of clarity	1	1	1	1	2	0
+ring of truth	rings of truth	1	1	1	1	2	0
+ring of immunity	rings of immunity	1	1	1	1	2	0
+catholicon ring	catholicon rings	1	1	1	1	2	0
+dragon scale	dragon scales	1	1	1	1	2	0
+elevating shoes	pairs of elevating shoes	3	4	1	1	2	1
+medicinal herb	medicinal herbs	1	1	1	1	2	0
+antidotal herb	antidotal herbs	1	2	1	1	2	0
+moonwort bulb	moonwort bulbs	1	1	1	1	2	0
+strong medicine	strong medicines	1	1	1	1	2	0
+special medicine	special medicines	1	1	1	1	2	0
+lesser panacea	lesser panaceas	1	1	1	1	2	0
+greater panacea	greater panaceas	1	1	1	1	2	0
+rose<->root	bunches of rose<->root	1	6	1	1	2	0
+rose<->wort	bunches of rose<->wort	1	6	1	1	2	0
+strong antidote	strong antidotes	1	1	1	1	2	0
+special antidote	special antidotes	1	1	1	1	2	0
+moon's mercy	moon's mercies	1	1	1	1	2	0
+mystifying mixture	mystifying mixtures	1	1	1	1	2	0
+Yggdrasil leaf	Yggdrasil leaves	1	2	1	1	2	0
+Yggdrasil dew	phials of Yggdrasil dew	1	7	1	1	2	0
+amor seco essence	phials of amor seco essence	1	7	1	1	2	0
+chimaera wing	chimaera wings	1	1	1	1	2	0
+holy water	phials of holy water	1	7	1	1	2	0
+magic water	phials of magic water	1	7	1	1	2	0
+elfin elixir	elfin elixirs	1	2	1	1	2	0
+rockbomb shard	rockbomb shards	1	1	1	1	2	0
+sage's stone	sage's stones	1	1	1	1	2	0
+seed of strength	seeds of strength	1	1	1	1	2	0
+seed of agility	seeds of agility	1	1	1	1	2	0
+seed of defence	seeds of defence	1	1	1	1	2	0
+seed of wisdom	seeds of wisdom	1	1	1	1	2	0
+seed of skill	seeds of skill	1	1	1	1	2	0
+seed of life	seeds of life	1	1	1	1	2	0
+seed of magic	seeds of magic	1	1	1	1	2	0
+mini medal	mini medals	1	1	1	1	2	0
+thief's key	thief's keys	1	1	1	1	2	0
+magic key	magic keys	1	8	1	1	2	0
+ultimate key	ultimate keys	1	8	1	1	2	0
+orichalcum	pieces of orichalcum	1	9	1	1	2	0
+bunny tail	bunny tails	1	1	1	1	2	0
+timbrel of tension	timbrels of tension	1	1	1	1	2	0
+Baumren's bell	Baumren's bells	0	0	1	1	2	0
+gold nugget	gold nuggets	1	1	1	1	2	0
+iron nail	iron nails	1	2	1	1	2	0
+cowpat	cowpats	1	1	1	1	2	0
+dragon dung	pieces of dragon dung	1	9	1	1	2	0
+rock salt	pieces of rock salt	1	9	1	1	2	0
+saint's ashes	urns of saints' ashes	1	10	1	1	2	0
+wing of bat	wings of bat	1	1	1	1	2	0
+magic beast hide	magic beast hides	1	1	1	1	2	0
+fresh milk	bottles of fresh milk	4	11	1	1	2	0
+rennet powder	bags of rennet powder	1	12	1	1	2	0
+red mould	pieces of red mould	1	9	1	1	2	0
+waterweed mould	pieces of waterweed mould	1	9	1	1	2	0
+premium mould	pieces of premium mould	1	9	1	1	2	0
+plain cheese	pieces of plain cheese	1	9	1	1	2	0
+spicy cheese	pieces of spicy cheese	1	9	1	1	2	0
+super spicy cheese	pieces of super spicy cheese	1	9	1	1	2	0
+scorching cheese	pieces of scorching cheese	1	9	1	1	2	0
+cool cheese	pieces of cool cheese	1	9	1	1	2	0
+chilly cheese	pieces of chilly cheese	1	9	1	1	2	0
+cold cheese	pieces of cold cheese	1	9	1	1	2	0
+c-c-cold cheese	pieces of c-c-cold cheese	1	9	1	1	2	0
+double bubble	double bubbles	1	1	1	1	2	0
+eau de monster	bottles of eau de monster	1	11	1	1	2	0
+super seed of skill	super seeds of skill	1	1	1	1	2	0
+mild cheese	pieces of mild cheese	1	9	1	1	2	0
+cured cheese	pieces of cured cheese	1	9	1	1	2	0
+angel cheese	pieces of angel cheese	1	9	1	1	2	0
+hard cheese	pieces of hard cheese	1	9	1	1	2	0
+soft cheese	pieces of soft cheese	1	9	1	1	2	0
+chunky cheese	pieces of chunky cheese	1	9	1	1	2	0
+highly strung cheese	pieces of highly strung cheese	1	9	1	1	2	0
+crystal ball	crystal balls	1	1	1	1	2	0
+tool bag	tool bags	1	1	1	1	2	0
+Jessica's letter	Jessica's letters	0	0	0	1	2	0
+Templar's ring	Templar's rings	1	1	1	1	2	0
+world map	world maps	1	1	1	1	2	0
+Venus' tear	Venus' tears	1	8	1	1	2	0
+Moonshadow harp	Moonshadow harps	1	8	1	1	2	0
+sand of serenity	sands of serenity	1	13	1	1	2	0
+lizard humour	lizard humours	1	1	1	1	2	0
+Argon heart	Argon hearts	1	2	1	1	2	0
+great big Argon heart	great big Argon hearts	1	1	1	1	2	0
+magic mirror	magic mirrors	1	8	1	1	2	0
+sun mirror	sun mirrors	1	8	1	1	2	0
+stone sword	stone swords	1	1	1	1	2	0
+Kran Spinels	Krans Spinels	1	8	1	1	2	1
+‘The Big Book of Barriers’	‘The Big Books of Barriers’	0	0	0	0	2	0
+Marta's bag	Marta's bags	0	0	0	1	2	0
+illuminated sea chart	illuminated sea charts	1	2	1	1	2	0
+nook grass	nook grasses	1	6	1	1	2	0
+Godbird's soulstone	Godbird's soulstones	1	8	1	1	2	0
+Darktree leaf	Darktree leaves	1	8	1	1	2	0
+Templar Captain's ring	Templar Captain's rings	1	1	1	1	2	0
+Argon ring	Argon rings	1	2	1	1	2	0
+echo flute	echo flutes	1	2	1	1	2	0
+Eros' bow recipe	Eros' bow recipes	1	2	1	1	2	0
+imp knife recipe	imp knife recipes	1	2	1	1	2	0
+dragon slayer recipe	dragon slayer recipes	1	1	1	1	2	0
+thief's key recipe	thief's key recipes	1	1	1	1	2	0
+Morrie's memo #1	Morrie's memo #1s	0	0	1	1	2	0
+Morrie's memo #2	Morrie's memo #2s	0	0	1	1	2	0
+Morrie's memo #3	Morrie's memo #3s	0	0	1	1	2	0
+Monster Arena key	Monster Arena keys	1	1	1	1	2	0
+Godbird Sceptre	Godbird Sceptres	1	1	1	1	2	0
+gold orb	gold orbs	1	1	1	1	2	0
+silver orb	silver orbs	1	1	1	1	2	0
+red orb	red orbs	1	1	1	1	2	0
+blue orb	blue orbs	1	1	1	1	2	0
+green orb	green orbs	1	1	1	1	2	0
+yellow orb	yellow orbs	1	1	1	1	2	0
+purple orb	purple orbs	1	1	1	1	2	0
+copper monster coin	copper monster coins	1	1	1	1	2	0
+silver monster coin	silver monster coins	1	1	1	1	2	0
+gold monster coin	gold monster coins	1	1	1	1	2	0
+flame shield	flame shields	1	1	1	1	2	0
+ice shield	ice shields	1	2	1	1	2	0
+Erdrick's sword	Erdrick's swords	0	0	0	0	2	0
+demonsbane	demonsbanes	1	1	1	1	2	0
+dread dagger	dread daggers	1	1	1	1	2	0
+golden gar	golden gars	1	1	1	1	2	0
+black buzzard	black buzzards	1	1	1	1	2	0
+bad axe	bad axes	1	1	1	1	2	0
+candy cane	candy canes	1	1	1	1	2	0
+honking hammer	honking hammers	1	1	1	1	2	0
+wizardly whip	wizardly whips	1	1	1	1	2	0
+slime stick	slime sticks	1	1	1	1	2	0
+night sniper	night snipers	1	1	1	1	2	0
+iron claw	iron claws	1	2	1	1	2	0
+fire claw	fire claws	1	1	1	1	2	0
+cobra claw	cobra claws	1	1	1	1	2	0
+king cobra claw	king cobra claws	1	1	1	1	2	0
+beast claw	beast claws	1	1	1	1	2	0
+beast talon	beast talons	1	1	1	1	2	0
+dragon claw	dragon claws	1	1	1	1	2	0
+dragonlord claw	dragonlord claws	1	1	1	1	2	0
+orichalcum claw	orichalcum claws	1	2	1	1	2	0
+gryphon talon	gryphon talons	1	1	1	1	2	0
+iron fan	iron fans	1	2	1	1	2	0
+peacock fan	peacock fans	1	1	1	1	2	0
+rainbow fan	rainbow fans	1	1	1	1	2	0
+stellar fan	stellar fans	1	1	1	1	2	0
+lunar fan	lunar fans	1	1	1	1	2	0
+solar fan	solar fans	1	1	1	1	2	0
+dryspell fan	dryspell fans	1	1	1	1	2	0
+kaleidoscope	kaleidoscopes	1	1	1	1	2	0
+fan of peace	fans of peace	1	1	1	1	2	0
+big bad boss shield	big bad boss shields	1	1	1	1	2	0
+gothic mitre	gothic mitres	1	1	1	1	2	0
+dogsbody's hood	dogsbody's hoods	1	1	1	1	2	0
+hexlet's hat	hexlets' hats	1	1	1	1	2	0
+kunoichi headband	kunoichi headbands	1	1	1	1	2	0
+mad cap	mad caps	1	1	1	1	2	0
+gothic vestment	gothic vestments	1	1	1	1	2	0
+dogsbody's vest	dogsbody's vests	1	1	1	1	2	0
+nitid tutu	nitid tutus	1	1	1	1	2	0
+hexlet's skirt	hexlets' skirts	1	1	1	1	2	0
+abiding blazer	abiding blazers	1	2	1	1	2	0
+oriental warrior wear	sets of oriental warrior wear	1	3	1	1	2	0
+butler's best	butlers' bests	1	1	1	1	2	0
+jester's outfit	jesters' outfits	1	1	1	1	2	0
+cap'n's clothes	sets of cap'n's clothes	1	3	1	1	2	1
+mandarin dress	mandarin dresses	1	1	1	1	2	0
+kunoichi costume	kunoichi costumes	1	1	1	1	2	0
+über sacred armour	suits of über sacred armour	2	5	1	1	2	0
+white gold bell	white gold bells	1	1	1	1	2	0
+darksteel bell	darksteel bells	1	1	1	1	2	0
+ethereal stone	ethereal stones	1	2	1	1	2	0
+Alistair's armour	sets of Alistair's armour	0	0	1	1	2	0
+metal slime earrings	pairs of metal slime earrings	3	4	1	1	2	1
+fire dragon charm	fire dragon charms	1	1	1	1	2	0
+light dragon charm	light dragon charms	1	1	1	1	2	0
+lord's bracer	lord's bracers	1	1	1	1	2	0
+super double bubble	super double bubbles	1	1	1	1	2	0
+super seed of agility	super seeds of agility	1	1	1	1	2	0
+super seed of defence	super seeds of defence	1	1	1	1	2	0
+super seed of strength	super seeds of strength	1	1	1	1	2	0
+super seed of wisdom	super seeds of wisdom	1	1	1	1	2	0
+super seed of magic	super seeds of magic	1	1	1	1	2	0
+super seed of life	super seeds of life	1	1	1	1	2	0
+metal slime platter	metal slime platters	1	1	1	1	2	0
+healie hat	healie hats	1	1	1	1	2	0
+healie t-shirt	healie t-shirts	1	1	1	1	2	0
+hearty ring	hearty rings	1	1	1	1	2	0
+lucky pendant	lucky pendants	1	1	1	1	2	0
+golden slippers	pairs of golden slippers	3	4	1	1	2	1
+Ye Olde Sword of Erdrick	Ye Olde Swords of Erdrick	0	0	0	0	2	0
+[[Monsters	533	
+    	    	0	0	0	0	2	0
+slime	slimes	1	1	1	1	2	0
+candy cat	candy cats	1	1	1	1	2	0
+lips	lips	1	1	1	1	2	0
+dracky	drackies	1	1	1	1	2	0
+satyr	satyrs	1	1	1	1	0	0
+capsichum	capsichums	1	1	1	1	2	0
+bunicorn	bunicorns	1	1	1	1	2	0
+she<->slime	she<->slimes	1	1	1	1	1	0
+mischievous mole	mischievous moles	1	1	1	1	0	0
+mecha<->mynah	mecha<->mynahs	1	1	1	1	2	0
+bubble slime	bubble slimes	1	1	1	1	2	0
+dancing devil	dancing devils	1	1	1	1	2	0
+bodkin archer	bodkin archers	1	1	1	1	0	0
+skipper	skippers	1	1	1	1	2	0
+drackmage	drackmages	1	1	1	1	2	0
+beetleboy	beetleboys	1	1	1	1	0	0
+imp	imps	1	2	1	1	2	0
+funghoul	funghouls	1	1	1	1	2	0
+fencing fox	fencing foxes	1	1	1	1	2	0
+healslime	healslimes	1	1	1	1	2	0
+hammerhood	hammerhoods	1	1	1	1	2	0
+jailcat	jailcats	1	1	1	1	2	0
+frogface	frogfaces	1	1	1	1	2	0
+lump mage	lump mages	1	1	1	1	2	0
+winky	winkies	1	1	1	1	2	0
+spiked hare	spiked hares	1	1	1	1	2	0
+chainine	chainines	1	1	1	1	2	0
+giant moth	giant moths	1	1	1	1	2	0
+dingaling	dingalings	1	1	1	1	2	0
+jargon	jargons	1	1	1	1	2	0
+drackyma	drackymas	1	1	1	1	1	0
+bullfinch	bullfinches	1	1	1	1	2	0
+bag o' laughs	bags o' laughs	1	1	1	1	2	0
+skeleton	skeletons	1	1	1	1	2	0
+metal slime	metal slimes	1	1	1	1	2	0
+scorpion	scorpions	1	1	1	1	2	0
+Morphean mushroom	Morphean mushrooms	1	1	1	1	2	0
+brownie	brownies	1	1	1	1	2	0
+flyguy	flyguys	1	1	1	1	0	0
+puppeteer	puppeteers	1	1	1	1	0	0
+bodkin bowyer	bodkin bowyers	1	1	1	1	2	0
+night sneaker	night sneakers	1	1	1	1	2	0
+mummy boy	mummy boys	1	1	1	1	0	0
+hell hornet	hell hornets	1	1	1	1	2	0
+pan piper	pan pipers	1	1	1	1	0	0
+slime knight	slime knights	1	1	1	1	0	0
+clockwork cuckoo	clockwork cuckoos	1	1	1	1	2	0
+treeface	treefaces	1	1	1	1	2	0
+kisser	kissers	1	1	1	1	2	0
+diemon	diemons	1	1	1	1	2	0
+walking corpse	walking corpses	1	1	1	1	0	0
+fat bat	fat bats	1	1	1	1	2	0
+night fox	night foxes	1	1	1	1	2	0
+paprikan	paprikans	1	1	1	1	2	0
+chimaera	chimaeras	1	1	1	1	2	0
+hood	hoods	1	1	1	1	0	0
+headhunter	headhunters	1	1	1	1	2	0
+minidemon	minidemons	1	1	1	1	2	0
+gorerilla	gorerillas	1	1	1	1	2	0
+mud mannequin	mud mannequins	1	1	1	1	2	0
+cannibox	canniboxes	1	1	1	1	2	0
+goodybag	goodybags	1	1	1	1	2	0
+witch	witches	1	1	1	1	1	0
+mummy	mummies	1	1	1	1	2	0
+cureslime	cureslimes	1	1	1	1	2	0
+restless armour	restless armours	1	1	1	1	2	0
+phantom fencer	phantom fencers	1	1	1	1	2	0
+hipster	hipsters	1	1	1	1	0	0
+rockbomb	rockbombs	1	1	1	1	2	0
+dieablo	dieablos	1	1	1	1	2	0
+muddy hand	muddy hands	1	1	1	1	2	0
+terror tabby	terror tabbies	1	1	1	1	2	0
+devilmoth	devilmoths	1	1	1	1	2	0
+buffalo wing	buffalo wings	1	1	1	1	2	0
+mumboh<->jumboe	mumboh<->jumboes	1	1	1	1	2	0
+hunter mech	hunter mechs	1	1	1	1	2	0
+pink pongo	pink pongos	1	1	1	1	2	0
+liquid metal slime	liquid metal slimes	1	1	1	1	2	0
+mad mole	mad moles	1	1	1	1	2	0
+wailin' weed	wailin' weeds	1	1	1	1	2	0
+garuda	garudas	1	1	1	1	2	0
+infernal armour	infernal armours	1	2	1	1	2	0
+dragonthorn	dragonthorns	1	1	1	1	2	0
+mars rover	mars rovers	1	1	1	1	2	0
+peeper	peepers	1	1	1	1	2	0
+cockateer	cockateers	1	1	1	1	2	0
+great sabrecat	great sabrecats	1	1	1	1	2	0
+metal slime knight	metal slime knights	1	1	1	1	0	0
+puppet player	puppet players	1	1	1	1	0	0
+spitnik	spitniks	1	1	1	1	2	0
+bodkin fletcher	bodkin fletchers	1	1	1	1	2	0
+venom wasp	venom wasps	1	1	1	1	2	0
+orc	orcs	1	2	1	1	2	0
+night emperor	night emperors	1	1	1	1	2	0
+treevil	treevils	1	1	1	1	2	0
+battle beetle	battle beetles	1	1	1	1	0	0
+lump shaman	lump shamans	1	1	1	1	2	0
+skeleton soldier	skeleton soldiers	1	1	1	1	0	0
+hawk man	hawk men	1	1	1	1	0	0
+tap devil	tap devils	1	1	1	1	2	0
+mushroom mage	mushroom mages	1	1	1	1	2	0
+redtail hipster	redtail hipsters	1	1	1	1	0	0
+jumping jackal	jumping jackals	1	1	1	1	0	0
+gold golem	gold golems	1	1	1	1	0	0
+king slime	king slimes	1	1	1	1	0	0
+iron scorpion	iron scorpions	1	2	1	1	2	0
+toxic zombie	toxic zombies	1	1	1	1	0	0
+lesser demon	lesser demons	1	1	1	1	2	0
+Volpone	Volpones	1	1	1	1	2	0
+bomboulder	bomboulders	1	1	1	1	2	0
+skullrider	skullriders	1	1	1	1	2	0
+Hades condor	Hades condors	1	1	1	1	2	0
+frogman	frogmen	1	1	1	1	0	0
+mimic	mimics	1	1	1	1	2	0
+magic dumbbell	magic dumbbells	1	1	1	1	2	0
+gargoyle	gargoyles	1	1	1	1	0	0
+magic marionette	magic marionettes	1	1	1	1	0	0
+notso macho	notso machos	1	1	1	1	2	0
+lump wizard	lump wizards	1	1	1	1	0	0
+berserker	berserkers	1	1	1	1	2	0
+bulldozer	bulldozers	1	1	1	1	2	0
+ghoul	ghouls	1	1	1	1	0	0
+shade	shades	1	1	1	1	2	0
+lethal armour	lethal armours	1	1	1	1	2	0
+king cureslime	king cureslimes	1	1	1	1	2	0
+hoodlum	hoodlums	1	1	1	1	0	0
+hocus chimaera	hocus chimaeras	1	1	1	1	2	0
+demonrider	demonriders	1	1	1	1	2	0
+killer moth	killer moths	1	1	1	1	2	0
+jabberwockee	jabberwockees	1	1	1	1	2	0
+silenus	sileni	1	1	1	1	0	0
+robo<->robin	robo<->robins	1	1	1	1	2	0
+puppet master	puppet masters	1	1	1	1	0	0
+death scorpion	death scorpions	1	1	1	1	2	0
+jackal ripper	jackal rippers	1	1	1	1	0	0
+iron rhino	iron rhinos	1	2	1	1	0	0
+dancing flame	dancing flames	1	1	1	1	2	0
+blood mummy	blood mummies	1	1	1	1	2	0
+phantom swordsman	phantom swordsmen	1	1	1	1	2	0
+hacksaurus	hacksauruses	1	1	1	1	2	0
+bone baron	bone barons	1	1	1	1	0	0
+swingin' hipster	swingin' hipsters	1	1	1	1	0	0
+orc king	orc kings	1	2	1	1	0	0
+soulspawn	soulspawns	1	1	1	1	2	0
+gryphon	gryphons	1	1	1	1	2	0
+golem	golems	1	1	1	1	2	0
+fallen priest	fallen priests	1	1	1	1	0	0
+dead ringer	dead ringers	1	1	1	1	2	0
+living statue	living statues	1	1	1	1	0	0
+freeze fly	freeze flies	1	1	1	1	0	0
+dark slime	dark slimes	1	1	1	1	2	0
+frostburn	frostburns	1	1	1	1	2	0
+hellhound	hellhounds	1	1	1	1	2	0
+troll	trolls	1	1	1	1	0	0
+ice queen	ice queens	1	2	1	1	1	0
+abominape	abominapes	1	2	1	1	2	0
+beelzebuzz	beelzebuzzes	1	1	1	1	0	0
+killing machine	killing machines	1	1	1	1	2	0
+icikiller	icikillers	1	2	1	1	0	0
+shadow	shadows	1	1	1	1	2	0
+metal king slime	metal king slimes	1	1	1	1	0	0
+frost wyvine	frost wyvines	1	1	1	1	2	0
+elysium bird	elysium birds	1	2	1	1	2	0
+dragurn	dragurns	1	1	1	1	2	0
+smacker	smackers	1	1	1	1	2	0
+zombie gladiator	zombie gladiators	1	1	1	1	2	0
+stone golem	stone golems	1	1	1	1	2	0
+dark condor	dark condors	1	1	1	1	2	0
+mucho macho	muchos machos	1	1	1	1	2	0
+dark skeleton	dark skeletons	1	1	1	1	2	0
+dark macarbour	dark macarbours	1	1	1	1	2	0
+tyrantosaurus	tyrantosauruses	1	1	1	1	2	0
+demon thunderer	demon thunderers	1	1	1	1	2	0
+dark star	dark stars	1	1	1	1	2	0
+dark minister	dark ministers	1	1	1	1	2	0
+grim rider	grim riders	1	1	1	1	2	0
+dark sea<->diva	dark sea<->divas	1	1	1	1	1	0
+war gryphon	war gryphons	1	1	1	1	2	0
+dark turkey	dark turkeys	1	1	1	1	2	0
+heligator	heligators	1	1	1	1	2	0
+dark dullahan	dark dullahans	1	1	1	1	2	0
+killer croaker	killer croakers	1	1	1	1	2	0
+high roller	high rollers	1	1	1	1	2	0
+darkodile	darkodiles	1	1	1	1	2	0
+cyclops	cyclopes	1	1	1	1	0	0
+bloody hand	bloody hands	1	1	1	1	2	0
+snapdragon	snapdragons	1	1	1	1	2	0
+buffalogre	buffalogres	1	1	1	1	2	0
+mohawker	mohawkers	1	1	1	1	2	0
+archdemon	archdemons	1	2	1	1	2	0
+bobonga	bobongas	1	1	1	1	2	0
+caped caperer	caped caperers	1	1	1	1	2	0
+claws	claws	1	1	1	1	0	0
+boss troll	boss trolls	1	1	1	1	0	0
+mimic king	mimic kings	1	1	1	1	0	0
+fowlfighter	fowlfighters	1	1	1	1	2	0
+dullahan	dullahans	1	1	1	1	2	0
+gigantes	giganti	1	1	1	1	0	0
+frou<->frou	frou<->frous	1	1	1	1	2	0
+stone guardian	stone guardians	1	1	1	1	0	0
+wight priest	wight priests	1	1	1	1	0	0
+hell gladiator	hell gladiators	1	1	1	1	2	0
+dark slime	dark slimes	1	1	1	1	2	0
+shadow	shadows	1	1	1	1	2	0
+dark skeleton	dark skeletons	1	1	1	1	2	0
+dark condor	dark condors	1	1	1	1	2	0
+dark macarbour	dark macarbours	1	1	1	1	2	0
+dark turkey	dark turkeys	1	1	1	1	2	0
+dark minister	dark ministers	1	1	1	1	2	0
+dark dullahan	dark dullahans	1	1	1	1	2	0
+dark moth	dark moths	1	1	1	1	2	0
+dark star	dark stars	1	1	1	1	2	0
+dark gryphon	dark gryphons	1	1	1	1	2	0
+darkodile	darkodiles	1	1	1	1	2	0
+dark sabrecat	dark sabrecats	1	1	1	1	2	0
+hell hopper	hell hoppers	1	1	1	1	2	0
+dark devildog	dark devildogs	1	1	1	1	2	0
+heavy hood	heavy hoods	1	1	1	1	0	0
+hellstalker	hellstalkers	1	1	1	1	2	0
+silhouette	silhouettes	1	1	1	1	2	0
+democrobot	democrobots	1	1	1	1	2	0
+Pandora's box	Pandora's boxes	1	1	1	1	2	0
+wight king	wight kings	1	1	1	1	0	0
+invisible swordsman	invisible swordsmen	1	2	1	1	0	0
+hellspawn	hellspawns	1	1	1	1	2	0
+belial	belials	1	1	1	1	2	0
+solaris	solari	1	1	1	1	2	0
+great troll	great trolls	1	1	1	1	0	0
+unholy bishop	unholy bishops	1	2	1	1	0	0
+hell's gatekeeper	hell's gatekeepers	1	1	1	1	2	0
+crocodog	crocodogs	1	1	1	1	2	0
+khalamari kid	khalamari kids	1	1	1	1	2	0
+see urchin	see urchins	1	1	1	1	2	0
+man o' war	man o' wars	1	1	1	1	2	0
+yabby	yabbies	1	1	1	1	2	0
+king kelp	king kelps	1	1	1	1	0	0
+wild boarfish	wild boarfish	1	1	1	1	2	0
+khalamari kid	khalamari kids	1	1	1	1	2	0
+see urchin	see urchins	1	1	1	1	2	0
+man o' war	man o' wars	1	1	1	1	2	0
+anchorman	anchormen	1	2	1	1	2	0
+see angel	see angels	1	1	1	1	2	0
+squid kid	squid kids	1	1	1	1	2	0
+king kelp	king kelps	1	1	1	1	0	0
+crayzee	crayzees	1	1	1	1	2	0
+eveel	eveels	1	2	1	1	2	0
+merman	mermen	1	1	1	1	0	0
+king squid	king squids	1	1	1	1	2	0
+octavian sentry	octavian sentries	1	2	1	1	0	0
+pigmalion	pigmalions	1	1	1	1	2	0
+sea dragon	sea dragons	1	1	1	1	2	0
+foul anchor	foul anchors	1	1	1	1	2	0
+poison eveel	poison eveels	1	1	1	1	2	0
+siren	sirens	1	1	1	1	1	0
+merking	merkings	1	1	1	1	0	0
+seasaur	seasaurs	1	1	1	1	2	0
+octavian pirate	octavian pirates	1	2	1	1	0	0
+riptide	riptides	1	1	1	1	0	0
+tentacular	tentaculars	1	1	1	1	2	0
+abyss diver	abyss divers	1	2	1	1	2	0
+slime	slimes	1	1	1	1	2	0
+firespirit	firespirits	1	1	1	1	2	0
+lost soul	lost souls	1	1	1	1	2	0
+servant of darkness	servants of darkness	1	1	1	1	2	0
+frogface	frogfaces	1	1	1	1	2	0
+frogman	frogmen	1	1	1	1	0	0
+killer croaker	killer croakers	1	1	1	1	2	0
+winky	winkies	1	1	1	1	2	0
+pan piper	pan pipers	1	1	1	1	0	0
+magic dumbbell Lv. 5	magic dumbbells Lv. 5	1	1	1	1	2	0
+dead ringer Lv. 5	dead ringers Lv. 5	1	1	1	1	2	0
+high roller	high rollers	1	1	1	1	2	0
+skeleton soldier	skeleton soldiers	1	1	1	1	0	0
+ghoul	ghouls	1	1	1	1	0	0
+anchorman	anchormen	1	2	1	1	2	0
+mum	mums	1	1	1	1	2	0
+boh	bohs	1	1	1	1	2	0
+jum	jums	1	1	1	1	2	0
+boe	boes	1	1	1	1	2	0
+jab	jabs	1	1	1	1	2	0
+ber	bers	1	1	1	1	2	0
+kee	kees	1	1	1	1	2	0
+woc	wocs	1	1	1	1	2	0
+head of state	heads of state	1	1	1	1	2	0
+body politic	bodies politic	1	1	1	1	2	0
+right wing	right wings	1	1	1	1	2	0
+left wing	left wings	1	1	1	1	2	0
+jab	jabs	1	1	1	1	2	0
+Red Horn	Red Horns	0	0	0	0	0	0
+Blue Fang	Blue Fangs	0	0	0	0	0	0
+phoenix	phoenixes	1	1	1	1	2	0
+night rider	night riders	1	1	1	1	2	0
+corpse corporal	corpse corporals	1	1	1	1	2	0
+great keeper	great keepers	1	1	1	1	2	0
+crème caraslime	crème caraslimes	1	1	1	1	2	0
+dead bowdy	dead bowdys	1	1	1	1	2	0
+Morrimp	Morrimps	1	1	1	1	2	0
+gold nugcat	gold nugcats	1	1	1	1	2	0
+cherreevil blossom	cherreevil blossoms	1	1	1	1	2	0
+santaclops	santaclopses	1	1	1	1	2	0
+box of tricks	boxes of tricks	1	1	1	1	2	0
+coffer of death	coffers of death	1	1	1	1	2	0
+coffer of death	coffers of death	1	1	1	1	2	0
+great keeper	great keepers	1	1	1	1	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+		0	0	0	0	2	0
+slime	slimes	1	1	1	1	2	0
+slime	slimes	1	1	1	1	2	0
+hammerhood	hammerhoods	1	1	1	1	2	0
+Geyzer	Geyzers	0	0	0	0	0	0
+Mash	Mash	0	0	0	0	0	0
+Bangerz	Bangerz	0	0	0	0	0	0
+Khalamari	Khalamaris	0	0	0	0	0	0
+tortured soul	tortured souls	1	1	1	1	0	0
+trap box	trap boxes	1	1	1	1	2	0
+Don Mole	Don Moles	0	0	0	0	0	0
+sea dragon	sea dragons	1	1	1	1	2	0
+Argon lizard	Argon lizards	1	2	1	1	2	0
+great Argon lizard	great Argon lizards	1	1	1	1	2	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Dhoulmagus	Dhoulmagus	0	0	0	0	0	0
+Evil Jessica	Evil Jessicas	0	0	0	0	1	0
+Evil Jessica	Evil Jessicas	0	0	0	0	1	0
+shadow	shadows	1	1	1	1	2	0
+hellhound	hellhounds	1	1	1	1	2	0
+Captain Crow	Captains Crow	0	0	0	0	0	0
+Red Horn	Red Horns	0	0	0	0	0	0
+Blue Fang	Blue Fangs	0	0	0	0	0	0
+Empyrea	Empyreas	0	0	0	0	1	0
+Gemon	Gemons	0	0	0	0	0	0
+Evil Sir Leopold	Evil Sir Leopolds	0	0	0	0	0	0
+Evil Sir Leopold	Evil Sir Leopold	0	0	0	0	0	0
+Marcello	Marcello	0	0	0	0	0	0
+Marcello	Marcellos	0	0	0	0	0	0
+king squid	king squids	1	1	1	1	2	0
+boss troll	boss trolls	1	1	1	1	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Rhapthorne	Rhapthorne	0	0	0	0	0	0
+Lord of the Dragovians	Lords of the Dragovians	1	8	1	2	0	0
+Lord of the Dragovians	Lords of the Dragovians	1	8	1	2	0	0
+Lord of the Dragovians	Lords of the Dragovians	1	8	1	2	0	0
+Lord of the Dragovians	Lords of the Dragovians	1	8	1	2	0	0
+Lord of the Dragovians	Lords of the Dragovians	1	8	1	2	0	0
+vermillion dragon	vermillion dragons	1	1	1	1	0	0
+vermillion dragon	vermillion dragons	1	1	1	1	0	0
+servant of darkness	servants of darkness	1	1	1	1	2	0
+statue of <hero>	statues of <hero>	1	1	1	1	0	0
+statue of Yangus	statues of Yangus	1	1	1	1	0	0
+statue of Jessica	statues of Jessica	1	1	1	1	1	0
+statue of Angelo	statues of Angelo	1	1	1	1	0	0
+megalodon	megalodons	1	1	1	1	2	0
+Ruin	Ruins	0	0	1	1	2	0
+soul mole	soul moles	1	1	1	1	0	0
+dancing flame	dancing flames	1	1	1	1	2	0
+emerald dragon	emerald dragons	1	2	1	1	0	0
+emerald dragon	emerald dragons	1	2	1	1	0	0
+emerald dragon	emerald dragons	1	2	1	1	0	0
+silver dragon	silver dragons	1	1	1	1	0	0
+silver dragon	silver dragons	1	1	1	1	0	0
+silver dragon	silver dragons	1	1	1	1	0	0
+golden dragon	golden dragons	1	1	1	1	0	0
+golden dragon	golden dragons	1	1	1	1	0	0
+golden dragon	golden dragons	1	1	1	1	0	0
+darksteel dragon	darksteel dragons	1	1	1	1	0	0
+darksteel dragon	darksteel dragons	1	1	1	1	0	0
+darksteel dragon	darksteel dragons	1	1	1	1	0	0
+divine dragon	divine dragons	1	1	1	1	0	0
+divine dragon	divine dragons	1	1	1	1	0	0
+divine dragon	divine dragons	1	1	1	1	0	0
+emerald dragon	emerald dragons	1	2	1	1	0	0
+emerald dragon	emerald dragons	1	2	1	1	0	0
+emerald dragon	emerald dragons	1	2	1	1	0	0
+silver dragon	silver dragons	1	1	1	1	0	0
+silver dragon	silver dragons	1	1	1	1	0	0
+silver dragon	silver dragons	1	1	1	1	0	0
+golden dragon	golden dragons	1	1	1	1	0	0
+golden dragon	golden dragon	1	1	1	1	0	0
+golden dragon	golden dragons	1	1	1	1	0	0
+darksteel dragon	darksteel dragons	1	1	1	1	0	0
+darksteel dragon	darksteel dragons	1	1	1	1	0	0
+darksteel dragon	darksteel dragons	1	1	1	1	0	0
+divine dragon	divine dragons	1	1	1	1	0	0
+divine dragon	divine dragons	1	1	1	1	0	0
+divine dragon	divine dragons	1	1	1	1	0	0
+ultimate dragon	ultimate dragons	1	2	1	1	0	0
+ultimate dragon	ultimate dragons	1	2	1	1	0	0
+ultimate dragon	ultimate dragons	1	2	1	1	0	0
+vermillion dragon	vermillion dragons	1	1	1	1	0	0
+vermillion dragon	vermillion dragons	1	1	1	1	0	0
+Juggerwroth	Juggerwroths	0	0	1	1	0	0
+Juggerwroth	Juggerwroths	0	0	1	1	0	0
+Juggerwroth	Juggerwroths	0	0	1	1	0	0
+Juggerwroth	Juggerwroths	0	0	1	1	0	0
+Geyzer in Memoriam	Geyzers in Memoriam	0	0	1	1	0	0
+Tortured Soul in Mem.	Tortured Souls in Mem.	1	1	1	1	0	0
+Skeleton in Memoriam	Skeletons in Memoriam	1	1	1	1	2	0
+Walking Corpse in Mem.	Walking Corpses in Mem.	1	1	1	1	2	0
+Trap Box in Memoriam	Trap Boxes in Memoriam	1	1	1	1	2	0
+Don Mole in Memoriam	Don Moles in Memoriam	0	0	1	1	0	0
+Soul Mole in Memoriam	Soul Moles in Memoriam	0	0	1	1	2	0
+Argon Lizard in Mem.	Argon Lizards in Mem.	0	0	1	1	2	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Dhoulmagus in Mem.	Dhoulmaguses in Mem.	0	0	1	1	0	0
+Evil Jessica in Mem.	Evil Jessicas in Mem.	0	0	1	1	1	0
+Evil Jessica in Mem.	Evil Jessicas in Mem.	0	0	1	1	1	0
+Shadow in Memoriam	Shadows in Memoriam	1	1	1	1	2	0
+Captain Crow in Mem.	Captain Crows in Mem.	0	0	1	1	0	0
+Gemon in Memoriam	Gemons in Memoriam	0	0	1	1	0	0
+Darkbird in Memoriam	Darkbirds in Memoriam	1	1	1	1	2	0
+Dark Turkey in Mem.	Dark Turkeys in Mem.	1	1	1	1	2	0
+Sir Leopold in Mem.	Sir Leopolds in Mem.	0	0	1	1	0	0
+Sir Leopold in Mem.	Sir Leopolds in Mem.	0	0	1	1	0	0
+Marcello in Memoriam	Marcellos in Memoriam	0	0	1	1	0	0
+Marcello in Memoriam	Marcellos in Memoriam	0	0	1	1	0	0
+Dark Servant in Mem.	Dark Servants in Mem.	1	1	1	1	2	0
+Dancing Flame in Mem.	Dancing Flames in Mem.	1	1	1	1	2	0
+Ruin in Memoriam	Ruins in Memoriam	0	0	1	1	2	0
+Estark	Estarks	0	0	1	1	0	0
+Estark	Estarks	0	0	1	1	0	0
+Estark	Estarks	0	0	1	1	0	0
+Estark	Estarks	0	0	1	1	0	0
+[[Actions	864	
+N/A	N/A	0	0	0	0	2	0
+REGULAR ATTACK	REGULAR ATTACK	0	0	0	0	2	0
+WHIP REGULAR ATTACK	WHIP REGULAR ATTACK	0	0	0	0	2	0
+Megawhip	Megawhip	1	1	0	0	2	0
+Group Flail	Group Flail	1	1	0	0	2	0
+Megaflail	Megaflail	1	1	0	0	2	0
+BOOMERANG REGULAR ATTACK	BOOMERANG REGULAR ATTACK	0	0	0	0	2	0
+Frizz	Frizz	0	0	0	0	2	0
+Frizzle	Frizzle	0	0	0	0	2	0
+Kafrizzle	Kafrizzle	0	0	0	0	2	0
+Sizz	Sizz	0	0	0	0	2	0
+Sizzle	Sizzle	0	0	0	0	2	0
+Kasizzle	Kasizzle	0	0	0	0	2	0
+Bang	Bang	0	0	0	0	2	0
+Boom	Boom	0	0	0	0	2	0
+Kaboom	Kaboom	0	0	0	0	2	0
+Woosh	Woosh	0	0	0	0	2	0
+Swoosh	Swoosh	0	0	0	0	2	0
+Kaswoosh	Kaswoosh	0	0	0	0	2	0
+Crack	Crack	0	0	0	0	2	0
+Crackle	Crackle	0	0	0	0	2	0
+Kacrackle	Kacrackle	0	0	0	0	2	0
+Zap	Zap	0	0	0	0	2	0
+Kazap	Kazap	0	0	0	0	2	0
+Whack	Whack	0	0	0	0	2	0
+Whack	Whack	0	0	0	0	2	0
+Thwack	Thwack	0	0	0	0	2	0
+Thwack	Thwack	0	0	0	0	2	0
+Kathwack	Kathwack	0	0	0	0	2	0
+Kathwack	Kathwack	0	0	0	0	2	0
+Pearly Gates	Pearly Gates	1	1	0	0	2	0
+Magic Burst	Magic Burst	1	1	0	0	2	0
+Magic Burst II	Magic Burst II	1	1	0	0	2	0
+Kamikazee	Kamikazee	0	0	0	0	2	0
+Kamikazee	Kamikazee	0	0	0	0	2	0
+Snooze	Snooze	0	0	0	0	2	0
+Snooze	Snooze	0	0	0	0	2	0
+Kasnooze	Kasnooze	0	0	0	0	2	0
+Kasnooze	Kasnooze	0	0	0	0	2	0
+Dazzle	Dazzle	0	0	0	0	2	0
+Dazzle	Dazzle	0	0	0	0	2	0
+Fizzle	Fizzle	0	0	0	0	2	0
+Fizzle	Fizzle	0	0	0	0	2	0
+Fuddle	Fuddle	0	0	0	0	2	0
+Fuddle	Fuddle	0	0	0	0	2	0
+Kafuddle	Kafuddle	1	1	0	0	2	0
+Kafuddle	Kafuddle	0	0	0	0	2	0
+Drain Magic	Drain Magic	0	0	0	0	2	0
+Bounce	Bounce	0	0	0	0	2	0
+Sap	Sap	0	0	0	0	2	0
+Sap	Sap	0	0	0	0	2	0
+Kasap	Kasap	0	0	0	0	2	0
+Kasap	Kasap	0	0	0	0	2	0
+Buff	Buff	0	0	0	0	2	0
+Buff	Buff	0	0	0	0	2	0
+Buff	Buff	0	0	0	0	2	0
+Kabuff	Kabuff	0	0	0	0	2	0
+Acceleratle	Acceleratle	0	0	0	0	2	0
+Deceleratle	Deceleratle	0	0	0	0	2	0
+Deceleratle	Deceleratle	0	0	0	0	2	0
+Insulatle	Insulatle	0	0	0	0	2	0
+Oomph	Oomph	0	0	0	0	2	0
+Heal	Heal	0	0	0	0	2	0
+Heal	Heal	0	0	0	0	2	0
+Heal	Heal	0	0	0	0	2	0
+Midheal	Midheal	0	0	0	0	2	0
+Midheal	Midheal	0	0	0	0	2	0
+Midheal	Midheal	0	0	0	0	2	0
+Fullheal	Fullheal	0	0	0	0	2	0
+Fullheal	Fullheal	0	0	0	0	2	0
+Fullheal	Fullheal	0	0	0	0	2	0
+Multiheal	Multiheal	0	0	0	0	2	0
+Omniheal	Omniheal	0	0	0	0	2	0
+Zing	Zing	0	0	0	0	2	0
+Kazing	Kazing	0	0	0	0	2	0
+Kerplunk	Kerplunk	0	0	0	0	2	0
+Squelch	Squelch	0	0	0	0	2	0
+Tingle	Tingle	0	0	0	0	2	0
+Magic Barrier	Magic Barrier	1	1	0	0	2	0
+Zoom	Zoom	0	0	0	0	2	0
+Evac	Evac	1	1	0	0	2	0
+Blasto	Blasto	1	1	0	0	2	0
+Holy Protection	Holy Protection	1	1	0	0	2	0
+Safe Passage	Safe Passage	1	1	0	0	2	0
+DUMMY_IMPAS	DUMMY_IMPAS	0	0	0	0	2	0
+Padfoot	Padfoot	1	1	0	0	2	0
+Share Magic	Share Magic	0	0	0	0	2	0
+Ban Dance	Ban Dance	1	1	0	0	2	0
+Divine Intervention	Divine Intervention	1	1	0	0	2	0
+Pearly Gates	Pearly Gates	0	0	0	0	2	0
+CONFUSE REGULAR ATTACK	CONFUSE REGULAR ATTACK	0	0	0	0	2	0
+CONFUSE REGULAR ATTACK	CONFUSE REGULAR ATTACK	0	0	0	0	2	0
+Meditation	Meditation	1	1	0	0	2	0
+Defending Champion	Defending Champion	1	1	0	0	2	0
+Weird Dance	Weird Dance	1	1	0	0	2	0
+Weird Dance	Weird Dance	1	1	0	0	2	0
+Weird Dance	Weird Dance	1	1	0	0	2	0
+Sultry Dance	Sultry Dance	1	1	0	0	2	0
+Death Dance	Death Dance	1	1	0	0	2	0
+Hustle Dance	Hustle Dance	1	1	0	0	2	0
+Kerplunk Dance	Kerplunk Dance	1	1	0	0	2	0
+Fuddle Dance	Fuddle Dance	1	1	0	0	2	0
+Last Dance	Last Dance	0	1	0	0	2	0
+Underpants Dance	Underpants Dance	1	2	0	0	2	0
+Underpants Dance	Underpants Dance	0	0	0	0	2	0
+Sweet Breath	Sweet Breath	1	1	0	0	2	0
+Poison Breath	Poison Breath	1	1	0	0	2	0
+Venom Mist	Venom Mist	1	1	0	0	2	0
+Burning Breath	Burning Breath	1	1	0	0	2	0
+Burning Breath	Burning Breath	1	1	0	0	2	0
+Sandstorm	Sandstorm	1	1	0	0	2	0
+Sandstorm	Sandstorm	1	1	0	0	2	0
+Dazzleflash	Dazzleflash	1	1	0	0	2	0
+Warcry	Warcry	1	1	0	0	2	0
+Warcry	Warcry	1	1	0	0	2	0
+Puff<->Puff	Puff<->Puff	1	1	0	0	2	0
+Puff<->Puff	Puff<->Puff	1	1	0	0	2	0
+Ice Wave	Ice Wave	1	2	0	0	2	0
+Lightning	Lightning	1	1	0	0	2	0
+Wind Sickles	Wind Sickles	1	1	0	0	2	0
+Thin Air	Thin Air	1	2	0	0	2	0
+Fire Breath	Fire Breath	1	1	0	0	2	0
+Flame Breath	Flame Breath	1	1	0	0	2	0
+Inferno	Inferno	1	2	0	0	2	0
+Scorch	Scorch	1	1	0	0	2	0
+Cool Breath	Cool Breath	1	1	0	0	2	0
+Chilly Breath	Chilly Breath	1	1	0	0	2	0
+Cold Blizzard	Cold Blizzard	1	1	0	0	2	0
+C-C-Cold Breath	C-C-Cold Breath	1	1	0	0	2	0
+Stone's Throw	Stones' Throw	1	1	0	0	2	0
+Boulder Toss	Boulder Toss	1	1	0	0	2	0
+Lightning Storm	Lightning Storm	1	1	0	0	2	0
+Bodyslam	Bodyslam	1	1	0	0	2	0
+Direct Thrust	Direct Thrust	1	1	0	0	2	0
+Multifists	Multifists	1	1	0	0	2	0
+Hatchet Man	Hatchet Man	1	1	0	0	2	0
+Falcon Slash	Falcon Slash	1	1	0	0	2	0
+Harvest Moon	Harvest Moon	1	1	0	0	2	0
+Dragon Slash	Dragon Slash	1	1	0	0	2	0
+Metal Slash	Metal Slash	1	1	0	0	2	0
+Thunder Slash	Thunder Slash	1	1	0	0	2	0
+Flame Slash	Flame Slash	1	1	0	0	2	0
+Vacuum Slash	Vacuum Slash	1	1	0	0	2	0
+Kacrackle Slash	Kacrackle Slash	1	1	0	0	2	0
+Steal Sickle	Steal Sickle	1	1	0	0	2	0
+Knuckle Sandwich	Knuckle Sandwich	1	1	0	0	2	0
+Gigaslash	Gigaslash	1	1	0	0	2	0
+Golden Oldies	Golden Oldies	1	1	0	0	2	0
+OFF-TARGET ATTACK	OFF-TARGET ATTACK	0	0	0	0	2	0
+Supersize Slime	Supersize Slime	1	1	0	0	2	0
+SORROW ATTACK 1	SORROW ATTACK 1	0	0	0	0	2	0
+SORROW ATTACK 2	SORROW ATTACK 2	0	0	0	0	2	0
+SLEEP ATTACK	SLEEP ATTACK	0	0	0	0	2	0
+POISON ATTACK	POISON ATTACK	0	0	0	0	2	0
+PARALYSIS ATTACK	PARALYSIS ATTACK	0	0	0	0	2	0
+CONFUSE ATTACK	CONFUSE ATTACK	0	0	0	0	2	0
+Mini Explosion	Mini Explosion	1	1	0	0	2	0
+100% Paralysis	100% Paralysis	1	1	0	0	2	0
+Warcry II	Warcry II	1	1	0	0	2	0
+100% Sleep	100% Sleep	1	1	0	0	2	0
+Clutch II	Clutch II	1	1	0	0	2	0
+Full MP Restore	Full MP Restore	1	1	0	0	2	0
+Whistle	Whistle	0	0	0	0	2	0
+Mercurial Thrust	Mercurial Thrust	1	1	0	0	2	0
+Leg Sweep	Leg Sweep	1	1	0	0	2	0
+Nose for Treasure	Nose for Treasure	1	1	0	0	2	0
+Call Team	Call Team	1	1	0	0	2	0
+Multishot	Multishot	1	1	0	0	2	0
+Needle Shot	Needle Shot	1	1	0	0	2	0
+Parallax	Parallax	1	1	0	0	2	0
+Heart Breaker	Heart Breaker	1	1	0	0	2	0
+Axes of Evil	Axes of Evil	1	2	0	0	2	0
+Big Banga	Big Banga	1	1	0	0	2	0
+Miracle Slash	Miracle Slash	1	1	0	0	2	0
+Clean Sweep	Clean Sweep	1	1	0	0	2	0
+Crosscutter Throw	Crosscutter Throw	1	1	0	0	2	0
+Power Throw	Power Throw	1	1	0	0	2	0
+Starburst Throw	Starburst Throw	1	1	0	0	2	0
+Firebird Throw	Firebird Throw	1	1	0	0	2	0
+Gigathrow	Gigathrow	1	1	0	0	2	0
+Helm Splitter	Helm Splitter	1	1	0	0	2	0
+Typhoeus' Maul	Typhoeus' Maul	1	1	0	0	2	0
+Monster Masher	Monster Masher	1	1	0	0	2	0
+Penny Pincher	Penny Pincher	1	1	0	0	2	0
+Devil Crusher	Devil Crusher	1	1	0	0	2	0
+Grim Reaper	Grim Reaper	1	1	0	0	2	0
+Assassin's Stab	Assassin's Stab	1	2	0	0	2	0
+Sudden Death	Sudden Death	1	1	0	0	2	0
+Toxic Sword	Toxic Sword	1	1	0	0	2	0
+Whiplash	Whiplash	1	1	0	0	2	0
+Twin Dragon Lash	Twin Dragon Lash	1	1	0	0	2	0
+Serpent's Bite	Serpent's Bite	1	1	0	0	2	0
+Lashings of Love	Lashings of Love	1	1	0	0	2	0
+Lady's Thong	Lady's Thong	1	1	0	0	2	0
+Shining Shot	Shining Shot	1	1	0	0	2	0
+Sandman's Arrow	Sandman's Arrow	1	1	0	0	2	0
+Seraph's Arrow	Seraph's Arrow	1	1	0	0	2	0
+Caduceus	Caduceus	1	1	0	0	2	0
+Blow Kiss	Blow Kiss	1	1	0	0	2	0
+Hip Drop	Hip Drop	1	1	0	0	2	0
+Sexy Beam	Sexy Beam	1	1	0	0	2	0
+Pink Typhoon	Pink Typhoon	1	1	0	0	2	0
+Miracle Moon	Miracle Moon	1	1	0	0	2	0
+Charming Look	Charming Look	1	1	0	0	2	0
+Multithrust	Multithrust	1	1	0	0	2	0
+Gigaflash	Gigaflash	1	1	0	0	2	0
+Tongue Lashing	Tongue Lashing	1	1	0	0	2	0
+Silly Song	Silly Song	1	1	0	0	2	0
+Counting Sheep	Counting Sheep	1	1	0	0	2	0
+Spooky Aura	Spooky Aura	1	1	0	0	2	0
+Angel Song	Angel Song	1	2	0	0	2	0
+Incantation	Incantation	1	2	0	0	2	0
+Party Split	Party Split	1	1	0	0	2	0
+Rubble Attack	Rubble Attack	1	1	0	0	2	0
+Rush	Rush	1	1	0	0	2	0
+Sheep Call	Sheep Call	1	1	0	0	2	0
+Nosedive	Nosedive	1	1	0	0	2	0
+Occult Attack	Occult Attack	1	2	0	0	2	0
+Lv. 10 Wind Sickle	Lv. 10 Wind Sickle	1	1	0	0	2	0
+Lv. 60 Wind Sickle	Lv. 60 Wind Sickle	1	1	0	0	2	0
+Lv. 10 Thin Air	Lv. 10 Thin Air	1	1	0	0	2	0
+Lv. 60 Thin Air	Lv. 60 Thin Air	1	1	0	0	2	0
+Birdcutter	Birdcutter	1	1	0	0	2	0
+Groundstrike	Groundstrike	1	1	0	0	2	0
+Beam	Beam	1	1	0	0	2	0
+Featherain	Featherain	1	1	0	0	2	0
+Spin Attack	Spin Attack	1	1	0	0	2	0
+Twist Attack	Twist Attack	1	1	0	0	2	0
+Shockwave	Shockwave	1	1	0	0	2	0
+Bellyflop	Bellyflop	1	1	0	0	2	0
+Throwdown	Throwdown	1	1	0	0	2	0
+Wrath of the Gods	Wrath of the Gods	1	1	0	0	2	0
+Poison Salvo	Poison Salvo	1	1	0	0	2	0
+Defencive Offence	Defencive Offence	1	1	0	0	2	0
+Psyche<->Out	Psyche<->Out	1	1	0	0	2	0
+Flex<->Out	Flex<->Out	1	1	0	0	2	0
+Foxtrot	Foxtrot	1	1	0	0	2	0
+Lame Story	Lame Story	1	1	0	0	2	0
+Exciting Tale	Exciting Tale	1	2	0	0	2	0
+Funny Story	Funny Story	1	1	0	0	2	0
+Frighten	Frighten	1	1	0	0	2	0
+Dragovian Seal	Dragovian Seal	1	1	0	0	2	0
+Cursed Song	Cursed Song	1	1	0	0	2	0
+Cursed Tune	Cursed Tune	1	1	0	0	2	0
+Cursed Mist	Cursed Mist	1	1	0	0	2	0
+Cursed Attack	Cursed Attack	1	1	0	0	2	0
+Skipturn Attack	Skipturn Attack	1	1	0	0	2	0
+Collar Catapult	Collar Catapult	1	1	0	0	2	0
+Curseball	Curseball	1	1	0	0	2	0
+Pointer	Pointer	1	1	0	0	2	0
+Thorntwine	Thorntwine	1	1	0	0	2	0
+Cacophony	Cacophony	1	1	0	0	2	0
+Snow Throw	Snow Throw	1	1	0	0	2	0
+Meteor Strike	Meteor Strike	1	1	0	0	2	0
+Chimaera Breath	Chimaera Breath	1	1	0	0	2	0
+Coda Chime	Coda Chime	1	1	0	0	2	0
+Salvation Swig	Salvation Swig	1	1	0	0	2	0
+Yggdrasil leaf	Yggdrasil leaf	1	1	0	0	2	0
+Dark Macarbour Leaf	Dark Macarbour Leaves	1	1	0	0	2	0
+Sarcastic Snigger	Sarcastic Snigger	1	1	0	0	2	0
+Love Story	Love Story	1	1	0	0	2	0
+Executioner	Executioner	1	2	0	0	2	0
+Stainless Steal Sickle	Stainless Steal Sickle	1	1	0	0	2	0
+Big Banga	Big Banga	1	1	0	0	2	0
+Super Throw	Super Throw	1	1	0	0	2	0
+Mind Breaker	Mind Breaker	1	1	0	0	2	0
+Gold Rush	Gold Rush	1	1	0	0	2	0
+Grimmer Reaper	Grimmer Reaper	1	1	0	0	2	0
+Toxic Dagger	Toxic Dagger	1	1	0	0	2	0
+Queen's Thong	Queen's Thong	1	1	0	0	2	0
+Needle Rain	Needle Rain	1	1	0	0	2	0
+Cherub's Arrow	Cherub's Arrow	1	1	0	0	2	0
+Angel Eyes	Angel Eyes	1	2	0	0	2	0
+Chilling Chuckle	Chilling Chuckle	1	1	0	0	2	0
+Thunder Thrust	Thunder Thrust	1	1	0	0	2	0
+Lightning Thrust	Lightning Thrust	1	1	0	0	2	0
+Gigagash	Gigagash	1	1	0	0	2	0
+Dragon Soul	Dragon Souls	0	0	0	0	2	0
+Megawhip	Megawhip	1	1	0	0	2	0
+medicinal herb	medicinal herbs	1	1	1	1	2	0
+Other herb	Other herb	0	0	0	0	2	0
+FLAME BARRIER EFFECT	FLAME BARRIER EFFECT	0	0	0	0	2	0
+ICE BARRIER EFFECT	ICE BARRIER EFFECT	0	0	0	0	2	0
+antidotal herb	antidotal herb	0	0	0	0	2	0
+mini medal	mini medal	0	0	0	0	2	0
+Yggdrasil leaf	Yggdrasil leaf	1	2	0	0	2	0
+world map	world map	0	0	0	0	2	0
+tool bag	tool bag	0	0	0	0	2	0
+Jessica's letter	Jessica's letter	0	0	0	0	2	0
+holy water	holy water	0	0	0	0	2	0
+holy water	holy water	0	0	0	0	2	0
+chimaera wing	chimaera wing	0	0	0	0	2	0
+seed of wisdom	seed of wisdom	0	0	0	0	2	0
+seed of strength	seed of strength	0	0	0	0	2	0
+seed of agility	seed of agility	0	0	0	0	2	0
+seed of defence	seed of defence	0	0	0	0	2	0
+seed of life	seed of life	0	0	0	0	2	0
+seed of magic	seed of magic	0	0	0	0	2	0
+thief's key recipe	thief's key recipe	0	0	0	0	2	0
+dream blade	dream blade	0	0	0	0	2	0
+Dragovian sword	Dragovian sword	0	0	0	0	2	0
+Dragovian king sword	Dragovian king sword	0	0	0	0	2	0
+icicle dirk	icicle dirk	0	0	0	0	2	0
+wizard's staff	wizard's staff	0	0	0	0	2	0
+lightning staff	lightning staff	0	0	0	0	2	0
+staff of divine wrath	staff of divine wrath	0	0	0	0	2	0
+magma staff	magma staff	0	0	0	0	2	0
+staff of antimagic	staff of antimagic	0	0	0	0	2	0
+rune staff	rune staff	0	0	0	0	2	0
+staff of resurrection	staff of resurrection	0	0	0	0	2	0
+Cheiron's bow	Cheiron's bow	0	0	0	0	2	0
+power shield	power shield	0	0	0	0	2	0
+big boss shield	big boss shield	0	0	0	0	2	0
+Hermes' hat	Hermes' hat	0	0	0	0	2	0
+prayer ring	prayer ring	0	0	0	0	2	0
+moonwort bulb	moonwort bulb	0	0	0	0	2	0
+strong medicine	strong medicine	0	0	0	0	2	0
+special medicine	special medicine	0	0	0	0	2	0
+lesser panacea	lesser panacea	0	0	0	0	2	0
+greater panacea	greater panacea	0	0	0	0	2	0
+rose<->root	rose<->root	0	0	0	0	2	0
+rose<->wort	rose<->wort	0	0	0	0	2	0
+strong antidote	strong antidote	0	0	0	0	2	0
+special antidote	special antidote	0	0	0	0	2	0
+moon's mercy	moon's mercy	0	0	0	0	2	0
+mystifying mixture	mystifying mixture	0	0	0	0	2	0
+Yggdrasil dew	Yggdrasil dew	1	2	0	0	2	0
+amor seco essence	amor seco essence	0	0	0	0	2	0
+magic water	magic water	0	0	0	0	2	0
+elfin elixir	elfin elixir	0	0	0	0	2	0
+rockbomb shard	rockbomb shard	0	0	0	0	2	0
+sage's stone	sage's stone	0	0	0	0	2	0
+seed of skill	seed of skill	0	0	0	0	2	0
+timbrel of tension	timbrel of tension	0	0	0	0	2	0
+plain cheese	plain cheese	0	0	0	0	2	0
+spicy cheese	spicy cheese	0	0	0	0	2	0
+super spicy cheese	super spicy cheese	0	0	0	0	2	0
+scorching cheese	scorching cheese	0	0	0	0	2	0
+cool cheese	cool cheese	0	0	0	0	2	0
+chilly cheese	chilly cheese	0	0	0	0	2	0
+cold cheese	cold cheese	0	0	0	0	2	0
+c-c-cold cheese	c-c-cold cheese	0	0	0	0	2	0
+mild cheese	mild cheese	0	0	0	0	2	0
+cured cheese	cured cheese	0	0	0	0	2	0
+angel cheese	angel cheese	0	0	0	0	2	0
+hard cheese	hard cheese	0	0	0	0	2	0
+soft cheese	soft cheese	0	0	0	0	2	0
+chunky cheese	chunky cheese	0	0	0	0	2	0
+highly strung cheese	highly strung cheese	0	0	0	0	2	0
+gold nugget	gold nugget	0	0	0	0	2	0
+cowpat	cowpat	0	0	0	0	2	0
+dragon dung	dragon dung	0	0	0	0	2	0
+sandstorm spear	sandstorm spear	0	0	0	0	2	0
+	Godbird sceptre	0	0	0	0	2	0
+crystal ball	crystal ball	0	0	0	0	2	0
+Eros' bow recipe	Eros' bow recipe	0	0	0	0	2	0
+imp knife recipe	imp knife recipe	0	0	0	0	2	0
+dragon slayer recipe	dragon slayer recipe	0	0	0	0	2	0
+‘The Big Book of Barriers’	‘The Big Book of Barriers’	0	0	0	0	2	0
+Venus' tear	Venus' tear	0	0	0	0	2	0
+Moonshadow harp	Moonshadow harp	0	0	0	0	2	0
+sand of sending	sand of sending	0	0	0	0	2	0
+Argon heart	Argon heart	0	0	0	0	2	0
+great big Argon heart	great big Argon heart	0	0	0	0	2	0
+magic mirror	magic mirror	0	0	0	0	2	0
+magic mirror	magic mirror	0	0	0	0	2	0
+sun mirror	sun mirror	0	0	0	0	2	0
+Kran Spinels	Kran Spinels	0	0	0	0	2	0
+Godbird's soulstone	Godbird's soulstone	0	0	0	0	2	0
+thief's key	thief's key	0	0	0	0	2	0
+magic key	magic key	0	0	0	0	2	0
+ultimate key	ultimate key	0	0	0	0	2	0
+Templar's ring	Templar's ring	0	0	0	0	2	0
+Templar Captain's ring	Templar Captain's ring	0	0	0	0	2	0
+Argon ring	Argon ring	0	0	0	0	2	0
+bunny tail	bunny tail	0	0	0	0	2	0
+illuminated sea chart	illuminated sea chart	0	0	0	0	2	0
+Darktree leaf	Darktree leaf	1	8	0	0	2	0
+Marta's bag	Marta's bag	0	0	0	0	2	0
+Morrie's Memo	Morrie's Memo	0	0	0	0	2	0
+double bubble	double bubble	1	1	0	0	2	0
+eau de monster	eau de monster	1	2	0	0	2	0
+super seed of skill	super seed of skill	1	1	0	0	2	0
+Baumren's bell	Baumren's bell	0	0	0	0	2	0
+Baumren's bell	Baumren's bell	0	0	0	0	2	0
+lizard humour	lizard humour	0	0	0	0	2	0
+Flee	Flee	0	0	0	0	2	0
+Flee	Flee	0	0	0	0	2	0
+FRIGHTENED AND FLEES	FRIGHTENED AND FLEES	0	0	0	0	2	0
+Voice Call	Voice Call	1	1	0	0	2	0
+Damage	Damage	0	0	0	0	2	0
+No Damage	No Damage	0	0	0	0	2	0
+Venom Damage	Venom Damage	0	0	0	0	2	0
+Defend	Defend	0	0	0	0	2	0
+DEFEND 1	DEFEND 1	0	0	0	0	2	0
+DEFEND 2	DEFEND 2	0	0	0	0	2	0
+INTIMIDATE	INTIMIDATE	0	0	0	0	2	0
+Dismiss Team	Dismiss Team	0	0	0	0	2	0
+Holy Protection	Holy Protection	0	0	0	0	2	0
+Rapture	Rapture	1	1	0	0	2	0
+RUNS ROUND IN CONFUSION	RUNS ROUND IN CONFUSION	0	0	0	0	2	0
+AT A LOSS IN CONFUSION	AT A LOSS IN CONFUSION	0	0	0	0	2	0
+FROZEN IN CONFUSION	FROZEN IN CONFUSION	0	0	0	0	2	0
+PARALYSED IN CONFUSION	PARALYSED IN CONFUSION	0	0	0	0	2	0
+FAILS TO CALL FRIENDS IN CONFUSION	FAILS TO CALL FRIENDS IN CONFUSION	0	0	0	0	2	0
+FLEES IN CONFUSION	FLEES IN CONFUSION	0	0	0	0	2	0
+Psyche Up	Psyche Up	0	0	0	0	2	0
+PSYCHE TENSION 2	PSYCHE TENSION 2	0	0	0	0	2	0
+PSYCHE TENSION 3	PSYCHE TENSION 3	0	0	0	0	2	0
+PSYCHE TENSION 4	PSYCHE TENSION 4	0	0	0	0	2	0
+PSYCHE TENSION 5	PSYCHE TENSION 5	0	0	0	0	2	0
+NO EFFECT IN BATTLE ITEM	NO EFFECT IN BATTLE ITEM	0	0	0	0	2	0
+NO EFFECT IN BATTLE ITEM	NO EFFECT IN BATTLE ITEM	0	0	0	0	2	0
+NO EFFECT ITEM	NO EFFECT ITEM	0	0	0	0	2	0
+NO EFFECT ITEM 2	NO EFFECT ITEM 2	0	0	0	0	2	0
+NO EFFECT ITEM 3	NO EFFECT ITEM 3	0	0	0	0	2	0
+NO EFFECT ITEM 4	NO EFFECT ITEM 4	0	0	0	0	2	0
+NO EFFECT ITEM 5	NO EFFECT ITEM 5	0	0	0	0	2	0
+NO EFFECT ITEM 6	NO EFFECT ITEM 6	0	0	0	0	2	0
+CALL SAME TYPE MONSTER 1	CALL SAME TYPE MONSTER 1	0	0	0	0	2	0
+CALL SAME TYPE MONSTER 2	CALL SAME TYPE MONSTER 2	0	0	0	0	2	0
+CALL SAME TYPE MONSTER 3	CALL SAME TYPE MONSTER 3	0	0	0	0	2	0
+CALL SAME TYPE MONSTER 4	CALL SAME TYPE MONSTER 4	0	0	0	0	2	0
+CALL SAME TYPE MONSTER 5	CALL SAME TYPE MONSTER 5	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 1	CALL DIFF. TYPE MONSTER 1	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 2	CALL DIFF. TYPE MONSTER 2	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 3	CALL DIFF. TYPE MONSTER 3	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 4	CALL DIFF. TYPE MONSTER 4	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 5	CALL DIFF. TYPE MONSTER 5	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 6	CALL DIFF. TYPE MONSTER 6	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 7	CALL DIFF. TYPE MONSTER 7	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 8	CALL DIFF. TYPE MONSTER 8	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 9	CALL DIFF. TYPE MONSTER 9	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 10	CALL DIFF. TYPE MONSTER 10	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 11	CALL DIFF. TYPE MONSTER 11	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 12	CALL DIFF. TYPE MONSTER 12	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 13	CALL DIFF. TYPE MONSTER 13	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 14	CALL DIFF. TYPE MONSTER 14	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 15	CALL DIFF. TYPE MONSTER 15	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 16	CALL DIFF. TYPE MONSTER 16	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 17	CALL DIFF. TYPE MONSTER 17	0	0	0	0	2	0
+MESSAGE ATTACK 1	MESSAGE ATTACK 1	0	0	0	0	2	0
+MESSAGE ATTACK 2	MESSAGE ATTACK 2	0	0	0	0	2	0
+MESSAGE ATTACK 3	MESSAGE ATTACK 3	0	0	0	0	2	0
+MESSAGE ATTACK 4	MESSAGE ATTACK 4	0	0	0	0	2	0
+MESSAGE ATTACK 5	MESSAGE ATTACK 5	0	0	0	0	2	0
+MESSAGE ATTACK 6	MESSAGE ATTACK 6	0	0	0	0	2	0
+MESSAGE ATTACK 7	MESSAGE ATTACK 7	0	0	0	0	2	0
+MESSAGE ATTACK 8	MESSAGE ATTACK 8	0	0	0	0	2	0
+MESSAGE ATTACK 9	MESSAGE ATTACK 9	0	0	0	0	2	0
+MESSAGE ATTACK 10	MESSAGE ATTACK 10	0	0	0	0	2	0
+MESSAGE ATTACK 11	MESSAGE ATTACK 11	0	0	0	0	2	0
+MESSAGE ATTACK 12	MESSAGE ATTACK 12	0	0	0	0	2	0
+MESSAGE ATTACK 13	MESSAGE ATTACK 13	0	0	0	0	2	0
+MESSAGE ATTACK 14	MESSAGE ATTACK 14	0	0	0	0	2	0
+MESSAGE ATTACK 15	MESSAGE ATTACK 15	0	0	0	0	2	0
+MESSAGE ATTACK 16	MESSAGE ATTACK 16	0	0	0	0	2	0
+MESSAGE ATTACK 17	MESSAGE ATTACK 17	0	0	0	0	2	0
+MESSAGE ATTACK 18	MESSAGE ATTACK 18	0	0	0	0	2	0
+DO NOTHING 1	DO NOTHING 1	0	0	0	0	2	0
+DO NOTHING 2	DO NOTHING 2	0	0	0	0	2	0
+DO NOTHING 3	DO NOTHING 3	0	0	0	0	2	0
+DO NOTHING 4	DO NOTHING 4	0	0	0	0	2	0
+DO NOTHING 5	DO NOTHING 5	0	0	0	0	2	0
+DO NOTHING 6	DO NOTHING 6	0	0	0	0	2	0
+DO NOTHING 7	DO NOTHING 7	0	0	0	0	2	0
+DO NOTHING 8	DO NOTHING 8	0	0	0	0	2	0
+DO NOTHING 9	DO NOTHING 9	0	0	0	0	2	0
+DO NOTHING 10	DO NOTHING 10	0	0	0	0	2	0
+DO NOTHING 11	DO NOTHING 11	0	0	0	0	2	0
+DO NOTHING 12	DO NOTHING 12	0	0	0	0	2	0
+DO NOTHING 13	DO NOTHING 13	0	0	0	0	2	0
+DO NOTHING 14	DO NOTHING 14	0	0	0	0	2	0
+DO NOTHING 15	DO NOTHING 15	0	0	0	0	2	0
+DO NOTHING 16	DO NOTHING 16	0	0	0	0	2	0
+DO NOTHING 17	DO NOTHING 17	0	0	0	0	2	0
+DO NOTHING 18	DO NOTHING 18	0	0	0	0	2	0
+DO NOTHING 19	DO NOTHING 19	0	0	0	0	2	0
+PARAMETER CHANGE 1	PARAMETER CHANGE 1	0	0	0	0	2	0
+PARAMETER CHANGE 2	PARAMETER CHANGE 2	0	0	0	0	2	0
+PARAMETER CHANGE 3	PARAMETER CHANGE 3	0	0	0	0	2	0
+PARAMETER CHANGE 4	PARAMETER CHANGE 4	0	0	0	0	2	0
+PARAMETER CHANGE 5	PARAMETER CHANGE 5	0	0	0	0	2	0
+PARAMETER CHANGE 6	PARAMETER CHANGE 6	0	0	0	0	2	0
+PARAMETER CHANGE 7	PARAMETER CHANGE 7	0	0	0	0	2	0
+PARAMETER CHANGE 8	PARAMETER CHANGE 8	0	0	0	0	2	0
+PARAMETER CHANGE 9	PARAMETER CHANGE 9	0	0	0	0	2	0
+PARAMETER CHANGE 10	PARAMETER CHANGE 10	0	0	0	0	2	0
+PARAMETER CHANGE 11	PARAMETER CHANGE 11	0	0	0	0	2	0
+PARAMETER CHANGE 12	PARAMETER CHANGE 12	0	0	0	0	2	0
+PARAMETER CHANGE 13	PARAMETER CHANGE 13	0	0	0	0	2	0
+PARAMETER CHANGE 14	PARAMETER CHANGE 14	0	0	0	0	2	0
+PARAMETER CHANGE 15	PARAMETER CHANGE 15	0	0	0	0	2	0
+PARAMETER CHANGE 16	PARAMETER CHANGE 16	0	0	0	0	2	0
+PARAMETER CHANGE 17	PARAMETER CHANGE 17	0	0	0	0	2	0
+PARAMETER CHANGE 18	PARAMETER CHANGE 18	0	0	0	0	2	0
+PARAMETER CHANGE 19	PARAMETER CHANGE 19	0	0	0	0	2	0
+PARAMETER CHANGE 20	PARAMETER CHANGE 20	0	0	0	0	2	0
+PARAMETER CHANGE 21	PARAMETER CHANGE 21	0	0	0	0	2	0
+PARAMETER CHANGE 22	PARAMETER CHANGE 22	0	0	0	0	2	0
+PARAMETER CHANGE 23	PARAMETER CHANGE 23	0	0	0	0	2	0
+PARAMETER CHANGE 24	PARAMETER CHANGE 24	0	0	0	0	2	0
+PARAMETER CHANGE 25	PARAMETER CHANGE 25	0	0	0	0	2	0
+PARAMETER CHANGE 26	PARAMETER CHANGE 26	0	0	0	0	2	0
+PARAMETER CHANGE 27	PARAMETER CHANGE 27	0	0	0	0	2	0
+PARAMETER CHANGE 28	PARAMETER CHANGE 28	0	0	0	0	2	0
+PARAMETER CHANGE 29	PARAMETER CHANGE 29	0	0	0	0	2	0
+PARAMETER CHANGE 30	PARAMETER CHANGE 30	0	0	0	0	2	0
+PARAMETER CHANGE 31	PARAMETER CHANGE 31	0	0	0	0	2	0
+PARAMETER CHANGE 32	PARAMETER CHANGE 32	0	0	0	0	2	0
+PARAMETER CHANGE 33	PARAMETER CHANGE 33	0	0	0	0	2	0
+PARAMETER CHANGE 34	PARAMETER CHANGE 34	0	0	0	0	2	0
+PARAMETER CHANGE 35	PARAMETER CHANGE 35	0	0	0	0	2	0
+PARAMETER CHANGE 36	PARAMETER CHANGE 36	0	0	0	0	2	0
+PARAMETER CHANGE 37	PARAMETER CHANGE 37	0	0	0	0	2	0
+PARAMETER CHANGE 38	PARAMETER CHANGE 38	0	0	0	0	2	0
+PARAMETER CHANGE 39	PARAMETER CHANGE 39	0	0	0	0	2	0
+PARAMETER CHANGE 40	PARAMETER CHANGE 40	0	0	0	0	2	0
+PARAMETER CHANGE 41	PARAMETER CHANGE 41	0	0	0	0	2	0
+PARAMETER CHANGE 42	PARAMETER CHANGE 42	0	0	0	0	2	0
+PARAMETER CHANGE 43	PARAMETER CHANGE 43	0	0	0	0	2	0
+PARAMETER CHANGE 44	PARAMETER CHANGE 44	0	0	0	0	2	0
+PARAMETER CHANGE 45	PARAMETER CHANGE 45	0	0	0	0	2	0
+PARAMETER CHANGE 46	PARAMETER CHANGE 46	0	0	0	0	2	0
+PARAMETER CHANGE 47	PARAMETER CHANGE 47	0	0	0	0	2	0
+PARAMETER CHANGE 48	PARAMETER CHANGE 48	0	0	0	0	2	0
+PARAMETER CHANGE 49	PARAMETER CHANGE 49	0	0	0	0	2	0
+PARAMETER CHANGE 50	PARAMETER CHANGE 50	0	0	0	0	2	0
+PARAMETER CHANGE 51	PARAMETER CHANGE 51	0	0	0	0	2	0
+PARAMETER CHANGE 52	PARAMETER CHANGE 52	0	0	0	0	2	0
+PARAMETER CHANGE 53	PARAMETER CHANGE 53	0	0	0	0	2	0
+Triple Swords	Triple Swords	1	1	0	0	2	0
+Jolly Jousters	Jolly Jousters	1	1	0	0	2	0
+Omniheal	Omniheal	1	2	0	0	2	0
+Riders' Carnival	Riders' Carnival	1	1	0	0	2	0
+Metal Panic	Metal Panic	1	1	0	0	2	0
+Tension Boost	Tension Boost	1	1	0	0	2	0
+Good as Gold	Good as Gold	1	1	0	0	2	0
+Zingslinger	Zingslinger	1	1	0	0	2	0
+Dirge	Dirge	1	1	0	0	2	0
+Maximaster	Maximaster	1	1	0	0	2	0
+DUMMY-MEDOROURA	DUMMY-MEDOROURA	0	0	0	0	2	0
+Big Bang	Big Bang	1	1	0	0	2	0
+Magic Burst	Magic Burst	1	1	0	0	2	0
+Magic Burst	Magic Burst	1	1	0	0	2	0
+Magic Burst	Magic Burst	1	1	0	0	2	0
+Multi Masher	Multi Masher	1	1	0	0	2	0
+Typhoeus' Maul	Typhoeus' Maul	1	1	0	0	2	0
+Mind Breaker	Mind Breaker	1	1	0	0	2	0
+Supersize Slime	Supersize Slime	1	1	0	0	2	0
+Dracky Fusion	Dracky Fusion	1	1	0	0	2	0
+Stream Killer Attack	Stream Killer Attack	1	1	0	0	2	0
+Sapper Slapper	Sapper Slapper	1	1	0	0	2	0
+Love Typhoon	Love Typhoon	1	1	0	0	2	0
+Slime Spank	Slime Spank	1	1	0	0	2	0
+Golemator	Golemator	1	1	0	0	2	0
+Harrowing Arrow	Harrowing Arrow	1	1	0	0	2	0
+Elemental Storm	Elemental Storm	1	2	0	0	2	0
+Multiheal	Multiheal	1	1	0	0	2	0
+EVAC FAILED	EVAC FAILED	0	0	0	0	2	0
+EVAC FAILED	EVAC FAILED	0	0	0	0	2	0
+ZOOM FAILED	ZOOM FAILED	0	0	0	0	2	0
+GODBIRD'S SOULSTONE FAILED	GODBIRD'S SOULSTONE FAILED	0	0	0	0	2	0
+CHIMAERA WING FAILED	CHIMAERA WING FAILED	0	0	0	0	2	0
+HERMES' HAT FAILED	HERMES' HAT FAILED	0	0	0	0	2	0
+Flower Shower	Flower Shower	1	1	0	0	2	0
+Water Slaughterer	Water Slaughterer	1	1	0	0	2	0
+Fan Dango	Fan Dango	1	1	0	0	2	0
+Dance of Life	Dance of Life	1	1	0	0	2	0
+Butterfly Bop	Butterfly Bop	1	1	0	0	2	0
+Hypnowhip	Hypnowhip	1	1	0	0	2	0
+Lashings of Lashings	Lashings of Lashings	1	1	0	0	2	0
+Twin Tan	Twin Tan	1	1	0	0	2	0
+Whip Whack	Whip Whack	1	1	0	0	2	0
+Miracle Cleavage	Miracle Cleavage	1	1	0	0	2	0
+Blade Cascade	Blade Cascade	1	1	0	0	2	0
+Dosh Toss	Dosh Toss	1	1	0	0	2	0
+Fire in the 'Ole	Fire in the 'Ole	1	1	0	0	2	0
+Propeller Blades	Propeller Blades	1	1	0	0	2	0
+Can Opener	Can Opener	1	1	0	0	2	0
+Hardclaws	Hardclaws	1	1	0	0	2	0
+Rake 'n' Break	Rake 'n' Break	1	1	0	0	2	0
+Hand of God	Hand of God	1	1	0	0	2	0
+Shattershield	Shattershield	1	1	0	0	2	0
+POWER Pound	POWER Pound	1	1	0	0	2	0
+POWER Pummel	POWER Pummel	1	1	0	0	2	0
+Feel the Beat	Feel the Beat	1	1	0	0	2	0
+Ooze Bruiser	Ooze Bruiser	1	2	0	0	2	0
+Metal Mower	Metal Mower	1	1	0	0	2	0
+Swing Both Ways	Swing Both Ways	1	1	0	0	2	0
+PASSION Plunge	PASSION Plunge	1	1	0	0	2	0
+Pit of Fire	Pit of Fire	1	1	0	0	2	0
+Arena of Flames	Arena of Flames	1	2	0	0	2	0
+Pit Stop	Pit Stop	1	1	0	0	2	0
+GRANDE GUSTO	GRANDE GUSTO	1	1	0	0	2	0
+Monster Mia	Monster Mia	1	1	0	0	2	0
+UNDECIDED	UNDECIDED	0	0	0	0	2	0
+FRIGHTENED AND ATTACKS	FRIGHTENED AND ATTACKS	0	0	0	0	2	0
+FRIGHTENED AND IN SHOCK	FRIGHTENED AND IN SHOCK	0	0	0	0	2	0
+FRIGHTENED AND UNRESPONSIVE	FRIGHTENED AND UNRESPONSIVE	0	0	0	0	2	0
+PARALYSED AND CAN'T MOVE	PARALYSED AND CAN'T MOVE	0	0	0	0	2	0
+ASLEEP AND CAN'T MOVE	ASLEEP AND CAN'T MOVE	0	0	0	0	2	0
+THORNTWINED AND CAN'T MOVE	THORNTWINED AND CAN'T MOVE	0	0	0	0	2	0
+ENTHRALLED AND CAN'T MOVE	ENTHRALLED AND CAN'T MOVE	0	0	0	0	2	0
+DANCING AND CAN'T MOVE	DANCING AND CAN'T MOVE	0	0	0	0	2	0
+SCARED AND CAN'T MOVE	SCARED AND CAN'T MOVE	0	0	0	0	2	0
+TREMBLING AND CAN'T MOVE	TREMBLING AND CAN'T MOVE	0	0	0	0	2	0
+LAUGHING AND CAN'T MOVE	LAUGHING AND CAN'T MOVE	0	0	0	0	2	0
+CURSED AND CAN'T MOVE	CURSED AND CAN'T MOVE	0	0	0	0	2	0
+CAN'T MOVE DUE TO LOVE STORY	CAN'T MOVE DUE TO LOVE STORY	0	0	0	0	2	0
+TRIPPED AND CAN'T MOVE	TRIPPED AND CAN'T MOVE	0	0	0	0	2	0
+CAN'T MOVE DUE TO DRAGOVIAN SEAL	CAN'T MOVE DUE TO DRAGOVIAN SEAL	0	0	0	0	2	0
+DUMBFOUNDED AND CAN'T MOVE	DUMBFOUNDED AND CAN'T MOVE	0	0	0	0	2	0
+COLLARED AND CAN'T MOVE	COLLARED AND CAN'T MOVE	0	0	0	0	2	0
+PARALYSIS WORE OFF	PARALYSIS WORE OFF	0	0	0	0	2	0
+AWOKE FROM SLEEP	AWOKE FROM SLEEP	0	0	0	0	2	0
+CONFUSION WORE OFF	CONFUSION WORE OFF	0	0	0	0	2	0
+DAZZLE WORE OFF	DAZZLE WORE OFF	0	0	0	0	2	0
+SANDSTORM WORE OFF	SANDSTORM WORE OFF	0	0	0	0	2	0
+OOMPH WORE OFF	OOMPH WORE OFF	0	0	0	0	2	0
+INSULATLE WORE OFF	INSULATLE WORE OFF	0	0	0	0	2	0
+BOUNCE WORE OFF	BOUNCE WORE OFF	0	0	0	0	2	0
+DANCE SEAL WORE OFF	DANCE SEAL WORE OFF	0	0	0	0	2	0
+BAN DANCE WORE OFF	BAN DANCE WORE OFF	0	0	0	0	2	0
+FIZZLE WORE OFF	FIZZLE WORE OFF	0	0	0	0	2	0
+DEFENCE CHANGE WORE OFF	DEFENCE CHANGE WORE OFF	0	0	0	0	2	0
+FLAME SHIELD EFFECT WORE OFF	FLAME SHIELD EFFECT WORE OFF	0	0	0	0	2	0
+ICE SHIELD EFFECT WORE OFF	ICE SHIELD EFFECT WORE OFF	0	0	0	0	2	0
+FLEE FAILED 1*	FLEE FAILED 1*	0	0	0	0	2	0
+FLEE FAILED 2*	FLEE FAILED 2*	0	0	0	0	2	0
+MAGIC BARRIER WORE OFF	MAGIC BARRIER WORE OFF	0	0	0	0	2	0
+SPOOKY AURA WORE OFF	SPOOKY AURA WORE OFF	0	0	0	0	2	0
+DIVINE INTERVENTION WORE OFF	DIVINE INTERVENTION WORE OFF	0	0	0	0	2	0
+TURN ENDED DISPLAY	TURN ENDED DISPLAY	0	0	0	0	2	0
+Monstrous Musk	Monstrous Musk	0	0	0	0	2	0
+Intensso	Intensso	0	0	0	0	2	0
+Self-destruct	Self-destruct	0	0	0	0	2	0
+Bolt from the Blue	Bolt from the Blue	0	0	0	0	2	0
+IMPOSED PARALYSIS (SINGLE)	IMPOSED PARALYSIS (SINGLE)	0	0	0	0	2	0
+RECOVER HP	RECOVER HP	0	0	0	0	2	0
+RECOVER MP	RECOVER MP	0	0	0	0	2	0
+CHANGE MEMBERS	CHANGE MEMBERS	0	0	0	0	2	0
+SUMMON SAGES PART 1	SUMMON SAGES PART 1	0	0	0	0	2	0
+SUMMON SAGES PART 2	SUMMON SAGES PART 2	0	0	0	0	2	0
+SUMMON SAGES PART 3	SUMMON SAGES PART 3	0	0	0	0	2	0
+SUMMON SAGES PART 4	SUMMON SAGES PART 4	0	0	0	0	2	0
+SUMMON SAGES PART 5	SUMMON SAGES PART 5	0	0	0	0	2	0
+SUMMON SAGES PART 6	SUMMON SAGES PART 6	0	0	0	0	2	0
+SUMMON SAGES PART 7	SUMMON SAGES PART 7	0	0	0	0	2	0
+FAIL TO SUMMON SAGES	FAIL TO SUMMON SAGES	0	0	0	0	2	0
+GIGAFLASH CAUSES MAGIC MIRROR TO BECOME SUN MIRROR	GIGAFLASH CAUSES MAGIC MIRROR TO BECOME SUN MIRROR	0	0	0	0	2	0
+ZING FAILS	ZING FAILS	0	0	0	0	2	0
+ZING FAILS (ALREADY ALIVE)	ZING FAILS (ALREADY ALIVE)	0	0	0	0	2	0
+ZING FAILS (ALREADY ALIVE)	ZING FAILS (ALREADY ALIVE)	0	0	0	0	2	0
+STAFF OF RESURRECTION FAILS	STAFF OF RESURRECTION FAILS	0	0	0	0	2	0
+STAFF OF RESURRECTION FAILS (ALREADY ALIVE)	STAFF OF RESURRECTION FAILS (ALREADY ALIVE)	0	0	0	0	2	0
+Boulder Dash	Boulder Dash	0	0	0	0	2	0
+Cacophony	Cacophony	0	0	0	0	2	0
+Shockwave	Shockwave	0	0	0	0	2	0
+Megawhip	Megawhip	0	0	0	0	2	0
+Featherain	Featherain	0	0	0	0	2	0
+Temptation	Temptation	0	0	0	0	2	0
+Magic Burst	Magic Burst	0	0	0	0	2	0
+Fizzle	Fizzle	0	0	0	0	2	0
+Kafrizzle	Kafrizzle	0	0	0	0	2	0
+Kaboom	Kaboom	0	0	0	0	2	0
+Fatal Force	Fatal Force	0	0	0	0	2	0
+Hellfire Hurricane	Hellfire Hurricane	0	0	0	0	2	0
+Magma Mayhem	Magma Mayhem	0	0	0	0	2	0
+Scorch	Scorch	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 18	CALL DIFF. TYPE MONSTER 18	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 19	CALL DIFF. TYPE MONSTER 19	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 20	CALL DIFF. TYPE MONSTER 20	0	0	0	0	2	0
+CALL DIFF. TYPE MONSTER 21	CALL DIFF. TYPE MONSTER 21	0	0	0	0	2	0
+PARAMETER CHANGE 54	PARAMETER CHANGE 54	0	0	0	0	2	0
+PARAMETER CHANGE 55	PARAMETER CHANGE 55	0	0	0	0	2	0
+PARAMETER CHANGE 56	PARAMETER CHANGE 56	0	0	0	0	2	0
+PARAMETER CHANGE 57	PARAMETER CHANGE 57	0	0	0	0	2	0
+PARAMETER CHANGE 58	PARAMETER CHANGE 58	0	0	0	0	2	0
+PARAMETER CHANGE 59	PARAMETER CHANGE 59	0	0	0	0	2	0
+PARAMETER CHANGE 60	PARAMETER CHANGE 60	0	0	0	0	2	0
+PARAMETER CHANGE 61	PARAMETER CHANGE 61	0	0	0	0	2	0
+PARAMETER CHANGE 62	PARAMETER CHANGE 62	0	0	0	0	2	0
+PARAMETER CHANGE 63	PARAMETER CHANGE 63	0	0	0	0	2	0
+PARAMETER CHANGE 64	PARAMETER CHANGE 64	0	0	0	0	2	0
+PARAMETER CHANGE 65	PARAMETER CHANGE 65	0	0	0	0	2	0
+PARAMETER CHANGE 66	PARAMETER CHANGE 66	0	0	0	0	2	0
+PARAMETER CHANGE 67	PARAMETER CHANGE 67	0	0	0	0	2	0
+PARAMETER CHANGE 68	PARAMETER CHANGE 68	0	0	0	0	2	0
+PARAMETER CHANGE 69	PARAMETER CHANGE 69	0	0	0	0	2	0
+PARAMETER CHANGE 70	PARAMETER CHANGE 70	0	0	0	0	2	0
+PARAMETER CHANGE 71	PARAMETER CHANGE 71	0	0	0	0	2	0
+PARAMETER CHANGE 72	PARAMETER CHANGE 72	0	0	0	0	2	0
+Death Dance	Death Dance	1	1	0	0	2	0
+Monster Mia	Monster Mia	0	0	0	0	2	0
+Monster Mia	Monster Mia	0	0	0	0	2	0
+Monster Mia	Monster Mia	0	0	0	0	2	0
+MAGIC FAILED	MAGIC FAILED	0	0	0	0	2	0
+PEARLY GATES FAILS	PEARLY GATES FAILS	0	0	0	0	2	0
+FAILS DUE TO LACK OF MP	FAILS DUE TO LACK OF MP	0	0	0	0	2	0
+DANCE FAILS	DANCE FAILS	0	0	0	0	2	0
+ANGEL CHEESE RESURRECTION	ANGEL CHEESE RESURRECTION	0	0	0	0	2	0
+ANGEL CHEESE RESURRECTION FAILS	ANGEL CHEESE RESURRECTION FAILS	0	0	0	0	2	0
+ENEMY YGGDRASIL LEAF FAILS	ENEMY YGGDRASIL LEAF FAILS	0	0	0	0	2	0
+DARK MACARBOUR LEAF FAILS	DARK MACARBOUR LEAF FAILS	0	0	0	0	2	0
+KERPLUNK RESURRECTION (PARTY)	KERPLUNK RESURRECTION (PARTY)	0	0	0	0	2	0
+KERPLUNK RESURRECTION (ENEMY)	KERPLUNK RESURRECTION (ENEMY)	0	0	0	0	2	0
+KERPLUNK RESURRECTION FAILS	KERPLUNK RESURRECTION FAILS	0	0	0	0	2	0
+KERPLUNK RESTORATION	KERPLUNK RESTORATION	0	0	0	0	2	0
+KERPLUNK SUCCEEDS (ENEMY)	KERPLUNK SUCCEEDS (ENEMY)	0	0	0	0	2	0
+KERPLUNK FAILS (ENEMY)	KERPLUNK FAILS (ENEMY)	0	0	0	0	2	0
+CALL A FRIEND FAILS	CALL A FRIEND FAILS	0	0	0	0	2	0
+Crippling Kaboom	Crippling Kaboom	0	0	0	0	2	0
+Bolt of Blight	Bolt of Blight	0	0	0	0	2	0
+Hellfire Hurricane	Hellfire Hurricane	0	0	0	0	2	0
+Heavenly Justice	Heavenly Justice	0	0	0	0	2	0
+Super Sweet Breath	Super Sweet Breath	0	0	0	0	2	0
+Mole-cular Fusion	Mole-cular Fusion	0	0	0	0	2	0
+COUNTER DAMAGE	COUNTER DAMAGE	0	0	0	0	2	0
+FIRST SUPER HIGH TENSION	FIRST SUPER HIGH TENSION	0	0	0	0	2	0
+ORDINARY SUPER HIGH TENSION	ORDINARY SUPER HIGH TENSION	0	0	0	0	2	0
+Maximaster	Maximaster	0	0	0	0	2	0
+Maximaster	Maximaster	0	0	0	0	2	0
+Maximaster	Maximaster	0	0	0	0	2	0
+Sapper Slapper	Sapper Slapper	0	0	0	0	2	0
+Good as Gold	Good as Gold	0	0	0	0	2	0
+Elemental Storm	Elemental Storm	0	0	0	0	2	0
+Elemental Storm	Elemental Storm	0	0	0	0	2	0
+Dirge	Dirge	0	0	0	0	2	0
+OTHER EFFECTS (SUPER HIGH TENSION)	OTHER EFFECTS (SUPER HIGH TENSION)	0	0	0	0	2	0
+MONSTER RAISES TENSION	MONSTER RAISES TENSION	0	0	0	0	2	0
+EQUIPPED WEAPON NOT USABLE AS ITEM IN BATTLE	EQUIPPED WEAPON NOT USABLE AS ITEM IN BATTLE	0	0	0	0	2	0
+EQUIPPED SHIELD NOT USABLE AS ITEM IN BATTLE	EQUIPPED SHIELD NOT USABLE AS ITEM IN BATTLE	0	0	0	0	2	0
+LOVE STORY: EFFECT ON HERO	LOVE STORY: EFFECT ON HERO	0	0	0	0	2	0
+LOVE STORY: EFFECT ON YANGUS	LOVE STORY: EFFECT ON YANGUS	0	0	0	0	2	0
+LOVE STORY: EFFECT ON JESSICA	LOVE STORY: EFFECT ON JESSICA	0	0	0	0	2	0
+LOVE STORY: EFFECT ON ANGELO	LOVE STORY: EFFECT ON ANGELO	0	0	0	0	2	0
+LOVE STORY: EFFECT ON RED	LOVE STORY: EFFECT ON RED	0	0	0	0	2	0
+LOVE STORY: EFFECT ON MORRIE	LOVE STORY: EFFECT ON MORRIE	0	0	0	0	2	0
+MONSTER CALLS FELLOW TYPE (GENERAL USE)	MONSTER CALLS FELLOW TYPE (GENERAL USE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH FALCON BLADE)	ORDINARY ATTACK (WITH FALCON BLADE)	0	0	0	0	2	0
+Falcon Slash	Falcon Slash	0	0	0	0	2	0
+ORDINARY ATTACK (WITH FALCON KNIFE)	ORDINARY ATTACK (WITH FALCON KNIFE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH BLIZZARD BLADE)	ORDINARY ATTACK (WITH BLIZZARD BLADE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH DREAM BLADE)	ORDINARY ATTACK (WITH DREAM BLADE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH FALLEN ANGEL RAPIER)	ORDINARY ATTACK (WITH FALLEN ANGEL RAPIER)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH POISON MOTH KNIFE)	ORDINARY ATTACK (WITH POISON MOTH KNIFE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH ICICLE DIRK)	ORDINARY ATTACK (WITH ICICLE DIRK)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH POISON NEEDLE)	ORDINARY ATTACK (WITH POISON NEEDLE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH IMP KNIFE)	ORDINARY ATTACK (WITH IMP KNIFE)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH DEMON SPEAR)	ORDINARY ATTACK (WITH DEMON SPEAR)	0	0	0	0	2	0
+ORDINARY ATTACK (BARDICHE OF BINDING)	ORDINARY ATTACK (BARDICHE OF BINDING)	0	0	0	0	2	0
+ORDINARY ATTACK (EROS' BOW)	ORDINARY ATTACK (EROS' BOW)	0	0	0	0	2	0
+ORDINARY ATTACK (HELL SCYTHE)	ORDINARY ATTACK (HELL SCYTHE)	0	0	0	0	2	0
+SECOND PYCHE UP LV.5	SECOND PYCHE UP LV.5	0	0	0	0	2	0
+TENSION DROPS DUE TO OTHER (PARTY)	TENSION DROPS DUE TO OTHER (PARTY)	0	0	0	0	2	0
+TENSION DROPS DUE TO OTHER (ENEMY)	TENSION DROPS DUE TO OTHER (ENEMY)	0	0	0	0	2	0
+SUPER HIGH TENSION SUBSIDES DUE TO OTHER	SUPER HIGH TENSION SUBSIDES DUE TO OTHER	0	0	0	0	2	0
+Cacophony	Cacophony	0	0	0	0	2	0
+Cacophony	Cacophony	0	0	0	0	2	0
+KERPLUNK SUCCEEDS (BACKUP MEMBER)	KERPLUNK SUCCEEDS (BACKUP MEMBER)	0	0	0	0	2	0
+TENSION BOOST (SUPER HT)	TENSION BOOST (SUPER HT)	0	0	0	0	2	0
+TENSION BOOST (HT)	TENSION BOOST (HT)	0	0	0	0	2	0
+super seed of wisdom	super seed of wisdom	1	1	0	0	2	0
+super seed of strength	super seed of strength	1	1	0	0	2	0
+super seed of agility	super seed of agility	1	1	0	0	2	0
+super seed of defence	super seed of defence	1	1	0	0	2	0
+super seed of life	super seed of life	1	1	0	0	2	0
+super seed of magic	super seed of magic	1	1	0	0	2	0
+Erdrick's sword	Erdrick's sword	1	2	0	0	2	0
+bad axe	bad axe	1	1	0	0	2	0
+fire claw	fire claw	1	1	0	0	2	0
+big bad boss shield	big bad boss shield	1	1	0	0	2	0
+GREAT SABRECAT FLEES	GREAT SABRECAT FLEES	0	0	0	0	2	0
+HP RECOVERS AT END OF TURN	HP RECOVERS AT END OF TURN	0	0	0	0	2	0
+MP RECOVERS AT END OF TURN	MP RECOVERS AT END OF TURN	0	0	0	0	2	0
+BOUNCED FRIZZ	BOUNCED FRIZZ	0	0	0	0	2	0
+BOUNCED FRIZZLE	BOUNCED FRIZZLE	0	0	0	0	2	0
+BOUNCED KAFRIZZLE	BOUNCED KAFRIZZLE	0	0	0	0	2	0
+BOUNCED SIZZ	BOUNCED SIZZ	0	0	0	0	2	0
+BOUNCED SIZZLE	BOUNCED SIZZLE	0	0	0	0	2	0
+BOUNCED KASIZZLE	BOUNCED KASIZZLE	0	0	0	0	2	0
+BOUNCED BANG	BOUNCED BANG	0	0	0	0	2	0
+BOUNCED BOOM	BOUNCED BOOM	0	0	0	0	2	0
+BOUNCED KABOOM	BOUNCED KABOOM	0	0	0	0	2	0
+BOUNCED WOOSH	BOUNCED WOOSH	0	0	0	0	2	0
+BOUNCED SWOOSH	BOUNCED SWOOSH	0	0	0	0	2	0
+BOUNCED KASWOOSH	BOUNCED KASWOOSH	0	0	0	0	2	0
+BOUNCED CRACK	BOUNCED CRACK	0	0	0	0	2	0
+BOUNCED CRACKLE	BOUNCED CRACKLE	0	0	0	0	2	0
+BOUNCED KACRACKLE	BOUNCED KACRACKLE	0	0	0	0	2	0
+BOUNCED ZAP	BOUNCED ZAP	0	0	0	0	2	0
+BOUNCED KAZAP	BOUNCED KAZAP	0	0	0	0	2	0
+BOUNCED WHACK (PARTY)	BOUNCED WHACK (PARTY)	0	0	0	0	2	0
+BOUNCED WHACK (ENEMY)	BOUNCED WHACK (ENEMY)	0	0	0	0	2	0
+BOUNCED THWACK (PARTY)	BOUNCED THWACK (PARTY)	0	0	0	0	2	0
+BOUNCED THWACK (ENEMY)	BOUNCED THWACK (ENEMY)	0	0	0	0	2	0
+BOUNCED KATHWACK (PARTY)	BOUNCED KATHWACK (PARTY)	0	0	0	0	2	0
+BOUNCED KATHWACK (ENEMY)	BOUNCED KATHWACK (ENEMY)	0	0	0	0	2	0
+BOUNCED KAMIKAZEE (PARTY)	BOUNCED KAMIKAZEE (PARTY)	0	0	0	0	2	0
+BOUNCED KAMIKAZEE (ENEMY)	BOUNCED KAMIKAZEE (ENEMY)	0	0	0	0	2	0
+BOUNCED SNOOZE (PARTY)	BOUNCED SNOOZE (PARTY)	0	0	0	0	2	0
+BOUNCED SNOOZE (ENEMY)	BOUNCED SNOOZE (ENEMY)	0	0	0	0	2	0
+BOUNCED KASNOOZE (PARTY)	BOUNCED KASNOOZE (PARTY)	0	0	0	0	2	0
+BOUNCED KASNOOZE (ENEMY)	BOUNCED KASNOOZE (ENEMY)	0	0	0	0	2	0
+BOUNCED DAZZLE (PARTY)	BOUNCED DAZZLE (PARTY)	0	0	0	0	2	0
+BOUNCED DAZZLE (ENEMY)	BOUNCED DAZZLE (ENEMY)	0	0	0	0	2	0
+BOUNCED FIZZLE (PARTY)	BOUNCED FIZZLE (PARTY)	0	0	0	0	2	0
+BOUNCED FIZZLE	BOUNCED FIZZLE	0	0	0	0	2	0
+BOUNCED FUDDLE (GROUP)	BOUNCED FUDDLE (GROUP)	0	0	0	0	2	0
+BOUNCED FUDDLE (INDIVIDUAL)	BOUNCED FUDDLE (INDIVIDUAL)	0	0	0	0	2	0
+BOUNCED KAFUDDLE (PARTY)	BOUNCED KAFUDDLE (PARTY)	0	0	0	0	2	0
+BOUNCED KAFUDDLE	BOUNCED KAFUDDLE	0	0	0	0	2	0
+BOUNCED DRAIN MAGIC	BOUNCED DRAIN MAGIC	0	0	0	0	2	0
+BOUNCED SAP (PARTY)	BOUNCED SAP (PARTY)	0	0	0	0	2	0
+BOUNCED SAP (ENEMY)	BOUNCED SAP (ENEMY)	0	0	0	0	2	0
+BOUNCED KASAP (PARTY)	BOUNCED KASAP (PARTY)	0	0	0	0	2	0
+BOUNCED KASAP (ENEMY)	BOUNCED KASAP (ENEMY)	0	0	0	0	2	0
+BOUNCED DECELERATLE (PARTY)	BOUNCED DECELERATLE (PARTY)	0	0	0	0	2	0
+BOUNCED DECELERATLE (ENEMY)	BOUNCED DECELERATLE (ENEMY)	0	0	0	0	2	0
+BOUNCED ZING	BOUNCED ZING	0	0	0	0	2	0
+BOUNCED KAZING	BOUNCED KAZING	0	0	0	0	2	0
+BOUNCED KERPLUNK	BOUNCED KERPLUNK	0	0	0	0	2	0
+BOUNCED BAN DANCE	BOUNCED BAN DANCE	0	0	0	0	2	0
+BOUNCED DIVINE INTERVENTION	BOUNCED DIVINE INTERVENTION	0	0	0	0	2	0
+Clean Sweep	Clean Sweep	0	0	0	0	2	0
+BAUMREN'S BELL NO EFFECT	BAUMREN'S BELL NO EFFECT	0	0	0	0	2	0
+TEAM WIPED OUT	TEAM WIPED OUT	0	0	0	0	2	0
+ORDINARY ATTACK (WITH SAPPER SLAPPER)	ORDINARY ATTACK (WITH SAPPER SLAPPER)	0	0	0	0	2	0
+Sapper Slapper	Sapper Slapper	0	0	0	0	2	0
+ADDITIONAL ATTACK	ADDITIONAL ATTACK	0	0	0	0	2	0
+SHARE MAGIC RESTORED MP 	SHARE MAGIC RESTORED MP 	0	0	0	0	2	0
+NORMAL ATTACK (8026)	NORMAL ATTACK (8026)	0	0	0	0	2	0
+NORMAL ATTACK (8086)	NORMAL ATTACK (8086)	0	0	0	0	2	0
+TENSION RELEASE (PARTY)	TENSION RELEASE (PARTY)	0	0	0	0	2	0
+TENSION RELEASE (ENEMY)	TENSION RELEASE (ENEMY)	0	0	0	0	2	0
+SUPER HIGH TENSION SUBSIDES	SUPER HIGH TENSION SUBSIDES	0	0	0	0	2	0
+Super Seed of Skill	Super Seed of Skill	0	0	0	0	2	0
+SHARE MAGIC SELF	SHARE MAGIC SELF	0	0	0	0	2	0
+DOUBLE-EDGED SWORD SELF DAMAGE	DOUBLE-EDGED SWORD SELF DAMAGE	0	0	0	0	2	0
+ITEM UNUSABLE IN BATTLE	ITEM UNUSABLE IN BATTLE	0	0	0	0	2	0
+DRAIN MAGIC RESTORES MP	DRAIN MAGIC RESTORES MP	0	0	0	0	2	0
+ORDINARY ATTACK (WITH DREAD DAGGER)	ORDINARY ATTACK (WITH DREAD DAGGER)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH HONKING HAMMER)	ORDINARY ATTACK (WITH HONKING HAMMER)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH RINBOW FAN)	ORDINARY ATTACK (WITH RINBOW FAN)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH STELLAR FAN)	ORDINARY ATTACK (WITH STELLAR FAN)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH LUNAR FAN)	ORDINARY ATTACK (WITH LUNAR FAN)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH SOLAR FAN)	ORDINARY ATTACK (WITH SOLAR FAN)	0	0	0	0	2	0
+ORDINARY ATTACK (WITH FAN OF PEACE)	ORDINARY ATTACK (WITH FAN OF PEACE)	0	0	0	0	2	0
+ITEM UNUSABLE IN BATTLE (ON ALL)	ITEM UNUSABLE IN BATTLE (ON ALL)	0	0	0	0	2	0
+FRIGHTENED AND FLEES (DROPS ITEM)	FRIGHTENED AND FLEES (DROPS ITEM)	0	0	0	0	2	0
+TENSION LOWERED BY LAME STORY (PARTY)	TENSION LOWERED BY LAME STORY (PARTY)	0	0	0	0	2	0
+TENSION LOWERED BY LAME STORY (ENEMY)	TENSION LOWERED BY LAME STORY (ENEMY)	0	0	0	0	2	0
+BOUNCED GIGAFLASH	BOUNCED GIGAFLASH	0	0	0	0	2	0
+KERPLUNK DANCE SELF-DESTRUCT	KERPLUNK DANCE SELF-DESTRUCT	0	0	0	0	2	0
+DANCE OF LIFE FAILED (ON LIVE MEMBER)	DANCE OF LIFE FAILED (ON LIVE MEMBER)	0	0	0	0	2	0
+BOUNCED FIZZLE (MARCELLO)	BOUNCED FIZZLE (MARCELLO)	0	0	0	0	2	0
+BOUNCED KAFRIZZLE (ESTARK)	BOUNCED KAFRIZZLE (ESTARK)	0	0	0	0	2	0
+BOUNCED KABOOM (ESTARK)	BOUNCED KABOOM (ESTARK)	0	0	0	0	2	0
+SELF-DESTRUCT BY SMALL EXPLOSION	SELF-DESTRUCT BY SMALL EXPLOSION	0	0	0	0	2	0
+Wrath of the Gods	Wrath of the Gods	0	0	0	0	2	0
+MESSAGE ATTACK 5-2	MESSAGE ATTACK 5-2	0	0	0	0	2	0
+Warcry	Warcry	0	0	0	0	2	0
+MESSAGE ATTACK 19	MESSAGE ATTACK 19	0	0	0	0	2	0
+[[Misc.	22	
+<hero>	<hero>	0	0	0	0	0	0
+Yangus	Yangus	0	0	0	0	0	0
+Jessica	Jessica	0	0	0	0	1	0
+Angelo	Angelo	0	0	0	0	0	0
+Red	Red	0	0	0	0	1	0
+Morrie	Morrie	0	0	0	0	0	0
+enemies	enemies	1	13	1	1	2	0
+King Trode	King Trode	0	0	0	0	0	0
+blade	blades	1	1	1	1	2	0
+spear	spears	1	1	1	1	2	0
+axe	axes	1	2	1	1	2	0
+scythe	scythes	1	1	1	1	2	0
+whip	whips	1	1	1	1	2	0
+bow	bows	1	1	1	1	2	0
+staff	staves	1	1	1	1	2	0
+fan	fans	1	1	1	1	2	0
+claw	claws	1	1	1	1	2	0
+knife	knives	1	1	1	1	2	0
+club	clubs	1	1	1	1	2	0
+boomerang	boomerangs	1	1	1	1	2	0
+party	party	1	8	1	2	2	1
+monster team	monster team	1	8	1	2	2	1
+[[Monsters(P)	100	
+Axoraptor	Axoraptors	1	8	1	2	2	0
+Shortshooter	Shortshooters	0	0	0	0	2	0
+One Knight Stand	One Knight Stands	1	8	1	2	2	0
+Automaton Aviator	Automaton Aviators	1	8	1	2	2	0
+Pain in the Neck	Pains in the Neck	1	8	1	2	2	0
+Buffalo Bill	Buffalo Bills	0	0	0	0	0	0
+Family Doctor	Family Doctors	1	8	1	2	2	0
+Hollow Knight	Hollow Knights	1	8	1	2	0	0
+Mullet Mallet	Mullet Mallets	0	0	0	0	2	0
+Little Nipper	Little Nippers	0	0	0	0	2	0
+Sharpshooter	Sharpshooters	0	0	0	0	2	0
+Root of Evil	Roots of Evil	1	8	1	2	2	0
+Squiggly Squiggler	Squiggly Squigglers	0	0	0	0	2	0
+Old<->School Drooler	Old<->School Droolers	1	8	1	2	0	0
+Punchin' Judy	Punchin' Judys	0	0	0	0	2	0
+Slimy Smiley	Slimy Smilies	0	0	0	0	2	0
+Bushwhacker	Bushwhackers	1	8	1	2	0	0
+Nightstalker	Nightstalkers	1	8	1	2	2	0
+Goldbricker	Goldbrickers	1	8	1	2	0	0
+Death Tabby	Death Tabbies	0	0	0	0	2	0
+Wild Spearman	Wild Spearmen	1	8	1	2	0	0
+Fertiliser	Fertilisers	1	8	1	2	0	0
+Hooded Hacker	Hooded Hackers	1	8	1	2	2	0
+Jewel Juggler	Jewel Jugglers	0	0	0	0	2	0
+King of Dumbira	Kings of Dumbira	1	8	1	2	0	0
+All Day Sucker	All Day Suckers	1	8	1	2	2	0
+Slime Creator	Slime Creators	1	8	1	2	0	0
+Al Gee	Al Gees	0	0	0	0	0	0
+Old Soldier	Old Soldiers	0	0	0	0	0	0
+Living Flame	Living Flames	1	8	1	2	0	0
+Poisonous Sniper	Poisonous Snipers	0	0	0	0	2	0
+Potty Dragon	Potty Dragons	1	8	1	2	2	0
+Gloopy Groupie	Gloopy Groupies	0	0	0	0	2	0
+Angel of Curing	Angels of Curing	1	8	1	2	2	0
+Abominable Ape	Abominable Apes	1	8	1	2	2	0
+Fantom of Chopera	Fantoms of Chopera	1	8	1	2	0	0
+Femme Fatale	Femmes Fatales	0	0	0	0	1	0
+Roboster Mk I	Robosters Mk I	0	0	0	0	2	0
+Bricklayer	Bricklayers	1	8	1	2	0	0
+Cold Fire	Cold Fires	0	0	0	0	0	0
+Terror Talons	Terror Talons	0	0	0	0	2	0
+Pelvic Thruster	Pelvic Thrusters	1	8	1	2	0	0
+Slime Designer	Slime Designers	1	8	1	2	0	0
+Ochre Ogre	Ochre Ogres	1	8	1	2	2	0
+Muscly Mohawker	Muscly Mohawkers	0	0	0	0	0	0
+Puppet Pugilist	Puppet Puglists	1	8	1	2	2	0
+Gigantes Guardsman	Gigantes Guardsmen	1	8	1	2	0	0
+Big Blue Bully	Big Blue Bullies	1	8	1	2	0	0
+Occult Rider	Occult Riders	1	8	1	2	2	0
+Bone Racer	Bone Racers	1	8	1	2	2	0
+Attack Bot Mk II	Attack Bots Mk II	0	0	0	0	2	0
+Big Blizzard	Big Blizzards	0	0	0	0	2	0
+Living Torch	Living Torches	1	8	1	2	0	0
+Raging Rooster	Raging Roosters	1	8	1	2	0	0
+Loopy Lupus	Loopy Lupuses	1	8	1	2	2	0
+Octavius Maximus	Octavius Maximi	0	0	0	0	2	0
+Quick Silver	Quick Silvers	0	0	0	0	2	0
+Metal Babble	Metal Babbles	0	0	0	0	2	0
+Shadow Conductor	Shadow Conductors	1	8	1	2	0	0
+Arch<->archdemon	Arch<->archdemons	0	0	0	0	2	0
+Gigantes Gangster	Gigantes Gangsters	1	8	1	2	0	0
+Troll Patroller	Troll Patrollers	1	8	1	2	0	0
+Man<->at<->Arms	Men<->at<->Arms	0	0	0	0	0	0
+Crazed Colossus	Crazed Colossi	1	8	1	2	2	0
+Killer Director	Killer Directors	1	8	1	2	0	0
+Stonemason	Stonemasons	1	8	1	2	0	0
+Heavy Metal	Heavy Metals	0	0	0	0	2	0
+Headless Flailsman	Headless Flailsmen	1	8	1	2	0	0
+Wight Highpriest	Wight Highpriests	1	8	1	2	0	0
+Jumbo Dilophosaur	Jumbo Dilophosauruses	0	0	0	0	2	0
+Gryphon General	Gryphon Generals	0	0	0	0	2	0
+Greater Sabrecat	Greater Sabrecats	1	8	1	2	2	0
+Man<->eater Chest	Man<->eater Chests	1	8	1	2	2	0
+Sand Slayer	Sand Slayers	1	8	1	2	2	0
+Bundle of Joy	Bundles of Joy	0	0	0	0	2	0
+Mole Major	Mole Majors	0	0	0	0	0	0
+Colossal Clione	Colossal Cliones	1	8	1	2	2	0
+Ms. Impetuous	Ms. Impetuouses	0	0	0	0	1	0
+Mr. Bo Dangles	Mr. Bo Dangleses	0	0	0	0	0	0
+Caped Inspectre	Caped Inspectres	1	8	0	0	0	0
+Pre-curser of Death	Pre-cursers of Death	0	0	0	0	2	0
+Mr. Stalkative	Mr. Stalkatives	0	0	0	0	0	0
+King of RIP	Kings of RIP	1	8	0	0	0	0
+Whizzkid	Whizzkids	1	8	0	0	2	0
+Heavenly Hunter	Heavenly Hunters	0	0	0	0	0	0
+Sinister Minister	Sinister Ministers	1	8	0	0	0	0
+Cosmic Doom	Cosmic Dooms	0	0	0	0	2	0
+Lucky Old Sun	Lucky Old Suns	0	0	0	0	0	0
+Star Duster	Star Dusters	0	0	0	0	0	0
+Major Flavour	Major Flavours	0	0	0	0	1	0
+Snore Spore	Snore Spores	1	8	0	0	2	0
+Psychedelia	Psychedelia	0	0	0	0	1	0
+Teen Fox	Teen Foxes	0	0	0	0	0	0
+Flappacinno	Flappacinnos	1	8	0	0	1	0
+Famous Five	Famous Fives	1	8	0	0	0	0
+L'il Digger	L'il Diggers	0	0	0	0	0	0
+Condor from Yonder	Condors from Yonder	1	8	0	0	0	0
+Ace of Spades	Aces of Spades	1	8	0	0	0	0
+Drive-Thru	Drive-Thrus	1	8	0	0	0	0
+Apocalips	Apocalips	1	8	0	0	1	0
+[[Monsters(Sp)	101	
+she<->slime	she<->slime	1	1	1	3	2	0
+slime knight	slime knight	1	1	1	3	2	0
+frogface	frogface	1	1	1	3	2	0
+treeface	treeface	1	1	1	3	2	0
+hammerhood	hammerhood	1	1	1	3	2	0
+gorerilla	gorerilla	1	1	1	3	2	0
+bullfinch	bullfinch	1	1	1	3	2	0
+khalamari kid	khalamari kid	1	1	1	3	2	0
+king kelp	king kelp	1	1	1	3	2	0
+dingaling	dingaling	1	1	1	3	2	0
+jargon	jargon	1	1	1	3	2	0
+dancing devil	dancing devil	1	1	1	3	2	0
+wailin' weed	wailin' weed	1	1	1	3	2	0
+redtail hipster	redtail hipster	1	1	1	3	2	0
+jailcat	jailcat	1	1	1	3	2	0
+terror tabby	terror tabby	1	1	1	3	2	0
+hipster	hipster	1	1	1	3	2	0
+minidemon	minidemon	1	1	1	3	2	0
+witch	witch	1	1	1	3	2	0
+magic marionette	magic marionette	1	1	1	3	2	0
+tap devil	tap devil	1	1	1	3	2	0
+Volpone	Volpone	1	1	1	3	2	0
+night fox	night fox	1	1	1	3	2	0
+night emperor	night emperor	1	1	1	3	2	0
+night sneaker	night sneaker	1	1	1	3	2	0
+skeleton	skeleton	1	1	1	3	2	0
+walking corpse	walking corpse	1	1	1	3	2	0
+mummy	mummy	1	1	1	3	2	0
+brownie	brownie	1	1	1	3	2	0
+hood	hood	1	1	1	3	2	0
+see urchin	see urchin	1	1	1	3	2	0
+siren	siren	1	1	1	3	2	0
+mecha<->mynah	mecha<->mynah	1	1	1	3	2	0
+hunter mech	hunter mech	1	1	1	3	2	0
+clockwork cuckoo	clockwork cuckoo	1	1	1	3	2	0
+fencing fox	fencing fox	1	1	1	3	2	0
+bone baron	bone baron	1	1	1	3	2	0
+phantom fencer	phantom fencer	1	1	1	3	2	0
+dragurn	dragurn	1	1	1	3	2	0
+tyrantosaurus	tyrantosaurus	1	1	1	3	2	0
+snapdragon	snapdragon	1	1	1	3	2	0
+stone guardian	stone guardian	1	1	1	3	2	0
+golem	golem	1	1	1	3	2	0
+boss troll	boss troll	1	1	1	3	2	0
+rockbomb	rockbomb	1	1	1	3	2	0
+stone golem	stone golem	1	1	1	3	2	0
+living statue	living statue	1	1	1	3	2	0
+frou<->frou	frou<->frou	1	1	1	3	2	0
+cyclops	cyclops	1	1	1	3	2	0
+troll	troll	1	1	1	3	2	0
+jumping jackal	jumping jackal	1	1	1	3	2	0
+great sabrecat	great sabrecat	1	1	1	3	2	0
+treevil	treevil	1	1	1	3	2	0
+zombie gladiator	zombie gladiator	1	1	1	3	2	0
+bomboulder	bomboulder	1	1	1	3	2	0
+goodybag	goodybag	1	1	1	3	2	0
+mimic king	mimic king	1	1	1	3	2	0
+mimic	mimic	1	1	1	3	2	0
+dullahan	dullahan	1	1	1	3	2	0
+healslime	healslime	1	1	1	3	2	0
+gigantes	gigantes	1	1	1	3	2	0
+liquid metal slime	liquid metal slime	1	1	1	3	2	0
+hell gladiator	hell gladiator	1	1	1	3	2	0
+cureslime	cureslime	1	1	1	3	2	0
+frogface	frogface	1	1	1	3	2	0
+slime knight	slime knight	1	1	1	3	2	0
+fencing fox	fencing fox	1	1	1	3	2	0
+restless armour	restless armour	1	1	1	3	2	0
+goodybag	goodybag	1	1	1	3	2	0
+bone baron	bone baron	1	1	1	3	2	0
+gold golem	gold golem	1	1	1	3	2	0
+treeface	treeface	1	1	1	3	2	0
+Morrimp	Morrimp	1	1	1	3	2	0
+treevil	treevil	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Ultrus	Ultrus	1	2	1	4	2	0
+Gracky	Gracky	1	1	1	3	2	0
+Mazin	Mazin	1	1	1	3	2	0
+Guaca Mole	Guaca Mole	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Prince Charmles	Prince Charmles	0	0	0	0	0	0
+Marcello	Marcello	0	0	0	0	0	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Ultrus	Ultrus	1	2	1	4	2	0
+Gracky	Gracky	1	1	1	3	2	0
+Dummy	Dummy	1	1	1	3	2	0
+Mazin	Mazin	1	1	1	3	2	0
+mucho macho	mucho macho	1	1	1	3	2	0
+treevil	treevil	1	1	1	3	2	0
+hell gladiator	hell gladiator	1	1	1	3	2	0
+Prince Charmles	Prince Charmles	0	0	0	0	0	0
+[[Infamous Monsters	100	
+Hackzilla	Hackzillas	0	0	0	0	2	0
+Fletch	Fletchs	0	0	0	0	2	0
+Slimehopper	Slimehoppers	0	0	0	0	2	0
+Mechabubo	Mechabubos	0	0	0	0	2	0
+Sippy	Sippys	0	0	0	0	2	0
+Cowboy	Cowboys	0	0	0	0	0	0
+Healer	Healers	0	0	0	0	2	0
+Lonely Joe	Lonely Joes	0	0	0	0	0	0
+McHammer	McHammers	0	0	0	0	2	0
+Robster	Robsters	0	0	0	0	2	0
+Archer	Archers	0	0	0	0	2	0
+Twiggy	Twiggys	0	0	0	0	2	0
+Squiggles	Squiggleses	0	0	0	0	2	0
+Hork	Horks	0	0	0	0	0	0
+Moppet	Moppets	0	0	0	0	2	0
+Smiles	Smileses	0	0	0	0	2	0
+Bush-W.	Bush-W.s	0	0	0	0	0	0
+Nightwing	Nightwings	0	0	0	0	2	0
+Goldman	Goldmans	0	0	0	0	0	0
+Fat Cat	Fat Cats	0	0	0	0	2	0
+Orcus	Orcuses	0	0	0	0	0	0
+Faunus	Faunuses	0	0	0	0	0	0
+Hoodwink	Hoodwinks	0	0	0	0	2	0
+Jewelbag	Jewelbags	0	0	0	0	2	0
+Dumbking	Dumbkings	0	0	0	0	0	0
+Slurpy	Slurpys	0	0	0	0	2	0
+Hori	Horis	0	0	0	0	0	0
+Big Al	Big Als	0	0	0	0	0	0
+Bones	Boneses	0	0	0	0	0	0
+Flameman	Flamemans	0	0	0	0	0	0
+Sagittari	Sagittaris	0	0	0	0	2	0
+Potbelly	Potbellys	0	0	0	0	2	0
+Slime Shady	Slime Shadies	0	0	0	0	2	0
+Curer	Curers	0	0	0	0	2	0
+Klub Kong	Klub Kongs	0	0	0	0	2	0
+Capers	Caperses	0	0	0	0	0	0
+Hazel	Hazels	0	0	0	0	1	0
+Roborg	Roborgs	0	0	0	0	2	0
+Brickman	Brickmans	0	0	0	0	0	0
+Blizag Jr.	Blizag Jrs.	0	0	0	0	0	0
+Seasaw	Seasaws	0	0	0	0	2	0
+Salsa	Salsas	0	0	0	0	0	0
+Tori	Toris	0	0	0	0	0	0
+Orrid	Orrids	0	0	0	0	2	0
+Spike	Spikes	0	0	0	0	0	0
+Dolldrums	Dolldrumses	0	0	0	0	2	0
+Brontes	Bronteses	0	0	0	0	0	0
+Arges	Argeses	0	0	0	0	0	0
+Deadnoble	Deadnobles	0	0	0	0	2	0
+Jockey	Jockeys	0	0	0	0	2	0
+Cybot	Cybots	0	0	0	0	2	0
+Jack Frost	Jack Frosts	0	0	0	0	2	0
+Torchman	Torchmans	0	0	0	0	0	0
+Foul Fowl	Foul Fowls	0	0	0	0	0	0
+Bladewolf	Bladewolfs	0	0	0	0	2	0
+Octurion	Octurions	0	0	0	0	2	0
+Metaly	Metalys	0	0	0	0	2	0
+Metabble	Metabbles	0	0	0	0	2	0
+Sugi	Sugis	0	0	0	0	0	0
+Archfiend	Archfiends	0	0	0	0	2	0
+Steropes	Steropeses	0	0	0	0	0	0
+Pa Troll	Pa Trolls	0	0	0	0	0	0
+Skeledoid	Skeledoids	0	0	0	0	0	0
+Talos	Taloses	0	0	0	0	2	0
+Nohi	Nohis	0	0	0	0	0	0
+Stoneman	Stonemans	0	0	0	0	0	0
+Hev	Hevs	0	0	0	0	2	0
+Mornstar	Mornstars	0	0	0	0	0	0
+Bishop	Bishops	0	0	0	0	0	0
+Frillsaur	Frillsaurs	0	0	0	0	2	0
+Gryphus	Gryphuses	0	0	0	0	2	0
+Spot	Spots	0	0	0	0	2	0
+Snap Case	Snap Cases	0	0	0	0	2	0
+Scorpius	Scorpiuses	0	0	0	0	2	0
+Trick Bag	Trick Bags	0	0	0	0	2	0
+Doug	Dougs	0	0	0	0	0	0
+Clio	Clios	0	0	0	0	2	0
+Dimples	Dimpleses	0	0	0	0	1	0
+Mudison	Mudisons	0	0	0	0	0	0
+Sir Bodless	Sir Bodlesses	0	0	0	0	0	0
+Damon	Damons	0	0	0	0	2	0
+Othello	Othellos	0	0	0	0	0	0
+Barry Wight	Barry Wights	0	0	0	0	0	0
+Lumpy	Lumpies	0	0	0	0	2	0
+Harry	Harries	0	0	0	0	0	0
+Priestley	Priestleys	0	0	0	0	0	0
+Starsky	Starskies	0	0	0	0	2	0
+Ray Churls	Ray Churlses	0	0	0	0	0	0
+Ziggy	Ziggys	0	0	0	0	0	0
+Bo Lete	Bo Letes	0	0	0	0	1	0
+Mushy	Mushies	0	0	0	0	2	0
+Madge	Madges	0	0	0	0	1	0
+Michael J.	Michael Js	0	0	0	0	0	0
+Kim Myra	Kim Myras	0	0	0	0	1	0
+Noddy	Noddys	0	0	0	0	0	0
+Digby	Digbys	0	0	0	0	0	0
+Hayden	Haydens	0	0	0	0	0	0
+Dugan	Dugans	0	0	0	0	0	0
+Pierce	Pierces	0	0	0	0	0	0
+Philippa	Philippas	0	0	0	0	1	0
+[[StampCards	41	
+		0	0	0	0	2	0
+slime card	slime cards	5	14	2	5	2	0
+dracky card	dracky cards	5	14	2	5	2	0
+imp card	imp cards	5	14	2	5	2	0
+jailcat card	jailcat cards	5	14	2	5	2	0
+slime knight card	slime knight cards	5	14	2	5	2	0
+chimaera card	chimaera cards	5	14	2	5	2	0
+restless armour card	restless armour cards	5	14	2	5	2	0
+great sabrecat card	great sabrecat cards	5	14	2	5	2	0
+tap devil card	tap devil cards	5	14	2	5	2	0
+iron rhino card	iron rhino cards	5	14	2	5	2	0
+killing machine card	killing machine cards	5	14	2	5	2	0
+tyrantosaurus card	tyrantosaurus cards	5	14	2	5	2	0
+metal king slime card	metal king slime cards	5	14	2	5	2	0
+gigantes card	gigantes cards	5	14	2	5	2	0
+great troll card	great troll cards	5	14	2	5	2	0
+archdemon card	archdemon cards	5	14	2	5	2	0
+Munchie card	Munchie cards	5	14	2	5	2	0
+Farebury region	Farebury Regions	1	1	2	5	2	0
+Alexandria region	Alexandria Regions	1	1	2	5	2	0
+Maella region	Maella Regions	1	1	2	5	2	0
+Kingdom of Ascantha	Kingdoms of Ascantha	1	1	2	5	2	0
+Pickham region	Pickham Regions	1	1	2	5	2	0
+Kingdom of Trodain	Kingdoms of Trodain	1	1	2	5	2	0
+Savella area	Savella Areas	1	1	2	5	2	0
+Holy Isle of Neos	Holy Isles of Neos	1	1	2	5	2	0
+Baccarat region	Baccarat Regions	1	1	2	5	2	0
+Royal Argonia	Royal Argonias	1	1	2	5	2	0
+desert	Deserts	1	1	2	5	2	0
+Arcadia region	Arcadia Regions	1	1	2	5	2	0
+Blizzard Peaks	Blizzard Peaks	1	1	2	5	2	0
+isolated plateau	Isolated Plateaus	1	1	2	5	2	0
+unspecified	Unspecifieds	1	1	2	5	2	0
+special	Specials	1	1	2	5	2	0
+famous sight	famous sights	1	1	2	5	2	0
+golden slime statue	golden slime statues	1	1	2	5	2	0
+noteable character	noteable characters	1	1	2	5	2	0
+rare monster	rare monsters	1	1	2	5	2	0
+regular monster	regular monsters	1	1	2	5	2	0
+mystery	mysteries	1	1	2	5	2	0
+special	specials	1	1	2	5	2	0

@@ -1,0 +1,102 @@
+{
+  "0": {
+    "ID": 0,
+    "Name": "Farebury, Hilltop Hut",
+    "DoEdit": true
+  },
+  "1": {
+    "ID": 1,
+    "Name": "Alexandria",
+    "DoEdit": true
+  },
+  "2": {
+    "ID": 2,
+    "Name": "Port Prospect",
+    "DoEdit": true
+  },
+  "3": {
+    "ID": 3,
+    "Name": "Peregrin Quay",
+    "DoEdit": true
+  },
+  "4": {
+    "ID": 4,
+    "Name": "Simpleton",
+    "DoEdit": true
+  },
+  "5": {
+    "ID": 5,
+    "Name": "Ascantha",
+    "DoEdit": true
+  },
+  "6": {
+    "ID": 6,
+    "Name": "Pickham",
+    "DoEdit": true
+  },
+  "7": {
+    "ID": 7,
+    "Name": "Baccarat",
+    "DoEdit": true
+  },
+  "8": {
+    "ID": 8,
+    "Name": "Neos, Savella Cathedral",
+    "DoEdit": true
+  },
+  "9": {
+    "ID": 9,
+    "Name": "Argonia",
+    "DoEdit": true
+  },
+  "10": {
+    "ID": 10,
+    "Name": "Orkutsk",
+    "DoEdit": true
+  },
+  "11": {
+    "ID": 11,
+    "Name": "Arcadia",
+    "DoEdit": true
+  },
+  "12": {
+    "ID": 12,
+    "Name": "Chapel of Autumn",
+    "DoEdit": true
+  },
+  "13": {
+    "ID": 13,
+    "Name": "Tryan Gully",
+    "DoEdit": true
+  },
+  "14": {
+    "ID": 14,
+    "Name": "Lakeside Cabin",
+    "DoEdit": true
+  },
+  "15": {
+    "ID": 15,
+    "Name": "?",
+    "DoEdit": false
+  },
+  "16": {
+    "ID": 16,
+    "Name": "Church to the west of Trodain",
+    "DoEdit": true
+  },
+  "17": {
+    "ID": 17,
+    "Name": "?",
+    "DoEdit": false
+  },
+  "18": {
+    "ID": 18,
+    "Name": "Desert Chapel",
+    "DoEdit": true
+  },
+  "19": {
+    "ID": 19,
+    "Name": "?",
+    "DoEdit": false
+  }
+}
