@@ -2012,7 +2012,7 @@ goodybag	goodybag	1	1	1	3	2	0
 mimic king	mimic king	1	1	1	3	2	0
 mimic	mimic	1	1	1	3	2	0
 dullahan	dullahan	1	1	1	3	2	0
-healslime	healslime	1	1	1	3	2	0
+Healie	Healies	0	0	0	0	0	0
 gigantes	gigantes	1	1	1	3	2	0
 liquid metal slime	liquid metal slime	1	1	1	3	2	0
 hell gladiator	hell gladiator	1	1	1	3	2	0
@@ -2155,6 +2155,14 @@ Hayden	Haydens	0	0	0	0	0	0
 Dugan	Dugans	0	0	0	0	0	0
 Pierce	Pierces	0	0	0	0	0	0
 Philippa	Philippas	0	0	0	0	1	0
+;insertDummy(800)
+Ultrus	Ultrus	0	0	0	0	2	0
+Gracky	Gracky	0	0	0	0	2	0
+Mazin	Mazin	0	0	0	0	2	0
+Guaca Mole	Guaca Mole	0	0	0	0	2	0
+;insertDummy(46)
+Prince Charmles	Prince Charmles	0	0	0	0	0	0
+Marcello	Marcello	0	0	0	0	0	0
 [[StampCards	41	
 		0	0	0	0	2	0
 slime card	slime cards	5	14	2	5	2	0

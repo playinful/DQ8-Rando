@@ -1,0 +1,3458 @@
+{
+  "0": {
+    "ID": 0,
+    "Name": "N/A"
+  },
+  "1": {
+    "ID": 1,
+    "Name": "REGULAR ATTACK"
+  },
+  "2": {
+    "ID": 2,
+    "Name": "WHIP REGULAR ATTACK"
+  },
+  "3": {
+    "ID": 3,
+    "Name": "Megawhip"
+  },
+  "4": {
+    "ID": 4,
+    "Name": "Group Flail"
+  },
+  "5": {
+    "ID": 5,
+    "Name": "Megaflail"
+  },
+  "6": {
+    "ID": 6,
+    "Name": "BOOMERANG REGULAR ATTACK"
+  },
+  "7": {
+    "ID": 7,
+    "Name": "Frizz"
+  },
+  "8": {
+    "ID": 8,
+    "Name": "Frizzle"
+  },
+  "9": {
+    "ID": 9,
+    "Name": "Kafrizzle"
+  },
+  "10": {
+    "ID": 10,
+    "Name": "Sizz"
+  },
+  "11": {
+    "ID": 11,
+    "Name": "Sizzle"
+  },
+  "12": {
+    "ID": 12,
+    "Name": "Kasizzle"
+  },
+  "13": {
+    "ID": 13,
+    "Name": "Bang"
+  },
+  "14": {
+    "ID": 14,
+    "Name": "Boom"
+  },
+  "15": {
+    "ID": 15,
+    "Name": "Kaboom"
+  },
+  "16": {
+    "ID": 16,
+    "Name": "Woosh"
+  },
+  "17": {
+    "ID": 17,
+    "Name": "Swoosh"
+  },
+  "18": {
+    "ID": 18,
+    "Name": "Kaswoosh"
+  },
+  "19": {
+    "ID": 19,
+    "Name": "Crack"
+  },
+  "20": {
+    "ID": 20,
+    "Name": "Crackle"
+  },
+  "21": {
+    "ID": 21,
+    "Name": "Kacrackle"
+  },
+  "22": {
+    "ID": 22,
+    "Name": "Zap"
+  },
+  "23": {
+    "ID": 23,
+    "Name": "Kazap"
+  },
+  "24": {
+    "ID": 24,
+    "Name": "Whack"
+  },
+  "25": {
+    "ID": 25,
+    "Name": "Whack"
+  },
+  "26": {
+    "ID": 26,
+    "Name": "Thwack"
+  },
+  "27": {
+    "ID": 27,
+    "Name": "Thwack"
+  },
+  "28": {
+    "ID": 28,
+    "Name": "Kathwack"
+  },
+  "29": {
+    "ID": 29,
+    "Name": "Kathwack"
+  },
+  "30": {
+    "ID": 30,
+    "Name": "Pearly Gates"
+  },
+  "31": {
+    "ID": 31,
+    "Name": "Magic Burst"
+  },
+  "32": {
+    "ID": 32,
+    "Name": "Magic Burst II"
+  },
+  "33": {
+    "ID": 33,
+    "Name": "Kamikazee"
+  },
+  "34": {
+    "ID": 34,
+    "Name": "Kamikazee"
+  },
+  "35": {
+    "ID": 35,
+    "Name": "Snooze"
+  },
+  "36": {
+    "ID": 36,
+    "Name": "Snooze"
+  },
+  "37": {
+    "ID": 37,
+    "Name": "Kasnooze"
+  },
+  "38": {
+    "ID": 38,
+    "Name": "Kasnooze"
+  },
+  "39": {
+    "ID": 39,
+    "Name": "Dazzle"
+  },
+  "40": {
+    "ID": 40,
+    "Name": "Dazzle"
+  },
+  "41": {
+    "ID": 41,
+    "Name": "Fizzle"
+  },
+  "42": {
+    "ID": 42,
+    "Name": "Fizzle"
+  },
+  "43": {
+    "ID": 43,
+    "Name": "Fuddle"
+  },
+  "44": {
+    "ID": 44,
+    "Name": "Fuddle"
+  },
+  "45": {
+    "ID": 45,
+    "Name": "Kafuddle"
+  },
+  "46": {
+    "ID": 46,
+    "Name": "Kafuddle"
+  },
+  "47": {
+    "ID": 47,
+    "Name": "Drain Magic"
+  },
+  "48": {
+    "ID": 48,
+    "Name": "Bounce"
+  },
+  "49": {
+    "ID": 49,
+    "Name": "Sap"
+  },
+  "50": {
+    "ID": 50,
+    "Name": "Sap"
+  },
+  "51": {
+    "ID": 51,
+    "Name": "Kasap"
+  },
+  "52": {
+    "ID": 52,
+    "Name": "Kasap"
+  },
+  "53": {
+    "ID": 53,
+    "Name": "Buff"
+  },
+  "54": {
+    "ID": 54,
+    "Name": "Buff"
+  },
+  "55": {
+    "ID": 55,
+    "Name": "Buff"
+  },
+  "56": {
+    "ID": 56,
+    "Name": "Kabuff"
+  },
+  "57": {
+    "ID": 57,
+    "Name": "Acceleratle"
+  },
+  "58": {
+    "ID": 58,
+    "Name": "Deceleratle"
+  },
+  "59": {
+    "ID": 59,
+    "Name": "Deceleratle"
+  },
+  "60": {
+    "ID": 60,
+    "Name": "Insulatle"
+  },
+  "61": {
+    "ID": 61,
+    "Name": "Oomph"
+  },
+  "62": {
+    "ID": 62,
+    "Name": "Heal"
+  },
+  "63": {
+    "ID": 63,
+    "Name": "Heal"
+  },
+  "64": {
+    "ID": 64,
+    "Name": "Heal"
+  },
+  "65": {
+    "ID": 65,
+    "Name": "Midheal"
+  },
+  "66": {
+    "ID": 66,
+    "Name": "Midheal"
+  },
+  "67": {
+    "ID": 67,
+    "Name": "Midheal"
+  },
+  "68": {
+    "ID": 68,
+    "Name": "Fullheal"
+  },
+  "69": {
+    "ID": 69,
+    "Name": "Fullheal"
+  },
+  "70": {
+    "ID": 70,
+    "Name": "Fullheal"
+  },
+  "71": {
+    "ID": 71,
+    "Name": "Multiheal"
+  },
+  "72": {
+    "ID": 72,
+    "Name": "Omniheal"
+  },
+  "73": {
+    "ID": 73,
+    "Name": "Zing"
+  },
+  "74": {
+    "ID": 74,
+    "Name": "Kazing"
+  },
+  "75": {
+    "ID": 75,
+    "Name": "Kerplunk"
+  },
+  "76": {
+    "ID": 76,
+    "Name": "Squelch"
+  },
+  "77": {
+    "ID": 77,
+    "Name": "Tingle"
+  },
+  "78": {
+    "ID": 78,
+    "Name": "Magic Barrier"
+  },
+  "79": {
+    "ID": 79,
+    "Name": "Zoom"
+  },
+  "80": {
+    "ID": 80,
+    "Name": "Evac"
+  },
+  "81": {
+    "ID": 81,
+    "Name": "Blasto"
+  },
+  "82": {
+    "ID": 82,
+    "Name": "Holy Protection"
+  },
+  "83": {
+    "ID": 83,
+    "Name": "Safe Passage"
+  },
+  "84": {
+    "ID": 84,
+    "Name": "DUMMY_IMPAS"
+  },
+  "85": {
+    "ID": 85,
+    "Name": "Padfoot"
+  },
+  "86": {
+    "ID": 86,
+    "Name": "Share Magic"
+  },
+  "87": {
+    "ID": 87,
+    "Name": "Ban Dance"
+  },
+  "88": {
+    "ID": 88,
+    "Name": "Divine Intervention"
+  },
+  "89": {
+    "ID": 89,
+    "Name": "Pearly Gates"
+  },
+  "90": {
+    "ID": 90,
+    "Name": "CONFUSE REGULAR ATTACK"
+  },
+  "91": {
+    "ID": 91,
+    "Name": "CONFUSE REGULAR ATTACK"
+  },
+  "92": {
+    "ID": 92,
+    "Name": "Meditation"
+  },
+  "93": {
+    "ID": 93,
+    "Name": "Defending Champion"
+  },
+  "94": {
+    "ID": 94,
+    "Name": "Weird Dance"
+  },
+  "95": {
+    "ID": 95,
+    "Name": "Weird Dance"
+  },
+  "96": {
+    "ID": 96,
+    "Name": "Weird Dance"
+  },
+  "97": {
+    "ID": 97,
+    "Name": "Sultry Dance"
+  },
+  "98": {
+    "ID": 98,
+    "Name": "Death Dance"
+  },
+  "99": {
+    "ID": 99,
+    "Name": "Hustle Dance"
+  },
+  "100": {
+    "ID": 100,
+    "Name": "Kerplunk Dance"
+  },
+  "101": {
+    "ID": 101,
+    "Name": "Fuddle Dance"
+  },
+  "102": {
+    "ID": 102,
+    "Name": "Last Dance"
+  },
+  "103": {
+    "ID": 103,
+    "Name": "Underpants Dance"
+  },
+  "104": {
+    "ID": 104,
+    "Name": "Underpants Dance"
+  },
+  "105": {
+    "ID": 105,
+    "Name": "Sweet Breath"
+  },
+  "106": {
+    "ID": 106,
+    "Name": "Poison Breath"
+  },
+  "107": {
+    "ID": 107,
+    "Name": "Venom Mist"
+  },
+  "108": {
+    "ID": 108,
+    "Name": "Burning Breath"
+  },
+  "109": {
+    "ID": 109,
+    "Name": "Burning Breath"
+  },
+  "110": {
+    "ID": 110,
+    "Name": "Sandstorm"
+  },
+  "111": {
+    "ID": 111,
+    "Name": "Sandstorm"
+  },
+  "112": {
+    "ID": 112,
+    "Name": "Dazzleflash"
+  },
+  "113": {
+    "ID": 113,
+    "Name": "Warcry"
+  },
+  "114": {
+    "ID": 114,
+    "Name": "Warcry"
+  },
+  "115": {
+    "ID": 115,
+    "Name": "Puff-Puff"
+  },
+  "116": {
+    "ID": 116,
+    "Name": "Puff-Puff"
+  },
+  "117": {
+    "ID": 117,
+    "Name": "Ice Wave"
+  },
+  "118": {
+    "ID": 118,
+    "Name": "Lightning"
+  },
+  "119": {
+    "ID": 119,
+    "Name": "Wind Sickles"
+  },
+  "120": {
+    "ID": 120,
+    "Name": "Thin Air"
+  },
+  "121": {
+    "ID": 121,
+    "Name": "Fire Breath"
+  },
+  "122": {
+    "ID": 122,
+    "Name": "Flame Breath"
+  },
+  "123": {
+    "ID": 123,
+    "Name": "Inferno"
+  },
+  "124": {
+    "ID": 124,
+    "Name": "Scorch"
+  },
+  "125": {
+    "ID": 125,
+    "Name": "Cool Breath"
+  },
+  "126": {
+    "ID": 126,
+    "Name": "Chilly Breath"
+  },
+  "127": {
+    "ID": 127,
+    "Name": "Cold Blizzard"
+  },
+  "128": {
+    "ID": 128,
+    "Name": "C-C-Cold Breath"
+  },
+  "129": {
+    "ID": 129,
+    "Name": "Stone's Throw"
+  },
+  "130": {
+    "ID": 130,
+    "Name": "Boulder Toss"
+  },
+  "131": {
+    "ID": 131,
+    "Name": "Lightning Storm"
+  },
+  "132": {
+    "ID": 132,
+    "Name": "Bodyslam"
+  },
+  "133": {
+    "ID": 133,
+    "Name": "Direct Thrust"
+  },
+  "134": {
+    "ID": 134,
+    "Name": "Multifists"
+  },
+  "135": {
+    "ID": 135,
+    "Name": "Hatchet Man"
+  },
+  "136": {
+    "ID": 136,
+    "Name": "Falcon Slash"
+  },
+  "137": {
+    "ID": 137,
+    "Name": "Harvest Moon"
+  },
+  "138": {
+    "ID": 138,
+    "Name": "Dragon Slash"
+  },
+  "139": {
+    "ID": 139,
+    "Name": "Metal Slash"
+  },
+  "140": {
+    "ID": 140,
+    "Name": "Thunder Slash"
+  },
+  "141": {
+    "ID": 141,
+    "Name": "Flame Slash"
+  },
+  "142": {
+    "ID": 142,
+    "Name": "Vacuum Slash"
+  },
+  "143": {
+    "ID": 143,
+    "Name": "Kacrackle Slash"
+  },
+  "144": {
+    "ID": 144,
+    "Name": "Steal Sickle"
+  },
+  "145": {
+    "ID": 145,
+    "Name": "Knuckle Sandwich"
+  },
+  "146": {
+    "ID": 146,
+    "Name": "Gigaslash"
+  },
+  "147": {
+    "ID": 147,
+    "Name": "Golden Oldies"
+  },
+  "148": {
+    "ID": 148,
+    "Name": "OFF-TARGET ATTACK"
+  },
+  "149": {
+    "ID": 149,
+    "Name": "Supersize Slime"
+  },
+  "150": {
+    "ID": 150,
+    "Name": "SORROW ATTACK 1"
+  },
+  "151": {
+    "ID": 151,
+    "Name": "SORROW ATTACK 2"
+  },
+  "152": {
+    "ID": 152,
+    "Name": "SLEEP ATTACK"
+  },
+  "153": {
+    "ID": 153,
+    "Name": "POISON ATTACK"
+  },
+  "154": {
+    "ID": 154,
+    "Name": "PARALYSIS ATTACK"
+  },
+  "155": {
+    "ID": 155,
+    "Name": "CONFUSE ATTACK"
+  },
+  "156": {
+    "ID": 156,
+    "Name": "Mini Explosion"
+  },
+  "157": {
+    "ID": 157,
+    "Name": "100% Paralysis"
+  },
+  "158": {
+    "ID": 158,
+    "Name": "Warcry II"
+  },
+  "159": {
+    "ID": 159,
+    "Name": "100% Sleep"
+  },
+  "160": {
+    "ID": 160,
+    "Name": "Clutch II"
+  },
+  "161": {
+    "ID": 161,
+    "Name": "Full MP Restore"
+  },
+  "162": {
+    "ID": 162,
+    "Name": "Whistle"
+  },
+  "163": {
+    "ID": 163,
+    "Name": "Mercurial Thrust"
+  },
+  "164": {
+    "ID": 164,
+    "Name": "Leg Sweep"
+  },
+  "165": {
+    "ID": 165,
+    "Name": "Nose for Treasure"
+  },
+  "166": {
+    "ID": 166,
+    "Name": "Call Team"
+  },
+  "167": {
+    "ID": 167,
+    "Name": "Multishot"
+  },
+  "168": {
+    "ID": 168,
+    "Name": "Needle Shot"
+  },
+  "169": {
+    "ID": 169,
+    "Name": "Parallax"
+  },
+  "170": {
+    "ID": 170,
+    "Name": "Heart Breaker"
+  },
+  "171": {
+    "ID": 171,
+    "Name": "Axes of Evil"
+  },
+  "172": {
+    "ID": 172,
+    "Name": "Big Banga"
+  },
+  "173": {
+    "ID": 173,
+    "Name": "Miracle Slash"
+  },
+  "174": {
+    "ID": 174,
+    "Name": "Clean Sweep"
+  },
+  "175": {
+    "ID": 175,
+    "Name": "Crosscutter Throw"
+  },
+  "176": {
+    "ID": 176,
+    "Name": "Power Throw"
+  },
+  "177": {
+    "ID": 177,
+    "Name": "Starburst Throw"
+  },
+  "178": {
+    "ID": 178,
+    "Name": "Firebird Throw"
+  },
+  "179": {
+    "ID": 179,
+    "Name": "Gigathrow"
+  },
+  "180": {
+    "ID": 180,
+    "Name": "Helm Splitter"
+  },
+  "181": {
+    "ID": 181,
+    "Name": "Typhoeus' Maul"
+  },
+  "182": {
+    "ID": 182,
+    "Name": "Monster Masher"
+  },
+  "183": {
+    "ID": 183,
+    "Name": "Penny Pincher"
+  },
+  "184": {
+    "ID": 184,
+    "Name": "Devil Crusher"
+  },
+  "185": {
+    "ID": 185,
+    "Name": "Grim Reaper"
+  },
+  "186": {
+    "ID": 186,
+    "Name": "Assassin's Stab"
+  },
+  "187": {
+    "ID": 187,
+    "Name": "Sudden Death"
+  },
+  "188": {
+    "ID": 188,
+    "Name": "Toxic Sword"
+  },
+  "189": {
+    "ID": 189,
+    "Name": "Whiplash"
+  },
+  "190": {
+    "ID": 190,
+    "Name": "Twin Dragon Lash"
+  },
+  "191": {
+    "ID": 191,
+    "Name": "Serpent's Bite"
+  },
+  "192": {
+    "ID": 192,
+    "Name": "Lashings of Love"
+  },
+  "193": {
+    "ID": 193,
+    "Name": "Lady's Thong"
+  },
+  "194": {
+    "ID": 194,
+    "Name": "Shining Shot"
+  },
+  "195": {
+    "ID": 195,
+    "Name": "Sandman's Arrow"
+  },
+  "196": {
+    "ID": 196,
+    "Name": "Seraph's Arrow"
+  },
+  "197": {
+    "ID": 197,
+    "Name": "Caduceus"
+  },
+  "198": {
+    "ID": 198,
+    "Name": "Blow Kiss"
+  },
+  "199": {
+    "ID": 199,
+    "Name": "Hip Drop"
+  },
+  "200": {
+    "ID": 200,
+    "Name": "Sexy Beam"
+  },
+  "201": {
+    "ID": 201,
+    "Name": "Pink Typhoon"
+  },
+  "202": {
+    "ID": 202,
+    "Name": "Miracle Moon"
+  },
+  "203": {
+    "ID": 203,
+    "Name": "Charming Look"
+  },
+  "204": {
+    "ID": 204,
+    "Name": "Multithrust"
+  },
+  "205": {
+    "ID": 205,
+    "Name": "Gigaflash"
+  },
+  "206": {
+    "ID": 206,
+    "Name": "Tongue Lashing"
+  },
+  "207": {
+    "ID": 207,
+    "Name": "Silly Song"
+  },
+  "208": {
+    "ID": 208,
+    "Name": "Counting Sheep"
+  },
+  "209": {
+    "ID": 209,
+    "Name": "Spooky Aura"
+  },
+  "210": {
+    "ID": 210,
+    "Name": "Angel Song"
+  },
+  "211": {
+    "ID": 211,
+    "Name": "Incantation"
+  },
+  "212": {
+    "ID": 212,
+    "Name": "Party Split"
+  },
+  "213": {
+    "ID": 213,
+    "Name": "Rubble Attack"
+  },
+  "214": {
+    "ID": 214,
+    "Name": "Rush"
+  },
+  "215": {
+    "ID": 215,
+    "Name": "Sheep Call"
+  },
+  "216": {
+    "ID": 216,
+    "Name": "Nosedive"
+  },
+  "217": {
+    "ID": 217,
+    "Name": "Occult Attack"
+  },
+  "218": {
+    "ID": 218,
+    "Name": "Lv. 10 Wind Sickle"
+  },
+  "219": {
+    "ID": 219,
+    "Name": "Lv. 60 Wind Sickle"
+  },
+  "220": {
+    "ID": 220,
+    "Name": "Lv. 10 Thin Air"
+  },
+  "221": {
+    "ID": 221,
+    "Name": "Lv. 60 Thin Air"
+  },
+  "222": {
+    "ID": 222,
+    "Name": "Birdcutter"
+  },
+  "223": {
+    "ID": 223,
+    "Name": "Groundstrike"
+  },
+  "224": {
+    "ID": 224,
+    "Name": "Beam"
+  },
+  "225": {
+    "ID": 225,
+    "Name": "Featherain"
+  },
+  "226": {
+    "ID": 226,
+    "Name": "Spin Attack"
+  },
+  "227": {
+    "ID": 227,
+    "Name": "Twist Attack"
+  },
+  "228": {
+    "ID": 228,
+    "Name": "Shockwave"
+  },
+  "229": {
+    "ID": 229,
+    "Name": "Bellyflop"
+  },
+  "230": {
+    "ID": 230,
+    "Name": "Throwdown"
+  },
+  "231": {
+    "ID": 231,
+    "Name": "Wrath of the Gods"
+  },
+  "232": {
+    "ID": 232,
+    "Name": "Poison Salvo"
+  },
+  "233": {
+    "ID": 233,
+    "Name": "Defencive Offence"
+  },
+  "234": {
+    "ID": 234,
+    "Name": "Psyche-Out"
+  },
+  "235": {
+    "ID": 235,
+    "Name": "Flex-Out"
+  },
+  "236": {
+    "ID": 236,
+    "Name": "Foxtrot"
+  },
+  "237": {
+    "ID": 237,
+    "Name": "Lame Story"
+  },
+  "238": {
+    "ID": 238,
+    "Name": "Exciting Tale"
+  },
+  "239": {
+    "ID": 239,
+    "Name": "Funny Story"
+  },
+  "240": {
+    "ID": 240,
+    "Name": "Frighten"
+  },
+  "241": {
+    "ID": 241,
+    "Name": "Dragovian Seal"
+  },
+  "242": {
+    "ID": 242,
+    "Name": "Cursed Song"
+  },
+  "243": {
+    "ID": 243,
+    "Name": "Cursed Tune"
+  },
+  "244": {
+    "ID": 244,
+    "Name": "Cursed Mist"
+  },
+  "245": {
+    "ID": 245,
+    "Name": "Cursed Attack"
+  },
+  "246": {
+    "ID": 246,
+    "Name": "Skipturn Attack"
+  },
+  "247": {
+    "ID": 247,
+    "Name": "Collar Catapult"
+  },
+  "248": {
+    "ID": 248,
+    "Name": "Curseball"
+  },
+  "249": {
+    "ID": 249,
+    "Name": "Pointer"
+  },
+  "250": {
+    "ID": 250,
+    "Name": "Thorntwine"
+  },
+  "251": {
+    "ID": 251,
+    "Name": "Cacophony"
+  },
+  "252": {
+    "ID": 252,
+    "Name": "Snow Throw"
+  },
+  "253": {
+    "ID": 253,
+    "Name": "Meteor Strike"
+  },
+  "254": {
+    "ID": 254,
+    "Name": "Chimaera Breath"
+  },
+  "255": {
+    "ID": 255,
+    "Name": "Coda Chime"
+  },
+  "256": {
+    "ID": 256,
+    "Name": "Salvation Swig"
+  },
+  "257": {
+    "ID": 257,
+    "Name": "Yggdrasil leaf"
+  },
+  "258": {
+    "ID": 258,
+    "Name": "Dark Macarbour Leaf"
+  },
+  "259": {
+    "ID": 259,
+    "Name": "Sarcastic Snigger"
+  },
+  "260": {
+    "ID": 260,
+    "Name": "Love Story"
+  },
+  "261": {
+    "ID": 261,
+    "Name": "Executioner"
+  },
+  "262": {
+    "ID": 262,
+    "Name": "Stainless Steal Sickle"
+  },
+  "263": {
+    "ID": 263,
+    "Name": "Big Banga"
+  },
+  "264": {
+    "ID": 264,
+    "Name": "Super Throw"
+  },
+  "265": {
+    "ID": 265,
+    "Name": "Mind Breaker"
+  },
+  "266": {
+    "ID": 266,
+    "Name": "Gold Rush"
+  },
+  "267": {
+    "ID": 267,
+    "Name": "Grimmer Reaper"
+  },
+  "268": {
+    "ID": 268,
+    "Name": "Toxic Dagger"
+  },
+  "269": {
+    "ID": 269,
+    "Name": "Queen's Thong"
+  },
+  "270": {
+    "ID": 270,
+    "Name": "Needle Rain"
+  },
+  "271": {
+    "ID": 271,
+    "Name": "Cherub's Arrow"
+  },
+  "272": {
+    "ID": 272,
+    "Name": "Angel Eyes"
+  },
+  "273": {
+    "ID": 273,
+    "Name": "Chilling Chuckle"
+  },
+  "274": {
+    "ID": 274,
+    "Name": "Thunder Thrust"
+  },
+  "275": {
+    "ID": 275,
+    "Name": "Lightning Thrust"
+  },
+  "276": {
+    "ID": 276,
+    "Name": "Gigagash"
+  },
+  "277": {
+    "ID": 277,
+    "Name": "Dragon Soul"
+  },
+  "278": {
+    "ID": 278,
+    "Name": "Megawhip"
+  },
+  "279": {
+    "ID": 279,
+    "Name": "medicinal herb"
+  },
+  "280": {
+    "ID": 280,
+    "Name": "Other herb"
+  },
+  "281": {
+    "ID": 281,
+    "Name": "FLAME BARRIER EFFECT"
+  },
+  "282": {
+    "ID": 282,
+    "Name": "ICE BARRIER EFFECT"
+  },
+  "283": {
+    "ID": 283,
+    "Name": "antidotal herb"
+  },
+  "284": {
+    "ID": 284,
+    "Name": "mini medal"
+  },
+  "285": {
+    "ID": 285,
+    "Name": "Yggdrasil leaf"
+  },
+  "286": {
+    "ID": 286,
+    "Name": "world map"
+  },
+  "287": {
+    "ID": 287,
+    "Name": "tool bag"
+  },
+  "288": {
+    "ID": 288,
+    "Name": "Jessica's letter"
+  },
+  "289": {
+    "ID": 289,
+    "Name": "holy water"
+  },
+  "290": {
+    "ID": 290,
+    "Name": "holy water"
+  },
+  "291": {
+    "ID": 291,
+    "Name": "chimaera wing"
+  },
+  "292": {
+    "ID": 292,
+    "Name": "seed of wisdom"
+  },
+  "293": {
+    "ID": 293,
+    "Name": "seed of strength"
+  },
+  "294": {
+    "ID": 294,
+    "Name": "seed of agility"
+  },
+  "295": {
+    "ID": 295,
+    "Name": "seed of defence"
+  },
+  "296": {
+    "ID": 296,
+    "Name": "seed of life"
+  },
+  "297": {
+    "ID": 297,
+    "Name": "seed of magic"
+  },
+  "298": {
+    "ID": 298,
+    "Name": "thief's key recipe"
+  },
+  "299": {
+    "ID": 299,
+    "Name": "dream blade"
+  },
+  "300": {
+    "ID": 300,
+    "Name": "Dragovian sword"
+  },
+  "301": {
+    "ID": 301,
+    "Name": "Dragovian king sword"
+  },
+  "302": {
+    "ID": 302,
+    "Name": "icicle dirk"
+  },
+  "303": {
+    "ID": 303,
+    "Name": "wizard's staff"
+  },
+  "304": {
+    "ID": 304,
+    "Name": "lightning staff"
+  },
+  "305": {
+    "ID": 305,
+    "Name": "staff of divine wrath"
+  },
+  "306": {
+    "ID": 306,
+    "Name": "magma staff"
+  },
+  "307": {
+    "ID": 307,
+    "Name": "staff of antimagic"
+  },
+  "308": {
+    "ID": 308,
+    "Name": "rune staff"
+  },
+  "309": {
+    "ID": 309,
+    "Name": "staff of resurrection"
+  },
+  "310": {
+    "ID": 310,
+    "Name": "Cheiron's bow"
+  },
+  "311": {
+    "ID": 311,
+    "Name": "power shield"
+  },
+  "312": {
+    "ID": 312,
+    "Name": "big boss shield"
+  },
+  "313": {
+    "ID": 313,
+    "Name": "Hermes' hat"
+  },
+  "314": {
+    "ID": 314,
+    "Name": "prayer ring"
+  },
+  "315": {
+    "ID": 315,
+    "Name": "moonwort bulb"
+  },
+  "316": {
+    "ID": 316,
+    "Name": "strong medicine"
+  },
+  "317": {
+    "ID": 317,
+    "Name": "special medicine"
+  },
+  "318": {
+    "ID": 318,
+    "Name": "lesser panacea"
+  },
+  "319": {
+    "ID": 319,
+    "Name": "greater panacea"
+  },
+  "320": {
+    "ID": 320,
+    "Name": "rose-root"
+  },
+  "321": {
+    "ID": 321,
+    "Name": "rose-wort"
+  },
+  "322": {
+    "ID": 322,
+    "Name": "strong antidote"
+  },
+  "323": {
+    "ID": 323,
+    "Name": "special antidote"
+  },
+  "324": {
+    "ID": 324,
+    "Name": "moon's mercy"
+  },
+  "325": {
+    "ID": 325,
+    "Name": "mystifying mixture"
+  },
+  "326": {
+    "ID": 326,
+    "Name": "Yggdrasil dew"
+  },
+  "327": {
+    "ID": 327,
+    "Name": "amor seco essence"
+  },
+  "328": {
+    "ID": 328,
+    "Name": "magic water"
+  },
+  "329": {
+    "ID": 329,
+    "Name": "elfin elixir"
+  },
+  "330": {
+    "ID": 330,
+    "Name": "rockbomb shard"
+  },
+  "331": {
+    "ID": 331,
+    "Name": "sage's stone"
+  },
+  "332": {
+    "ID": 332,
+    "Name": "seed of skill"
+  },
+  "333": {
+    "ID": 333,
+    "Name": "timbrel of tension"
+  },
+  "334": {
+    "ID": 334,
+    "Name": "plain cheese"
+  },
+  "335": {
+    "ID": 335,
+    "Name": "spicy cheese"
+  },
+  "336": {
+    "ID": 336,
+    "Name": "super spicy cheese"
+  },
+  "337": {
+    "ID": 337,
+    "Name": "scorching cheese"
+  },
+  "338": {
+    "ID": 338,
+    "Name": "cool cheese"
+  },
+  "339": {
+    "ID": 339,
+    "Name": "chilly cheese"
+  },
+  "340": {
+    "ID": 340,
+    "Name": "cold cheese"
+  },
+  "341": {
+    "ID": 341,
+    "Name": "c-c-cold cheese"
+  },
+  "342": {
+    "ID": 342,
+    "Name": "mild cheese"
+  },
+  "343": {
+    "ID": 343,
+    "Name": "cured cheese"
+  },
+  "344": {
+    "ID": 344,
+    "Name": "angel cheese"
+  },
+  "345": {
+    "ID": 345,
+    "Name": "hard cheese"
+  },
+  "346": {
+    "ID": 346,
+    "Name": "soft cheese"
+  },
+  "347": {
+    "ID": 347,
+    "Name": "chunky cheese"
+  },
+  "348": {
+    "ID": 348,
+    "Name": "highly strung cheese"
+  },
+  "349": {
+    "ID": 349,
+    "Name": "gold nugget"
+  },
+  "350": {
+    "ID": 350,
+    "Name": "cowpat"
+  },
+  "351": {
+    "ID": 351,
+    "Name": "dragon dung"
+  },
+  "352": {
+    "ID": 352,
+    "Name": "sandstorm spear"
+  },
+  "353": {
+    "ID": 353,
+    "Name": ""
+  },
+  "354": {
+    "ID": 354,
+    "Name": "crystal ball"
+  },
+  "355": {
+    "ID": 355,
+    "Name": "Eros' bow recipe"
+  },
+  "356": {
+    "ID": 356,
+    "Name": "imp knife recipe"
+  },
+  "357": {
+    "ID": 357,
+    "Name": "dragon slayer recipe"
+  },
+  "358": {
+    "ID": 358,
+    "Name": "\u2018The Big Book of Barriers\u2019"
+  },
+  "359": {
+    "ID": 359,
+    "Name": "Venus' tear"
+  },
+  "360": {
+    "ID": 360,
+    "Name": "Moonshadow harp"
+  },
+  "361": {
+    "ID": 361,
+    "Name": "sand of sending"
+  },
+  "362": {
+    "ID": 362,
+    "Name": "Argon heart"
+  },
+  "363": {
+    "ID": 363,
+    "Name": "great big Argon heart"
+  },
+  "364": {
+    "ID": 364,
+    "Name": "magic mirror"
+  },
+  "365": {
+    "ID": 365,
+    "Name": "magic mirror"
+  },
+  "366": {
+    "ID": 366,
+    "Name": "sun mirror"
+  },
+  "367": {
+    "ID": 367,
+    "Name": "Kran Spinels"
+  },
+  "368": {
+    "ID": 368,
+    "Name": "Godbird's soulstone"
+  },
+  "369": {
+    "ID": 369,
+    "Name": "thief's key"
+  },
+  "370": {
+    "ID": 370,
+    "Name": "magic key"
+  },
+  "371": {
+    "ID": 371,
+    "Name": "ultimate key"
+  },
+  "372": {
+    "ID": 372,
+    "Name": "Templar's ring"
+  },
+  "373": {
+    "ID": 373,
+    "Name": "Templar Captain's ring"
+  },
+  "374": {
+    "ID": 374,
+    "Name": "Argon ring"
+  },
+  "375": {
+    "ID": 375,
+    "Name": "bunny tail"
+  },
+  "376": {
+    "ID": 376,
+    "Name": "illuminated sea chart"
+  },
+  "377": {
+    "ID": 377,
+    "Name": "Darktree leaf"
+  },
+  "378": {
+    "ID": 378,
+    "Name": "Marta's bag"
+  },
+  "379": {
+    "ID": 379,
+    "Name": "Morrie's Memo"
+  },
+  "380": {
+    "ID": 380,
+    "Name": "double bubble"
+  },
+  "381": {
+    "ID": 381,
+    "Name": "eau de monster"
+  },
+  "382": {
+    "ID": 382,
+    "Name": "super seed of skill"
+  },
+  "383": {
+    "ID": 383,
+    "Name": "Baumren's bell"
+  },
+  "384": {
+    "ID": 384,
+    "Name": "Baumren's bell"
+  },
+  "385": {
+    "ID": 385,
+    "Name": "lizard humour"
+  },
+  "386": {
+    "ID": 386,
+    "Name": "Flee"
+  },
+  "387": {
+    "ID": 387,
+    "Name": "Flee"
+  },
+  "388": {
+    "ID": 388,
+    "Name": "FRIGHTENED AND FLEES"
+  },
+  "389": {
+    "ID": 389,
+    "Name": "Voice Call"
+  },
+  "390": {
+    "ID": 390,
+    "Name": "Damage"
+  },
+  "391": {
+    "ID": 391,
+    "Name": "No Damage"
+  },
+  "392": {
+    "ID": 392,
+    "Name": "Venom Damage"
+  },
+  "393": {
+    "ID": 393,
+    "Name": "Defend"
+  },
+  "394": {
+    "ID": 394,
+    "Name": "DEFEND 1"
+  },
+  "395": {
+    "ID": 395,
+    "Name": "DEFEND 2"
+  },
+  "396": {
+    "ID": 396,
+    "Name": "INTIMIDATE"
+  },
+  "397": {
+    "ID": 397,
+    "Name": "Dismiss Team"
+  },
+  "398": {
+    "ID": 398,
+    "Name": "Holy Protection"
+  },
+  "399": {
+    "ID": 399,
+    "Name": "Rapture"
+  },
+  "400": {
+    "ID": 400,
+    "Name": "RUNS ROUND IN CONFUSION"
+  },
+  "401": {
+    "ID": 401,
+    "Name": "AT A LOSS IN CONFUSION"
+  },
+  "402": {
+    "ID": 402,
+    "Name": "FROZEN IN CONFUSION"
+  },
+  "403": {
+    "ID": 403,
+    "Name": "PARALYSED IN CONFUSION"
+  },
+  "404": {
+    "ID": 404,
+    "Name": "FAILS TO CALL FRIENDS IN CONFUSION"
+  },
+  "405": {
+    "ID": 405,
+    "Name": "FLEES IN CONFUSION"
+  },
+  "406": {
+    "ID": 406,
+    "Name": "Psyche Up"
+  },
+  "407": {
+    "ID": 407,
+    "Name": "PSYCHE TENSION 2"
+  },
+  "408": {
+    "ID": 408,
+    "Name": "PSYCHE TENSION 3"
+  },
+  "409": {
+    "ID": 409,
+    "Name": "PSYCHE TENSION 4"
+  },
+  "410": {
+    "ID": 410,
+    "Name": "PSYCHE TENSION 5"
+  },
+  "411": {
+    "ID": 411,
+    "Name": "NO EFFECT IN BATTLE ITEM"
+  },
+  "412": {
+    "ID": 412,
+    "Name": "NO EFFECT IN BATTLE ITEM"
+  },
+  "413": {
+    "ID": 413,
+    "Name": "NO EFFECT ITEM"
+  },
+  "414": {
+    "ID": 414,
+    "Name": "NO EFFECT ITEM 2"
+  },
+  "415": {
+    "ID": 415,
+    "Name": "NO EFFECT ITEM 3"
+  },
+  "416": {
+    "ID": 416,
+    "Name": "NO EFFECT ITEM 4"
+  },
+  "417": {
+    "ID": 417,
+    "Name": "NO EFFECT ITEM 5"
+  },
+  "418": {
+    "ID": 418,
+    "Name": "NO EFFECT ITEM 6"
+  },
+  "419": {
+    "ID": 419,
+    "Name": "CALL SAME TYPE MONSTER 1"
+  },
+  "420": {
+    "ID": 420,
+    "Name": "CALL SAME TYPE MONSTER 2"
+  },
+  "421": {
+    "ID": 421,
+    "Name": "CALL SAME TYPE MONSTER 3"
+  },
+  "422": {
+    "ID": 422,
+    "Name": "CALL SAME TYPE MONSTER 4"
+  },
+  "423": {
+    "ID": 423,
+    "Name": "CALL SAME TYPE MONSTER 5"
+  },
+  "424": {
+    "ID": 424,
+    "Name": "CALL DIFF. TYPE MONSTER 1"
+  },
+  "425": {
+    "ID": 425,
+    "Name": "CALL DIFF. TYPE MONSTER 2"
+  },
+  "426": {
+    "ID": 426,
+    "Name": "CALL DIFF. TYPE MONSTER 3"
+  },
+  "427": {
+    "ID": 427,
+    "Name": "CALL DIFF. TYPE MONSTER 4"
+  },
+  "428": {
+    "ID": 428,
+    "Name": "CALL DIFF. TYPE MONSTER 5"
+  },
+  "429": {
+    "ID": 429,
+    "Name": "CALL DIFF. TYPE MONSTER 6"
+  },
+  "430": {
+    "ID": 430,
+    "Name": "CALL DIFF. TYPE MONSTER 7"
+  },
+  "431": {
+    "ID": 431,
+    "Name": "CALL DIFF. TYPE MONSTER 8"
+  },
+  "432": {
+    "ID": 432,
+    "Name": "CALL DIFF. TYPE MONSTER 9"
+  },
+  "433": {
+    "ID": 433,
+    "Name": "CALL DIFF. TYPE MONSTER 10"
+  },
+  "434": {
+    "ID": 434,
+    "Name": "CALL DIFF. TYPE MONSTER 11"
+  },
+  "435": {
+    "ID": 435,
+    "Name": "CALL DIFF. TYPE MONSTER 12"
+  },
+  "436": {
+    "ID": 436,
+    "Name": "CALL DIFF. TYPE MONSTER 13"
+  },
+  "437": {
+    "ID": 437,
+    "Name": "CALL DIFF. TYPE MONSTER 14"
+  },
+  "438": {
+    "ID": 438,
+    "Name": "CALL DIFF. TYPE MONSTER 15"
+  },
+  "439": {
+    "ID": 439,
+    "Name": "CALL DIFF. TYPE MONSTER 16"
+  },
+  "440": {
+    "ID": 440,
+    "Name": "CALL DIFF. TYPE MONSTER 17"
+  },
+  "441": {
+    "ID": 441,
+    "Name": "MESSAGE ATTACK 1"
+  },
+  "442": {
+    "ID": 442,
+    "Name": "MESSAGE ATTACK 2"
+  },
+  "443": {
+    "ID": 443,
+    "Name": "MESSAGE ATTACK 3"
+  },
+  "444": {
+    "ID": 444,
+    "Name": "MESSAGE ATTACK 4"
+  },
+  "445": {
+    "ID": 445,
+    "Name": "MESSAGE ATTACK 5"
+  },
+  "446": {
+    "ID": 446,
+    "Name": "MESSAGE ATTACK 6"
+  },
+  "447": {
+    "ID": 447,
+    "Name": "MESSAGE ATTACK 7"
+  },
+  "448": {
+    "ID": 448,
+    "Name": "MESSAGE ATTACK 8"
+  },
+  "449": {
+    "ID": 449,
+    "Name": "MESSAGE ATTACK 9"
+  },
+  "450": {
+    "ID": 450,
+    "Name": "MESSAGE ATTACK 10"
+  },
+  "451": {
+    "ID": 451,
+    "Name": "MESSAGE ATTACK 11"
+  },
+  "452": {
+    "ID": 452,
+    "Name": "MESSAGE ATTACK 12"
+  },
+  "453": {
+    "ID": 453,
+    "Name": "MESSAGE ATTACK 13"
+  },
+  "454": {
+    "ID": 454,
+    "Name": "MESSAGE ATTACK 14"
+  },
+  "455": {
+    "ID": 455,
+    "Name": "MESSAGE ATTACK 15"
+  },
+  "456": {
+    "ID": 456,
+    "Name": "MESSAGE ATTACK 16"
+  },
+  "457": {
+    "ID": 457,
+    "Name": "MESSAGE ATTACK 17"
+  },
+  "458": {
+    "ID": 458,
+    "Name": "MESSAGE ATTACK 18"
+  },
+  "459": {
+    "ID": 459,
+    "Name": "DO NOTHING 1"
+  },
+  "460": {
+    "ID": 460,
+    "Name": "DO NOTHING 2"
+  },
+  "461": {
+    "ID": 461,
+    "Name": "DO NOTHING 3"
+  },
+  "462": {
+    "ID": 462,
+    "Name": "DO NOTHING 4"
+  },
+  "463": {
+    "ID": 463,
+    "Name": "DO NOTHING 5"
+  },
+  "464": {
+    "ID": 464,
+    "Name": "DO NOTHING 6"
+  },
+  "465": {
+    "ID": 465,
+    "Name": "DO NOTHING 7"
+  },
+  "466": {
+    "ID": 466,
+    "Name": "DO NOTHING 8"
+  },
+  "467": {
+    "ID": 467,
+    "Name": "DO NOTHING 9"
+  },
+  "468": {
+    "ID": 468,
+    "Name": "DO NOTHING 10"
+  },
+  "469": {
+    "ID": 469,
+    "Name": "DO NOTHING 11"
+  },
+  "470": {
+    "ID": 470,
+    "Name": "DO NOTHING 12"
+  },
+  "471": {
+    "ID": 471,
+    "Name": "DO NOTHING 13"
+  },
+  "472": {
+    "ID": 472,
+    "Name": "DO NOTHING 14"
+  },
+  "473": {
+    "ID": 473,
+    "Name": "DO NOTHING 15"
+  },
+  "474": {
+    "ID": 474,
+    "Name": "DO NOTHING 16"
+  },
+  "475": {
+    "ID": 475,
+    "Name": "DO NOTHING 17"
+  },
+  "476": {
+    "ID": 476,
+    "Name": "DO NOTHING 18"
+  },
+  "477": {
+    "ID": 477,
+    "Name": "DO NOTHING 19"
+  },
+  "478": {
+    "ID": 478,
+    "Name": "PARAMETER CHANGE 1"
+  },
+  "479": {
+    "ID": 479,
+    "Name": "PARAMETER CHANGE 2"
+  },
+  "480": {
+    "ID": 480,
+    "Name": "PARAMETER CHANGE 3"
+  },
+  "481": {
+    "ID": 481,
+    "Name": "PARAMETER CHANGE 4"
+  },
+  "482": {
+    "ID": 482,
+    "Name": "PARAMETER CHANGE 5"
+  },
+  "483": {
+    "ID": 483,
+    "Name": "PARAMETER CHANGE 6"
+  },
+  "484": {
+    "ID": 484,
+    "Name": "PARAMETER CHANGE 7"
+  },
+  "485": {
+    "ID": 485,
+    "Name": "PARAMETER CHANGE 8"
+  },
+  "486": {
+    "ID": 486,
+    "Name": "PARAMETER CHANGE 9"
+  },
+  "487": {
+    "ID": 487,
+    "Name": "PARAMETER CHANGE 10"
+  },
+  "488": {
+    "ID": 488,
+    "Name": "PARAMETER CHANGE 11"
+  },
+  "489": {
+    "ID": 489,
+    "Name": "PARAMETER CHANGE 12"
+  },
+  "490": {
+    "ID": 490,
+    "Name": "PARAMETER CHANGE 13"
+  },
+  "491": {
+    "ID": 491,
+    "Name": "PARAMETER CHANGE 14"
+  },
+  "492": {
+    "ID": 492,
+    "Name": "PARAMETER CHANGE 15"
+  },
+  "493": {
+    "ID": 493,
+    "Name": "PARAMETER CHANGE 16"
+  },
+  "494": {
+    "ID": 494,
+    "Name": "PARAMETER CHANGE 17"
+  },
+  "495": {
+    "ID": 495,
+    "Name": "PARAMETER CHANGE 18"
+  },
+  "496": {
+    "ID": 496,
+    "Name": "PARAMETER CHANGE 19"
+  },
+  "497": {
+    "ID": 497,
+    "Name": "PARAMETER CHANGE 20"
+  },
+  "498": {
+    "ID": 498,
+    "Name": "PARAMETER CHANGE 21"
+  },
+  "499": {
+    "ID": 499,
+    "Name": "PARAMETER CHANGE 22"
+  },
+  "500": {
+    "ID": 500,
+    "Name": "PARAMETER CHANGE 23"
+  },
+  "501": {
+    "ID": 501,
+    "Name": "PARAMETER CHANGE 24"
+  },
+  "502": {
+    "ID": 502,
+    "Name": "PARAMETER CHANGE 25"
+  },
+  "503": {
+    "ID": 503,
+    "Name": "PARAMETER CHANGE 26"
+  },
+  "504": {
+    "ID": 504,
+    "Name": "PARAMETER CHANGE 27"
+  },
+  "505": {
+    "ID": 505,
+    "Name": "PARAMETER CHANGE 28"
+  },
+  "506": {
+    "ID": 506,
+    "Name": "PARAMETER CHANGE 29"
+  },
+  "507": {
+    "ID": 507,
+    "Name": "PARAMETER CHANGE 30"
+  },
+  "508": {
+    "ID": 508,
+    "Name": "PARAMETER CHANGE 31"
+  },
+  "509": {
+    "ID": 509,
+    "Name": "PARAMETER CHANGE 32"
+  },
+  "510": {
+    "ID": 510,
+    "Name": "PARAMETER CHANGE 33"
+  },
+  "511": {
+    "ID": 511,
+    "Name": "PARAMETER CHANGE 34"
+  },
+  "512": {
+    "ID": 512,
+    "Name": "PARAMETER CHANGE 35"
+  },
+  "513": {
+    "ID": 513,
+    "Name": "PARAMETER CHANGE 36"
+  },
+  "514": {
+    "ID": 514,
+    "Name": "PARAMETER CHANGE 37"
+  },
+  "515": {
+    "ID": 515,
+    "Name": "PARAMETER CHANGE 38"
+  },
+  "516": {
+    "ID": 516,
+    "Name": "PARAMETER CHANGE 39"
+  },
+  "517": {
+    "ID": 517,
+    "Name": "PARAMETER CHANGE 40"
+  },
+  "518": {
+    "ID": 518,
+    "Name": "PARAMETER CHANGE 41"
+  },
+  "519": {
+    "ID": 519,
+    "Name": "PARAMETER CHANGE 42"
+  },
+  "520": {
+    "ID": 520,
+    "Name": "PARAMETER CHANGE 43"
+  },
+  "521": {
+    "ID": 521,
+    "Name": "PARAMETER CHANGE 44"
+  },
+  "522": {
+    "ID": 522,
+    "Name": "PARAMETER CHANGE 45"
+  },
+  "523": {
+    "ID": 523,
+    "Name": "PARAMETER CHANGE 46"
+  },
+  "524": {
+    "ID": 524,
+    "Name": "PARAMETER CHANGE 47"
+  },
+  "525": {
+    "ID": 525,
+    "Name": "PARAMETER CHANGE 48"
+  },
+  "526": {
+    "ID": 526,
+    "Name": "PARAMETER CHANGE 49"
+  },
+  "527": {
+    "ID": 527,
+    "Name": "PARAMETER CHANGE 50"
+  },
+  "528": {
+    "ID": 528,
+    "Name": "PARAMETER CHANGE 51"
+  },
+  "529": {
+    "ID": 529,
+    "Name": "PARAMETER CHANGE 52"
+  },
+  "530": {
+    "ID": 530,
+    "Name": "PARAMETER CHANGE 53"
+  },
+  "531": {
+    "ID": 531,
+    "Name": "Triple Swords"
+  },
+  "532": {
+    "ID": 532,
+    "Name": "Jolly Jousters"
+  },
+  "533": {
+    "ID": 533,
+    "Name": "Omniheal"
+  },
+  "534": {
+    "ID": 534,
+    "Name": "Riders' Carnival"
+  },
+  "535": {
+    "ID": 535,
+    "Name": "Metal Panic"
+  },
+  "536": {
+    "ID": 536,
+    "Name": "Tension Boost"
+  },
+  "537": {
+    "ID": 537,
+    "Name": "Good as Gold"
+  },
+  "538": {
+    "ID": 538,
+    "Name": "Zingslinger"
+  },
+  "539": {
+    "ID": 539,
+    "Name": "Dirge"
+  },
+  "540": {
+    "ID": 540,
+    "Name": "Maximaster"
+  },
+  "541": {
+    "ID": 541,
+    "Name": "DUMMY-MEDOROURA"
+  },
+  "542": {
+    "ID": 542,
+    "Name": "Big Bang"
+  },
+  "543": {
+    "ID": 543,
+    "Name": "Magic Burst"
+  },
+  "544": {
+    "ID": 544,
+    "Name": "Magic Burst"
+  },
+  "545": {
+    "ID": 545,
+    "Name": "Magic Burst"
+  },
+  "546": {
+    "ID": 546,
+    "Name": "Multi Masher"
+  },
+  "547": {
+    "ID": 547,
+    "Name": "Typhoeus' Maul"
+  },
+  "548": {
+    "ID": 548,
+    "Name": "Mind Breaker"
+  },
+  "549": {
+    "ID": 549,
+    "Name": "Supersize Slime"
+  },
+  "550": {
+    "ID": 550,
+    "Name": "Dracky Fusion"
+  },
+  "551": {
+    "ID": 551,
+    "Name": "Stream Killer Attack"
+  },
+  "552": {
+    "ID": 552,
+    "Name": "Sapper Slapper"
+  },
+  "553": {
+    "ID": 553,
+    "Name": "Love Typhoon"
+  },
+  "554": {
+    "ID": 554,
+    "Name": "Slime Spank"
+  },
+  "555": {
+    "ID": 555,
+    "Name": "Golemator"
+  },
+  "556": {
+    "ID": 556,
+    "Name": "Harrowing Arrow"
+  },
+  "557": {
+    "ID": 557,
+    "Name": "Elemental Storm"
+  },
+  "558": {
+    "ID": 558,
+    "Name": "Multiheal"
+  },
+  "559": {
+    "ID": 559,
+    "Name": "EVAC FAILED"
+  },
+  "560": {
+    "ID": 560,
+    "Name": "EVAC FAILED"
+  },
+  "561": {
+    "ID": 561,
+    "Name": "ZOOM FAILED"
+  },
+  "562": {
+    "ID": 562,
+    "Name": "GODBIRD'S SOULSTONE FAILED"
+  },
+  "563": {
+    "ID": 563,
+    "Name": "CHIMAERA WING FAILED"
+  },
+  "564": {
+    "ID": 564,
+    "Name": "HERMES' HAT FAILED"
+  },
+  "565": {
+    "ID": 565,
+    "Name": "Flower Shower"
+  },
+  "566": {
+    "ID": 566,
+    "Name": "Water Slaughterer"
+  },
+  "567": {
+    "ID": 567,
+    "Name": "Fan Dango"
+  },
+  "568": {
+    "ID": 568,
+    "Name": "Dance of Life"
+  },
+  "569": {
+    "ID": 569,
+    "Name": "Butterfly Bop"
+  },
+  "570": {
+    "ID": 570,
+    "Name": "Hypnowhip"
+  },
+  "571": {
+    "ID": 571,
+    "Name": "Lashings of Lashings"
+  },
+  "572": {
+    "ID": 572,
+    "Name": "Twin Tan"
+  },
+  "573": {
+    "ID": 573,
+    "Name": "Whip Whack"
+  },
+  "574": {
+    "ID": 574,
+    "Name": "Miracle Cleavage"
+  },
+  "575": {
+    "ID": 575,
+    "Name": "Blade Cascade"
+  },
+  "576": {
+    "ID": 576,
+    "Name": "Dosh Toss"
+  },
+  "577": {
+    "ID": 577,
+    "Name": "Fire in the 'Ole"
+  },
+  "578": {
+    "ID": 578,
+    "Name": "Propeller Blades"
+  },
+  "579": {
+    "ID": 579,
+    "Name": "Can Opener"
+  },
+  "580": {
+    "ID": 580,
+    "Name": "Hardclaws"
+  },
+  "581": {
+    "ID": 581,
+    "Name": "Rake 'n' Break"
+  },
+  "582": {
+    "ID": 582,
+    "Name": "Hand of God"
+  },
+  "583": {
+    "ID": 583,
+    "Name": "Shattershield"
+  },
+  "584": {
+    "ID": 584,
+    "Name": "POWER Pound"
+  },
+  "585": {
+    "ID": 585,
+    "Name": "POWER Pummel"
+  },
+  "586": {
+    "ID": 586,
+    "Name": "Feel the Beat"
+  },
+  "587": {
+    "ID": 587,
+    "Name": "Ooze Bruiser"
+  },
+  "588": {
+    "ID": 588,
+    "Name": "Metal Mower"
+  },
+  "589": {
+    "ID": 589,
+    "Name": "Swing Both Ways"
+  },
+  "590": {
+    "ID": 590,
+    "Name": "PASSION Plunge"
+  },
+  "591": {
+    "ID": 591,
+    "Name": "Pit of Fire"
+  },
+  "592": {
+    "ID": 592,
+    "Name": "Arena of Flames"
+  },
+  "593": {
+    "ID": 593,
+    "Name": "Pit Stop"
+  },
+  "594": {
+    "ID": 594,
+    "Name": "GRANDE GUSTO"
+  },
+  "595": {
+    "ID": 595,
+    "Name": "Monster Mia"
+  },
+  "596": {
+    "ID": 596,
+    "Name": "UNDECIDED"
+  },
+  "597": {
+    "ID": 597,
+    "Name": "FRIGHTENED AND ATTACKS"
+  },
+  "598": {
+    "ID": 598,
+    "Name": "FRIGHTENED AND IN SHOCK"
+  },
+  "599": {
+    "ID": 599,
+    "Name": "FRIGHTENED AND UNRESPONSIVE"
+  },
+  "600": {
+    "ID": 600,
+    "Name": "PARALYSED AND CAN'T MOVE"
+  },
+  "601": {
+    "ID": 601,
+    "Name": "ASLEEP AND CAN'T MOVE"
+  },
+  "602": {
+    "ID": 602,
+    "Name": "THORNTWINED AND CAN'T MOVE"
+  },
+  "603": {
+    "ID": 603,
+    "Name": "ENTHRALLED AND CAN'T MOVE"
+  },
+  "604": {
+    "ID": 604,
+    "Name": "DANCING AND CAN'T MOVE"
+  },
+  "605": {
+    "ID": 605,
+    "Name": "SCARED AND CAN'T MOVE"
+  },
+  "606": {
+    "ID": 606,
+    "Name": "TREMBLING AND CAN'T MOVE"
+  },
+  "607": {
+    "ID": 607,
+    "Name": "LAUGHING AND CAN'T MOVE"
+  },
+  "608": {
+    "ID": 608,
+    "Name": "CURSED AND CAN'T MOVE"
+  },
+  "609": {
+    "ID": 609,
+    "Name": "CAN'T MOVE DUE TO LOVE STORY"
+  },
+  "610": {
+    "ID": 610,
+    "Name": "TRIPPED AND CAN'T MOVE"
+  },
+  "611": {
+    "ID": 611,
+    "Name": "CAN'T MOVE DUE TO DRAGOVIAN SEAL"
+  },
+  "612": {
+    "ID": 612,
+    "Name": "DUMBFOUNDED AND CAN'T MOVE"
+  },
+  "613": {
+    "ID": 613,
+    "Name": "COLLARED AND CAN'T MOVE"
+  },
+  "614": {
+    "ID": 614,
+    "Name": "PARALYSIS WORE OFF"
+  },
+  "615": {
+    "ID": 615,
+    "Name": "AWOKE FROM SLEEP"
+  },
+  "616": {
+    "ID": 616,
+    "Name": "CONFUSION WORE OFF"
+  },
+  "617": {
+    "ID": 617,
+    "Name": "DAZZLE WORE OFF"
+  },
+  "618": {
+    "ID": 618,
+    "Name": "SANDSTORM WORE OFF"
+  },
+  "619": {
+    "ID": 619,
+    "Name": "OOMPH WORE OFF"
+  },
+  "620": {
+    "ID": 620,
+    "Name": "INSULATLE WORE OFF"
+  },
+  "621": {
+    "ID": 621,
+    "Name": "BOUNCE WORE OFF"
+  },
+  "622": {
+    "ID": 622,
+    "Name": "DANCE SEAL WORE OFF"
+  },
+  "623": {
+    "ID": 623,
+    "Name": "BAN DANCE WORE OFF"
+  },
+  "624": {
+    "ID": 624,
+    "Name": "FIZZLE WORE OFF"
+  },
+  "625": {
+    "ID": 625,
+    "Name": "DEFENCE CHANGE WORE OFF"
+  },
+  "626": {
+    "ID": 626,
+    "Name": "FLAME SHIELD EFFECT WORE OFF"
+  },
+  "627": {
+    "ID": 627,
+    "Name": "ICE SHIELD EFFECT WORE OFF"
+  },
+  "628": {
+    "ID": 628,
+    "Name": "FLEE FAILED 1*"
+  },
+  "629": {
+    "ID": 629,
+    "Name": "FLEE FAILED 2*"
+  },
+  "630": {
+    "ID": 630,
+    "Name": "MAGIC BARRIER WORE OFF"
+  },
+  "631": {
+    "ID": 631,
+    "Name": "SPOOKY AURA WORE OFF"
+  },
+  "632": {
+    "ID": 632,
+    "Name": "DIVINE INTERVENTION WORE OFF"
+  },
+  "633": {
+    "ID": 633,
+    "Name": "TURN ENDED DISPLAY"
+  },
+  "634": {
+    "ID": 634,
+    "Name": "Monstrous Musk"
+  },
+  "635": {
+    "ID": 635,
+    "Name": "Intensso"
+  },
+  "636": {
+    "ID": 636,
+    "Name": "Self-destruct"
+  },
+  "637": {
+    "ID": 637,
+    "Name": "Bolt from the Blue"
+  },
+  "638": {
+    "ID": 638,
+    "Name": "IMPOSED PARALYSIS (SINGLE)"
+  },
+  "639": {
+    "ID": 639,
+    "Name": "RECOVER HP"
+  },
+  "640": {
+    "ID": 640,
+    "Name": "RECOVER MP"
+  },
+  "641": {
+    "ID": 641,
+    "Name": "CHANGE MEMBERS"
+  },
+  "642": {
+    "ID": 642,
+    "Name": "SUMMON SAGES PART 1"
+  },
+  "643": {
+    "ID": 643,
+    "Name": "SUMMON SAGES PART 2"
+  },
+  "644": {
+    "ID": 644,
+    "Name": "SUMMON SAGES PART 3"
+  },
+  "645": {
+    "ID": 645,
+    "Name": "SUMMON SAGES PART 4"
+  },
+  "646": {
+    "ID": 646,
+    "Name": "SUMMON SAGES PART 5"
+  },
+  "647": {
+    "ID": 647,
+    "Name": "SUMMON SAGES PART 6"
+  },
+  "648": {
+    "ID": 648,
+    "Name": "SUMMON SAGES PART 7"
+  },
+  "649": {
+    "ID": 649,
+    "Name": "FAIL TO SUMMON SAGES"
+  },
+  "650": {
+    "ID": 650,
+    "Name": "GIGAFLASH CAUSES MAGIC MIRROR TO BECOME SUN MIRROR"
+  },
+  "651": {
+    "ID": 651,
+    "Name": "ZING FAILS"
+  },
+  "652": {
+    "ID": 652,
+    "Name": "ZING FAILS (ALREADY ALIVE)"
+  },
+  "653": {
+    "ID": 653,
+    "Name": "ZING FAILS (ALREADY ALIVE)"
+  },
+  "654": {
+    "ID": 654,
+    "Name": "STAFF OF RESURRECTION FAILS"
+  },
+  "655": {
+    "ID": 655,
+    "Name": "STAFF OF RESURRECTION FAILS (ALREADY ALIVE)"
+  },
+  "656": {
+    "ID": 656,
+    "Name": "Boulder Dash"
+  },
+  "657": {
+    "ID": 657,
+    "Name": "Cacophony"
+  },
+  "658": {
+    "ID": 658,
+    "Name": "Shockwave"
+  },
+  "659": {
+    "ID": 659,
+    "Name": "Megawhip"
+  },
+  "660": {
+    "ID": 660,
+    "Name": "Featherain"
+  },
+  "661": {
+    "ID": 661,
+    "Name": "Temptation"
+  },
+  "662": {
+    "ID": 662,
+    "Name": "Magic Burst"
+  },
+  "663": {
+    "ID": 663,
+    "Name": "Fizzle"
+  },
+  "664": {
+    "ID": 664,
+    "Name": "Kafrizzle"
+  },
+  "665": {
+    "ID": 665,
+    "Name": "Kaboom"
+  },
+  "666": {
+    "ID": 666,
+    "Name": "Fatal Force"
+  },
+  "667": {
+    "ID": 667,
+    "Name": "Hellfire Hurricane"
+  },
+  "668": {
+    "ID": 668,
+    "Name": "Magma Mayhem"
+  },
+  "669": {
+    "ID": 669,
+    "Name": "Scorch"
+  },
+  "670": {
+    "ID": 670,
+    "Name": "CALL DIFF. TYPE MONSTER 18"
+  },
+  "671": {
+    "ID": 671,
+    "Name": "CALL DIFF. TYPE MONSTER 19"
+  },
+  "672": {
+    "ID": 672,
+    "Name": "CALL DIFF. TYPE MONSTER 20"
+  },
+  "673": {
+    "ID": 673,
+    "Name": "CALL DIFF. TYPE MONSTER 21"
+  },
+  "674": {
+    "ID": 674,
+    "Name": "PARAMETER CHANGE 54"
+  },
+  "675": {
+    "ID": 675,
+    "Name": "PARAMETER CHANGE 55"
+  },
+  "676": {
+    "ID": 676,
+    "Name": "PARAMETER CHANGE 56"
+  },
+  "677": {
+    "ID": 677,
+    "Name": "PARAMETER CHANGE 57"
+  },
+  "678": {
+    "ID": 678,
+    "Name": "PARAMETER CHANGE 58"
+  },
+  "679": {
+    "ID": 679,
+    "Name": "PARAMETER CHANGE 59"
+  },
+  "680": {
+    "ID": 680,
+    "Name": "PARAMETER CHANGE 60"
+  },
+  "681": {
+    "ID": 681,
+    "Name": "PARAMETER CHANGE 61"
+  },
+  "682": {
+    "ID": 682,
+    "Name": "PARAMETER CHANGE 62"
+  },
+  "683": {
+    "ID": 683,
+    "Name": "PARAMETER CHANGE 63"
+  },
+  "684": {
+    "ID": 684,
+    "Name": "PARAMETER CHANGE 64"
+  },
+  "685": {
+    "ID": 685,
+    "Name": "PARAMETER CHANGE 65"
+  },
+  "686": {
+    "ID": 686,
+    "Name": "PARAMETER CHANGE 66"
+  },
+  "687": {
+    "ID": 687,
+    "Name": "PARAMETER CHANGE 67"
+  },
+  "688": {
+    "ID": 688,
+    "Name": "PARAMETER CHANGE 68"
+  },
+  "689": {
+    "ID": 689,
+    "Name": "PARAMETER CHANGE 69"
+  },
+  "690": {
+    "ID": 690,
+    "Name": "PARAMETER CHANGE 70"
+  },
+  "691": {
+    "ID": 691,
+    "Name": "PARAMETER CHANGE 71"
+  },
+  "692": {
+    "ID": 692,
+    "Name": "PARAMETER CHANGE 72"
+  },
+  "693": {
+    "ID": 693,
+    "Name": "Death Dance"
+  },
+  "694": {
+    "ID": 694,
+    "Name": "Monster Mia"
+  },
+  "695": {
+    "ID": 695,
+    "Name": "Monster Mia"
+  },
+  "696": {
+    "ID": 696,
+    "Name": "Monster Mia"
+  },
+  "697": {
+    "ID": 697,
+    "Name": "MAGIC FAILED"
+  },
+  "698": {
+    "ID": 698,
+    "Name": "PEARLY GATES FAILS"
+  },
+  "699": {
+    "ID": 699,
+    "Name": "FAILS DUE TO LACK OF MP"
+  },
+  "700": {
+    "ID": 700,
+    "Name": "DANCE FAILS"
+  },
+  "701": {
+    "ID": 701,
+    "Name": "ANGEL CHEESE RESURRECTION"
+  },
+  "702": {
+    "ID": 702,
+    "Name": "ANGEL CHEESE RESURRECTION FAILS"
+  },
+  "703": {
+    "ID": 703,
+    "Name": "ENEMY YGGDRASIL LEAF FAILS"
+  },
+  "704": {
+    "ID": 704,
+    "Name": "DARK MACARBOUR LEAF FAILS"
+  },
+  "705": {
+    "ID": 705,
+    "Name": "KERPLUNK RESURRECTION (PARTY)"
+  },
+  "706": {
+    "ID": 706,
+    "Name": "KERPLUNK RESURRECTION (ENEMY)"
+  },
+  "707": {
+    "ID": 707,
+    "Name": "KERPLUNK RESURRECTION FAILS"
+  },
+  "708": {
+    "ID": 708,
+    "Name": "KERPLUNK RESTORATION"
+  },
+  "709": {
+    "ID": 709,
+    "Name": "KERPLUNK SUCCEEDS (ENEMY)"
+  },
+  "710": {
+    "ID": 710,
+    "Name": "KERPLUNK FAILS (ENEMY)"
+  },
+  "711": {
+    "ID": 711,
+    "Name": "CALL A FRIEND FAILS"
+  },
+  "712": {
+    "ID": 712,
+    "Name": "Crippling Kaboom"
+  },
+  "713": {
+    "ID": 713,
+    "Name": "Bolt of Blight"
+  },
+  "714": {
+    "ID": 714,
+    "Name": "Hellfire Hurricane"
+  },
+  "715": {
+    "ID": 715,
+    "Name": "Heavenly Justice"
+  },
+  "716": {
+    "ID": 716,
+    "Name": "Super Sweet Breath"
+  },
+  "717": {
+    "ID": 717,
+    "Name": "Mole-cular Fusion"
+  },
+  "718": {
+    "ID": 718,
+    "Name": "COUNTER DAMAGE"
+  },
+  "719": {
+    "ID": 719,
+    "Name": "FIRST SUPER HIGH TENSION"
+  },
+  "720": {
+    "ID": 720,
+    "Name": "ORDINARY SUPER HIGH TENSION"
+  },
+  "721": {
+    "ID": 721,
+    "Name": "Maximaster"
+  },
+  "722": {
+    "ID": 722,
+    "Name": "Maximaster"
+  },
+  "723": {
+    "ID": 723,
+    "Name": "Maximaster"
+  },
+  "724": {
+    "ID": 724,
+    "Name": "Sapper Slapper"
+  },
+  "725": {
+    "ID": 725,
+    "Name": "Good as Gold"
+  },
+  "726": {
+    "ID": 726,
+    "Name": "Elemental Storm"
+  },
+  "727": {
+    "ID": 727,
+    "Name": "Elemental Storm"
+  },
+  "728": {
+    "ID": 728,
+    "Name": "Dirge"
+  },
+  "729": {
+    "ID": 729,
+    "Name": "OTHER EFFECTS (SUPER HIGH TENSION)"
+  },
+  "730": {
+    "ID": 730,
+    "Name": "MONSTER RAISES TENSION"
+  },
+  "731": {
+    "ID": 731,
+    "Name": "EQUIPPED WEAPON NOT USABLE AS ITEM IN BATTLE"
+  },
+  "732": {
+    "ID": 732,
+    "Name": "EQUIPPED SHIELD NOT USABLE AS ITEM IN BATTLE"
+  },
+  "733": {
+    "ID": 733,
+    "Name": "LOVE STORY: EFFECT ON HERO"
+  },
+  "734": {
+    "ID": 734,
+    "Name": "LOVE STORY: EFFECT ON YANGUS"
+  },
+  "735": {
+    "ID": 735,
+    "Name": "LOVE STORY: EFFECT ON JESSICA"
+  },
+  "736": {
+    "ID": 736,
+    "Name": "LOVE STORY: EFFECT ON ANGELO"
+  },
+  "737": {
+    "ID": 737,
+    "Name": "LOVE STORY: EFFECT ON RED"
+  },
+  "738": {
+    "ID": 738,
+    "Name": "LOVE STORY: EFFECT ON MORRIE"
+  },
+  "739": {
+    "ID": 739,
+    "Name": "MONSTER CALLS FELLOW TYPE (GENERAL USE)"
+  },
+  "740": {
+    "ID": 740,
+    "Name": "ORDINARY ATTACK (WITH FALCON BLADE)"
+  },
+  "741": {
+    "ID": 741,
+    "Name": "Falcon Slash"
+  },
+  "742": {
+    "ID": 742,
+    "Name": "ORDINARY ATTACK (WITH FALCON KNIFE)"
+  },
+  "743": {
+    "ID": 743,
+    "Name": "ORDINARY ATTACK (WITH BLIZZARD BLADE)"
+  },
+  "744": {
+    "ID": 744,
+    "Name": "ORDINARY ATTACK (WITH DREAM BLADE)"
+  },
+  "745": {
+    "ID": 745,
+    "Name": "ORDINARY ATTACK (WITH FALLEN ANGEL RAPIER)"
+  },
+  "746": {
+    "ID": 746,
+    "Name": "ORDINARY ATTACK (WITH POISON MOTH KNIFE)"
+  },
+  "747": {
+    "ID": 747,
+    "Name": "ORDINARY ATTACK (WITH ICICLE DIRK)"
+  },
+  "748": {
+    "ID": 748,
+    "Name": "ORDINARY ATTACK (WITH POISON NEEDLE)"
+  },
+  "749": {
+    "ID": 749,
+    "Name": "ORDINARY ATTACK (WITH IMP KNIFE)"
+  },
+  "750": {
+    "ID": 750,
+    "Name": "ORDINARY ATTACK (WITH DEMON SPEAR)"
+  },
+  "751": {
+    "ID": 751,
+    "Name": "ORDINARY ATTACK (BARDICHE OF BINDING)"
+  },
+  "752": {
+    "ID": 752,
+    "Name": "ORDINARY ATTACK (EROS' BOW)"
+  },
+  "753": {
+    "ID": 753,
+    "Name": "ORDINARY ATTACK (HELL SCYTHE)"
+  },
+  "754": {
+    "ID": 754,
+    "Name": "SECOND PYCHE UP LV.5"
+  },
+  "755": {
+    "ID": 755,
+    "Name": "TENSION DROPS DUE TO OTHER (PARTY)"
+  },
+  "756": {
+    "ID": 756,
+    "Name": "TENSION DROPS DUE TO OTHER (ENEMY)"
+  },
+  "757": {
+    "ID": 757,
+    "Name": "SUPER HIGH TENSION SUBSIDES DUE TO OTHER"
+  },
+  "758": {
+    "ID": 758,
+    "Name": "Cacophony"
+  },
+  "759": {
+    "ID": 759,
+    "Name": "Cacophony"
+  },
+  "760": {
+    "ID": 760,
+    "Name": "KERPLUNK SUCCEEDS (BACKUP MEMBER)"
+  },
+  "761": {
+    "ID": 761,
+    "Name": "TENSION BOOST (SUPER HT)"
+  },
+  "762": {
+    "ID": 762,
+    "Name": "TENSION BOOST (HT)"
+  },
+  "763": {
+    "ID": 763,
+    "Name": "super seed of wisdom"
+  },
+  "764": {
+    "ID": 764,
+    "Name": "super seed of strength"
+  },
+  "765": {
+    "ID": 765,
+    "Name": "super seed of agility"
+  },
+  "766": {
+    "ID": 766,
+    "Name": "super seed of defence"
+  },
+  "767": {
+    "ID": 767,
+    "Name": "super seed of life"
+  },
+  "768": {
+    "ID": 768,
+    "Name": "super seed of magic"
+  },
+  "769": {
+    "ID": 769,
+    "Name": "Erdrick's sword"
+  },
+  "770": {
+    "ID": 770,
+    "Name": "bad axe"
+  },
+  "771": {
+    "ID": 771,
+    "Name": "fire claw"
+  },
+  "772": {
+    "ID": 772,
+    "Name": "big bad boss shield"
+  },
+  "773": {
+    "ID": 773,
+    "Name": "GREAT SABRECAT FLEES"
+  },
+  "774": {
+    "ID": 774,
+    "Name": "HP RECOVERS AT END OF TURN"
+  },
+  "775": {
+    "ID": 775,
+    "Name": "MP RECOVERS AT END OF TURN"
+  },
+  "776": {
+    "ID": 776,
+    "Name": "BOUNCED FRIZZ"
+  },
+  "777": {
+    "ID": 777,
+    "Name": "BOUNCED FRIZZLE"
+  },
+  "778": {
+    "ID": 778,
+    "Name": "BOUNCED KAFRIZZLE"
+  },
+  "779": {
+    "ID": 779,
+    "Name": "BOUNCED SIZZ"
+  },
+  "780": {
+    "ID": 780,
+    "Name": "BOUNCED SIZZLE"
+  },
+  "781": {
+    "ID": 781,
+    "Name": "BOUNCED KASIZZLE"
+  },
+  "782": {
+    "ID": 782,
+    "Name": "BOUNCED BANG"
+  },
+  "783": {
+    "ID": 783,
+    "Name": "BOUNCED BOOM"
+  },
+  "784": {
+    "ID": 784,
+    "Name": "BOUNCED KABOOM"
+  },
+  "785": {
+    "ID": 785,
+    "Name": "BOUNCED WOOSH"
+  },
+  "786": {
+    "ID": 786,
+    "Name": "BOUNCED SWOOSH"
+  },
+  "787": {
+    "ID": 787,
+    "Name": "BOUNCED KASWOOSH"
+  },
+  "788": {
+    "ID": 788,
+    "Name": "BOUNCED CRACK"
+  },
+  "789": {
+    "ID": 789,
+    "Name": "BOUNCED CRACKLE"
+  },
+  "790": {
+    "ID": 790,
+    "Name": "BOUNCED KACRACKLE"
+  },
+  "791": {
+    "ID": 791,
+    "Name": "BOUNCED ZAP"
+  },
+  "792": {
+    "ID": 792,
+    "Name": "BOUNCED KAZAP"
+  },
+  "793": {
+    "ID": 793,
+    "Name": "BOUNCED WHACK (PARTY)"
+  },
+  "794": {
+    "ID": 794,
+    "Name": "BOUNCED WHACK (ENEMY)"
+  },
+  "795": {
+    "ID": 795,
+    "Name": "BOUNCED THWACK (PARTY)"
+  },
+  "796": {
+    "ID": 796,
+    "Name": "BOUNCED THWACK (ENEMY)"
+  },
+  "797": {
+    "ID": 797,
+    "Name": "BOUNCED KATHWACK (PARTY)"
+  },
+  "798": {
+    "ID": 798,
+    "Name": "BOUNCED KATHWACK (ENEMY)"
+  },
+  "799": {
+    "ID": 799,
+    "Name": "BOUNCED KAMIKAZEE (PARTY)"
+  },
+  "800": {
+    "ID": 800,
+    "Name": "BOUNCED KAMIKAZEE (ENEMY)"
+  },
+  "801": {
+    "ID": 801,
+    "Name": "BOUNCED SNOOZE (PARTY)"
+  },
+  "802": {
+    "ID": 802,
+    "Name": "BOUNCED SNOOZE (ENEMY)"
+  },
+  "803": {
+    "ID": 803,
+    "Name": "BOUNCED KASNOOZE (PARTY)"
+  },
+  "804": {
+    "ID": 804,
+    "Name": "BOUNCED KASNOOZE (ENEMY)"
+  },
+  "805": {
+    "ID": 805,
+    "Name": "BOUNCED DAZZLE (PARTY)"
+  },
+  "806": {
+    "ID": 806,
+    "Name": "BOUNCED DAZZLE (ENEMY)"
+  },
+  "807": {
+    "ID": 807,
+    "Name": "BOUNCED FIZZLE (PARTY)"
+  },
+  "808": {
+    "ID": 808,
+    "Name": "BOUNCED FIZZLE"
+  },
+  "809": {
+    "ID": 809,
+    "Name": "BOUNCED FUDDLE (GROUP)"
+  },
+  "810": {
+    "ID": 810,
+    "Name": "BOUNCED FUDDLE (INDIVIDUAL)"
+  },
+  "811": {
+    "ID": 811,
+    "Name": "BOUNCED KAFUDDLE (PARTY)"
+  },
+  "812": {
+    "ID": 812,
+    "Name": "BOUNCED KAFUDDLE"
+  },
+  "813": {
+    "ID": 813,
+    "Name": "BOUNCED DRAIN MAGIC"
+  },
+  "814": {
+    "ID": 814,
+    "Name": "BOUNCED SAP (PARTY)"
+  },
+  "815": {
+    "ID": 815,
+    "Name": "BOUNCED SAP (ENEMY)"
+  },
+  "816": {
+    "ID": 816,
+    "Name": "BOUNCED KASAP (PARTY)"
+  },
+  "817": {
+    "ID": 817,
+    "Name": "BOUNCED KASAP (ENEMY)"
+  },
+  "818": {
+    "ID": 818,
+    "Name": "BOUNCED DECELERATLE (PARTY)"
+  },
+  "819": {
+    "ID": 819,
+    "Name": "BOUNCED DECELERATLE (ENEMY)"
+  },
+  "820": {
+    "ID": 820,
+    "Name": "BOUNCED ZING"
+  },
+  "821": {
+    "ID": 821,
+    "Name": "BOUNCED KAZING"
+  },
+  "822": {
+    "ID": 822,
+    "Name": "BOUNCED KERPLUNK"
+  },
+  "823": {
+    "ID": 823,
+    "Name": "BOUNCED BAN DANCE"
+  },
+  "824": {
+    "ID": 824,
+    "Name": "BOUNCED DIVINE INTERVENTION"
+  },
+  "825": {
+    "ID": 825,
+    "Name": "Clean Sweep"
+  },
+  "826": {
+    "ID": 826,
+    "Name": "BAUMREN'S BELL NO EFFECT"
+  },
+  "827": {
+    "ID": 827,
+    "Name": "TEAM WIPED OUT"
+  },
+  "828": {
+    "ID": 828,
+    "Name": "ORDINARY ATTACK (WITH SAPPER SLAPPER)"
+  },
+  "829": {
+    "ID": 829,
+    "Name": "Sapper Slapper"
+  },
+  "830": {
+    "ID": 830,
+    "Name": "ADDITIONAL ATTACK"
+  },
+  "831": {
+    "ID": 831,
+    "Name": "SHARE MAGIC RESTORED MP "
+  },
+  "832": {
+    "ID": 832,
+    "Name": "NORMAL ATTACK (8026)"
+  },
+  "833": {
+    "ID": 833,
+    "Name": "NORMAL ATTACK (8086)"
+  },
+  "834": {
+    "ID": 834,
+    "Name": "TENSION RELEASE (PARTY)"
+  },
+  "835": {
+    "ID": 835,
+    "Name": "TENSION RELEASE (ENEMY)"
+  },
+  "836": {
+    "ID": 836,
+    "Name": "SUPER HIGH TENSION SUBSIDES"
+  },
+  "837": {
+    "ID": 837,
+    "Name": "Super Seed of Skill"
+  },
+  "838": {
+    "ID": 838,
+    "Name": "SHARE MAGIC SELF"
+  },
+  "839": {
+    "ID": 839,
+    "Name": "DOUBLE-EDGED SWORD SELF DAMAGE"
+  },
+  "840": {
+    "ID": 840,
+    "Name": "ITEM UNUSABLE IN BATTLE"
+  },
+  "841": {
+    "ID": 841,
+    "Name": "DRAIN MAGIC RESTORES MP"
+  },
+  "842": {
+    "ID": 842,
+    "Name": "ORDINARY ATTACK (WITH DREAD DAGGER)"
+  },
+  "843": {
+    "ID": 843,
+    "Name": "ORDINARY ATTACK (WITH HONKING HAMMER)"
+  },
+  "844": {
+    "ID": 844,
+    "Name": "ORDINARY ATTACK (WITH RINBOW FAN)"
+  },
+  "845": {
+    "ID": 845,
+    "Name": "ORDINARY ATTACK (WITH STELLAR FAN)"
+  },
+  "846": {
+    "ID": 846,
+    "Name": "ORDINARY ATTACK (WITH LUNAR FAN)"
+  },
+  "847": {
+    "ID": 847,
+    "Name": "ORDINARY ATTACK (WITH SOLAR FAN)"
+  },
+  "848": {
+    "ID": 848,
+    "Name": "ORDINARY ATTACK (WITH FAN OF PEACE)"
+  },
+  "849": {
+    "ID": 849,
+    "Name": "ITEM UNUSABLE IN BATTLE (ON ALL)"
+  },
+  "850": {
+    "ID": 850,
+    "Name": "FRIGHTENED AND FLEES (DROPS ITEM)"
+  },
+  "851": {
+    "ID": 851,
+    "Name": "TENSION LOWERED BY LAME STORY (PARTY)"
+  },
+  "852": {
+    "ID": 852,
+    "Name": "TENSION LOWERED BY LAME STORY (ENEMY)"
+  },
+  "853": {
+    "ID": 853,
+    "Name": "BOUNCED GIGAFLASH"
+  },
+  "854": {
+    "ID": 854,
+    "Name": "KERPLUNK DANCE SELF-DESTRUCT"
+  },
+  "855": {
+    "ID": 855,
+    "Name": "DANCE OF LIFE FAILED (ON LIVE MEMBER)"
+  },
+  "856": {
+    "ID": 856,
+    "Name": "BOUNCED FIZZLE (MARCELLO)"
+  },
+  "857": {
+    "ID": 857,
+    "Name": "BOUNCED KAFRIZZLE (ESTARK)"
+  },
+  "858": {
+    "ID": 858,
+    "Name": "BOUNCED KABOOM (ESTARK)"
+  },
+  "859": {
+    "ID": 859,
+    "Name": "SELF-DESTRUCT BY SMALL EXPLOSION"
+  },
+  "860": {
+    "ID": 860,
+    "Name": "Wrath of the Gods"
+  },
+  "861": {
+    "ID": 861,
+    "Name": "MESSAGE ATTACK 5-2"
+  },
+  "862": {
+    "ID": 862,
+    "Name": "Warcry"
+  },
+  "863": {
+    "ID": 863,
+    "Name": "MESSAGE ATTACK 19"
+  }
+}

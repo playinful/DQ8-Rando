@@ -147,7 +147,7 @@ namespace DQ8Rando3DS.Tables
                 Data[i] = 0;
             }
         }
-        public bool PushSymbol(ushort id, byte weight1, byte weight2)
+        public bool PushSymbol(ushort id, byte weight1 = 1, byte weight2 = 1)
         {
             if (SymbolCount() >= 10)
                 return false;
@@ -159,7 +159,8 @@ namespace DQ8Rando3DS.Tables
             encounter.Footer = 0x3F800000;
             return true;
         }
-        public bool PushParty(byte id, byte weight)
+        public bool PushSymbol(EncounterPoolSymbol symbol) => PushSymbol(symbol.ID, symbol.Weight1, symbol.Weight2);
+        public bool PushParty(byte id, byte weight = 7)
         {
             if (PartyCount() >= 2)
                 return false;
@@ -169,6 +170,7 @@ namespace DQ8Rando3DS.Tables
             encounter.Weight = weight;
             return true;
         }
+        public bool PushParty(EncounterPoolParty party) => PushParty(party.ID, party.Weight);
         public bool IsEmpty()
         {
             return Symbols.All(enc => enc.IsEmpty()) && Parties.All(enc => enc.IsEmpty());
@@ -181,6 +183,8 @@ namespace DQ8Rando3DS.Tables
         public EncounterPoolInfo GetInfo() => EncounterPoolInfo.Get(ID);
         public int SymbolCount() => Symbols.Where(enc => !enc.IsEmpty()).Count();
         public int PartyCount() => Parties.Where(enc => !enc.IsEmpty()).Count();
+        public IEnumerable<EncounterPoolSymbol> GetNonEmptySymbols() => Symbols.Where(sym => !sym.IsEmpty());
+        public IEnumerable<EncounterPoolParty> GetNonEmptyParties() => Parties.Where(sym => !sym.IsEmpty());
     }
     public class EncounterPoolSymbol
     {

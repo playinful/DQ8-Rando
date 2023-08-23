@@ -102,6 +102,11 @@ namespace DQ8Rando3DS
             Directory.CreateDirectory(Path.GetDirectoryName(path));
             File.WriteAllBytes(path, bytes);
         }
+        public static void WriteAllLines(string path, IEnumerable<string> contents)
+        {
+            Directory.CreateDirectory(Path.GetDirectoryName(path));
+            File.WriteAllLines(path, contents);
+        }
         public static void Copy(string sourceFileName, string destFileName, bool overwrite = false)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(destFileName));

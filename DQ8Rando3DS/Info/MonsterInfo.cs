@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Text.Json;
+using DQ8Rando3DS.Tables;
 
 namespace DQ8Rando3DS.Info
 {
@@ -50,5 +51,8 @@ namespace DQ8Rando3DS.Info
         public bool IsExtra { get; set; }
 
         public double PowerLevel { get; set; }
+
+        public int SortIndex { get; set; } = int.MaxValue;
+        public bool GroupWithParent { get; set; } = false;
     }
 }

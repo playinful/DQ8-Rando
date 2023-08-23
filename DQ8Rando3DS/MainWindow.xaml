@@ -57,12 +57,12 @@
                                         </ComboBox>
                                     </StackPanel>
                                     <StackPanel x:Name="EncountersRight" Grid.Column="1">
-                                        <Label Content="Scripted encounters" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-                                        <ComboBox Margin="25,0,10,0" ToolTip="Choose how scripted encountrs, such as bosses, will be modified." Grid.ColumnSpan="2">
-                                            <ComboBoxItem Content="Don't change"        ToolTip="Scripted encounters will not be changed."                       IsSelected="{Binding Monsters.BossNoChange}"/>
-                                            <ComboBoxItem Content="Random single enemy" ToolTip="Scripted encounters will be against any random enemy."          IsSelected="{Binding Monsters.BossRandomEnemy}"/>
-                                            <ComboBoxItem Content="Random enemy group"  ToolTip="Scripted encounters will be against a group of random enemies." IsSelected="{Binding Monsters.BossRandomGroup}"/>
-                                            <ComboBoxItem Content="Shuffle"             ToolTip="Scripted encounters will be against any random boss."           IsSelected="{Binding Monsters.BossShuffle}"/>
+                                        <Label Content="Static encounters" Margin="0,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                                        <ComboBox Margin="25,0,10,0" ToolTip="Choose how static encountrs, such as bosses, will be modified." Grid.ColumnSpan="2">
+                                            <ComboBoxItem Content="Don't change"        ToolTip="Static encounters will not be changed."                       IsSelected="{Binding Monsters.BossNoChange}"/>
+                                            <ComboBoxItem Content="Random single enemy" ToolTip="Static encounters will be against any random enemy."          IsSelected="{Binding Monsters.BossRandomEnemy}"/>
+                                            <ComboBoxItem Content="Random enemy group"  ToolTip="Static encounters will be against a group of random enemies." IsSelected="{Binding Monsters.BossRandomGroup}"/>
+                                            <ComboBoxItem Content="Shuffle"             ToolTip="Static encounters will be shuffled by encounter."             IsSelected="{Binding Monsters.BossShuffle}"/>
                                         </ComboBox>
                                         <Label Content="Special monsters" Margin="0,5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
                                         <ComboBox Margin="25,0,10,0" ToolTip="Choose how Special monsters (rare monsters unlocked via Cameron's Codex quests) will be modified." Grid.ColumnSpan="2">
@@ -79,8 +79,8 @@
                                         <ColumnDefinition/>
                                     </Grid.ColumnDefinitions>
 
-                                    <CheckBox Content="Shuffle Infamous monsters" ToolTip="Infamous Monsters will be shuffled by habitat." Grid.Column="0"/>
-                                    <CheckBox Content="Guarantee full bestiary"   ToolTip="Every monster in the Defeated Monster List will be guaranteed to be accessible, so full bestiary completion runs are possible." Grid.Column="1"/>
+                                    <CheckBox Content="Shuffle Infamous monsters" IsChecked="{Binding Monsters.ShuffleInfamous}" ToolTip="Infamous Monsters will be shuffled by habitat." Grid.Column="0"/>
+                                    <CheckBox Content="Guarantee full bestiary"   IsChecked="{Binding Monsters.GuaranteeFullBestiary}" ToolTip="Every monster in the Defeated Monster List will be guaranteed to be accessible, so full bestiary completion runs are possible." Grid.Column="1"/>
                                 </Grid>
                                 <Label Content="Mix-ins"/>
                                 <Grid x:Name="Grid_EncountersMixIns" Margin="5,5,5,5">
